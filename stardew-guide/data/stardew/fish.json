@@ -697,8 +697,8 @@
     "id": "fish-albacore",
     "slug": "albacore",
     "name": "Albacore",
-    "description": "The Albacore is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Fall and Winter in the early morning and at night. It may also randomly appear in Krobus' shop on Wednesdays for data-sort-value=\"200\">200g, or at the Traveling Cart for data-sort-value=\"75\"225-1,000g.",
-    "beginnerNote": "The Albacore is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Fall and Winter in the early morning and at night. It may also randomly appear in Krobus' shop on Wednesdays for data-sort-value=\"200\">200g, or at the Traveling Cart for data-sort-value=\"75\"225-1,000g.",
+    "description": "The Albacore is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Fall and Winter in the early morning and at night. It may also randomly appear in Krobus' shop on Wednesdays for >200g, or at the Traveling Cart for 225-1,000g.",
+    "beginnerNote": "The Albacore is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Fall and Winter in the early morning and at night. It may also randomly appear in Krobus' shop on Wednesdays for >200g, or at the Traveling Cart for 225-1,000g.",
     "seasons": [
       "Fall",
       "Winter"
@@ -797,8 +797,8 @@
     "id": "fish-chub",
     "slug": "chub",
     "name": "Chub",
-    "description": "The Chub is a fish that can be caught in the mountain lake and the Cindersap Forest River during all seasons. Unlike most fish found in the Forest River, it cannot be caught in Pelican Town. It can also be gifted by a pet cat with max friendship. It may also randomly appear in Krobus' shop on Wednesdays for data-sort-value=\"200\">200g, or at the Traveling Cart for data-sort-value=\"50\"150-1,000g.",
-    "beginnerNote": "The Chub is a fish that can be caught in the mountain lake and the Cindersap Forest River during all seasons. Unlike most fish found in the Forest River, it cannot be caught in Pelican Town. It can also be gifted by a pet cat with max friendship. It may also randomly appear in Krobus' shop on Wednesdays for data-sort-value=\"200\">200g, or at the Traveling Cart for data-sort-value=\"50\"150-1,000g.",
+    "description": "The Chub is a fish that can be caught in the mountain lake and the Cindersap Forest River during all seasons. Unlike most fish found in the Forest River, it cannot be caught in Pelican Town. It can also be gifted by a pet cat with max friendship. It may also randomly appear in Krobus' shop on Wednesdays for >200g, or at the Traveling Cart for 150-1,000g.",
+    "beginnerNote": "The Chub is a fish that can be caught in the mountain lake and the Cindersap Forest River during all seasons. Unlike most fish found in the Forest River, it cannot be caught in Pelican Town. It can also be gifted by a pet cat with max friendship. It may also randomly appear in Krobus' shop on Wednesdays for >200g, or at the Traveling Cart for 150-1,000g.",
     "seasons": [
       "Spring",
       "Summer",
@@ -849,8 +849,8 @@
     "id": "fish-dorado",
     "slug": "dorado",
     "name": "Dorado",
-    "description": "The Dorado is a fish that can be caught in the forest river during Summer. It can also be gifted by a pet cat with max friendship. It may also randomly appear in Krobus' shop on Wednesdays for data-sort-value=\"200\">200g, or at the Traveling Cart for data-sort-value=\"100\"300-1,000g.",
-    "beginnerNote": "The Dorado is a fish that can be caught in the forest river during Summer. It can also be gifted by a pet cat with max friendship. It may also randomly appear in Krobus' shop on Wednesdays for data-sort-value=\"200\">200g, or at the Traveling Cart for data-sort-value=\"100\"300-1,000g.",
+    "description": "The Dorado is a fish that can be caught in the forest river during Summer. It can also be gifted by a pet cat with max friendship. It may also randomly appear in Krobus' shop on Wednesdays for >200g, or at the Traveling Cart for 300-1,000g.",
+    "beginnerNote": "The Dorado is a fish that can be caught in the forest river during Summer. It can also be gifted by a pet cat with max friendship. It may also randomly appear in Krobus' shop on Wednesdays for >200g, or at the Traveling Cart for 300-1,000g.",
     "seasons": [
       "Summer"
     ],
@@ -873,8 +873,8 @@
     "id": "fish-ghostfish",
     "slug": "ghostfish",
     "name": "Ghostfish",
-    "description": "The Ghostfish is a fish that can be caught in The Mines on the 20th and 60th floor during all seasons. A Ghost may also drop a Ghostfish (8% chance) when slain. It can also randomly be found at the Traveling Cart for data-sort-value=\"45\"135-1,000g.",
-    "beginnerNote": "The Ghostfish is a fish that can be caught in The Mines on the 20th and 60th floor during all seasons. A Ghost may also drop a Ghostfish (8% chance) when slain. It can also randomly be found at the Traveling Cart for data-sort-value=\"45\"135-1,000g.",
+    "description": "The Ghostfish is a fish that can be caught in The Mines on the 20th and 60th floor during all seasons. A Ghost may also drop a Ghostfish (8% chance) when slain. It can also randomly be found at the Traveling Cart for 135-1,000g.",
+    "beginnerNote": "The Ghostfish is a fish that can be caught in The Mines on the 20th and 60th floor during all seasons. A Ghost may also drop a Ghostfish (8% chance) when slain. It can also randomly be found at the Traveling Cart for 135-1,000g.",
     "seasons": [
       "Spring",
       "Summer",
@@ -1087,8 +1087,8 @@
     "id": "fish-lingcod",
     "slug": "lingcod",
     "name": "Lingcod",
-    "description": "The Lingcod is a fish that can be caught in the river (in Pelican Town or Cindersap Forest) or the Mountain Lake during Winter. It can also be gifted by a pet cat with max friendship. It may also randomly appear in Krobus' shop on Wednesdays for data-sort-value=\"200\">200g, or at the Traveling Cart for data-sort-value=\"120\"360-1,000g.",
-    "beginnerNote": "The Lingcod is a fish that can be caught in the river (in Pelican Town or Cindersap Forest) or the Mountain Lake during Winter. It can also be gifted by a pet cat with max friendship. It may also randomly appear in Krobus' shop on Wednesdays for data-sort-value=\"200\">200g, or at the Traveling Cart for data-sort-value=\"120\"360-1,000g.",
+    "description": "The Lingcod is a fish that can be caught in the river (in Pelican Town or Cindersap Forest) or the Mountain Lake during Winter. It can also be gifted by a pet cat with max friendship. It may also randomly appear in Krobus' shop on Wednesdays for >200g, or at the Traveling Cart for 360-1,000g.",
+    "beginnerNote": "The Lingcod is a fish that can be caught in the river (in Pelican Town or Cindersap Forest) or the Mountain Lake during Winter. It can also be gifted by a pet cat with max friendship. It may also randomly appear in Krobus' shop on Wednesdays for >200g, or at the Traveling Cart for 360-1,000g.",
     "seasons": [
       "Winter"
     ],
@@ -1139,8 +1139,8 @@
     "id": "fish-midnight-carp",
     "slug": "midnight-carp",
     "name": "Midnight Carp",
-    "description": "The Midnight Carp is a fish that can be caught in the mountain lake and the Cindersap Forest pond during Fall and Winter late at night. It can also be caught on many of the non-standard Farm Maps: Forest, Riverland, Wilderness, and the large pond on the Four Corners Map. It can also be caught during any season in Ginger Island North and West (freshwater). It can also be gifted by a pet cat with max friendship. It can also randomly be found at the Traveling Cart for data-sort-value=\"150\"450-1,000g or in Garbage Cans during Fall or Winter.",
-    "beginnerNote": "The Midnight Carp is a fish that can be caught in the mountain lake and the Cindersap Forest pond during Fall and Winter late at night. It can also be caught on many of the non-standard Farm Maps: Forest, Riverland, Wilderness, and the large pond on the Four Corners Map. It can also be caught during any season in Ginger Island North and West (freshwater). It can also be gifted by a pet cat with max friendship. It can also randomly be found at the Traveling Cart for data-sort-value=\"150\"450-1,000g or in Garbage Cans during Fall or Winter.",
+    "description": "The Midnight Carp is a fish that can be caught in the mountain lake and the Cindersap Forest pond during Fall and Winter late at night. It can also be caught on many of the non-standard Farm Maps: Forest, Riverland, Wilderness, and the large pond on the Four Corners Map. It can also be caught during any season in Ginger Island North and West (freshwater). It can also be gifted by a pet cat with max friendship. It can also randomly be found at the Traveling Cart for 450-1,000g or in Garbage Cans during Fall or Winter.",
+    "beginnerNote": "The Midnight Carp is a fish that can be caught in the mountain lake and the Cindersap Forest pond during Fall and Winter late at night. It can also be caught on many of the non-standard Farm Maps: Forest, Riverland, Wilderness, and the large pond on the Four Corners Map. It can also be caught during any season in Ginger Island North and West (freshwater). It can also be gifted by a pet cat with max friendship. It can also randomly be found at the Traveling Cart for 450-1,000g or in Garbage Cans during Fall or Winter.",
     "seasons": [
       "Fall",
       "Winter"
@@ -1244,8 +1244,8 @@
     "id": "fish-pufferfish",
     "slug": "pufferfish",
     "name": "Pufferfish",
-    "description": "The Pufferfish is a fish that can be caught in the ocean at The Beach or on the Beach Farm on sunny summer days between 12pm and 4pm, or on Ginger Island during any season on Island West (ocean), South, Southeast, and in the Pirate Cove. It can also randomly be found in Garbage Cans during Summer, or at the Traveling Cart for data-sort-value=\"200\"600-1,000g.",
-    "beginnerNote": "The Pufferfish is a fish that can be caught in the ocean at The Beach or on the Beach Farm on sunny summer days between 12pm and 4pm, or on Ginger Island during any season on Island West (ocean), South, Southeast, and in the Pirate Cove. It can also randomly be found in Garbage Cans during Summer, or at the Traveling Cart for data-sort-value=\"200\"600-1,000g.",
+    "description": "The Pufferfish is a fish that can be caught in the ocean at The Beach or on the Beach Farm on sunny summer days between 12pm and 4pm, or on Ginger Island during any season on Island West (ocean), South, Southeast, and in the Pirate Cove. It can also randomly be found in Garbage Cans during Summer, or at the Traveling Cart for 600-1,000g.",
+    "beginnerNote": "The Pufferfish is a fish that can be caught in the ocean at The Beach or on the Beach Farm on sunny summer days between 12pm and 4pm, or on Ginger Island during any season on Island West (ocean), South, Southeast, and in the Pirate Cove. It can also randomly be found in Garbage Cans during Summer, or at the Traveling Cart for 600-1,000g.",
     "seasons": [
       "Summer"
     ],
@@ -1299,8 +1299,8 @@
     "id": "fish-red-mullet",
     "slug": "red-mullet",
     "name": "Red Mullet",
-    "description": "The Red Mullet is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Summer and Winter. It may also randomly appear at the Traveling Cart for data-sort-value=\"75\"225-1,000g or in Garbage Cans during Summer or Winter.",
-    "beginnerNote": "The Red Mullet is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Summer and Winter. It may also randomly appear at the Traveling Cart for data-sort-value=\"75\"225-1,000g or in Garbage Cans during Summer or Winter.",
+    "description": "The Red Mullet is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Summer and Winter. It may also randomly appear at the Traveling Cart for 225-1,000g or in Garbage Cans during Summer or Winter.",
+    "beginnerNote": "The Red Mullet is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Summer and Winter. It may also randomly appear at the Traveling Cart for 225-1,000g or in Garbage Cans during Summer or Winter.",
     "seasons": [
       "Summer",
       "Winter"
@@ -1324,8 +1324,8 @@
     "id": "fish-sandfish",
     "slug": "sandfish",
     "name": "Sandfish",
-    "description": "The Sandfish is a fish that can be caught in the pond at The Desert during all seasons. It can also randomly be found in Garbage Cans after unlocking The Desert, or at the Traveling Cart for data-sort-value=\"75\"225-1,000g.",
-    "beginnerNote": "The Sandfish is a fish that can be caught in the pond at The Desert during all seasons. It can also randomly be found in Garbage Cans after unlocking The Desert, or at the Traveling Cart for data-sort-value=\"75\"225-1,000g.",
+    "description": "The Sandfish is a fish that can be caught in the pond at The Desert during all seasons. It can also randomly be found in Garbage Cans after unlocking The Desert, or at the Traveling Cart for 225-1,000g.",
+    "beginnerNote": "The Sandfish is a fish that can be caught in the pond at The Desert during all seasons. It can also randomly be found in Garbage Cans after unlocking The Desert, or at the Traveling Cart for 225-1,000g.",
     "seasons": [
       "Spring",
       "Summer",
@@ -1354,8 +1354,8 @@
     "id": "fish-scorpion-carp",
     "slug": "scorpion-carp",
     "name": "Scorpion Carp",
-    "description": "The Scorpion Carp is a fish that can be caught in the pond at The Desert during all seasons. It can also randomly be found in Garbage Cans after unlocking The Desert, or at the Traveling Cart for data-sort-value=\"150\"450-1,000g. The only other fish that can be caught in the Desert is the Sandfish.",
-    "beginnerNote": "The Scorpion Carp is a fish that can be caught in the pond at The Desert during all seasons. It can also randomly be found in Garbage Cans after unlocking The Desert, or at the Traveling Cart for data-sort-value=\"150\"450-1,000g. The only other fish that can be caught in the Desert is the Sandfish.",
+    "description": "The Scorpion Carp is a fish that can be caught in the pond at The Desert during all seasons. It can also randomly be found in Garbage Cans after unlocking The Desert, or at the Traveling Cart for 450-1,000g. The only other fish that can be caught in the Desert is the Sandfish.",
+    "beginnerNote": "The Scorpion Carp is a fish that can be caught in the pond at The Desert during all seasons. It can also randomly be found in Garbage Cans after unlocking The Desert, or at the Traveling Cart for 450-1,000g. The only other fish that can be caught in the Desert is the Sandfish.",
     "seasons": [
       "Spring",
       "Summer",
@@ -1381,8 +1381,8 @@
     "id": "fish-sea-cucumber",
     "slug": "sea-cucumber",
     "name": "Sea Cucumber",
-    "description": "The Sea Cucumber is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Fall and Winter. It can also be randomly found in Garbage Cans during Fall and Winter, or at the Traveling Cart for data-sort-value=\"75\"225-1,000g. There is a 5% chance to catch a Sea Cucumber during the deep-sea submarine ride at the Night Market during Winter 15-17 (4% if using a Curiosity Lure).",
-    "beginnerNote": "The Sea Cucumber is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Fall and Winter. It can also be randomly found in Garbage Cans during Fall and Winter, or at the Traveling Cart for data-sort-value=\"75\"225-1,000g. There is a 5% chance to catch a Sea Cucumber during the deep-sea submarine ride at the Night Market during Winter 15-17 (4% if using a Curiosity Lure).",
+    "description": "The Sea Cucumber is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Fall and Winter. It can also be randomly found in Garbage Cans during Fall and Winter, or at the Traveling Cart for 225-1,000g. There is a 5% chance to catch a Sea Cucumber during the deep-sea submarine ride at the Night Market during Winter 15-17 (4% if using a Curiosity Lure).",
+    "beginnerNote": "The Sea Cucumber is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Fall and Winter. It can also be randomly found in Garbage Cans during Fall and Winter, or at the Traveling Cart for 225-1,000g. There is a 5% chance to catch a Sea Cucumber during the deep-sea submarine ride at the Night Market during Winter 15-17 (4% if using a Curiosity Lure).",
     "seasons": [
       "Fall",
       "Winter"
@@ -1485,8 +1485,8 @@
     "id": "fish-squid",
     "slug": "squid",
     "name": "Squid",
-    "description": "The Squid is a fish that can be caught in the ocean at The Beach or on the Beach Farm in the evening during Winter. It can also randomly be found in Garbage Cans during Winter, or at the Traveling Cart for data-sort-value=\"80\"240-1,000g. Squid can be caught during the entire day on Winter 12th and 13th during the SquidFest festival. Pierre sells five Squid for data-sort-value=\"10\"> 10 Calico Eggs each during the Desert Festival.",
-    "beginnerNote": "The Squid is a fish that can be caught in the ocean at The Beach or on the Beach Farm in the evening during Winter. It can also randomly be found in Garbage Cans during Winter, or at the Traveling Cart for data-sort-value=\"80\"240-1,000g. Squid can be caught during the entire day on Winter 12th and 13th during the SquidFest festival. Pierre sells five Squid for data-sort-value=\"10\"> 10 Calico Eggs each during the Desert Festival.",
+    "description": "The Squid is a fish that can be caught in the ocean at The Beach or on the Beach Farm in the evening during Winter. It can also randomly be found in Garbage Cans during Winter, or at the Traveling Cart for 240-1,000g. Squid can be caught during the entire day on Winter 12th and 13th during the SquidFest festival. Pierre sells five Squid for > 10 Calico Eggs each during the Desert Festival.",
+    "beginnerNote": "The Squid is a fish that can be caught in the ocean at The Beach or on the Beach Farm in the evening during Winter. It can also randomly be found in Garbage Cans during Winter, or at the Traveling Cart for 240-1,000g. Squid can be caught during the entire day on Winter 12th and 13th during the SquidFest festival. Pierre sells five Squid for > 10 Calico Eggs each during the Desert Festival.",
     "seasons": [
       "Winter"
     ],
@@ -1563,12 +1563,12 @@
     "id": "fish-super-cucumber",
     "slug": "super-cucumber",
     "name": "Super Cucumber",
-    "description": "The Super Cucumber is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Summer and Fall evenings, and on Ginger Island South, Southeast, West (ocean), and the Pirate Cove during any season. It can also randomly be found in Garbage Cans during Summer and Fall, or at the Traveling Cart for data-sort-value=\"250\"750-1,250g. There is a 4% chance to catch a Super Cucumber during the deep-sea submarine ride at the Night Market during Winter 15-17 (7% if using a Curiosity Lure). The Statue Of Endless Fortune produces one Super Cucumber per year on the Wizard's birthday, Winter 17.",
-    "beginnerNote": "The Super Cucumber is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Summer and Fall evenings, and on Ginger Island South, Southeast, West (ocean), and the Pirate Cove during any season. It can also randomly be found in Garbage Cans during Summer and Fall, or at the Traveling Cart for data-sort-value=\"250\"750-1,250g. There is a 4% chance to catch a Super Cucumber during the deep-sea submarine ride at the Night Market during Winter 15-17 (7% if using a Curiosity Lure). The Statue Of Endless Fortune produces one Super Cucumber per year on the Wizard's birthday, Winter 17.",
+    "description": "The Super Cucumber is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Summer and Fall evenings, and on Ginger Island South, Southeast, West (ocean), and the Pirate Cove during any season. It can also randomly be found in Garbage Cans during Summer and Fall, or at the Traveling Cart for 750-1,250g. There is a 4% chance to catch a Super Cucumber during the deep-sea submarine ride at the Night Market during Winter 15-17 (7% if using a Curiosity Lure). The Statue Of Endless Fortune produces one Super Cucumber per year on the Wizard's birthday, Winter 17.",
+    "beginnerNote": "The Super Cucumber is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Summer and Fall evenings, and on Ginger Island South, Southeast, West (ocean), and the Pirate Cove during any season. It can also randomly be found in Garbage Cans during Summer and Fall, or at the Traveling Cart for 750-1,250g. There is a 4% chance to catch a Super Cucumber during the deep-sea submarine ride at the Night Market during Winter 15-17 (7% if using a Curiosity Lure). The Statue Of Endless Fortune produces one Super Cucumber per year on the Wizard's birthday, Winter 17.",
     "seasons": [
       "Summer",
       "Fall",
-      "Winter during Night Market (15-17)"
+      "Winter"
     ],
     "weather": [
       "Any"
@@ -1618,8 +1618,8 @@
     "id": "fish-woodskip",
     "slug": "woodskip",
     "name": "Woodskip",
-    "description": "The Woodskip is a fish that can be caught in the pond in the Secret Woods during any season. It is most prevalent there on non-rainy days, with each cast having a 15% to 27% chance to hook a Woodskip depending on fishing skill. The Woodskip is more likely to be caught when casting at least 3 tiles from shore.[1] It can also be caught on the Forest Farm, with each cast having a 0% to 17.5% chance to hook a Woodskip depending on daily luck.[2] It can also randomly be found at the Traveling Cart for data-sort-value=\"75\"225-1,000g.",
-    "beginnerNote": "The Woodskip is a fish that can be caught in the pond in the Secret Woods during any season. It is most prevalent there on non-rainy days, with each cast having a 15% to 27% chance to hook a Woodskip depending on fishing skill. The Woodskip is more likely to be caught when casting at least 3 tiles from shore.[1] It can also be caught on the Forest Farm, with each cast having a 0% to 17.5% chance to hook a Woodskip depending on daily luck.[2] It can also randomly be found at the Traveling Cart for data-sort-value=\"75\"225-1,000g.",
+    "description": "The Woodskip is a fish that can be caught in the pond in the Secret Woods during any season. It is most prevalent there on non-rainy days, with each cast having a 15% to 27% chance to hook a Woodskip depending on fishing skill. The Woodskip is more likely to be caught when casting at least 3 tiles from shore. It can also be caught on the Forest Farm, with each cast having a 0% to 17.5% chance to hook a Woodskip depending on daily luck. It can also randomly be found at the Traveling Cart for 225-1,000g.",
+    "beginnerNote": "The Woodskip is a fish that can be caught in the pond in the Secret Woods during any season. It is most prevalent there on non-rainy days, with each cast having a 15% to 27% chance to hook a Woodskip depending on fishing skill. The Woodskip is more likely to be caught when casting at least 3 tiles from shore. It can also be caught on the Forest Farm, with each cast having a 0% to 17.5% chance to hook a Woodskip depending on daily luck. It can also randomly be found at the Traveling Cart for 225-1,000g.",
     "seasons": [
       "Spring",
       "Summer",
