@@ -209,13 +209,13 @@
         "label": "Post-1.6 Tea Sapling sale value",
         "assumption": "Tea Sapling sell price reduced from the older guide value to the current draft value",
         "value": "250g per Tea Sapling in the research draft",
-        "confidence": "needs verification"
+        "confidence": "high"
       },
       {
         "label": "100 sapling cash-out",
         "assumption": "100 crafted Tea Saplings sold at the current draft value",
         "value": "About 25,000g before material opportunity cost",
-        "confidence": "needs verification"
+        "confidence": "medium"
       }
     ],
     "caveats": [
@@ -234,10 +234,14 @@
       "stardew valley 1.6 tea sapling",
       "early game money stardew"
     ],
-    "sourceUrls": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Tea_Sapling",
+      "https://stardewvalleywiki.com/Tea_Leaves",
+      "https://stardewvalleywiki.com/Caroline"
+    ],
     "confidence": "medium",
     "lastChecked": "2026-05-18",
-    "notes": "Drafted from deep research report. Current sell price, recipe unlock, and version history need source verification before final publication."
+    "notes": "Wiki verified current Tea Sapling price and recipe path. Official 1.6 changelog confirmation still needs verification."
   },
   {
     "slug": "fish-smoker",
@@ -297,9 +301,15 @@
       "stardew valley 1.6 fishing money",
       "catfish money route"
     ],
-    "sourceUrls": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Fish_Smoker",
+      "https://stardewvalleywiki.com/Smoked_Fish",
+      "https://stardewvalleywiki.com/Fishing",
+      "https://stardewvalleywiki.com/Catfish",
+      "https://stardewvalleywiki.com/Lava_Eel"
+    ],
     "confidence": "medium",
     "lastChecked": "2026-05-18",
-    "notes": "Drafted from deep research report. Fish Smoker mechanics, profession interactions, and profit examples require source verification."
+    "notes": "Wiki verified Fish Smoker mechanics and profession interactions. Exact daily profit estimates remain route assumptions."
   }
 ]
