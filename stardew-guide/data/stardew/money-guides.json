@@ -32,13 +32,13 @@
         "label": "Mature greenhouse Ancient Fruit wine",
         "assumption": "120 mature Ancient Fruit plants, enough kegs, weekly harvest rhythm, and Artisan profession assumptions from the research draft",
         "value": "About 277,200g per week before aging assumptions",
-        "confidence": "needs verification"
+        "confidence": "medium"
       },
       {
         "label": "Starfruit bridge batch",
         "assumption": "30 Starfruit processed into wine with enough kegs and seed costs excluded from final value",
         "value": "About 94,500g gross per batch under the draft assumptions",
-        "confidence": "needs verification"
+        "confidence": "medium"
       }
     ],
     "caveats": [
@@ -57,10 +57,18 @@
       "starfruit wine",
       "stardew valley greenhouse money"
     ],
-    "sourceUrls": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ancient_Fruit",
+      "https://stardewvalleywiki.com/Starfruit",
+      "https://stardewvalleywiki.com/Starfruit_Seeds",
+      "https://stardewvalleywiki.com/Keg",
+      "https://stardewvalleywiki.com/Wine",
+      "https://stardewvalleywiki.com/Greenhouse",
+      "https://stardewvalleywiki.com/Farming"
+    ],
     "confidence": "medium",
     "lastChecked": "2026-05-18",
-    "notes": "Drafted from deep research report. Source URLs and exact profit math need Web Extractor verification before final use."
+    "notes": "Wiki verified crop timing, greenhouse constraints, Keg and Wine mechanics, and Artisan profession. Profit estimates are derived route math and should not be treated as exact guarantees."
   },
   {
     "slug": "truffle-pigs",
@@ -114,10 +122,16 @@
       "stardew valley pig money",
       "botanist truffle"
     ],
-    "sourceUrls": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Pig",
+      "https://stardewvalleywiki.com/Truffle",
+      "https://stardewvalleywiki.com/Truffle_Oil",
+      "https://stardewvalleywiki.com/Oil_Maker",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
     "confidence": "medium",
     "lastChecked": "2026-05-18",
-    "notes": "Drafted from deep research report. Exact production rates, profession interactions, and truffle oil breakpoints require source review."
+    "notes": "Wiki verified pig production constraints, Truffle and Truffle Oil values, Oil Maker processing, and Foraging profession relevance. The annual profit estimate remains a route model."
   },
   {
     "slug": "fairy-rose-honey",
@@ -171,10 +185,15 @@
       "bee house layout",
       "stardew valley honey money"
     ],
-    "sourceUrls": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bee_House",
+      "https://stardewvalleywiki.com/Honey",
+      "https://stardewvalleywiki.com/Fairy_Rose",
+      "https://stardewvalleywiki.com/Ginger_Island"
+    ],
     "confidence": "medium",
     "lastChecked": "2026-05-18",
-    "notes": "Drafted from deep research report. Layout math, Bee House radius, and exact yearly estimates require source verification."
+    "notes": "Wiki verified Bee House production, flower honey mechanics, Fairy Rose Honey value, and Ginger Island relevance. Layout and yearly profit remain derived estimates."
   },
   {
     "slug": "tea-saplings",
