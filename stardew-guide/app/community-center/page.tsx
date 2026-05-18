@@ -4,7 +4,7 @@ import { PageShell } from "@/components/PageShell";
 import { getAllBundles } from "@/lib/stardew/data";
 
 export const metadata: Metadata = {
-  title: "Community Center Tracker | Stardew Guide",
+  title: "Community Center Tracker | Stardew Guide | Player Codex",
   description: "Track Stardew Valley Community Center bundle items with local browser progress."
 };
 

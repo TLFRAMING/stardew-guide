@@ -4,7 +4,7 @@ import { PageShell } from "@/components/PageShell";
 import { getAllCrops } from "@/lib/stardew/data";
 
 export const metadata: Metadata = {
-  title: "Crops Database | Stardew Guide",
+  title: "Crops Database | Stardew Guide | Player Codex",
   description: "Browse Stardew Valley crops by name and season with growth, sell price, and use notes."
 };
 

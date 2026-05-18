@@ -3,8 +3,8 @@ import { CardLink } from "@/components/CardLink";
 import { PageShell } from "@/components/PageShell";
 
 export const metadata: Metadata = {
-  title: "Stardew Guide",
-  description: "A mobile-friendly Stardew Valley guide for villagers, crops, fish, and Community Center bundles."
+  title: "Player Codex | Stardew Guide",
+  description: "Player Codex hosts a fan-made Stardew Valley guide for villagers, crops, fish, and Community Center bundles."
 };
 
 const features = [
@@ -36,7 +36,7 @@ const features = [
 
 export default function HomePage() {
   return (
-    <PageShell eyebrow="MVP" title="A calmer Stardew Valley guide for new farmers">
+    <PageShell eyebrow="Player Codex" kicker="Current codex: Stardew Guide, a practical reference for new farmers." title="A calmer Stardew Valley guide">
       <div className="grid gap-4 md:grid-cols-2">
         {features.map((feature) => (
           <CardLink description={feature.description} href={feature.href} key={feature.href} title={feature.title} tone={feature.tone} />

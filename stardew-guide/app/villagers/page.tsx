@@ -4,7 +4,7 @@ import { VillagerDirectory } from "@/components/VillagerDirectory";
 import { getAllVillagers } from "@/lib/stardew/data";
 
 export const metadata: Metadata = {
-  title: "Villager Gift Finder | Stardew Guide",
+  title: "Villager Gift Finder | Stardew Guide | Player Codex",
   description: "Search Stardew Valley villagers by name, gifts, and marriage candidate status."
 };
 

@@ -12,13 +12,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
   if (!crop) {
     return {
-      title: "Crop Not Found | Stardew Guide",
+      title: "Crop Not Found | Stardew Guide | Player Codex",
       description: "This Stardew Valley crop page could not be found."
     };
   }
 
   return {
-    title: `${crop.name} Crop Guide | Stardew Guide`,
+    title: `${crop.name} Crop Guide | Stardew Guide | Player Codex`,
     description: crop.beginnerNote ?? crop.description ?? `Crop details for ${crop.name}.`
   };
 }

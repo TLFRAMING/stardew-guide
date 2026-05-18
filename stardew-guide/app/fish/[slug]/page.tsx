@@ -12,13 +12,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
   if (!item) {
     return {
-      title: "Fish Not Found | Stardew Guide",
+      title: "Fish Not Found | Stardew Guide | Player Codex",
       description: "This Stardew Valley fish page could not be found."
     };
   }
 
   return {
-    title: `${item.name} Fish Guide | Stardew Guide`,
+    title: `${item.name} Fish Guide | Stardew Guide | Player Codex`,
     description: item.beginnerNote ?? item.description ?? `Fish details for ${item.name}.`
   };
 }

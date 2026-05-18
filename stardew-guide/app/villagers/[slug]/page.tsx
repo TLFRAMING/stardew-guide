@@ -12,13 +12,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
   if (!villager) {
     return {
-      title: "Villager Not Found | Stardew Guide",
+      title: "Villager Not Found | Stardew Guide | Player Codex",
       description: "This Stardew Valley villager page could not be found."
     };
   }
 
   return {
-    title: `${villager.name} Gifts | Stardew Guide`,
+    title: `${villager.name} Gifts | Stardew Guide | Player Codex`,
     description: villager.beginnerNote ?? villager.description ?? `Gift and schedule notes for ${villager.name}.`
   };
 }
