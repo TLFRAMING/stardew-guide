@@ -43,20 +43,40 @@ const features = [
 export default function HomePage() {
   return (
     <PageShell eyebrow="Player Codex" kicker="Current codex: Stardew Guide, a practical reference for new farmers." title="Stardew Guide Codex">
-      <section className="tool-directory rounded-md p-3 sm:p-4">
-        <div className="mb-3 flex flex-col gap-2 border-b border-[rgba(122,86,56,0.18)] pb-3 sm:flex-row sm:items-end sm:justify-between">
-          <div>
-            <p className="text-xs font-black uppercase tracking-[0.16em] text-green-950/50">Tool Directory</p>
-            <h2 className="mt-1 text-lg font-black text-green-950">Choose a field guide</h2>
+      <div className="space-y-4">
+        <section className="tool-directory rounded-md p-3 sm:p-4">
+          <div className="mb-3 flex flex-col gap-2 border-b border-[rgba(122,86,56,0.18)] pb-3 sm:flex-row sm:items-end sm:justify-between">
+            <div>
+              <p className="text-xs font-black uppercase tracking-[0.16em] text-green-950/50">Tool Directory</p>
+              <h2 className="mt-1 text-lg font-black text-green-950">Choose a field guide</h2>
+            </div>
+            <p className="text-xs font-bold text-green-950/58">{features.length} active tools</p>
           </div>
-          <p className="text-xs font-bold text-green-950/58">{features.length} active tools</p>
-        </div>
-        <div className="grid gap-3 md:grid-cols-2">
-          {features.map((feature) => (
-            <CardLink description={feature.description} href={feature.href} key={feature.href} title={feature.title} tone={feature.tone} />
-          ))}
-        </div>
-      </section>
+          <div className="grid gap-3 md:grid-cols-2">
+            {features.map((feature) => (
+              <CardLink description={feature.description} href={feature.href} key={feature.href} title={feature.title} tone={feature.tone} />
+            ))}
+          </div>
+        </section>
+
+        <section className="rounded-md border border-green-950/10 bg-white/80 px-4 py-4 sm:px-5">
+          <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+            <div className="min-w-0">
+              <p className="text-xs font-black uppercase tracking-[0.16em] text-green-950/46">Browse All Data</p>
+              <h2 className="mt-1 text-lg font-black text-green-950">Open the Stardew database hub</h2>
+              <p className="mt-2 max-w-2xl text-sm font-semibold leading-6 text-green-950/66">
+                See live data modules together with planned categories for fruit trees, forage, animals, recipes, and item references.
+              </p>
+            </div>
+            <a
+              className="w-fit rounded-sm border border-green-950/14 bg-green-950/[0.04] px-3 py-2 text-sm font-black text-green-950 transition hover:bg-green-950/[0.08]"
+              href="/database"
+            >
+              Browse Database
+            </a>
+          </div>
+        </section>
+      </div>
     </PageShell>
   );
 }
