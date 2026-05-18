@@ -516,5 +516,1043 @@
     ],
     "lastChecked": "2026-05-17",
     "beginnerNote": "A villager who lives at the Carpenter's Shop, works at the clinic, and is available as a marriage candidate."
+  },
+  {
+    "id": "villager-alex",
+    "slug": "alex",
+    "name": "Alex",
+    "description": "A Stardew Valley villager who lives at 1 River Road, Pelican Town and is available as a marriage candidate.",
+    "birthday": "Summer 13",
+    "location": "1 River Road, Pelican Town",
+    "marriageCandidate": true,
+    "lovedGifts": [
+      "Complete Breakfast",
+      "Jack Be Nimble, Jack Be Thick",
+      "Salmon Dinner"
+    ],
+    "likedGifts": [
+      "Dinosaur Egg",
+      "Field Snack",
+      "Parrot Egg"
+    ],
+    "dislikedGifts": [
+      "Salmonberry",
+      "Wild Horseradish"
+    ],
+    "hatedGifts": [
+      "Holly",
+      "Quartz"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Alex"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at 1 River Road, Pelican Town and is available as a marriage candidate."
+  },
+  {
+    "id": "villager-elliott",
+    "slug": "elliott",
+    "name": "Elliott",
+    "description": "A Stardew Valley villager who lives at Elliott's Cabin, The Beach and is available as a marriage candidate.",
+    "birthday": "Fall 5",
+    "location": "Elliott's Cabin, The Beach",
+    "marriageCandidate": true,
+    "lovedGifts": [
+      "Crab Cakes",
+      "Duck Feather",
+      "Lobster",
+      "Pomegranate",
+      "Squid Ink",
+      "Tom Kha Soup"
+    ],
+    "likedGifts": [
+      "Octopus",
+      "Squid"
+    ],
+    "dislikedGifts": [
+      "Chanterelle",
+      "Common Mushroom",
+      "Daffodil",
+      "Dandelion",
+      "Ginger",
+      "Hazelnut",
+      "Holly",
+      "Leek",
+      "Magma Cap",
+      "Morel",
+      "Pizza",
+      "Purple Mushroom",
+      "Snow Yam",
+      "Wild Horseradish",
+      "Winter Root"
+    ],
+    "hatedGifts": [
+      "Amaranth",
+      "Quartz",
+      "Salmonberry",
+      "Sea Cucumber",
+      "Super Cucumber"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Elliott"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at Elliott's Cabin, The Beach and is available as a marriage candidate."
+  },
+  {
+    "id": "villager-caroline",
+    "slug": "caroline",
+    "name": "Caroline",
+    "description": "A Stardew Valley villager who lives at Pierre's General Store, Pelican Town.",
+    "birthday": "Winter 7",
+    "location": "Pierre's General Store, Pelican Town",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Fish Taco",
+      "Green Tea",
+      "Summer Spangle",
+      "Tropical Curry"
+    ],
+    "likedGifts": [
+      "Daffodil",
+      "Tea Leaves",
+      "Wild Horseradish"
+    ],
+    "dislikedGifts": [
+      "Amaranth",
+      "Chanterelle",
+      "Common Mushroom",
+      "Dandelion",
+      "Duck Mayonnaise",
+      "Ginger",
+      "Hazelnut",
+      "Holly",
+      "Leek",
+      "Magma Cap",
+      "Mayonnaise",
+      "Morel",
+      "Purple Mushroom",
+      "Snow Yam",
+      "Winter Root"
+    ],
+    "hatedGifts": [
+      "Quartz",
+      "Salmonberry"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Caroline"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at Pierre's General Store, Pelican Town."
+  },
+  {
+    "id": "villager-clint",
+    "slug": "clint",
+    "name": "Clint",
+    "description": "A Stardew Valley villager who lives at Blacksmith, Pelican Town.",
+    "birthday": "Winter 26",
+    "location": "Blacksmith, Pelican Town",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Amethyst",
+      "Aquamarine",
+      "Artichoke Dip",
+      "Emerald",
+      "Fiddlehead Risotto",
+      "Gold Bar",
+      "Iridium Bar",
+      "Jade",
+      "Omni Geode",
+      "Ruby",
+      "Topaz"
+    ],
+    "likedGifts": [
+      "Copper Bar",
+      "Iron Bar",
+      "Mining Monthly"
+    ],
+    "dislikedGifts": [
+      "Quartz",
+      "Salmonberry",
+      "Wild Horseradish"
+    ],
+    "hatedGifts": [
+      "Holly"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Clint"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at Blacksmith, Pelican Town."
+  },
+  {
+    "id": "villager-demetrius",
+    "slug": "demetrius",
+    "name": "Demetrius",
+    "description": "A Stardew Valley villager who lives at 24 Mountain Road, The Mountain.",
+    "birthday": "Summer 19",
+    "location": "24 Mountain Road, The Mountain",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Bean Hotpot",
+      "Ice Cream",
+      "Rice Pudding",
+      "Strawberry"
+    ],
+    "likedGifts": [
+      "Dinosaur Egg",
+      "Purple Mushroom"
+    ],
+    "dislikedGifts": [
+      "Quartz"
+    ],
+    "hatedGifts": [
+      "Holly"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Demetrius"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at 24 Mountain Road, The Mountain."
+  },
+  {
+    "id": "villager-dwarf",
+    "slug": "dwarf",
+    "name": "Dwarf",
+    "description": "A Stardew Valley villager who lives at Eastern Cave, The Mines.",
+    "birthday": "Summer 22",
+    "location": "Eastern Cave, The Mines",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Amethyst",
+      "Aquamarine",
+      "Emerald",
+      "Jade",
+      "Lava Eel",
+      "Lemon Stone",
+      "Omni Geode",
+      "Ruby",
+      "Topaz"
+    ],
+    "likedGifts": [
+      "Cave Carrot",
+      "Quartz"
+    ],
+    "dislikedGifts": [
+      "Chanterelle",
+      "Common Mushroom",
+      "Daffodil",
+      "Dandelion",
+      "Ginger",
+      "Hazelnut",
+      "Holly",
+      "Leek",
+      "Magma Cap",
+      "Morel",
+      "Purple Mushroom",
+      "Salmonberry",
+      "Snow Yam",
+      "Wild Horseradish",
+      "Winter Root"
+    ],
+    "hatedGifts": [
+      "needs verification"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Dwarf"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at Eastern Cave, The Mines."
+  },
+  {
+    "id": "villager-evelyn",
+    "slug": "evelyn",
+    "name": "Evelyn",
+    "description": "A Stardew Valley villager who lives at 1 River Road, Pelican Town.",
+    "birthday": "Winter 20",
+    "location": "1 River Road, Pelican Town",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Beet",
+      "Chocolate Cake",
+      "Diamond",
+      "Fairy Rose",
+      "Raisins",
+      "Stuffing",
+      "Tulip"
+    ],
+    "likedGifts": [
+      "Broken Glasses",
+      "Clam",
+      "Cockle",
+      "Coral",
+      "Daffodil",
+      "Mussel",
+      "Nautilus Shell",
+      "Oyster",
+      "Sea Urchin"
+    ],
+    "dislikedGifts": [
+      "Quartz",
+      "Wild Horseradish"
+    ],
+    "hatedGifts": [
+      "Clay",
+      "Fried Eel",
+      "Garlic",
+      "Holly",
+      "Maki Roll",
+      "Salmonberry",
+      "Sashimi",
+      "Spice Berry",
+      "Spicy Eel",
+      "Trout Soup"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Evelyn"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at 1 River Road, Pelican Town."
+  },
+  {
+    "id": "villager-george",
+    "slug": "george",
+    "name": "George",
+    "description": "A Stardew Valley villager who lives at 1 River Road, Pelican Town.",
+    "birthday": "Fall 24",
+    "location": "1 River Road, Pelican Town",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Fried Mushroom",
+      "Leek"
+    ],
+    "likedGifts": [
+      "Daffodil"
+    ],
+    "dislikedGifts": [
+      "Salmonberry",
+      "Wild Horseradish"
+    ],
+    "hatedGifts": [
+      "Clay",
+      "Dandelion",
+      "Holly",
+      "Quartz"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/George"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at 1 River Road, Pelican Town."
+  },
+  {
+    "id": "villager-gus",
+    "slug": "gus",
+    "name": "Gus",
+    "description": "A Stardew Valley villager who lives at The Stardrop Saloon, Pelican Town.",
+    "birthday": "Summer 8",
+    "location": "The Stardrop Saloon, Pelican Town",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Diamond",
+      "Escargot",
+      "Fish Taco",
+      "Orange",
+      "Tropical Curry"
+    ],
+    "likedGifts": [
+      "Daffodil",
+      "Truffle"
+    ],
+    "dislikedGifts": [
+      "Salmonberry",
+      "Wild Horseradish"
+    ],
+    "hatedGifts": [
+      "Coleslaw",
+      "Holly",
+      "Quartz"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Gus"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at The Stardrop Saloon, Pelican Town."
+  },
+  {
+    "id": "villager-jas",
+    "slug": "jas",
+    "name": "Jas",
+    "description": "A Stardew Valley villager who lives at Marnie's Ranch, Cindersap Forest.",
+    "birthday": "Summer 4",
+    "location": "Marnie's Ranch, Cindersap Forest",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Ancient Doll",
+      "Fairy Box",
+      "Fairy Rose",
+      "Pink Cake",
+      "Plum Pudding",
+      "Strange Doll (green)",
+      "Strange Doll (yellow)"
+    ],
+    "likedGifts": [
+      "Coconut",
+      "Daffodil"
+    ],
+    "dislikedGifts": [
+      "Chanterelle",
+      "Common Mushroom",
+      "Dandelion",
+      "Ginger",
+      "Hazelnut",
+      "Holly",
+      "Leek",
+      "Magma Cap",
+      "Morel",
+      "Purple Mushroom",
+      "Quartz",
+      "Snow Yam",
+      "Winter Root"
+    ],
+    "hatedGifts": [
+      "Clay",
+      "Piña Colada",
+      "Triple Shot Espresso",
+      "Wild Horseradish"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Jas"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at Marnie's Ranch, Cindersap Forest."
+  },
+  {
+    "id": "villager-jodi",
+    "slug": "jodi",
+    "name": "Jodi",
+    "description": "A Stardew Valley villager who lives at 1 Willow Lane, Pelican Town.",
+    "birthday": "Fall 11",
+    "location": "1 Willow Lane, Pelican Town",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Chocolate Cake",
+      "Crispy Bass",
+      "Diamond",
+      "Eggplant Parmesan",
+      "Fried Eel",
+      "Pancakes",
+      "Rhubarb Pie",
+      "Vegetable Medley"
+    ],
+    "likedGifts": [
+      "needs verification"
+    ],
+    "dislikedGifts": [
+      "Chanterelle",
+      "Common Mushroom",
+      "Garlic",
+      "Ginger",
+      "Hazelnut",
+      "Holly",
+      "Leek",
+      "Magma Cap",
+      "Morel",
+      "Purple Mushroom",
+      "Quartz",
+      "Snow Yam",
+      "Wild Horseradish",
+      "Winter Root"
+    ],
+    "hatedGifts": [
+      "Daffodil",
+      "Dandelion",
+      "Spice Berry"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Jodi"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at 1 Willow Lane, Pelican Town."
+  },
+  {
+    "id": "villager-kent",
+    "slug": "kent",
+    "name": "Kent",
+    "description": "A Stardew Valley villager who lives at 1 Willow Lane, Pelican Town.",
+    "birthday": "Spring 4",
+    "location": "1 Willow Lane, Pelican Town",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Fiddlehead Risotto",
+      "Roasted Hazelnuts"
+    ],
+    "likedGifts": [
+      "Daffodil",
+      "Dwarvish Safety Manual"
+    ],
+    "dislikedGifts": [
+      "Piña Colada",
+      "Quartz",
+      "Snow Yam"
+    ],
+    "hatedGifts": [
+      "Algae Soup",
+      "Holly",
+      "Sashimi",
+      "Tortilla"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Kent"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at 1 Willow Lane, Pelican Town."
+  },
+  {
+    "id": "villager-krobus",
+    "slug": "krobus",
+    "name": "Krobus",
+    "description": "A Stardew Valley villager who lives at Krobus' Shop, The Sewers.",
+    "birthday": "Winter 1",
+    "location": "Krobus' Shop, The Sewers",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Diamond",
+      "Iridium Bar",
+      "Monster Compendium",
+      "Monster Musk",
+      "Pumpkin",
+      "Void Egg",
+      "Void Mayonnaise",
+      "Wild Horseradish"
+    ],
+    "likedGifts": [
+      "Gold Bar",
+      "Quartz",
+      "Seafoam Pudding",
+      "Strange Bun"
+    ],
+    "dislikedGifts": [
+      "Chanterelle",
+      "Common Mushroom",
+      "Daffodil",
+      "Dandelion",
+      "Ginger",
+      "Hazelnut",
+      "Holly",
+      "Leek",
+      "Life Elixir",
+      "Magma Cap",
+      "Morel",
+      "Purple Mushroom",
+      "Salmonberry",
+      "Snow Yam",
+      "Winter Root"
+    ],
+    "hatedGifts": [
+      "needs verification"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Krobus"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at Krobus' Shop, The Sewers."
+  },
+  {
+    "id": "villager-leo",
+    "slug": "leo",
+    "name": "Leo",
+    "description": "A Stardew Valley villager who lives at Hut (<6 ) Treehouse (≥6 ), Ginger Island.",
+    "birthday": "Summer 26",
+    "location": "Hut (<6 ) Treehouse (≥6 ), Ginger Island",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Duck Feather",
+      "Mango",
+      "Ostrich Egg",
+      "Parrot Egg",
+      "Poi"
+    ],
+    "likedGifts": [
+      "Dragon Tooth",
+      "Mango Sticky Rice",
+      "Nautilus Shell",
+      "Quartz",
+      "Sea Urchin",
+      "Spice Berry"
+    ],
+    "dislikedGifts": [
+      "Chanterelle",
+      "Common Mushroom",
+      "Daffodil",
+      "Dandelion",
+      "Ginger",
+      "Hazelnut",
+      "Leek",
+      "Life Elixir",
+      "Magma Cap",
+      "Pickles",
+      "Purple Mushroom",
+      "Salmonberry",
+      "Snow Yam",
+      "Wild Horseradish",
+      "Winter Root"
+    ],
+    "hatedGifts": [
+      "Beer",
+      "Holly",
+      "Hops",
+      "Mead",
+      "Morel",
+      "Oil",
+      "Pale Ale",
+      "Piña Colada",
+      "Triple Shot Espresso",
+      "Unmilled Rice",
+      "Wine"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Leo"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at Hut (<6 ) Treehouse (≥6 ), Ginger Island."
+  },
+  {
+    "id": "villager-lewis",
+    "slug": "lewis",
+    "name": "Lewis",
+    "description": "A Stardew Valley villager who lives at Mayor's Manor, Pelican Town.",
+    "birthday": "Spring 7",
+    "location": "Mayor's Manor, Pelican Town",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Autumn's Bounty",
+      "Glazed Yams",
+      "Green Tea",
+      "Hot Pepper",
+      "Vegetable Medley"
+    ],
+    "likedGifts": [
+      "Blueberry",
+      "Cactus Fruit",
+      "Coconut"
+    ],
+    "dislikedGifts": [
+      "Salmonberry",
+      "Wild Horseradish"
+    ],
+    "hatedGifts": [
+      "Holly",
+      "Quartz"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Lewis"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at Mayor's Manor, Pelican Town."
+  },
+  {
+    "id": "villager-linus",
+    "slug": "linus",
+    "name": "Linus",
+    "description": "A Stardew Valley villager who lives at Tent, The Mountain.",
+    "birthday": "Winter 3",
+    "location": "Tent, The Mountain",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Blueberry Tart",
+      "Cactus Fruit",
+      "Coconut",
+      "Dish O' The Sea",
+      "The Alleyway Buffet",
+      "Yam"
+    ],
+    "likedGifts": [
+      "Chanterelle",
+      "Common Mushroom",
+      "Daffodil",
+      "Dandelion",
+      "Ginger",
+      "Hazelnut",
+      "Holly",
+      "Leek",
+      "Magma Cap",
+      "Morel",
+      "Purple Mushroom",
+      "Snow Yam",
+      "Spring Onion",
+      "Wild Horseradish",
+      "Winter Root"
+    ],
+    "dislikedGifts": [
+      "Treasure Chest"
+    ],
+    "hatedGifts": [
+      "needs verification"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Linus"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at Tent, The Mountain."
+  },
+  {
+    "id": "villager-marnie",
+    "slug": "marnie",
+    "name": "Marnie",
+    "description": "A Stardew Valley villager who lives at Marnie's Ranch, Cindersap Forest.",
+    "birthday": "Fall 18",
+    "location": "Marnie's Ranch, Cindersap Forest",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Diamond",
+      "Farmer's Lunch",
+      "Pink Cake",
+      "Pumpkin Pie"
+    ],
+    "likedGifts": [
+      "Quartz",
+      "Stardew Valley Almanac"
+    ],
+    "dislikedGifts": [
+      "Salmonberry",
+      "Seaweed",
+      "Wild Horseradish"
+    ],
+    "hatedGifts": [
+      "Clay",
+      "Holly"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Marnie"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at Marnie's Ranch, Cindersap Forest."
+  },
+  {
+    "id": "villager-pam",
+    "slug": "pam",
+    "name": "Pam",
+    "description": "A Stardew Valley villager who lives at Trailer, Pelican Town.",
+    "birthday": "Spring 18",
+    "location": "Trailer, Pelican Town",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Beer",
+      "Cactus Fruit",
+      "Glazed Yams",
+      "Mead",
+      "Pale Ale",
+      "Parsnip",
+      "Parsnip Soup",
+      "Piña Colada"
+    ],
+    "likedGifts": [
+      "Daffodil"
+    ],
+    "dislikedGifts": [
+      "Quartz",
+      "Wild Horseradish"
+    ],
+    "hatedGifts": [
+      "Holly",
+      "Octopus",
+      "Squid"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Pam"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at Trailer, Pelican Town."
+  },
+  {
+    "id": "villager-pierre",
+    "slug": "pierre",
+    "name": "Pierre",
+    "description": "A Stardew Valley villager who lives at Pierre's General Store, Pelican Town.",
+    "birthday": "Spring 26",
+    "location": "Pierre's General Store, Pelican Town",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Fried Calamari",
+      "Price Catalogue"
+    ],
+    "likedGifts": [
+      "Daffodil",
+      "Dandelion"
+    ],
+    "dislikedGifts": [
+      "Chanterelle",
+      "Common Mushroom",
+      "Ginger",
+      "Hazelnut",
+      "Holly",
+      "Leek",
+      "Magma Cap",
+      "Morel",
+      "Purple Mushroom",
+      "Salmonberry",
+      "Snow Yam",
+      "Wild Horseradish",
+      "Winter Root"
+    ],
+    "hatedGifts": [
+      "Corn",
+      "Garlic",
+      "Parsnip Soup",
+      "Tortilla"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Pierre"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at Pierre's General Store, Pelican Town."
+  },
+  {
+    "id": "villager-robin",
+    "slug": "robin",
+    "name": "Robin",
+    "description": "A Stardew Valley villager who lives at 24 Mountain Road, The Mountain.",
+    "birthday": "Fall 21",
+    "location": "24 Mountain Road, The Mountain",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Goat Cheese",
+      "Peach",
+      "Spaghetti",
+      "Woody's Secret"
+    ],
+    "likedGifts": [
+      "Hardwood",
+      "Quartz",
+      "Woodcutter's Weekly"
+    ],
+    "dislikedGifts": [
+      "Wild Horseradish"
+    ],
+    "hatedGifts": [
+      "Holly"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Robin"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at 24 Mountain Road, The Mountain."
+  },
+  {
+    "id": "villager-sandy",
+    "slug": "sandy",
+    "name": "Sandy",
+    "description": "A Stardew Valley villager who lives at Oasis, The Desert.",
+    "birthday": "Fall 15",
+    "location": "Oasis, The Desert",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Crocus",
+      "Daffodil",
+      "Mango Sticky Rice",
+      "Sweet Pea"
+    ],
+    "likedGifts": [
+      "Goat Milk",
+      "Large Goat Milk",
+      "Quartz",
+      "Wool"
+    ],
+    "dislikedGifts": [
+      "needs verification"
+    ],
+    "hatedGifts": [
+      "Holly"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sandy"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at Oasis, The Desert."
+  },
+  {
+    "id": "villager-vincent",
+    "slug": "vincent",
+    "name": "Vincent",
+    "description": "A Stardew Valley villager who lives at 1 Willow Lane, Pelican Town.",
+    "birthday": "Spring 10",
+    "location": "1 Willow Lane, Pelican Town",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Cranberry Candy",
+      "Frog Egg",
+      "Ginger Ale",
+      "Grape",
+      "Pink Cake",
+      "Snail"
+    ],
+    "likedGifts": [
+      "Coconut",
+      "Daffodil"
+    ],
+    "dislikedGifts": [
+      "Chanterelle",
+      "Common Mushroom",
+      "Dandelion",
+      "Ginger",
+      "Hazelnut",
+      "Holly",
+      "Leek",
+      "Magma Cap",
+      "Morel",
+      "Purple Mushroom",
+      "Quartz",
+      "Snow Yam",
+      "Winter Root"
+    ],
+    "hatedGifts": [
+      "Clay",
+      "Piña Colada",
+      "Triple Shot Espresso",
+      "Wild Horseradish"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Vincent"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at 1 Willow Lane, Pelican Town."
+  },
+  {
+    "id": "villager-willy",
+    "slug": "willy",
+    "name": "Willy",
+    "description": "A Stardew Valley villager who lives at Fish Shop, The Beach.",
+    "birthday": "Summer 24",
+    "location": "Fish Shop, The Beach",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Catfish",
+      "Diamond",
+      "Gold Bar",
+      "Iridium Bar",
+      "Jewels Of The Sea",
+      "Mead",
+      "Octopus",
+      "Pumpkin",
+      "Sea Cucumber",
+      "Sturgeon",
+      "The Art O' Crabbing"
+    ],
+    "likedGifts": [
+      "Bait And Bobber",
+      "Baked Fish",
+      "Carp Surprise",
+      "Chowder",
+      "Crab Cakes",
+      "Crispy Bass",
+      "Escargot",
+      "Fish Stew",
+      "Fish Taco",
+      "Fried Calamari",
+      "Fried Eel",
+      "Lingcod",
+      "Lobster Bisque",
+      "Quartz",
+      "Salmon Dinner",
+      "Seafoam Pudding",
+      "Tiger Trout",
+      "Trout Soup"
+    ],
+    "dislikedGifts": [
+      "Chanterelle",
+      "Common Mushroom",
+      "Daffodil",
+      "Dandelion",
+      "Ginger",
+      "Hazelnut",
+      "Holly",
+      "Leek",
+      "Life Elixir",
+      "Magma Cap",
+      "Morel",
+      "Purple Mushroom",
+      "Salmonberry",
+      "Snow Yam",
+      "Wild Horseradish",
+      "Winter Root"
+    ],
+    "hatedGifts": [
+      "needs verification"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Willy"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at Fish Shop, The Beach."
+  },
+  {
+    "id": "villager-wizard",
+    "slug": "wizard",
+    "name": "Wizard",
+    "description": "A Stardew Valley villager who lives at Wizard's Tower, Cindersap Forest.",
+    "birthday": "Winter 17",
+    "location": "Wizard's Tower, Cindersap Forest",
+    "marriageCandidate": false,
+    "lovedGifts": [
+      "Book of Mysteries",
+      "Purple Mushroom",
+      "Solar Essence",
+      "Super Cucumber",
+      "Void Essence"
+    ],
+    "likedGifts": [
+      "Iridium Bar",
+      "Quartz"
+    ],
+    "dislikedGifts": [
+      "Chanterelle",
+      "Common Mushroom",
+      "Daffodil",
+      "Dandelion",
+      "Ginger",
+      "Hazelnut",
+      "Holly",
+      "Leek",
+      "Magma Cap",
+      "Morel",
+      "Salmonberry",
+      "Slime",
+      "Snow Yam",
+      "Wild Horseradish",
+      "Winter Root"
+    ],
+    "hatedGifts": [
+      "needs verification"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Wizard"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "A Stardew Valley villager who lives at Wizard's Tower, Cindersap Forest."
   }
 ]
