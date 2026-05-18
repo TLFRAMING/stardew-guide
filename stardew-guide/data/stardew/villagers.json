@@ -18,14 +18,19 @@
       "Spicy Eel"
     ],
     "likedGifts": [
-      "Quartz",
-      "needs verification"
+      "Ancient Sword",
+      "Basilisk Paw",
+      "Bone Flute",
+      "Combat Quarterly",
+      "Quartz"
     ],
     "dislikedGifts": [
-      "needs verification"
+      "Sugar",
+      "Wild Horseradish"
     ],
     "hatedGifts": [
-      "needs verification"
+      "Clay",
+      "Holly"
     ],
     "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
     "sourceUrls": [
@@ -50,15 +55,34 @@
       "Void Egg"
     ],
     "likedGifts": [
+      "Combat Quarterly",
       "Flounder",
-      "Quartz",
-      "needs verification"
+      "Monster Compendium",
+      "Quartz"
     ],
     "dislikedGifts": [
-      "needs verification"
+      "Chanterelle",
+      "Common Mushroom",
+      "Daffodil",
+      "Dandelion",
+      "Ginger",
+      "Hazelnut",
+      "Holly",
+      "Leek",
+      "Magma Cap",
+      "Morel",
+      "Purple Mushroom",
+      "Salmonberry",
+      "Snow Yam",
+      "Wild Horseradish",
+      "Winter Root"
     ],
     "hatedGifts": [
-      "needs verification"
+      "Clay",
+      "Complete Breakfast",
+      "Farmer's Lunch",
+      "Omelet",
+      "Piña Colada"
     ],
     "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
     "sourceUrls": [
@@ -85,14 +109,40 @@
       "Wine"
     ],
     "likedGifts": [
+      "Chanterelle",
+      "Common Mushroom",
       "Daffodil",
-      "needs verification"
+      "Dandelion",
+      "Driftwood",
+      "Ginger",
+      "Hazelnut",
+      "Holly",
+      "Leek",
+      "Magma Cap",
+      "Morel",
+      "Purple Mushroom",
+      "Snow Yam",
+      "Spring Onion",
+      "Wild Horseradish",
+      "Winter Root"
     ],
     "dislikedGifts": [
-      "needs verification"
+      "Carp Surprise",
+      "Cookie",
+      "Fried Egg",
+      "Ice Cream",
+      "Pink Cake",
+      "Rice Pudding",
+      "Seaweed",
+      "Survival Burger",
+      "Tortilla"
     ],
     "hatedGifts": [
-      "needs verification"
+      "Bread",
+      "Hashbrowns",
+      "Pancakes",
+      "Pizza",
+      "Void Egg"
     ],
     "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
     "sourceUrls": [
@@ -122,14 +172,28 @@
     ],
     "likedGifts": [
       "Dandelion",
-      "Leek",
-      "needs verification"
+      "Leek"
     ],
     "dislikedGifts": [
-      "needs verification"
+      "Algae Soup",
+      "Duck Feather",
+      "Pale Broth",
+      "Purple Mushroom",
+      "Quartz",
+      "Red Mushroom",
+      "Salmonberry",
+      "Wool"
     ],
     "hatedGifts": [
-      "needs verification"
+      "Beer",
+      "Grape",
+      "Holly",
+      "Hops",
+      "Mead",
+      "Pale Ale",
+      "Piña Colada",
+      "Rabbit's Foot",
+      "Wine"
     ],
     "scheduleNotes": "Schedule varies by season, weekday, weather, tutoring days, and heart events; needs verification before production use.",
     "sourceUrls": [
@@ -153,14 +217,28 @@
       "Sunflower"
     ],
     "likedGifts": [
-      "Daffodil",
-      "needs verification"
+      "Daffodil"
     ],
     "dislikedGifts": [
-      "needs verification"
+      "Chanterelle",
+      "Common Mushroom",
+      "Dandelion",
+      "Ginger",
+      "Hazelnut",
+      "Holly",
+      "Leek",
+      "Magma Cap",
+      "Morel",
+      "Mystic Syrup",
+      "Purple Mushroom",
+      "Quartz",
+      "Snow Yam",
+      "Winter Root"
     ],
     "hatedGifts": [
-      "needs verification"
+      "Clay",
+      "Prismatic Shard",
+      "Wild Horseradish"
     ],
     "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
     "sourceUrls": [
@@ -184,14 +262,41 @@
       "Tigerseye"
     ],
     "likedGifts": [
-      "Joja Cola",
-      "needs verification"
+      "Joja Cola"
     ],
     "dislikedGifts": [
-      "needs verification"
+      "Chanterelle",
+      "Common Mushroom",
+      "Daffodil",
+      "Dandelion",
+      "Ginger",
+      "Hazelnut",
+      "Holly",
+      "Leek",
+      "Magma Cap",
+      "Morel",
+      "Purple Mushroom",
+      "Quartz",
+      "Salmonberry",
+      "Seaweed",
+      "Snow Yam",
+      "Wild Horseradish",
+      "Winter Root"
     ],
     "hatedGifts": [
-      "needs verification"
+      "Bone Fragment",
+      "Cinder Shard",
+      "Coal",
+      "Copper Bar",
+      "Duck Mayonnaise",
+      "Gold Bar",
+      "Gold Ore",
+      "Iridium Bar",
+      "Iridium Ore",
+      "Iron Bar",
+      "Mayonnaise",
+      "Pickles",
+      "Refined Quartz"
     ],
     "scheduleNotes": "Schedule varies by season, weekday, weather, work days, and heart events; needs verification before production use.",
     "sourceUrls": [
@@ -221,14 +326,21 @@
     ],
     "likedGifts": [
       "Daffodil",
-      "Quartz",
-      "needs verification"
+      "Quartz"
     ],
     "dislikedGifts": [
-      "needs verification"
+      "Fried Eel",
+      "Ice Cream",
+      "Rice Pudding",
+      "Salmonberry",
+      "Spicy Eel"
     ],
     "hatedGifts": [
-      "needs verification"
+      "Fish Taco",
+      "Holly",
+      "Maki Roll",
+      "Salmon Dinner",
+      "Sashimi"
     ],
     "scheduleNotes": "Schedule varies by season, weekday, weather, work shifts, and heart events; needs verification before production use.",
     "sourceUrls": [
@@ -252,14 +364,28 @@
       "Pizza"
     ],
     "likedGifts": [
-      "Egg",
       "needs verification"
     ],
     "dislikedGifts": [
-      "needs verification"
+      "Chanterelle",
+      "Common Mushroom",
+      "Daffodil",
+      "Dandelion",
+      "Ginger",
+      "Hazelnut",
+      "Holly",
+      "Leek",
+      "Magma Cap",
+      "Morel",
+      "Purple Mushroom",
+      "Seaweed",
+      "Snow Yam",
+      "Wild Horseradish",
+      "Winter Root"
     ],
     "hatedGifts": [
-      "needs verification"
+      "Pickles",
+      "Quartz"
     ],
     "scheduleNotes": "Schedule varies by season, weekday, weather, JojaMart work status, and heart events; needs verification before production use.",
     "sourceUrls": [
@@ -284,16 +410,51 @@
       "Wine"
     ],
     "likedGifts": [
+      "Chanterelle",
+      "Common Mushroom",
       "Daffodil",
+      "Dandelion",
       "Duck Egg",
       "Duck Feather",
-      "needs verification"
+      "Ginger",
+      "Goat Milk",
+      "Hazelnut",
+      "Holly",
+      "Large Goat Milk",
+      "Leek",
+      "Magma Cap",
+      "Morel",
+      "Purple Mushroom",
+      "Quartz",
+      "Snow Yam",
+      "Spring Onion",
+      "Wild Horseradish",
+      "Winter Root"
     ],
     "dislikedGifts": [
-      "needs verification"
+      "Blueberry Tart",
+      "Bread",
+      "Cheese",
+      "Chocolate Cake",
+      "Cookie",
+      "Cranberry Sauce",
+      "Fried Mushroom",
+      "Glazed Yams",
+      "Goat Cheese",
+      "Hashbrowns",
+      "Ice Cream",
+      "Pancakes",
+      "Pink Cake",
+      "Pizza",
+      "Rhubarb Pie",
+      "Rice Pudding"
     ],
     "hatedGifts": [
-      "needs verification"
+      "Coral",
+      "Nautilus Shell",
+      "Rainbow Shell",
+      "Salmonberry",
+      "Spice Berry"
     ],
     "scheduleNotes": "Schedule varies by season, weekday, clinic hours, weather, and heart events; needs verification before production use.",
     "sourceUrls": [
@@ -324,15 +485,30 @@
       "Strawberry"
     ],
     "likedGifts": [
+      "Chanterelle",
       "Copper Bar",
       "Iron Bar",
-      "needs verification"
+      "Magma Cap",
+      "Morel",
+      "Oak Resin",
+      "Pine Tar",
+      "Purple Mushroom",
+      "Quartz",
+      "Radioactive Ore"
     ],
     "dislikedGifts": [
-      "needs verification"
+      "Blackberry",
+      "Common Mushroom",
+      "Crystal Fruit",
+      "Maple Syrup",
+      "Salmonberry"
     ],
     "hatedGifts": [
-      "needs verification"
+      "Holly",
+      "Honey",
+      "Pickles",
+      "Snow Yam",
+      "Truffle"
     ],
     "scheduleNotes": "Schedule varies by season, weekday, weather, clinic work shifts, and heart events; needs verification before production use.",
     "sourceUrls": [
