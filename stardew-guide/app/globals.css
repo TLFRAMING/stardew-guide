@@ -195,4 +195,80 @@ a {
       linear-gradient(90deg, rgba(122, 86, 56, 0.1), transparent 40%),
       rgba(255, 253, 244, 0.46);
   }
+
+  .codex-list-shell {
+    border: 1px solid rgba(122, 86, 56, 0.18);
+    background:
+      linear-gradient(180deg, rgba(255, 253, 244, 0.9), rgba(248, 241, 220, 0.72)),
+      rgba(255, 253, 244, 0.7);
+    box-shadow: 0 16px 36px rgba(49, 72, 56, 0.08);
+  }
+
+  .codex-list-toolbar {
+    border: 1px solid rgba(122, 86, 56, 0.16);
+    background:
+      linear-gradient(180deg, rgba(255, 253, 244, 0.96), rgba(247, 239, 215, 0.62)),
+      rgba(255, 253, 244, 0.7);
+    box-shadow: inset 0 0 0 1px rgba(255, 253, 244, 0.72);
+  }
+
+  .codex-list-card {
+    position: relative;
+    overflow: hidden;
+    border: 1px solid rgba(122, 86, 56, 0.18);
+    background:
+      linear-gradient(180deg, rgba(255, 253, 244, 0.96), rgba(249, 244, 227, 0.86)),
+      rgba(255, 253, 244, 0.72);
+    box-shadow: 0 14px 32px rgba(49, 72, 56, 0.1), inset 0 0 0 2px rgba(255, 253, 244, 0.72);
+  }
+
+  .codex-list-card::before {
+    content: "";
+    position: absolute;
+    inset: 0 auto 0 0;
+    width: 0.42rem;
+    background: var(--list-accent, var(--codex-meadow));
+  }
+
+  .codex-list-card-meadow {
+    --list-accent: var(--codex-meadow);
+    --list-chip-bg: rgba(79, 127, 82, 0.12);
+    --list-chip-ink: var(--codex-meadow);
+    --list-chip-border: rgba(79, 127, 82, 0.28);
+  }
+
+  .codex-list-card-pond {
+    --list-accent: var(--codex-pond);
+    --list-chip-bg: rgba(76, 140, 168, 0.12);
+    --list-chip-ink: var(--codex-pond);
+    --list-chip-border: rgba(76, 140, 168, 0.28);
+  }
+
+  .codex-list-card-berry {
+    --list-accent: var(--codex-berry);
+    --list-chip-bg: rgba(182, 78, 100, 0.12);
+    --list-chip-ink: var(--codex-berry);
+    --list-chip-border: rgba(182, 78, 100, 0.28);
+  }
+
+  .codex-list-card-gold {
+    --list-accent: var(--codex-gold);
+    --list-chip-bg: rgba(200, 137, 45, 0.14);
+    --list-chip-ink: #8a5b18;
+    --list-chip-border: rgba(200, 137, 45, 0.3);
+  }
+
+  .codex-list-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    border: 1px solid var(--list-chip-border, rgba(79, 127, 82, 0.28));
+    background: var(--list-chip-bg, rgba(79, 127, 82, 0.12));
+    color: var(--list-chip-ink, var(--codex-meadow));
+  }
+
+  .codex-list-metric {
+    border: 1px solid rgba(122, 86, 56, 0.14);
+    background: rgba(255, 253, 244, 0.68);
+  }
 }
