@@ -1,0 +1,307 @@
+# Web Extraction Review
+
+- Source URL: https://stardewvalleywiki.com/Haley
+- Final URL: https://stardewvalleywiki.com/Haley
+- Title: Haley - Stardew Valley Wiki
+- Canonical URL: n/a
+- Confidence: high
+- Recommendation: approve for cleaning
+
+## Tables
+- Table 0: 0 headers, 10 rows, caption: none
+- Table 1: 0 headers, 2 rows, caption: none
+- Table 2: 2 headers, 3 rows, caption: none
+- Table 3: 2 headers, 4 rows, caption: none
+- Table 4: 2 headers, 3 rows, caption: none
+- Table 5: 2 headers, 6 rows, caption: none
+- Table 6: 2 headers, 8 rows, caption: none
+- Table 7: 2 headers, 5 rows, caption: none
+- Table 8: 2 headers, 7 rows, caption: none
+- Table 9: 2 headers, 1 rows, caption: none
+- Table 10: 2 headers, 6 rows, caption: none
+- Table 11: 2 headers, 5 rows, caption: none
+- Table 12: 2 headers, 7 rows, caption: none
+- Table 13: 2 headers, 9 rows, caption: none
+- Table 14: 2 headers, 6 rows, caption: none
+- Table 15: 2 headers, 8 rows, caption: none
+- Table 16: 2 headers, 5 rows, caption: none
+- Table 17: 2 headers, 7 rows, caption: none
+- Table 18: 2 headers, 2 rows, caption: none
+- Table 19: 2 headers, 5 rows, caption: none
+- Table 20: 2 headers, 6 rows, caption: none
+- Table 21: 2 headers, 5 rows, caption: none
+- Table 22: 2 headers, 7 rows, caption: none
+- Table 23: 2 headers, 6 rows, caption: none
+- Table 24: 2 headers, 3 rows, caption: none
+- Table 25: 2 headers, 2 rows, caption: none
+- Table 26: 2 headers, 6 rows, caption: none
+- Table 27: 0 headers, 1 rows, caption: none
+- Table 28: 0 headers, 1 rows, caption: none
+- Table 29: 0 headers, 1 rows, caption: none
+- Table 30: 0 headers, 1 rows, caption: none
+- Table 31: 0 headers, 1 rows, caption: none
+- Table 32: 0 headers, 1 rows, caption: none
+- Table 33: 0 headers, 1 rows, caption: none
+- Table 34: 0 headers, 1 rows, caption: none
+- Table 35: 5 headers, 5 rows, caption: none
+- Table 36: 0 headers, 1 rows, caption: none
+- Table 37: 4 headers, 2 rows, caption: none
+- Table 38: 0 headers, 1 rows, caption: none
+- Table 39: 4 headers, 1 rows, caption: none
+- Table 40: 0 headers, 1 rows, caption: none
+- Table 41: 4 headers, 15 rows, caption: none
+- Table 42: 0 headers, 1 rows, caption: none
+- Table 43: 4 headers, 4 rows, caption: none
+- Table 44: 1 headers, 5 rows, caption: none
+- Table 45: 1 headers, 5 rows, caption: none
+- Table 46: 1 headers, 1 rows, caption: none
+- Table 47: 1 headers, 1 rows, caption: none
+- Table 48: 1 headers, 1 rows, caption: none
+- Table 49: 0 headers, 1 rows, caption: none
+- Table 50: 1 headers, 1 rows, caption: none
+- Table 51: 1 headers, 1 rows, caption: none
+- Table 52: 1 headers, 1 rows, caption: none
+- Table 53: 0 headers, 1 rows, caption: none
+- Table 54: 0 headers, 1 rows, caption: none
+- Table 55: 0 headers, 1 rows, caption: none
+- Table 56: 0 headers, 1 rows, caption: none
+- Table 57: 0 headers, 1 rows, caption: none
+- Table 58: 0 headers, 1 rows, caption: none
+- Table 59: 0 headers, 1 rows, caption: none
+- Table 60: 0 headers, 1 rows, caption: none
+- Table 61: 0 headers, 1 rows, caption: none
+- Table 62: 0 headers, 1 rows, caption: none
+- Table 63: 0 headers, 1 rows, caption: none
+- Table 64: 0 headers, 1 rows, caption: none
+- Table 65: 0 headers, 1 rows, caption: none
+- Table 66: 0 headers, 1 rows, caption: none
+- Table 67: 0 headers, 1 rows, caption: none
+- Table 68: 0 headers, 1 rows, caption: none
+- Table 69: 0 headers, 1 rows, caption: none
+- Table 70: 0 headers, 1 rows, caption: none
+- Table 71: 0 headers, 1 rows, caption: none
+- Table 72: 0 headers, 1 rows, caption: none
+- Table 73: 0 headers, 1 rows, caption: none
+- Table 74: 0 headers, 1 rows, caption: none
+- Table 75: 0 headers, 1 rows, caption: none
+- Table 76: 0 headers, 1 rows, caption: none
+- Table 77: 0 headers, 1 rows, caption: none
+- Table 78: 0 headers, 1 rows, caption: none
+- Table 79: 0 headers, 1 rows, caption: none
+- Table 80: 0 headers, 1 rows, caption: none
+- Table 81: 0 headers, 1 rows, caption: none
+- Table 82: 0 headers, 1 rows, caption: none
+- Table 83: 0 headers, 1 rows, caption: none
+- Table 84: 0 headers, 1 rows, caption: none
+- Table 85: 0 headers, 1 rows, caption: none
+- Table 86: 0 headers, 1 rows, caption: none
+- Table 87: 0 headers, 1 rows, caption: none
+- Table 88: 0 headers, 1 rows, caption: none
+- Table 89: 0 headers, 1 rows, caption: none
+- Table 90: 0 headers, 1 rows, caption: none
+- Table 91: 0 headers, 1 rows, caption: none
+- Table 92: 0 headers, 1 rows, caption: none
+- Table 93: 0 headers, 1 rows, caption: none
+- Table 94: 0 headers, 1 rows, caption: none
+- Table 95: 0 headers, 1 rows, caption: none
+- Table 96: 0 headers, 1 rows, caption: none
+- Table 97: 0 headers, 1 rows, caption: none
+- Table 98: 0 headers, 1 rows, caption: none
+- Table 99: 0 headers, 1 rows, caption: none
+- Table 100: 0 headers, 1 rows, caption: none
+- Table 101: 0 headers, 1 rows, caption: none
+- Table 102: 0 headers, 1 rows, caption: none
+- Table 103: 0 headers, 1 rows, caption: none
+- Table 104: 0 headers, 1 rows, caption: none
+- Table 105: 0 headers, 1 rows, caption: none
+- Table 106: 0 headers, 1 rows, caption: none
+- Table 107: 0 headers, 1 rows, caption: none
+- Table 108: 0 headers, 1 rows, caption: none
+- Table 109: 0 headers, 1 rows, caption: none
+- Table 110: 0 headers, 1 rows, caption: none
+- Table 111: 0 headers, 1 rows, caption: none
+- Table 112: 0 headers, 1 rows, caption: none
+- Table 113: 0 headers, 1 rows, caption: none
+- Table 114: 0 headers, 1 rows, caption: none
+- Table 115: 0 headers, 1 rows, caption: none
+- Table 116: 0 headers, 1 rows, caption: none
+- Table 117: 0 headers, 1 rows, caption: none
+- Table 118: 0 headers, 1 rows, caption: none
+- Table 119: 0 headers, 1 rows, caption: none
+- Table 120: 0 headers, 1 rows, caption: none
+- Table 121: 0 headers, 1 rows, caption: none
+- Table 122: 0 headers, 1 rows, caption: none
+- Table 123: 0 headers, 1 rows, caption: none
+- Table 124: 0 headers, 1 rows, caption: none
+- Table 125: 0 headers, 1 rows, caption: none
+- Table 126: 0 headers, 1 rows, caption: none
+- Table 127: 0 headers, 1 rows, caption: none
+- Table 128: 0 headers, 1 rows, caption: none
+- Table 129: 0 headers, 1 rows, caption: none
+- Table 130: 0 headers, 1 rows, caption: none
+- Table 131: 0 headers, 1 rows, caption: none
+- Table 132: 0 headers, 1 rows, caption: none
+- Table 133: 0 headers, 1 rows, caption: none
+- Table 134: 0 headers, 1 rows, caption: none
+- Table 135: 0 headers, 1 rows, caption: none
+- Table 136: 0 headers, 1 rows, caption: none
+- Table 137: 0 headers, 1 rows, caption: none
+- Table 138: 0 headers, 1 rows, caption: none
+- Table 139: 0 headers, 1 rows, caption: none
+- Table 140: 0 headers, 1 rows, caption: none
+- Table 141: 0 headers, 1 rows, caption: none
+- Table 142: 0 headers, 1 rows, caption: none
+- Table 143: 0 headers, 1 rows, caption: none
+- Table 144: 0 headers, 1 rows, caption: none
+- Table 145: 0 headers, 1 rows, caption: none
+- Table 146: 0 headers, 1 rows, caption: none
+- Table 147: 0 headers, 1 rows, caption: none
+- Table 148: 0 headers, 1 rows, caption: none
+- Table 149: 0 headers, 1 rows, caption: none
+- Table 150: 0 headers, 1 rows, caption: none
+- Table 151: 0 headers, 1 rows, caption: none
+- Table 152: 0 headers, 1 rows, caption: none
+- Table 153: 0 headers, 1 rows, caption: none
+- Table 154: 0 headers, 1 rows, caption: none
+- Table 155: 0 headers, 1 rows, caption: none
+- Table 156: 0 headers, 1 rows, caption: none
+- Table 157: 0 headers, 1 rows, caption: none
+- Table 158: 0 headers, 1 rows, caption: none
+- Table 159: 0 headers, 1 rows, caption: none
+- Table 160: 0 headers, 1 rows, caption: none
+- Table 161: 0 headers, 1 rows, caption: none
+- Table 162: 0 headers, 1 rows, caption: none
+- Table 163: 0 headers, 1 rows, caption: none
+- Table 164: 0 headers, 1 rows, caption: none
+- Table 165: 0 headers, 1 rows, caption: none
+- Table 166: 0 headers, 1 rows, caption: none
+- Table 167: 0 headers, 1 rows, caption: none
+- Table 168: 0 headers, 1 rows, caption: none
+- Table 169: 0 headers, 1 rows, caption: none
+- Table 170: 0 headers, 1 rows, caption: none
+- Table 171: 0 headers, 1 rows, caption: none
+- Table 172: 0 headers, 1 rows, caption: none
+- Table 173: 0 headers, 1 rows, caption: none
+- Table 174: 0 headers, 1 rows, caption: none
+- Table 175: 0 headers, 1 rows, caption: none
+- Table 176: 0 headers, 1 rows, caption: none
+- Table 177: 0 headers, 1 rows, caption: none
+- Table 178: 0 headers, 1 rows, caption: none
+- Table 179: 0 headers, 1 rows, caption: none
+- Table 180: 0 headers, 1 rows, caption: none
+- Table 181: 0 headers, 1 rows, caption: none
+- Table 182: 0 headers, 1 rows, caption: none
+- Table 183: 0 headers, 1 rows, caption: none
+- Table 184: 0 headers, 1 rows, caption: none
+- Table 185: 0 headers, 1 rows, caption: none
+- Table 186: 0 headers, 1 rows, caption: none
+- Table 187: 0 headers, 1 rows, caption: none
+- Table 188: 0 headers, 1 rows, caption: none
+- Table 189: 0 headers, 1 rows, caption: none
+- Table 190: 0 headers, 1 rows, caption: none
+- Table 191: 0 headers, 1 rows, caption: none
+- Table 192: 0 headers, 1 rows, caption: none
+- Table 193: 0 headers, 1 rows, caption: none
+- Table 194: 0 headers, 1 rows, caption: none
+- Table 195: 0 headers, 1 rows, caption: none
+- Table 196: 0 headers, 1 rows, caption: none
+- Table 197: 0 headers, 1 rows, caption: none
+- Table 198: 0 headers, 1 rows, caption: none
+- Table 199: 0 headers, 1 rows, caption: none
+- Table 200: 0 headers, 1 rows, caption: none
+- Table 201: 0 headers, 1 rows, caption: none
+- Table 202: 0 headers, 1 rows, caption: none
+- Table 203: 0 headers, 1 rows, caption: none
+- Table 204: 0 headers, 1 rows, caption: none
+- Table 205: 0 headers, 1 rows, caption: none
+- Table 206: 0 headers, 1 rows, caption: none
+- Table 207: 0 headers, 1 rows, caption: none
+- Table 208: 0 headers, 1 rows, caption: none
+- Table 209: 0 headers, 1 rows, caption: none
+- Table 210: 0 headers, 1 rows, caption: none
+- Table 211: 0 headers, 1 rows, caption: none
+- Table 212: 0 headers, 1 rows, caption: none
+- Table 213: 0 headers, 1 rows, caption: none
+- Table 214: 0 headers, 1 rows, caption: none
+- Table 215: 0 headers, 1 rows, caption: none
+- Table 216: 0 headers, 1 rows, caption: none
+- Table 217: 0 headers, 1 rows, caption: none
+- Table 218: 0 headers, 1 rows, caption: none
+- Table 219: 0 headers, 1 rows, caption: none
+- Table 220: 0 headers, 1 rows, caption: none
+- Table 221: 0 headers, 1 rows, caption: none
+- Table 222: 0 headers, 1 rows, caption: none
+- Table 223: 0 headers, 1 rows, caption: none
+- Table 224: 0 headers, 1 rows, caption: none
+- Table 225: 0 headers, 1 rows, caption: none
+- Table 226: 0 headers, 1 rows, caption: none
+- Table 227: 0 headers, 1 rows, caption: none
+- Table 228: 0 headers, 1 rows, caption: none
+- Table 229: 0 headers, 1 rows, caption: none
+- Table 230: 0 headers, 1 rows, caption: none
+- Table 231: 0 headers, 1 rows, caption: none
+- Table 232: 0 headers, 1 rows, caption: none
+- Table 233: 0 headers, 1 rows, caption: none
+- Table 234: 0 headers, 1 rows, caption: none
+- Table 235: 0 headers, 1 rows, caption: none
+- Table 236: 0 headers, 1 rows, caption: none
+- Table 237: 0 headers, 1 rows, caption: none
+- Table 238: 0 headers, 1 rows, caption: none
+- Table 239: 0 headers, 1 rows, caption: none
+- Table 240: 0 headers, 1 rows, caption: none
+- Table 241: 0 headers, 1 rows, caption: none
+- Table 242: 0 headers, 1 rows, caption: none
+- Table 243: 0 headers, 1 rows, caption: none
+- Table 244: 0 headers, 1 rows, caption: none
+- Table 245: 0 headers, 1 rows, caption: none
+- Table 246: 0 headers, 1 rows, caption: none
+- Table 247: 0 headers, 1 rows, caption: none
+- Table 248: 0 headers, 1 rows, caption: none
+- Table 249: 0 headers, 1 rows, caption: none
+- Table 250: 0 headers, 1 rows, caption: none
+- Table 251: 0 headers, 1 rows, caption: none
+- Table 252: 0 headers, 1 rows, caption: none
+- Table 253: 0 headers, 1 rows, caption: none
+- Table 254: 1 headers, 4 rows, caption: none
+
+## JSON-LD
+- Blocks parsed: 1
+
+## Headings
+- h1: Haley
+- h2: Contents
+- h2: Schedule
+- h2: Relationships
+- h2: Gifts
+- h3: Love
+- h3: Like
+- h3: Neutral
+- h3: Dislike
+- h3: Hate
+- h2: Movies & Concessions
+- h2: Heart Events
+- h3: Two Hearts
+- h3: Four Hearts
+- h3: Six Hearts
+- h3: Eight Hearts
+- h3: Ten Hearts
+- h3: Group Ten-Heart Event
+- h3: Fourteen Hearts
+- h2: Marriage
+- h2: Quotes
+- h2: Questions
+- h2: Quests
+- h2: Portraits
+- h2: Timeline
+- h2: Trivia
+- h2: History
+- h2: Navigation menu
+- h3: Personal tools
+- h3: Namespaces
+
+## Warnings
+- None.
+
+## Candidate Facts
+- Review raw JSON before converting any value into production data.
+- Mark uncertain or missing values as `needs verification`.

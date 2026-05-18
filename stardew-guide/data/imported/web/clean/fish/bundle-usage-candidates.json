@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "smallmouth-bass",
+    "name": "Smallmouth Bass",
+    "currentBundleUsage": [
+      "needs verification"
+    ],
+    "candidateBundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Smallmouth_Bass"
+    ],
+    "confidence": "high",
+    "notes": "Extracted Stardew Wiki page states this fish is not used in any bundles; no local bundles.json match."
+  },
+  {
+    "slug": "anchovy",
+    "name": "Anchovy",
+    "currentBundleUsage": [
+      "needs verification"
+    ],
+    "candidateBundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Anchovy"
+    ],
+    "confidence": "high",
+    "notes": "Extracted Stardew Wiki page states this fish is not used in any bundles; no local bundles.json match."
+  },
+  {
+    "slug": "herring",
+    "name": "Herring",
+    "currentBundleUsage": [
+      "needs verification"
+    ],
+    "candidateBundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Herring"
+    ],
+    "confidence": "high",
+    "notes": "Extracted Stardew Wiki page states this fish is not used in any bundles; no local bundles.json match."
+  },
+  {
+    "slug": "flounder",
+    "name": "Flounder",
+    "currentBundleUsage": [
+      "needs verification"
+    ],
+    "candidateBundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Flounder"
+    ],
+    "confidence": "high",
+    "notes": "Extracted Stardew Wiki page states this fish is not used in any bundles; no local bundles.json match."
+  },
+  {
+    "slug": "halibut",
+    "name": "Halibut",
+    "currentBundleUsage": [
+      "needs verification"
+    ],
+    "candidateBundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Halibut"
+    ],
+    "confidence": "high",
+    "notes": "Extracted Stardew Wiki page states this fish is not used in any bundles; no local bundles.json match."
+  },
+  {
+    "slug": "salmon",
+    "name": "Salmon",
+    "currentBundleUsage": [
+      "needs verification"
+    ],
+    "candidateBundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Salmon"
+    ],
+    "confidence": "high",
+    "notes": "Extracted Stardew Wiki page states this fish is not used in any bundles; no local bundles.json match."
+  },
+  {
+    "slug": "pike",
+    "name": "Pike",
+    "currentBundleUsage": [
+      "needs verification"
+    ],
+    "candidateBundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Pike"
+    ],
+    "confidence": "high",
+    "notes": "Extracted Stardew Wiki page states this fish is not used in any bundles; no local bundles.json match."
+  },
+  {
+    "slug": "perch",
+    "name": "Perch",
+    "currentBundleUsage": [
+      "needs verification"
+    ],
+    "candidateBundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Perch"
+    ],
+    "confidence": "high",
+    "notes": "Extracted Stardew Wiki page states this fish is not used in any bundles; no local bundles.json match."
+  },
+  {
+    "slug": "rainbow-trout",
+    "name": "Rainbow Trout",
+    "currentBundleUsage": [
+      "needs verification"
+    ],
+    "candidateBundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Rainbow_Trout"
+    ],
+    "confidence": "high",
+    "notes": "Extracted Stardew Wiki page states this fish is not used in any bundles; no local bundles.json match."
+  },
+  {
+    "slug": "octopus",
+    "name": "Octopus",
+    "currentBundleUsage": [
+      "needs verification"
+    ],
+    "candidateBundleUsage": [
+      "Master Fisher's Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Octopus"
+    ],
+    "confidence": "high",
+    "notes": "Extracted Stardew Wiki page states this fish is an option in a remixed Fish Tank bundle; no local standard bundles.json match."
+  }
+]

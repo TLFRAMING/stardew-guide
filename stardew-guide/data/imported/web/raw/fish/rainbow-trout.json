@@ -1,0 +1,2343 @@
+{
+  "sourceUrl": "https://stardewvalleywiki.com/Rainbow_Trout",
+  "finalUrl": "https://stardewvalleywiki.com/Rainbow_Trout",
+  "fetchedAt": "2026-05-18T04:34:24.593223+00:00",
+  "title": "Rainbow Trout - Stardew Valley Wiki",
+  "description": "The Rainbow Trout is a fish that can be caught in the river (in Pelican Town and Cindersap Forest) and the mountain lake during Summer during sunny weather. It can also be gifted by a pet cat with max friendship. It can also randomly be found in Garbage Cans during Summer, or at the Traveling Cart for data-sort-value=\"65\"195–1,000g.",
+  "canonicalUrl": "",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Rainbow Trout"
+    },
+    {
+      "level": 2,
+      "text": "Contents"
+    },
+    {
+      "level": 2,
+      "text": "Map"
+    },
+    {
+      "level": 2,
+      "text": "Gifting"
+    },
+    {
+      "level": 2,
+      "text": "Bundles"
+    },
+    {
+      "level": 2,
+      "text": "Recipes"
+    },
+    {
+      "level": 2,
+      "text": "Tailoring"
+    },
+    {
+      "level": 2,
+      "text": "Fish Pond"
+    },
+    {
+      "level": 2,
+      "text": "Quests"
+    },
+    {
+      "level": 2,
+      "text": "History"
+    },
+    {
+      "level": 2,
+      "text": "Navigation menu"
+    },
+    {
+      "level": 3,
+      "text": "Personal tools"
+    },
+    {
+      "level": 3,
+      "text": "Namespaces"
+    },
+    {
+      "level": 3,
+      "text": "Variants"
+    },
+    {
+      "level": 3,
+      "text": "Views"
+    },
+    {
+      "level": 3,
+      "text": "More"
+    },
+    {
+      "level": 3,
+      "text": "Search"
+    },
+    {
+      "level": 3,
+      "text": "Navigation"
+    },
+    {
+      "level": 3,
+      "text": "Links"
+    },
+    {
+      "level": 3,
+      "text": "Tools"
+    },
+    {
+      "level": 3,
+      "text": "In other languages"
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "25",
+          "",
+          "11"
+        ],
+        [
+          "",
+          "35",
+          "",
+          "15"
+        ],
+        [
+          "",
+          "45",
+          "",
+          "20"
+        ],
+        [
+          "",
+          "65",
+          "",
+          "29"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 1,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "65g"
+        ],
+        [
+          "",
+          "81g"
+        ],
+        [
+          "",
+          "97g"
+        ],
+        [
+          "",
+          "130g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 2,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "81g"
+        ],
+        [
+          "",
+          "101g"
+        ],
+        [
+          "",
+          "121g"
+        ],
+        [
+          "",
+          "162g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 3,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "97g"
+        ],
+        [
+          "",
+          "121g"
+        ],
+        [
+          "",
+          "145g"
+        ],
+        [
+          "",
+          "195g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 4,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "62g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 5,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "124g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 6,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "173g"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 7,
+      "caption": "",
+      "headers": [
+        "Villager Reactions"
+      ],
+      "rows": [
+        [
+          "Neutral",
+          "Demetrius • Elliott • Leo • Linus • Pam • Sebastian • Willy"
+        ],
+        [
+          "Dislike",
+          "Abigail • Alex • Caroline • Clint • Dwarf • Emily • George • Gus • Harvey • Jas • Jodi • Kent • Krobus • Leah • Lewis • Marnie • Maru • Penny • Robin • Sam • Sandy • Shane • Vincent • Wizard"
+        ],
+        [
+          "Hate",
+          "Evelyn • Haley • Pierre"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 8,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "The Queen of Sauce"
+        ],
+        [
+          "21 Summer, Year 1"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 9,
+      "caption": "",
+      "headers": [],
+      "rows": [
+        [
+          "",
+          "The Queen of Sauce"
+        ],
+        [
+          "14 Fall, Year 1"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 10,
+      "caption": "",
+      "headers": [
+        "Pond Capacity",
+        "Quest Item",
+        "Fishing XP Granted"
+      ],
+      "rows": [
+        [
+          "Before Quest",
+          "After Quest"
+        ],
+        [
+          "3",
+          "5",
+          "3 Coral, 1 Honey, 1 Oyster, or 3 Refined Quartz",
+          "30"
+        ],
+        [
+          "5",
+          "7",
+          "1 Dried Starfish, 2 Emeralds, 2-3 Omni Geodes, or 2-3 Purple Mushrooms",
+          "30"
+        ],
+        [
+          "7",
+          "10",
+          "1 Diamond, 3 Gold Bars, 1 Iridium Ore, 1 Jelly, or 1 Pickle",
+          "30"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 11,
+      "caption": "",
+      "headers": [
+        "Item(s) Produced",
+        "Fishing XP Granted",
+        "Population",
+        "% of Items",
+        "Overall Daily Chance"
+      ],
+      "rows": [
+        [
+          "Roe (1)",
+          "12",
+          "1-8",
+          "100%",
+          "23-79%"
+        ],
+        [
+          "9-10",
+          "98%",
+          "85-93%"
+        ],
+        [
+          "Rainbow Shell (1)",
+          "22",
+          "9-10",
+          "2%",
+          "1.7-1.9%"
+        ],
+        [
+          "Prismatic Shard (1)",
+          "90",
+          "9-10",
+          "0.1%",
+          "0.09%"
+        ],
+        [
+          "Nothing",
+          "",
+          "1-8",
+          "0%",
+          "77-21%"
+        ],
+        [
+          "9-10",
+          "0%",
+          "13-5%"
+        ]
+      ],
+      "confidence": "high"
+    },
+    {
+      "index": 12,
+      "caption": "",
+      "headers": [
+        "Fish"
+      ],
+      "rows": [
+        [
+          "Legendary",
+          "Angler • Crimsonfish • Glacierfish • Glacierfish Jr. • Legend • Legend II • Ms. Angler • Mutant Carp • Radioactive Carp • Son of Crimsonfish"
+        ],
+        [
+          "The Beach",
+          "Albacore • Anchovy • Crimsonfish • Eel • Flounder • Halibut • Herring • Octopus • Pufferfish • Red Mullet • Red Snapper • Sardine • Sea Cucumber • Son of Crimsonfish • Squid • Super Cucumber • Tilapia • Tuna"
+        ],
+        [
+          "River",
+          "Angler • Bream • Catfish • Chub • Dorado • Glacierfish • Glacierfish Jr. • Goby • Lingcod • Ms. Angler • Perch • Pike • Rainbow Trout • Salmon • Shad • Smallmouth Bass • Sunfish • Tiger Trout • Walleye"
+        ],
+        [
+          "Mountain Lake",
+          "Bullhead • Carp • Chub • Largemouth Bass • Legend • Legend II • Lingcod • Midnight Carp • Perch • Rainbow Trout • Sturgeon • Walleye"
+        ],
+        [
+          "Cindersap Forest Pond",
+          "Midnight Carp • Perch • Pike • Smallmouth Bass • Walleye"
+        ],
+        [
+          "Secret Woods",
+          "Carp • Catfish • Woodskip"
+        ],
+        [
+          "Mines",
+          "Ghostfish • Ice Pip • Lava Eel • Stonefish"
+        ],
+        [
+          "Sewers",
+          "Carp • Mutant Carp • Radioactive Carp"
+        ],
+        [
+          "Desert",
+          "Sandfish • Scorpion Carp"
+        ],
+        [
+          "Mutant Bug Lair",
+          "Carp • Slimejack"
+        ],
+        [
+          "Witch's Swamp",
+          "Catfish • Void Salmon"
+        ],
+        [
+          "Night Market",
+          "Blobfish • Midnight Squid • Octopus • Sea Cucumber • Spook Fish • Super Cucumber"
+        ],
+        [
+          "Crab Pot",
+          "Clam • Cockle • Crab • Crayfish • Lobster • Mussel • Oyster • Periwinkle • Shrimp • Snail"
+        ],
+        [
+          "Ginger Island",
+          "Blue Discus • Flounder • Lava Eel • Lionfish • Midnight Carp • Octopus • Pufferfish • Stingray • Super Cucumber • Tilapia • Tuna"
+        ]
+      ],
+      "confidence": "high"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://stardewvalleywiki.com/Rainbow_Trout#mw-head",
+      "text": "Jump to navigation"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rainbow_Trout#searchInput",
+      "text": "Jump to search"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Rainbow_Trout.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mountain",
+      "text": "Mountain Lake"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trout_Derby",
+      "text": "Trout Derby"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trout_Derby",
+      "text": "Trout Derby"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish#Behavior",
+      "text": "Mixed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Energy",
+      "text": "Energy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Health",
+      "text": "Health"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Fishing",
+      "text": "Fisher"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Skills#Fishing",
+      "text": "Angler"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trout_Derby",
+      "text": "Trout Derby"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish",
+      "text": "fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pelican_Town",
+      "text": "Pelican Town"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cindersap_Forest",
+      "text": "Cindersap Forest"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mountain",
+      "text": "mountain lake"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Weather",
+      "text": "weather"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Animals#Pets",
+      "text": "pet"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Animals#Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Garbage_Can",
+      "text": "Garbage Cans"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Traveling_Cart",
+      "text": "Traveling Cart"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trout_Derby",
+      "text": "Trout Derby"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farm_Maps",
+      "text": "Farm Maps"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Magic_Bait",
+      "text": "Magic Bait"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rainbow_Trout#Map",
+      "text": "1 Map"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rainbow_Trout#Gifting",
+      "text": "2 Gifting"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rainbow_Trout#Bundles",
+      "text": "3 Bundles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rainbow_Trout#Recipes",
+      "text": "4 Recipes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rainbow_Trout#Tailoring",
+      "text": "5 Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rainbow_Trout#Fish_Pond",
+      "text": "6 Fish Pond"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rainbow_Trout#Quests",
+      "text": "7 Quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rainbow_Trout#History",
+      "text": "8 History"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Elliott",
+      "text": "Elliott"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leo",
+      "text": "Leo"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pam",
+      "text": "Pam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sebastian",
+      "text": "Sebastian"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Abigail",
+      "text": "Abigail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Alex",
+      "text": "Alex"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Caroline",
+      "text": "Caroline"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clint",
+      "text": "Clint"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dwarf",
+      "text": "Dwarf"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/George",
+      "text": "George"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gus",
+      "text": "Gus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Harvey",
+      "text": "Harvey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jas",
+      "text": "Jas"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jodi",
+      "text": "Jodi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Kent",
+      "text": "Kent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Krobus",
+      "text": "Krobus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Leah",
+      "text": "Leah"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lewis",
+      "text": "Lewis"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Marnie",
+      "text": "Marnie"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maru",
+      "text": "Maru"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Penny",
+      "text": "Penny"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Robin",
+      "text": "Robin"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sam",
+      "text": "Sam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandy",
+      "text": "Sandy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shane",
+      "text": "Shane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Vincent",
+      "text": "Vincent"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Wizard",
+      "text": "Wizard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Evelyn",
+      "text": "Evelyn"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre",
+      "text": "Pierre"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bundles",
+      "text": "bundles"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Maki_Roll.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Maki_Roll",
+      "text": "Maki Roll"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish",
+      "text": "Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Seaweed",
+      "text": "Seaweed"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rice",
+      "text": "Rice"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Queen_of_Sauce",
+      "text": "The Queen of Sauce"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Stardrop_Saloon#Menu",
+      "text": "Stardrop Saloon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Quality_Fertilizer.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quality_Fertilizer",
+      "text": "Quality Fertilizer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sap",
+      "text": "Sap"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish",
+      "text": "Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farming",
+      "text": "Farming"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Sashimi.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sashimi",
+      "text": "Sashimi"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish",
+      "text": "Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Linus",
+      "text": "Linus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Trout_Soup.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trout_Soup",
+      "text": "Trout Soup"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Green_Algae",
+      "text": "Green Algae"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fishing",
+      "text": "Fishing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Queen_of_Sauce",
+      "text": "The Queen of Sauce"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/2_Willow_Lane#Sewing_Machine",
+      "text": "Sewing Machine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring",
+      "text": "Fish Shirt"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/File:Shirt158.png",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Haley",
+      "text": "Haley"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emily",
+      "text": "Emily"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/2_Willow_Lane",
+      "text": "2 Willow Lane"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Pond",
+      "text": "Fish Pond"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Roe",
+      "text": "Roe"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Prismatic_Shard",
+      "text": "Prismatic Shard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Pond#Quests",
+      "text": "Quests"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Coral",
+      "text": "Coral"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Honey",
+      "text": "Honey"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oyster",
+      "text": "Oyster"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Refined_Quartz",
+      "text": "Refined Quartz"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dried_Starfish",
+      "text": "Dried Starfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Emerald",
+      "text": "Emeralds"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Omni_Geode",
+      "text": "Omni Geodes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Purple_Mushroom",
+      "text": "Purple Mushrooms"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Diamond",
+      "text": "Diamond"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Gold_Bar",
+      "text": "Gold Bars"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Iridium_Ore",
+      "text": "Iridium Ore"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jellies_and_Pickles",
+      "text": "Jelly"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Jellies_and_Pickles",
+      "text": "Pickle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish_Pond#Produce",
+      "text": "Produce"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Roe",
+      "text": "Roe"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rainbow_Shell",
+      "text": "Rainbow Shell"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Prismatic_Shard",
+      "text": "Prismatic Shard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Help_Wanted_Quests",
+      "text": "\"Help Wanted\" board"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre%27s_General_Store",
+      "text": "Pierre's General Store"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Friendship",
+      "text": "Friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Willy",
+      "text": "Willy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#Help_Wanted_Quests",
+      "text": "\"Help Wanted\" board"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pierre%27s_General_Store",
+      "text": "Pierre's General Store"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Demetrius",
+      "text": "Demetrius"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Summer",
+      "text": "Summer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Quests#List_of_Special_Orders",
+      "text": "Special Orders board"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mayor%27s_Manor",
+      "text": "Mayor's Manor"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Farm_Computer",
+      "text": "Farm Computer"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.4",
+      "text": "1.4"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tailoring",
+      "text": "Tailoring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.4.4",
+      "text": "1.4.4"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.5",
+      "text": "1.5"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Version_History#1.6",
+      "text": "1.6"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Trout_Derby",
+      "text": "Trout Derby"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Animals#Pets",
+      "text": "pet"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Animals#Friendship",
+      "text": "friendship"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Fish",
+      "text": "Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Angler",
+      "text": "Angler"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crimsonfish",
+      "text": "Crimsonfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Glacierfish",
+      "text": "Glacierfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Glacierfish_Jr.",
+      "text": "Glacierfish Jr."
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Legend",
+      "text": "Legend"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Legend_II",
+      "text": "Legend II"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ms._Angler",
+      "text": "Ms. Angler"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mutant_Carp",
+      "text": "Mutant Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Radioactive_Carp",
+      "text": "Radioactive Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Son_of_Crimsonfish",
+      "text": "Son of Crimsonfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Beach",
+      "text": "The Beach"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Albacore",
+      "text": "Albacore"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Anchovy",
+      "text": "Anchovy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crimsonfish",
+      "text": "Crimsonfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Eel",
+      "text": "Eel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Flounder",
+      "text": "Flounder"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Halibut",
+      "text": "Halibut"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Herring",
+      "text": "Herring"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Octopus",
+      "text": "Octopus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pufferfish",
+      "text": "Pufferfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Mullet",
+      "text": "Red Mullet"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Red_Snapper",
+      "text": "Red Snapper"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sardine",
+      "text": "Sardine"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sea_Cucumber",
+      "text": "Sea Cucumber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Son_of_Crimsonfish",
+      "text": "Son of Crimsonfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Squid",
+      "text": "Squid"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Super_Cucumber",
+      "text": "Super Cucumber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tilapia",
+      "text": "Tilapia"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tuna",
+      "text": "Tuna"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Angler",
+      "text": "Angler"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bream",
+      "text": "Bream"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Catfish",
+      "text": "Catfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chub",
+      "text": "Chub"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Dorado",
+      "text": "Dorado"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Glacierfish",
+      "text": "Glacierfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Glacierfish_Jr.",
+      "text": "Glacierfish Jr."
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Goby",
+      "text": "Goby"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lingcod",
+      "text": "Lingcod"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ms._Angler",
+      "text": "Ms. Angler"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Perch",
+      "text": "Perch"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pike",
+      "text": "Pike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Salmon",
+      "text": "Salmon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shad",
+      "text": "Shad"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Smallmouth_Bass",
+      "text": "Smallmouth Bass"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sunfish",
+      "text": "Sunfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tiger_Trout",
+      "text": "Tiger Trout"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Walleye",
+      "text": "Walleye"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mountain",
+      "text": "Mountain Lake"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Bullhead",
+      "text": "Bullhead"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carp",
+      "text": "Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Chub",
+      "text": "Chub"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Largemouth_Bass",
+      "text": "Largemouth Bass"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Legend",
+      "text": "Legend"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Legend_II",
+      "text": "Legend II"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lingcod",
+      "text": "Lingcod"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Midnight_Carp",
+      "text": "Midnight Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Perch",
+      "text": "Perch"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sturgeon",
+      "text": "Sturgeon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Walleye",
+      "text": "Walleye"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cindersap_Forest",
+      "text": "Cindersap Forest Pond"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Midnight_Carp",
+      "text": "Midnight Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Perch",
+      "text": "Perch"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pike",
+      "text": "Pike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Smallmouth_Bass",
+      "text": "Smallmouth Bass"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Walleye",
+      "text": "Walleye"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Secret_Woods",
+      "text": "Secret Woods"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carp",
+      "text": "Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Catfish",
+      "text": "Catfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Woodskip",
+      "text": "Woodskip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Mines",
+      "text": "Mines"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ghostfish",
+      "text": "Ghostfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ice_Pip",
+      "text": "Ice Pip"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lava_Eel",
+      "text": "Lava Eel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stonefish",
+      "text": "Stonefish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Sewers",
+      "text": "Sewers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carp",
+      "text": "Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mutant_Carp",
+      "text": "Mutant Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Radioactive_Carp",
+      "text": "Radioactive Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/The_Desert",
+      "text": "Desert"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sandfish",
+      "text": "Sandfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Scorpion_Carp",
+      "text": "Scorpion Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mutant_Bug_Lair",
+      "text": "Mutant Bug Lair"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Carp",
+      "text": "Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Slimejack",
+      "text": "Slimejack"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Witch%27s_Swamp",
+      "text": "Witch's Swamp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Catfish",
+      "text": "Catfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Void_Salmon",
+      "text": "Void Salmon"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Night_Market",
+      "text": "Night Market"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blobfish",
+      "text": "Blobfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Midnight_Squid",
+      "text": "Midnight Squid"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Octopus",
+      "text": "Octopus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Sea_Cucumber",
+      "text": "Sea Cucumber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Spook_Fish",
+      "text": "Spook Fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Super_Cucumber",
+      "text": "Super Cucumber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crab_Pot",
+      "text": "Crab Pot"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Clam",
+      "text": "Clam"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Cockle",
+      "text": "Cockle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crab",
+      "text": "Crab"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Crayfish",
+      "text": "Crayfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lobster",
+      "text": "Lobster"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Mussel",
+      "text": "Mussel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Oyster",
+      "text": "Oyster"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Periwinkle",
+      "text": "Periwinkle"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Shrimp",
+      "text": "Shrimp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Snail",
+      "text": "Snail"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Ginger_Island",
+      "text": "Ginger Island"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Blue_Discus",
+      "text": "Blue Discus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Flounder",
+      "text": "Flounder"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lava_Eel",
+      "text": "Lava Eel"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Lionfish",
+      "text": "Lionfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Midnight_Carp",
+      "text": "Midnight Carp"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Octopus",
+      "text": "Octopus"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Pufferfish",
+      "text": "Pufferfish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stingray",
+      "text": "Stingray"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Super_Cucumber",
+      "text": "Super Cucumber"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tilapia",
+      "text": "Tilapia"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Tuna",
+      "text": "Tuna"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Rainbow_Trout&oldid=193017",
+      "text": "https://stardewvalleywiki.com/mediawiki/index.php?title=Rainbow_Trout&oldid=193017"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Categories",
+      "text": "Categories"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Summer_fish",
+      "text": "Summer fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:River_fish",
+      "text": "River fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Category:Lake_fish",
+      "text": "Lake fish"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:CreateAccount&returnto=Rainbow+Trout",
+      "text": "Create account"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:UserLogin&returnto=Rainbow+Trout",
+      "text": "Log in"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rainbow_Trout",
+      "text": "Page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Talk:Rainbow_Trout&action=edit&redlink=1",
+      "text": "Discussion"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Rainbow_Trout",
+      "text": "Read"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Rainbow_Trout&action=edit",
+      "text": "View source"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Rainbow_Trout&action=history",
+      "text": "View history"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": ""
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+      "text": "Main page"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:RecentChanges",
+      "text": "Recent changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Admin_noticeboard",
+      "text": "Admin noticeboard"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Help:Editing",
+      "text": "Help Editing"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Random",
+      "text": "Random page"
+    },
+    {
+      "href": "https://stardewvalley.net",
+      "text": "Official Site"
+    },
+    {
+      "href": "https://forums.stardewvalley.net/",
+      "text": "Official Forums"
+    },
+    {
+      "href": "https://www.stardewvalley.net/shop/",
+      "text": "Official Merchandise"
+    },
+    {
+      "href": "https://www.stardewvalley.net/links/",
+      "text": "Social Media"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:WhatLinksHere/Rainbow_Trout",
+      "text": "What links here"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Recentchangeslinked/Rainbow_Trout",
+      "text": "Related changes"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:Upload",
+      "text": "Upload file"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Special:SpecialPages",
+      "text": "Special pages"
+    },
+    {
+      "href": "javascript:print();",
+      "text": "Printable version"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Rainbow_Trout&oldid=193017",
+      "text": "Permanent link"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Rainbow_Trout&action=info",
+      "text": "Page information"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Rainbow_Trout&action=pagevalues",
+      "text": "Page values"
+    },
+    {
+      "href": "https://de.stardewvalleywiki.com/Regenbogenforelle",
+      "text": "Deutsch"
+    },
+    {
+      "href": "https://es.stardewvalleywiki.com/Trucha_arco%C3%ADris",
+      "text": "Español"
+    },
+    {
+      "href": "https://fr.stardewvalleywiki.com/Truite_arc-en-ciel",
+      "text": "Français"
+    },
+    {
+      "href": "https://it.stardewvalleywiki.com/Trota_arcobaleno",
+      "text": "Italiano"
+    },
+    {
+      "href": "https://ja.stardewvalleywiki.com/%E3%83%8B%E3%82%B8%E3%83%9E%E3%82%B9",
+      "text": "日本語"
+    },
+    {
+      "href": "https://ko.stardewvalleywiki.com/%EB%AC%B4%EC%A7%80%EA%B0%9C%EC%86%A1%EC%96%B4",
+      "text": "한국어"
+    },
+    {
+      "href": "https://hu.stardewvalleywiki.com/Sziv%C3%A1rv%C3%A1ny_pisztr%C3%A1ng",
+      "text": "Magyar"
+    },
+    {
+      "href": "https://pt.stardewvalleywiki.com/Truta_arco-%C3%ADris",
+      "text": "Português"
+    },
+    {
+      "href": "https://ru.stardewvalleywiki.com/%D0%A0%D0%B0%D0%B4%D1%83%D0%B6%D0%BD%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%B5%D0%BB%D1%8C",
+      "text": "Русский"
+    },
+    {
+      "href": "https://tr.stardewvalleywiki.com/Renkli_Alabal%C4%B1k",
+      "text": "Türkçe"
+    },
+    {
+      "href": "https://zh.stardewvalleywiki.com/%E8%99%B9%E9%B3%9F%E9%B1%BC",
+      "text": "中文"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:Privacy_policy",
+      "text": "Privacy policy"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:About",
+      "text": "About Stardew Valley Wiki"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/Stardew_Valley_Wiki:General_disclaimer",
+      "text": "Disclaimers"
+    },
+    {
+      "href": "https://stardewvalleywiki.com/mediawiki/index.php?title=Rainbow_Trout&mobileaction=toggle_view_mobile",
+      "text": "Mobile view"
+    },
+    {
+      "href": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "text": ""
+    },
+    {
+      "href": "https://www.mediawiki.org/",
+      "text": ""
+    }
+  ],
+  "images": [
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/14/Rainbow_Trout.png",
+      "alt": "Rainbow Trout.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/85/Summer.png/24px-Summer.png",
+      "alt": "Summer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/eb/Silver_Quality.png/14px-Silver_Quality.png",
+      "alt": "Silver Quality.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9f/Gold_Quality.png/14px-Gold_Quality.png",
+      "alt": "Gold Quality.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bc/Iridium_Quality.png/14px-Iridium_Quality.png",
+      "alt": "Iridium Quality.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/20px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/20px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/20px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/20px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/20px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/20px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/20px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/20px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/44/Fisher.png/24px-Fisher.png",
+      "alt": "Fisher.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/22/Angler_Icon.png/24px-Angler_Icon.png",
+      "alt": "Angler Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/14/Rainbow_Trout.png/24px-Rainbow_Trout.png",
+      "alt": "Rainbow Trout.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/14/Rainbow_Trout.png/24px-Rainbow_Trout.png",
+      "alt": "Rainbow Trout.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/24px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/14/Rainbow_Trout.png/24px-Rainbow_Trout.png",
+      "alt": "Rainbow Trout.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/14/Rainbow_Trout.png/24px-Rainbow_Trout.png",
+      "alt": "Rainbow Trout.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/24px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/14/Rainbow_Trout.png/24px-Rainbow_Trout.png",
+      "alt": "Rainbow Trout.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/14/Rainbow_Trout.png/24px-Rainbow_Trout.png",
+      "alt": "Rainbow Trout.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/24px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/14/Rainbow_Trout.png/24px-Rainbow_Trout.png",
+      "alt": "Rainbow Trout.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/14/Rainbow_Trout.png/24px-Rainbow_Trout.png",
+      "alt": "Rainbow Trout.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/24px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/14/Rainbow_Trout.png/24px-Rainbow_Trout.png",
+      "alt": "Rainbow Trout.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/14/Rainbow_Trout.png/24px-Rainbow_Trout.png",
+      "alt": "Rainbow Trout.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8a/Silver_Quality_Icon.png/24px-Silver_Quality_Icon.png",
+      "alt": "Silver Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/14/Rainbow_Trout.png/24px-Rainbow_Trout.png",
+      "alt": "Rainbow Trout.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+      "alt": "Gold Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/14/Rainbow_Trout.png/24px-Rainbow_Trout.png",
+      "alt": "Rainbow Trout.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e4/Iridium_Quality_Icon.png/24px-Iridium_Quality_Icon.png",
+      "alt": "Iridium Quality Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/46/Artisan.png/24px-Artisan.png",
+      "alt": "Artisan.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c0/Orange_Roe.png/24px-Orange_Roe.png",
+      "alt": "Orange Roe.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ec/Orange_Aged_Roe.png/24px-Orange_Aged_Roe.png",
+      "alt": "Orange Aged Roe.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ec/Orange_Aged_Roe.png/24px-Orange_Aged_Roe.png",
+      "alt": "Orange Aged Roe.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5c/Maplocation.png/20px-Maplocation.png",
+      "alt": "Maplocation.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5c/Maplocation.png/20px-Maplocation.png",
+      "alt": "Maplocation.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5c/Maplocation.png/20px-Maplocation.png",
+      "alt": "Maplocation.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/43/Map.png",
+      "alt": "Map.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Demetrius_Icon.png",
+      "alt": "Demetrius Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Elliott_Icon.png",
+      "alt": "Elliott Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/3/3d/Leo_Icon.png",
+      "alt": "Leo Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Linus_Icon.png",
+      "alt": "Linus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Pam_Icon.png",
+      "alt": "Pam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6a/Sebastian_Icon.png",
+      "alt": "Sebastian Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Willy_Icon.png",
+      "alt": "Willy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/63/Abigail_Icon.png",
+      "alt": "Abigail Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/73/Alex_Icon.png",
+      "alt": "Alex Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Caroline_Icon.png",
+      "alt": "Caroline Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/74/Clint_Icon.png",
+      "alt": "Clint Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/08/Dwarf_Icon.png",
+      "alt": "Dwarf Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Emily_Icon.png",
+      "alt": "Emily Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/ad/George_Icon.png",
+      "alt": "George Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Gus_Icon.png",
+      "alt": "Gus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Harvey_Icon.png",
+      "alt": "Harvey Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/68/Jas_Icon.png",
+      "alt": "Jas Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Jodi_Icon.png",
+      "alt": "Jodi Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/8/86/Kent_Icon.png",
+      "alt": "Kent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/1/10/Krobus_Icon.png",
+      "alt": "Krobus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Leah_Icon.png",
+      "alt": "Leah Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Lewis_Icon.png",
+      "alt": "Lewis Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d4/Marnie_Icon.png",
+      "alt": "Marnie Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/2/23/Maru_Icon.png",
+      "alt": "Maru Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/bc/Penny_Icon.png",
+      "alt": "Penny Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Robin_Icon.png",
+      "alt": "Robin Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/52/Sam_Icon.png",
+      "alt": "Sam Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/7/7d/Sandy_Icon.png",
+      "alt": "Sandy Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b4/Shane_Icon.png",
+      "alt": "Shane Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/0/0b/Vincent_Icon.png",
+      "alt": "Vincent Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/e/e9/Wizard_Icon.png",
+      "alt": "Wizard Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/5/54/Evelyn_Icon.png",
+      "alt": "Evelyn Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/f/f7/Haley_Icon.png",
+      "alt": "Haley Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Pierre_Icon.png",
+      "alt": "Pierre Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/b/b6/Maki_Roll.png",
+      "alt": "Maki Roll.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fb/Fish.png/24px-Fish.png",
+      "alt": "Fish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/13/Seaweed.png/24px-Seaweed.png",
+      "alt": "Seaweed.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/da/Rice.png/24px-Rice.png",
+      "alt": "Rice.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d6/Cooking_Channel.png/22px-Cooking_Channel.png",
+      "alt": "Cooking Channel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Gus_Icon.png/22px-Gus_Icon.png",
+      "alt": "Gus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/a/a0/Quality_Fertilizer.png",
+      "alt": "Quality Fertilizer.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/73/Sap.png/24px-Sap.png",
+      "alt": "Sap.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fb/Fish.png/24px-Fish.png",
+      "alt": "Fish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/82/Farming_Skill_Icon.png/24px-Farming_Skill_Icon.png",
+      "alt": "Farming Skill Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png",
+      "alt": "Sashimi.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fb/Fish.png/24px-Fish.png",
+      "alt": "Fish.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/d/db/Linus_Icon.png",
+      "alt": "Linus Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/04/HeartIconLarge.png/16px-HeartIconLarge.png",
+      "alt": "HeartIconLarge.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/4/48/Trout_Soup.png",
+      "alt": "Trout Soup.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/14/Rainbow_Trout.png/24px-Rainbow_Trout.png",
+      "alt": "Rainbow Trout.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6d/Green_Algae.png/24px-Green_Algae.png",
+      "alt": "Green Algae.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a9/Energy.png/24px-Energy.png",
+      "alt": "Energy.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/94/Health.png/24px-Health.png",
+      "alt": "Health.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/19/Fishing.png/24px-Fishing.png",
+      "alt": "Fishing.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/70/Time_Icon.png/24px-Time_Icon.png",
+      "alt": "Time Icon.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d6/Cooking_Channel.png/22px-Cooking_Channel.png",
+      "alt": "Cooking Channel.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e7/Shirt158.png/24px-Shirt158.png",
+      "alt": "Shirt158.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c0/Orange_Roe.png/24px-Orange_Roe.png",
+      "alt": "Orange Roe.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3d/Rainbow_Shell.png/24px-Rainbow_Shell.png",
+      "alt": "Rainbow Shell.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/56/Prismatic_Shard.png/24px-Prismatic_Shard.png",
+      "alt": "Prismatic Shard.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/10/Gold.png/18px-Gold.png",
+      "alt": "Gold.png"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/licenses/cc-by-nc-sa.png",
+      "alt": "Creative Commons Attribution-NonCommercial-ShareAlike"
+    },
+    {
+      "src": "https://stardewvalleywiki.com/mediawiki/resources/assets/poweredby_mediawiki_88x31.png",
+      "alt": "Powered by MediaWiki"
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "http://schema.org",
+      "@type": "article",
+      "name": "Rainbow Trout - Stardew Valley Wiki",
+      "headline": "Rainbow Trout - Stardew Valley Wiki",
+      "mainEntityOfPage": "Rainbow Trout",
+      "identifier": "https://stardewvalleywiki.com/Rainbow_Trout",
+      "url": "https://stardewvalleywiki.com/Rainbow_Trout",
+      "description": "The Rainbow Trout is a fish that can be caught in the river (in Pelican Town and Cindersap Forest) and the mountain lake during Summer during sunny weather. It can also be gifted by a pet cat with max friendship. It can also randomly be found in Garbage Cans during Summer, or at the Traveling Cart for data-sort-value=\"65\"195–1,000g.",
+      "keywords": "Stardew Valley Wiki, Stardew Valley, Rainbow Trout, gift",
+      "dateModified": "2026-05-14T23:28:37Z",
+      "datePublished": "2026-05-14T23:28:37Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Stardew Valley Wiki",
+        "url": "//stardewvalleywiki.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://stardewvalleywiki.com/mediawiki/extensions/StardewValley/images/site_logo_sm.png",
+          "caption": "Stardew Valley Wiki"
+        }
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://stardewvalleywiki.com/mediawiki/index.php?title=Special:Search&search={search_term}",
+        "query-input": "required name=search_term"
+      }
+    }
+  ],
+  "visibleText": "Rainbow Trout - Stardew Valley Wiki Rainbow Trout From Stardew Valley Wiki Jump to navigation Jump to search Rainbow Trout A freshwater trout with colorful markings. Information Location River • Mountain Lake Time 6am – 7pm Anytime during Trout Derby Season Summer Weather Sun Any during Trout Derby Difficulty 45 Behavior Mixed Size (inches) 10–26 Fishing XP 18 21 24 30 Energy / Health 25 11 35 15 45 20 65 29 Sell Prices Base Fisher (+25%) Angler (+50%) 65g 81g 97g 130g 81g 101g 121g 162g 97g 121g 145g 195g Artisan Sell Prices Roe Aged Roe Aged Roe (+40%) 62g 124g 173g See also: Trout Derby . The Rainbow Trout is a fish that can be caught in the river (in Pelican Town and Cindersap Forest ) and the mountain lake during Summer during sunny weather . It can also be gifted by a pet cat with max friendship . It can also randomly be found in Garbage Cans during Summer, or at the Traveling Cart for data-sort-value=\"65\" 195–1,000g. On Summer 20th and 21st during the Trout Derby festival, Rainbow Trout can be caught in the Cindersap Forest during the entire day and regardless of weather. The fish can also be caught during Trout Derby without the normal restrictions in Farm Maps with Cindersap Forest fish, such as the Riverland, Hilltop, Forest, and Meadowlands farms. Rainbow Trout can be caught regardless of weather, time, or season using Magic Bait . Contents 1 Map 2 Gifting 3 Bundles 4 Recipes 5 Tailoring 6 Fish Pond 7 Quests 8 History Map The Rainbow Trout can be found in the river and the mountain lake. Gifting Villager Reactions Neutral Demetrius • Elliott • Leo • Linus • Pam • Sebastian • Willy Dislike Abigail • Alex • Caroline • Clint • Dwarf • Emily • George • Gus • Harvey • Jas • Jodi • Kent • Krobus • Leah • Lewis • Marnie • Maru • Penny • Robin • Sam • Sandy • Shane • Vincent • Wizard Hate Evelyn • Haley • Pierre Bundles Rainbow Trout is not used in any bundles . Recipes Image Name Description Ingredients Energy / Health Buff(s) Buff Duration Recipe Source(s) Sell Price Maki Roll Fish and rice wrapped in seaweed. Any Fish (1) Seaweed (1) Rice (1) 100 45 N/A N/A The Queen of Sauce 21 Summer, Year 1 Stardrop Saloon for data-sort-value=\"300\"> 300g data-sort-value=\"220\"> 220g Quality Fertilizer Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil. Sap (4) Any Fish (1) N/A N/A N/A Farming Level 9 data-sort-value=\"10\"> 10g Sashimi Raw fish sliced into thin pieces. Any Fish (1) 75 33 N/A N/A Linus (Mail - 3+ ) data-sort-value=\"75\"> 75g Trout Soup Pretty salty. Rainbow Trout (1) Green Algae (1) 100 45 Fishing (+1) 4m 39s The Queen of Sauce 14 Fall, Year 1 data-sort-value=\"100\"> 100g Tailoring Rainbow Trout can be used in the spool of the Sewing Machine to create the dyeable Fish Shirt . It can also be used as an orange dye in the dye pots located in Haley 's and Emily 's house, 2 Willow Lane . Fish Pond Rainbow Trout can be placed in a Fish Pond , where they will reproduce every 2 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The primary output is orange Rainbow Trout Roe . However, more valuable items are possible starting at population 9, including a 0.09% daily chance of producing a Prismatic Shard . Quests Pond Capacity Quest Item Fishing XP Granted Before Quest After Quest 3 5 3 Coral , 1 Honey , 1 Oyster , or 3 Refined Quartz 30 5 7 1 Dried Starfish , 2 Emeralds , 2-3 Omni Geodes , or 2-3 Purple Mushrooms 30 7 10 1 Diamond , 3 Gold Bars , 1 Iridium Ore , 1 Jelly , or 1 Pickle 30 Produce Item(s) Produced Fishing XP Granted Population % of Items Overall Daily Chance Roe (1) 12 1-8 100% 23-79% 9-10 98% 85-93% Rainbow Shell (1) 22 9-10 2% 1.7-1.9% Prismatic Shard (1) 90 9-10 0.1% 0.09% Nothing 1-8 0% 77-21% 9-10 0% 13-5% Quests Item Delivery: One Rainbow Trout may be randomly requested in Summer at the \"Help Wanted\" board outside Pierre's General Store for a reward of data-sort-value=\"195\"> 195g and 150 Friendship points. Fishing: Demetrius or Willy may randomly request 1-4 Rainbow Trout to be caught during Summer at the \"Help Wanted\" board outside Pierre's General Store for a reward of data-sort-value=\"65\"> 65g per fish. (You get to keep the fish). Aquatic Overpopulation: Demetrius may request 10 Rainbow Trout to be caught in Summer at the Special Orders board outside the Mayor's Manor for a reward of gold equivalent to selling the fish and the Farm Computer recipe. History 1.4 : Added iridium quality. Can now be used in Tailoring . 1.4.4 : Fixed a mistake in the game data that prevented rainbow trout-specific fish pond data from being applied (in earlier versions, rainbow trout used the same fish pond data as all generic river fish). 1.5 : Special Order quest added. 1.6 : Can now be caught during the entire day and in the rain when the Trout Derby festival is active. Can now be gifted by a pet cat with max friendship . Fish Legendary Angler • Crimsonfish • Glacierfish • Glacierfish Jr. • Legend • Legend II • Ms. Angler • Mutant Carp • Radioactive Carp • Son of Crimsonfish The Beach Albacore • Anchovy • Crimsonfish • Eel • Flounder • Halibut • Herring • Octopus • Pufferfish • Red Mullet • Red Snapper • Sardine • Sea Cucumber • Son of Crimsonfish • Squid • Super Cucumber • Tilapia • Tuna River Angler • Bream • Catfish • Chub • Dorado • Glacierfish • Glacierfish Jr. • Goby • Lingcod • Ms. Angler • Perch • Pike • Rainbow Trout • Salmon • Shad • Smallmouth Bass • Sunfish • Tiger Trout • Walleye Mountain Lake Bullhead • Carp • Chub • Largemouth Bass • Legend • Legend II • Lingcod • Midnight Carp • Perch • Rainbow Trout • Sturgeon • Walleye Cindersap Forest Pond Midnight Carp • Perch • Pike • Smallmouth Bass • Walleye Secret Woods Carp • Catfish • Woodskip Mines Ghostfish • Ice Pip • Lava Eel • Stonefish Sewers Carp • Mutant Carp • Radioactive Carp Desert Sandfish • Scorpion Carp Mutant Bug Lair Carp • Slimejack Witch's Swamp Catfish • Void Salmon Night Market Blobfish • Midnight Squid • Octopus • Sea Cucumber • Spook Fish • Super Cucumber Crab Pot Clam • Cockle • Crab • Crayfish • Lobster • Mussel • Oyster • Periwinkle • Shrimp • Snail Ginger Island Blue Discus • Flounder • Lava Eel • Lionfish • Midnight Carp • Octopus • Pufferfish • Stingray • Super Cucumber • Tilapia • Tuna Retrieved from \" https://stardewvalleywiki.com/mediawiki/index.php?title=Rainbow_Trout&oldid=193017 \" Categories : Summer fish River fish Lake fish Navigation menu Personal tools Create account Log in Namespaces Page Discussion Variants Views Read View source View history More Search Navigation Main page Recent changes Admin noticeboard Help Editing Random page Links Official Site Official Forums Official Merchandise Social Media Tools What links here Related changes Upload file Special pages Printable version Permanent link Page information Page values In other languages Deutsch Español Français Italiano 日本語 한국어 Magyar Português Русский Türkçe 中文 This page was last edited on 14 May 2026, at 23:28. Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted. Privacy policy About Stardew Valley Wiki Disclaimers Mobile view",
+  "confidence": "high",
+  "warnings": []
+}

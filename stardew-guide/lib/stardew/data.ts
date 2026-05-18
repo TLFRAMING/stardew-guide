@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs";
 import path from "node:path";
-import type { Bundle, BundleItem, Crop, Fish, Season, Villager } from "./types";
+import type { Bundle, BundleItem, Crop, Fish, MoneyGuide, Season, Villager } from "./types";
 
 type BundleJson = Omit<Bundle, "items" | "name" | "slug"> & {
   slug?: string;
@@ -65,6 +65,14 @@ export function getFishBySlug(slug: string): Fish | undefined {
 
 export function getAllBundles(): Bundle[] {
   return readJsonArray<BundleJson>("bundles.json").map(normalizeBundle);
+}
+
+export function getAllMoneyGuides(): MoneyGuide[] {
+  return readJsonArray<MoneyGuide>("money-guides.json");
+}
+
+export function getMoneyGuideBySlug(slug: string): MoneyGuide | undefined {
+  return getAllMoneyGuides().find((guide) => guide.slug === slug);
 }
 
 function normalizeVillager(villager: Villager): Villager {

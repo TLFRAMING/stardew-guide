@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Extractor Workflow"
+  short_description: "Extract web pages into reviewable structured data."
+  default_prompt: "Use this skill to extract webpage information into raw JSON and review artifacts before writing project data."

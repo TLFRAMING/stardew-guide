@@ -76,3 +76,32 @@ export type Bundle = StardewDataSource & {
   items: BundleItem[];
   beginnerNote?: string;
 };
+
+export type ProfitEstimate = {
+  label: string;
+  assumption: string;
+  value: string;
+  confidence: string | VerificationValue;
+};
+
+export type MoneyGuide = StardewDataSource & {
+  slug: string;
+  title: string;
+  shortName: string;
+  summary: string;
+  bestStage: string;
+  category: string;
+  profitPotential: string;
+  laborCost: string;
+  automation: string;
+  versionRisk: string;
+  bestFor: string[];
+  whyItWorks: string[];
+  setupSteps: string[];
+  profitEstimates: ProfitEstimate[];
+  caveats: string[];
+  articleAngles: string[];
+  seoKeywords: string[];
+  confidence: string | VerificationValue;
+  notes: string;
+};

@@ -1,0 +1,2112 @@
+[
+  {
+    "slug": "abigail",
+    "name": "Abigail",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Abigail"
+    ],
+    "missingFields": [
+      "likedGifts",
+      "dislikedGifts",
+      "hatedGifts"
+    ],
+    "candidates": {
+      "lovedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+        "confidence": "high",
+        "tableIndex": 56,
+        "values": [
+          {
+            "value": "All Universal Loves",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          },
+          {
+            "value": "Amethyst",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          },
+          {
+            "value": "Banana Pudding",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          },
+          {
+            "value": "Blackberry Cobbler",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          },
+          {
+            "value": "Chocolate Cake",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          },
+          {
+            "value": "Monster Compendium",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          },
+          {
+            "value": "Pufferfish",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          },
+          {
+            "value": "Pumpkin",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          },
+          {
+            "value": "Spicy Eel",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "likedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+        "confidence": "high",
+        "tableIndex": 62,
+        "values": [
+          {
+            "value": "All Universal Likes (except Vegetables)",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          },
+          {
+            "value": "Ancient Sword",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          },
+          {
+            "value": "Basilisk Paw",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          },
+          {
+            "value": "Bone Flute",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          },
+          {
+            "value": "Combat Quarterly",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          },
+          {
+            "value": "Quartz",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "dislikedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+        "confidence": "high",
+        "tableIndex": 66,
+        "values": [
+          {
+            "value": "All Universal Dislikes (except Ancient Sword, Basilisk Paw, Bone Flute, Clay & Pufferfish)All Eggs*All Fruit (except Fruit Tree Fruit)All Vegetables (except Hops, Pumpkin, Tea Leaves, & Wheat)",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          },
+          {
+            "value": "Sugar",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          },
+          {
+            "value": "Wild Horseradish",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "hatedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+        "confidence": "high",
+        "tableIndex": 68,
+        "values": [
+          {
+            "value": "All Universal Hates (except Sugar)",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          },
+          {
+            "value": "Clay",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          },
+          {
+            "value": "Holly",
+            "sourceUrl": "https://stardewvalleywiki.com/Abigail",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      }
+    }
+  },
+  {
+    "slug": "sebastian",
+    "name": "Sebastian",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sebastian"
+    ],
+    "missingFields": [
+      "likedGifts",
+      "dislikedGifts",
+      "hatedGifts"
+    ],
+    "candidates": {
+      "lovedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+        "confidence": "high",
+        "tableIndex": 52,
+        "values": [
+          {
+            "value": "All Universal Loves",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Frog Egg",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Frozen Tear",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Obsidian",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Pumpkin Soup",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Sashimi",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Void Egg",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "likedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+        "confidence": "high",
+        "tableIndex": 54,
+        "values": [
+          {
+            "value": "All Universal Likes (except Flowers, Complete Breakfast, Farmer's Lunch, Omelet, Piña Colada, & Artisan Goods other than Coffee, Green Tea, & Oil)",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Combat Quarterly",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Flounder",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Monster Compendium",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Quartz",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "dislikedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+        "confidence": "high",
+        "tableIndex": 59,
+        "values": [
+          {
+            "value": "All Universal Dislikes (except Clay, Fish, Frog Egg, Obsidian, & Void Egg)All Flowers (except Poppy)",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Chanterelle",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Common Mushroom",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Daffodil",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Dandelion",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Ginger",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Hazelnut",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Holly",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Leek",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Magma Cap",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Morel",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Purple Mushroom",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Salmonberry",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Snow Yam",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Wild Horseradish",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Winter Root",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "hatedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+        "confidence": "high",
+        "tableIndex": 61,
+        "values": [
+          {
+            "value": "All Universal HatesAll Artisan Goods (except Coffee, Green Tea, & Oil)All Eggs (except Void Egg)*",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Clay",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Complete Breakfast",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Farmer's Lunch",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Omelet",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          },
+          {
+            "value": "Piña Colada",
+            "sourceUrl": "https://stardewvalleywiki.com/Sebastian",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      }
+    }
+  },
+  {
+    "slug": "leah",
+    "name": "Leah",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Leah"
+    ],
+    "missingFields": [
+      "likedGifts",
+      "dislikedGifts",
+      "hatedGifts"
+    ],
+    "candidates": {
+      "lovedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Leah",
+        "confidence": "high",
+        "tableIndex": 31,
+        "values": [
+          {
+            "value": "All Universal Loves",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Goat Cheese",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Poppyseed Muffin",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Salad",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Stir Fry",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Truffle",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Vegetable Medley",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Wine",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "likedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Leah",
+        "confidence": "high",
+        "tableIndex": 34,
+        "values": [
+          {
+            "value": "All Universal Likes (except:Foraged Minerals other than Earth CrystalGems other than Diamond & Prismatic ShardCarp Surprise, Cookie, Hashbrowns, Ice Cream, Pancakes, Pink Cake, Pizza, Rice Pudding, Survival Burger, & Tortilla)All Eggs (except Void Egg)*All FruitAll Milk",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Chanterelle",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Common Mushroom",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Daffodil",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Dandelion",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Driftwood",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Ginger",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Hazelnut",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Holly",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Leek",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Magma Cap",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Morel",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Purple Mushroom",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Snow Yam",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Spring Onion",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Wild Horseradish",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Winter Root",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "dislikedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Leah",
+        "confidence": "high",
+        "tableIndex": 38,
+        "values": [
+          {
+            "value": "All Universal Dislikes (except Driftwood, Spring Onion, & Void Egg)All Foraged Minerals (except Earth Crystal)All Gems (except Diamond & Prismatic Shard)",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Carp Surprise",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Cookie",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Fried Egg",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Ice Cream",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Pink Cake",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Rice Pudding",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Seaweed",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Survival Burger",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Tortilla",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "hatedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Leah",
+        "confidence": "high",
+        "tableIndex": 40,
+        "values": [
+          {
+            "value": "All Universal Hates (except Seaweed)",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Bread",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Hashbrowns",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Pancakes",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Pizza",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          },
+          {
+            "value": "Void Egg",
+            "sourceUrl": "https://stardewvalleywiki.com/Leah",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      }
+    }
+  },
+  {
+    "slug": "penny",
+    "name": "Penny",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Penny"
+    ],
+    "missingFields": [
+      "likedGifts",
+      "dislikedGifts",
+      "hatedGifts"
+    ],
+    "candidates": {
+      "lovedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Penny",
+        "confidence": "high",
+        "tableIndex": 46,
+        "values": [
+          {
+            "value": "All Universal Loves (except Rabbit's Foot)All Books",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Diamond",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Emerald",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Melon",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Poppy",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Poppyseed Muffin",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Red Plate",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Roots Platter",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Sandfish",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Tom Kha Soup",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "likedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Penny",
+        "confidence": "high",
+        "tableIndex": 49,
+        "values": [
+          {
+            "value": "All Universal Likes (except Algae Soup, Beer, Mead, Pale Ale, Pale Broth, Piña Colada, & Wine)All ArtifactsAll Milk",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Dandelion",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Leek",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "dislikedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Penny",
+        "confidence": "high",
+        "tableIndex": 53,
+        "values": [
+          {
+            "value": "All Universal Dislikes (except Artifacts, Price Catalogue, & Sandfish)",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Algae Soup",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Duck Feather",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Pale Broth",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Purple Mushroom",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Quartz",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Red Mushroom",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Salmonberry",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Wool",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "hatedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Penny",
+        "confidence": "high",
+        "tableIndex": 55,
+        "values": [
+          {
+            "value": "All Universal Hates (except Poppy and Red Mushroom)",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Beer",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Grape",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Holly",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Hops",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Mead",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Pale Ale",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Piña Colada",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Rabbit's Foot",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          },
+          {
+            "value": "Wine",
+            "sourceUrl": "https://stardewvalleywiki.com/Penny",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      }
+    }
+  },
+  {
+    "slug": "haley",
+    "name": "Haley",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Haley"
+    ],
+    "missingFields": [
+      "likedGifts",
+      "dislikedGifts",
+      "hatedGifts"
+    ],
+    "candidates": {
+      "lovedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Haley",
+        "confidence": "high",
+        "tableIndex": 35,
+        "values": [
+          {
+            "value": "All Universal Loves (except Prismatic Shard)",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Coconut",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Fruit Salad",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Pink Cake",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Sunflower",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "likedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Haley",
+        "confidence": "high",
+        "tableIndex": 37,
+        "values": [
+          {
+            "value": "All Universal Likes (except Vegetables)",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Daffodil",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "dislikedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Haley",
+        "confidence": "high",
+        "tableIndex": 41,
+        "values": [
+          {
+            "value": "All Universal Dislikes (except Clay & Fish)All Eggs*All Fruit (except Coconut)All MilkAll Vegetables (except Hops, Tea Leaves, & Wheat)",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Chanterelle",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Common Mushroom",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Dandelion",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Ginger",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Hazelnut",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Holly",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Leek",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Magma Cap",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Morel",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Mystic Syrup",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Purple Mushroom",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Quartz",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Snow Yam",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Winter Root",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "hatedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Haley",
+        "confidence": "high",
+        "tableIndex": 43,
+        "values": [
+          {
+            "value": "All Universal HatesAll Fish",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Clay",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Prismatic Shard",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          },
+          {
+            "value": "Wild Horseradish",
+            "sourceUrl": "https://stardewvalleywiki.com/Haley",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      }
+    }
+  },
+  {
+    "slug": "sam",
+    "name": "Sam",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sam"
+    ],
+    "missingFields": [
+      "likedGifts",
+      "dislikedGifts",
+      "hatedGifts"
+    ],
+    "candidates": {
+      "lovedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Sam",
+        "confidence": "high",
+        "tableIndex": 48,
+        "values": [
+          {
+            "value": "All Universal Loves",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Cactus Fruit",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Maple Bar",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Pizza",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Tigerseye",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "likedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Sam",
+        "confidence": "high",
+        "tableIndex": 50,
+        "values": [
+          {
+            "value": "All Universal Likes (except Duck Mayonnaise, Mayonnaise, Pickles, & Vegetables)All Eggs (except Void Egg)*",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Joja Cola",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "dislikedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Sam",
+        "confidence": "high",
+        "tableIndex": 54,
+        "values": [
+          {
+            "value": "All Universal Dislikes (except Bone Fragment, Cinder Shard, Coal, Copper Bar, Gold Bar, Gold Ore, Iridium Bar, Iridium Ore, Iron Bar, Refined Quartz, & Tigerseye)All Vegetables (except Hops, Tea Leaves, & Wheat)",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Chanterelle",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Common Mushroom",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Daffodil",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Dandelion",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Ginger",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Hazelnut",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Holly",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Leek",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Magma Cap",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Morel",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Purple Mushroom",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Quartz",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Salmonberry",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Seaweed",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Snow Yam",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Wild Horseradish",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Winter Root",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "hatedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Sam",
+        "confidence": "high",
+        "tableIndex": 56,
+        "values": [
+          {
+            "value": "All Universal Hates (except Joja Cola & Seaweed)",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Bone Fragment",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Cinder Shard",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Coal",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Copper Bar",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Duck Mayonnaise",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Gold Bar",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Gold Ore",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Iridium Bar",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Iridium Ore",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Iron Bar",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Mayonnaise",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Pickles",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          },
+          {
+            "value": "Refined Quartz",
+            "sourceUrl": "https://stardewvalleywiki.com/Sam",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      }
+    }
+  },
+  {
+    "slug": "emily",
+    "name": "Emily",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Emily"
+    ],
+    "missingFields": [
+      "likedGifts",
+      "dislikedGifts",
+      "hatedGifts"
+    ],
+    "candidates": {
+      "lovedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Emily",
+        "confidence": "high",
+        "tableIndex": 33,
+        "values": [
+          {
+            "value": "All Universal Loves",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Amethyst",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Aquamarine",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Cloth",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Emerald",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Jade",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Parrot Egg",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Ruby",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Survival Burger",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Topaz",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Wool",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "likedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Emily",
+        "confidence": "high",
+        "tableIndex": 35,
+        "values": [
+          {
+            "value": "All Universal Likes (except Fish Taco, Fried Eel, Ice Cream, Maki Roll, Rice Pudding, Salmon Dinner, Spicy Eel, & Sashimi)",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Daffodil",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Quartz",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "dislikedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Emily",
+        "confidence": "high",
+        "tableIndex": 39,
+        "values": [
+          {
+            "value": "All Universal Dislikes (except Parrot Egg)",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Fried Eel",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Ice Cream",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Rice Pudding",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Salmonberry",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Spicy Eel",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "hatedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Emily",
+        "confidence": "high",
+        "tableIndex": 41,
+        "values": [
+          {
+            "value": "All Universal Hates",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Fish Taco",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Holly",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Maki Roll",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Salmon Dinner",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          },
+          {
+            "value": "Sashimi",
+            "sourceUrl": "https://stardewvalleywiki.com/Emily",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      }
+    }
+  },
+  {
+    "slug": "shane",
+    "name": "Shane",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Shane"
+    ],
+    "missingFields": [
+      "likedGifts",
+      "dislikedGifts",
+      "hatedGifts"
+    ],
+    "candidates": {
+      "lovedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Shane",
+        "confidence": "high",
+        "tableIndex": 37,
+        "values": [
+          {
+            "value": "All Universal Loves",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Beer",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Hot Pepper",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Pepper Poppers",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Pizza",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "likedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Shane",
+        "confidence": "high",
+        "tableIndex": 39,
+        "values": [
+          {
+            "value": "All Universal Likes (except Pickles)All Eggs (except Void Egg)*All Fruit (except Hot Pepper)",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "dislikedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Shane",
+        "confidence": "high",
+        "tableIndex": 44,
+        "values": [
+          {
+            "value": "All Universal Dislikes",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Chanterelle",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Common Mushroom",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Daffodil",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Dandelion",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Ginger",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Hazelnut",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Holly",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Leek",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Magma Cap",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Morel",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Purple Mushroom",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Seaweed",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Snow Yam",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Wild Horseradish",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Winter Root",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "hatedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Shane",
+        "confidence": "high",
+        "tableIndex": 46,
+        "values": [
+          {
+            "value": "All Universal Hates (except Seaweed & Strange Bun)",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Pickles",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          },
+          {
+            "value": "Quartz",
+            "sourceUrl": "https://stardewvalleywiki.com/Shane",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      }
+    }
+  },
+  {
+    "slug": "harvey",
+    "name": "Harvey",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Harvey"
+    ],
+    "missingFields": [
+      "likedGifts",
+      "dislikedGifts",
+      "hatedGifts"
+    ],
+    "candidates": {
+      "lovedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+        "confidence": "high",
+        "tableIndex": 35,
+        "values": [
+          {
+            "value": "All Universal Loves",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Coffee",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Pickles",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Super Meal",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Truffle Oil",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Wine",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "likedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+        "confidence": "high",
+        "tableIndex": 37,
+        "values": [
+          {
+            "value": "All Universal Likes (except Cheese, Goat Cheese, Rainbow Shell, and the following cooked dishes: Blueberry Tart, Chocolate Cake, Cookie, Cranberry Sauce, Fried Mushroom, Glazed Yams, Hashbrowns, Ice Cream, Pancakes, Pink Cake, Pizza, Rhubarb Pie, & Rice Pudding)All Fruit (except Salmonberry & Spice Berry)",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Chanterelle",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Common Mushroom",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Daffodil",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Dandelion",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Duck Egg",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Duck Feather",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Ginger",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Goat Milk",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Hazelnut",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Holly",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Large Goat Milk",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Leek",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Magma Cap",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Morel",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Purple Mushroom",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Quartz",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Snow Yam",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Spring Onion",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Wild Horseradish",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Winter Root",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "dislikedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+        "confidence": "high",
+        "tableIndex": 41,
+        "values": [
+          {
+            "value": "All Universal Dislikes (except Spring Onion)",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Blueberry Tart",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Bread",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Cheese",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Chocolate Cake",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Cookie",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Cranberry Sauce",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Fried Mushroom",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Glazed Yams",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Goat Cheese",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Hashbrowns",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Ice Cream",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Pancakes",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Pink Cake",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Pizza",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Rhubarb Pie",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Rice Pudding",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "hatedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+        "confidence": "high",
+        "tableIndex": 43,
+        "values": [
+          {
+            "value": "All Universal Hates",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Coral",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Nautilus Shell",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Rainbow Shell",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Salmonberry",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          },
+          {
+            "value": "Spice Berry",
+            "sourceUrl": "https://stardewvalleywiki.com/Harvey",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      }
+    }
+  },
+  {
+    "slug": "maru",
+    "name": "Maru",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Maru"
+    ],
+    "missingFields": [
+      "likedGifts",
+      "dislikedGifts",
+      "hatedGifts"
+    ],
+    "candidates": {
+      "lovedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Maru",
+        "confidence": "high",
+        "tableIndex": 36,
+        "values": [
+          {
+            "value": "All Universal Loves",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Battery Pack",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Cauliflower",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Cheese Cauliflower",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Diamond",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Dwarf Gadget",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Gold Bar",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Iridium Bar",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Miner's Treat",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Pepper Poppers",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Radioactive Bar",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Rhubarb Pie",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Strawberry",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "likedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Maru",
+        "confidence": "high",
+        "tableIndex": 38,
+        "values": [
+          {
+            "value": "All Universal Likes (except Honey, Maple Syrup, & Pickles)",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Chanterelle",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Copper Bar",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Iron Bar",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Magma Cap",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Morel",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Oak Resin",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Pine Tar",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Purple Mushroom",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Quartz",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Radioactive Ore",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "dislikedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Maru",
+        "confidence": "high",
+        "tableIndex": 42,
+        "values": [
+          {
+            "value": "All Universal Dislikes (except Battery Pack, Copper Bar, Dwarf Gadget, Gold Bar, Iridium Bar, Iron Bar, Oak Resin, & Pine Tar)",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Blackberry",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Common Mushroom",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Crystal Fruit",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Maple Syrup",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Salmonberry",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      },
+      "hatedGifts": {
+        "sourceUrl": "https://stardewvalleywiki.com/Maru",
+        "confidence": "high",
+        "tableIndex": 44,
+        "values": [
+          {
+            "value": "All Universal Hates (except Radioactive Bar & Radioactive Ore)",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Holly",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Honey",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Pickles",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Snow Yam",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          },
+          {
+            "value": "Truffle",
+            "sourceUrl": "https://stardewvalleywiki.com/Maru",
+            "confidence": "high"
+          }
+        ],
+        "warning": ""
+      }
+    }
+  }
+]

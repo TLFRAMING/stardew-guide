@@ -1,0 +1,305 @@
+[
+  {
+    "slug": "keg-empire",
+    "title": "Ancient Fruit and Starfruit Keg Empire",
+    "shortName": "Keg Empire",
+    "summary": "A long-term artisan route built around Ancient Fruit, Starfruit, and enough kegs to turn harvests into weekly cash flow. It is strong once the greenhouse or Ginger Island removes normal seasonal limits.",
+    "bestStage": "mid-late",
+    "category": "artisan",
+    "profitPotential": "very-high",
+    "laborCost": "medium",
+    "automation": "medium-high",
+    "versionRisk": "low",
+    "bestFor": [
+      "Players who want stable long-term weekly income",
+      "Players with greenhouse or Ginger Island access",
+      "Players willing to build a large keg supply chain"
+    ],
+    "whyItWorks": [
+      "Ancient Fruit regrows on a weekly rhythm after setup, which pairs cleanly with wine production.",
+      "Starfruit has a higher single-bottle value and can bridge the route before Ancient Fruit production scales.",
+      "The main bottleneck becomes keg count, oak resin, and processing space rather than crop value."
+    ],
+    "setupSteps": [
+      "Unlock the greenhouse or Ginger Island farming space.",
+      "Use Starfruit for cash bursts while Ancient Fruit seed stock is still limited.",
+      "Expand Ancient Fruit through seed production until the permanent growing area is filled.",
+      "Build enough kegs to process each harvest without long idle periods.",
+      "Use the Artisan profession if the route is intended as a primary income engine."
+    ],
+    "profitEstimates": [
+      {
+        "label": "Mature greenhouse Ancient Fruit wine",
+        "assumption": "120 mature Ancient Fruit plants, enough kegs, weekly harvest rhythm, and Artisan profession assumptions from the research draft",
+        "value": "About 277,200g per week before aging assumptions",
+        "confidence": "needs verification"
+      },
+      {
+        "label": "Starfruit bridge batch",
+        "assumption": "30 Starfruit processed into wine with enough kegs and seed costs excluded from final value",
+        "value": "About 94,500g gross per batch under the draft assumptions",
+        "confidence": "needs verification"
+      }
+    ],
+    "caveats": [
+      "Large keg networks take time, oak resin, wood, copper, and iron.",
+      "Aging wine in casks is not the main engine because cellar space is limited.",
+      "Starfruit versus Ancient Fruit depends on seed access, replanting labor, fertilizer, and time horizon."
+    ],
+    "articleAngles": [
+      "Ancient Fruit versus Starfruit: which should power your late-game winery?",
+      "Why keg count is the real bottleneck in a wine empire",
+      "Greenhouse setup path for a weekly cash-flow farm"
+    ],
+    "seoKeywords": [
+      "stardew valley keg empire",
+      "ancient fruit wine",
+      "starfruit wine",
+      "stardew valley greenhouse money"
+    ],
+    "sourceUrls": [],
+    "confidence": "medium",
+    "lastChecked": "2026-05-18",
+    "notes": "Drafted from deep research report. Source URLs and exact profit math need Web Extractor verification before final use."
+  },
+  {
+    "slug": "truffle-pigs",
+    "title": "Truffle Pigs and the Truffle Oil Question",
+    "shortName": "Truffle Pigs",
+    "summary": "A high-value animal route where mature pigs produce truffles that can be sold directly or processed into truffle oil. The main article hook is when processing is worth the extra labor.",
+    "bestStage": "mid-late",
+    "category": "animal",
+    "profitPotential": "very-high",
+    "laborCost": "medium",
+    "automation": "medium",
+    "versionRisk": "low",
+    "bestFor": [
+      "Players who want strong income without filling the farm with crops",
+      "Players who like animal-based routes",
+      "Players comparing direct truffle sales against truffle oil"
+    ],
+    "whyItWorks": [
+      "Pigs can generate multiple high-value truffles on productive days once friendship and outdoor access are established.",
+      "The Gatherer and Botanist professions can materially change the direct-sale case for truffles.",
+      "Oil makers add value in some cases but also add processing time and daily handling."
+    ],
+    "setupSteps": [
+      "Upgrade to a Deluxe Barn and buy pigs.",
+      "Keep pigs fed, happy, and able to go outside during valid weather and seasons.",
+      "Collect truffles regularly so new truffles are not blocked by cluttered ground.",
+      "Decide whether to sell iridium truffles directly or process lower-quality truffles into oil.",
+      "Scale oil makers only if processing time fits the farm routine."
+    ],
+    "profitEstimates": [
+      {
+        "label": "Ten mature pigs, direct iridium truffle sales",
+        "assumption": "Research draft model using mature pigs and Botanist-style iridium truffle assumptions",
+        "value": "About 3.15M per year in the draft comparison model",
+        "confidence": "needs verification"
+      }
+    ],
+    "caveats": [
+      "Pigs do not produce truffles in winter and require outdoor access.",
+      "Weather, friendship, animal count, and available ground space affect real output.",
+      "The truffle oil decision depends on profession choices and whether the player values lower labor."
+    ],
+    "articleAngles": [
+      "Should you sell truffles or make truffle oil?",
+      "Why pig income is stronger than it looks",
+      "A low-crop money route for players who prefer barns"
+    ],
+    "seoKeywords": [
+      "stardew valley truffle pigs",
+      "truffle oil vs truffle",
+      "stardew valley pig money",
+      "botanist truffle"
+    ],
+    "sourceUrls": [],
+    "confidence": "medium",
+    "lastChecked": "2026-05-18",
+    "notes": "Drafted from deep research report. Exact production rates, profession interactions, and truffle oil breakpoints require source review."
+  },
+  {
+    "slug": "fairy-rose-honey",
+    "title": "Fairy Rose Honey on Ginger Island",
+    "shortName": "Fairy Rose Honey",
+    "summary": "A low-labor artisan route built around Bee Houses placed around Fairy Roses, especially on Ginger Island where season pressure is reduced. It trades maximum profit for simple collection and attractive layouts.",
+    "bestStage": "mid-late",
+    "category": "artisan",
+    "profitPotential": "high",
+    "laborCost": "low",
+    "automation": "high",
+    "versionRisk": "medium",
+    "bestFor": [
+      "Players who want low-maintenance recurring income",
+      "Players who enjoy layout planning",
+      "Players with Ginger Island access"
+    ],
+    "whyItWorks": [
+      "Bee Houses can repeatedly produce flower honey after the layout is built.",
+      "Fairy Rose Honey has a high unit value compared with ordinary Wild Honey.",
+      "Ginger Island makes the route easier to maintain because crops are not constrained by normal valley seasons."
+    ],
+    "setupSteps": [
+      "Unlock Ginger Island or prepare a seasonal valley flower honey layout.",
+      "Plant Fairy Roses where they can influence nearby Bee Houses.",
+      "Place Bee Houses in a compact pattern that stays within the flower effect range.",
+      "Avoid harvesting the Fairy Rose if it is needed to keep honey flavored.",
+      "Collect honey on its production cycle and expand the layout if material supply allows."
+    ],
+    "profitEstimates": [
+      {
+        "label": "Compact Fairy Rose Honey array",
+        "assumption": "44 Bee Houses around a Fairy Rose style layout from the research draft",
+        "value": "About 1.17M per year in the draft comparison model",
+        "confidence": "needs verification"
+      }
+    ],
+    "caveats": [
+      "Exact placement rules and flower range must be verified before publishing layout diagrams.",
+      "The route depends on Bee House material costs and access to Fairy Rose seeds.",
+      "It is strong for low labor, not necessarily the highest possible gold per tile."
+    ],
+    "articleAngles": [
+      "The low-effort Ginger Island honey farm",
+      "Why Fairy Rose Honey is a layout strategy, not just a flower choice",
+      "How to compare honey income against crop processing"
+    ],
+    "seoKeywords": [
+      "stardew valley fairy rose honey",
+      "ginger island honey farm",
+      "bee house layout",
+      "stardew valley honey money"
+    ],
+    "sourceUrls": [],
+    "confidence": "medium",
+    "lastChecked": "2026-05-18",
+    "notes": "Drafted from deep research report. Layout math, Bee House radius, and exact yearly estimates require source verification."
+  },
+  {
+    "slug": "tea-saplings",
+    "title": "Tea Saplings After the 1.6 Price Change",
+    "shortName": "Tea Saplings",
+    "summary": "An early-game cash route built around crafting and selling Tea Saplings. It is still useful as a quick money tool, but the guide must clearly separate current 1.6 values from older 500g advice.",
+    "bestStage": "early",
+    "category": "crop",
+    "profitPotential": "medium",
+    "laborCost": "low",
+    "automation": "high",
+    "versionRisk": "high",
+    "bestFor": [
+      "Players who need early cash before major farm systems are online",
+      "Players with Caroline friendship progress",
+      "Readers confused by older Tea Sapling guides"
+    ],
+    "whyItWorks": [
+      "The route converts common early resources into a sellable crafted item.",
+      "It was historically known as a powerful early-game strategy, which makes version correction valuable.",
+      "The current value proposition depends heavily on the post-1.6 sell price."
+    ],
+    "setupSteps": [
+      "Build friendship with Caroline until the Tea Sapling recipe is unlocked.",
+      "Gather the required forage, fiber, and wood for crafting.",
+      "Craft Tea Saplings as a cash-conversion tool rather than a permanent endgame industry.",
+      "Compare selling saplings against planting tea bushes for repeated Tea Leaves.",
+      "Call out the 1.6 price change before giving any profit table."
+    ],
+    "profitEstimates": [
+      {
+        "label": "Post-1.6 Tea Sapling sale value",
+        "assumption": "Tea Sapling sell price reduced from the older guide value to the current draft value",
+        "value": "250g per Tea Sapling in the research draft",
+        "confidence": "needs verification"
+      },
+      {
+        "label": "100 sapling cash-out",
+        "assumption": "100 crafted Tea Saplings sold at the current draft value",
+        "value": "About 25,000g before material opportunity cost",
+        "confidence": "needs verification"
+      }
+    ],
+    "caveats": [
+      "Old guides may quote 500g per Tea Sapling and are version-sensitive.",
+      "Material opportunity cost matters more after the sell price reduction.",
+      "This is an early cash tool, not a late-game money engine."
+    ],
+    "articleAngles": [
+      "Is the Tea Sapling strategy still worth it after 1.6?",
+      "Why old 500g Tea Sapling guides can mislead new players",
+      "Early cash without rushing a full crop empire"
+    ],
+    "seoKeywords": [
+      "stardew valley tea saplings",
+      "tea sapling 250g",
+      "stardew valley 1.6 tea sapling",
+      "early game money stardew"
+    ],
+    "sourceUrls": [],
+    "confidence": "medium",
+    "lastChecked": "2026-05-18",
+    "notes": "Drafted from deep research report. Current sell price, recipe unlock, and version history need source verification before final publication."
+  },
+  {
+    "slug": "fish-smoker",
+    "title": "Fish Smoker Active Money Route",
+    "shortName": "Fish Smoker",
+    "summary": "A Stardew Valley 1.6 fishing route that turns high-value catches into smoked fish for faster active income. It is powerful, but unlike passive routes it depends on fishing skill, coal supply, and player attention.",
+    "bestStage": "early-mid",
+    "category": "fishing",
+    "profitPotential": "high",
+    "laborCost": "high",
+    "automation": "low",
+    "versionRisk": "medium",
+    "bestFor": [
+      "Players who enjoy active fishing",
+      "Players on version 1.6 or later",
+      "Players who want faster cash before late-game infrastructure"
+    ],
+    "whyItWorks": [
+      "The Fish Smoker converts fish into a higher-value artisan product.",
+      "The route can benefit from fishing-focused income bonuses and artisan-style scaling according to the research draft.",
+      "Rainy-day Catfish and late-game high-value fish create clear article examples."
+    ],
+    "setupSteps": [
+      "Acquire or craft a Fish Smoker after confirming the current version requirements.",
+      "Stockpile coal and the required jelly ingredients before planning long fishing sessions.",
+      "Target high-value fish rather than processing every low-value catch.",
+      "Use fishing buffs and tackle when aiming for difficult fish.",
+      "Sell smoked fish through valid sale channels and account for coal cost."
+    ],
+    "profitEstimates": [
+      {
+        "label": "Spring rainy-day Catfish model",
+        "assumption": "Research draft model with about 30 Catfish in an efficient active fishing day",
+        "value": "About 16,800g per high-efficiency fishing day before profession variation",
+        "confidence": "needs verification"
+      },
+      {
+        "label": "Profession-boosted active day",
+        "assumption": "Same active fishing model with fishing profession bonuses from the research draft",
+        "value": "About 21,000g to 25,200g per active day",
+        "confidence": "needs verification"
+      }
+    ],
+    "caveats": [
+      "This route is active and skill-dependent; poor fishing performance will reduce returns.",
+      "Coal and jelly ingredients are real early-game constraints.",
+      "Fish Smoker details are version-sensitive because the item is tied to the 1.6 update."
+    ],
+    "articleAngles": [
+      "How the Fish Smoker changed early fishing income",
+      "Catfish rain-day money route with realistic caveats",
+      "Why Fish Smoker is strong but not passive income"
+    ],
+    "seoKeywords": [
+      "stardew valley fish smoker",
+      "smoked fish money",
+      "stardew valley 1.6 fishing money",
+      "catfish money route"
+    ],
+    "sourceUrls": [],
+    "confidence": "medium",
+    "lastChecked": "2026-05-18",
+    "notes": "Drafted from deep research report. Fish Smoker mechanics, profession interactions, and profit examples require source verification."
+  }
+]

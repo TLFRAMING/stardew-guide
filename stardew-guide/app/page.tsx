@@ -31,6 +31,12 @@ const features = [
     title: "Community Center Tracker",
     description: "Track bundle items and save progress locally in your browser.",
     tone: "gold" as const
+  },
+  {
+    href: "/money",
+    title: "Money-Making Guides",
+    description: "Compare five Stardew Valley money routes, from keg empires to fish smokers.",
+    tone: "gold" as const
   }
 ];
 
