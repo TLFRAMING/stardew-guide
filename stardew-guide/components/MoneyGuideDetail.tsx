@@ -41,7 +41,7 @@ export function MoneyGuideDetail({ guide }: { guide: MoneyGuide }) {
 
       <TextList title="Best for" values={guide.bestFor} />
       <TextList title="Caveats" values={guide.caveats} />
-      <TextList title="Article angles / SEO notes" values={[...guide.articleAngles, ...guide.seoKeywords.map((keyword) => `Keyword: ${keyword}`)]} />
+      <TextList title="What this guide covers" values={guide.articleAngles} />
 
       <section className="rounded-lg border border-green-950/10 bg-white p-5 shadow-soft">
         <h2 className="text-xl font-bold text-green-950">Sources</h2>
