@@ -1,0 +1,716 @@
+[
+  {
+    "id": "fish-sunfish",
+    "slug": "sunfish",
+    "name": "Sunfish",
+    "description": "A river fish available during daytime in spring and summer under sunny or windy weather.",
+    "beginnerNote": "A river fish available during daytime in spring and summer under sunny or windy weather.",
+    "seasons": [
+      "Spring",
+      "Summer"
+    ],
+    "weather": [
+      "Sun",
+      "Wind"
+    ],
+    "time": "6:00 AM - 7:00 PM",
+    "locations": [
+      "River"
+    ],
+    "difficulty": 30,
+    "sellPrice": 30,
+    "bundleUsage": [
+      "River Fish Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sunfish",
+      "https://stardewvalleywiki.com/Bundles"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-catfish",
+    "slug": "catfish",
+    "name": "Catfish",
+    "description": "A difficult rainy-weather fish found in rivers and several special freshwater locations.",
+    "beginnerNote": "A difficult rainy-weather fish found in rivers and several special freshwater locations.",
+    "seasons": [
+      "Spring",
+      "Fall"
+    ],
+    "weather": [
+      "Rain"
+    ],
+    "time": "6:00 AM - 12:00 AM",
+    "locations": [
+      "River",
+      "Riverlands Farm",
+      "Forest Farm",
+      "Hill-top Farm",
+      "Secret Woods",
+      "Witch's Swamp"
+    ],
+    "difficulty": 75,
+    "sellPrice": 200,
+    "bundleUsage": [
+      "River Fish Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Catfish",
+      "https://stardewvalleywiki.com/Bundles"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-shad",
+    "slug": "shad",
+    "name": "Shad",
+    "description": "A rainy-weather river fish available in spring, summer, and fall.",
+    "beginnerNote": "A rainy-weather river fish available in spring, summer, and fall.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "weather": [
+      "Rain"
+    ],
+    "time": "9:00 AM - 2:00 AM",
+    "locations": [
+      "River"
+    ],
+    "difficulty": 45,
+    "sellPrice": 60,
+    "bundleUsage": [
+      "River Fish Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Shad",
+      "https://stardewvalleywiki.com/Bundles"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-tiger-trout",
+    "slug": "tiger-trout",
+    "name": "Tiger Trout",
+    "description": "A river fish available during daytime in fall and winter.",
+    "beginnerNote": "A river fish available during daytime in fall and winter.",
+    "seasons": [
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "6:00 AM - 7:00 PM",
+    "locations": [
+      "River"
+    ],
+    "difficulty": 60,
+    "sellPrice": 150,
+    "bundleUsage": [
+      "River Fish Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Tiger_Trout",
+      "https://stardewvalleywiki.com/Bundles"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-largemouth-bass",
+    "slug": "largemouth-bass",
+    "name": "Largemouth Bass",
+    "description": "A mountain lake fish available during daytime in all seasons.",
+    "beginnerNote": "A mountain lake fish available during daytime in all seasons.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "6:00 AM - 7:00 PM",
+    "locations": [
+      "Mountain Lake"
+    ],
+    "difficulty": 50,
+    "sellPrice": 100,
+    "bundleUsage": [
+      "Lake Fish Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Largemouth_Bass",
+      "https://stardewvalleywiki.com/Bundles"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-carp",
+    "slug": "carp",
+    "name": "Carp",
+    "description": "A common freshwater fish found in the mountain lake and several special locations.",
+    "beginnerNote": "A common freshwater fish found in the mountain lake and several special locations.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Mountain Lake",
+      "Secret Woods",
+      "The Sewers",
+      "Mutant Bug Lair"
+    ],
+    "difficulty": 15,
+    "sellPrice": 30,
+    "bundleUsage": [
+      "Lake Fish Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Carp",
+      "https://stardewvalleywiki.com/Bundles"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-bullhead",
+    "slug": "bullhead",
+    "name": "Bullhead",
+    "description": "A mountain lake fish available in any season and weather.",
+    "beginnerNote": "A mountain lake fish available in any season and weather.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Mountain Lake"
+    ],
+    "difficulty": 46,
+    "sellPrice": 75,
+    "bundleUsage": [
+      "Lake Fish Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bullhead",
+      "https://stardewvalleywiki.com/Bundles"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-sturgeon",
+    "slug": "sturgeon",
+    "name": "Sturgeon",
+    "description": "A mountain lake fish available during daytime in summer and winter.",
+    "beginnerNote": "A mountain lake fish available during daytime in summer and winter.",
+    "seasons": [
+      "Summer",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "6:00 AM - 7:00 PM",
+    "locations": [
+      "Mountain Lake"
+    ],
+    "difficulty": 78,
+    "sellPrice": 200,
+    "bundleUsage": [
+      "Lake Fish Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sturgeon",
+      "https://stardewvalleywiki.com/Bundles"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-sardine",
+    "slug": "sardine",
+    "name": "Sardine",
+    "description": "A daytime ocean fish available in spring, fall, and winter.",
+    "beginnerNote": "A daytime ocean fish available in spring, fall, and winter.",
+    "seasons": [
+      "Spring",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "6:00 AM - 7:00 PM",
+    "locations": [
+      "Ocean"
+    ],
+    "difficulty": 30,
+    "sellPrice": 40,
+    "bundleUsage": [
+      "Ocean Fish Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sardine",
+      "https://stardewvalleywiki.com/Bundles"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-tuna",
+    "slug": "tuna",
+    "name": "Tuna",
+    "description": "A daytime ocean fish available in summer and winter.",
+    "beginnerNote": "A daytime ocean fish available in summer and winter.",
+    "seasons": [
+      "Summer",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "6:00 AM - 7:00 PM",
+    "locations": [
+      "Ocean"
+    ],
+    "difficulty": 70,
+    "sellPrice": 100,
+    "bundleUsage": [
+      "Ocean Fish Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Tuna",
+      "https://stardewvalleywiki.com/Bundles"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-red-snapper",
+    "slug": "red-snapper",
+    "name": "Red Snapper",
+    "description": "A rainy-weather ocean fish available during daytime.",
+    "beginnerNote": "A rainy-weather ocean fish available during daytime.",
+    "seasons": [
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Rain"
+    ],
+    "time": "6:00 AM - 7:00 PM",
+    "locations": [
+      "Ocean"
+    ],
+    "difficulty": 40,
+    "sellPrice": 50,
+    "bundleUsage": [
+      "Ocean Fish Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Red_Snapper",
+      "https://stardewvalleywiki.com/Bundles"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-tilapia",
+    "slug": "tilapia",
+    "name": "Tilapia",
+    "description": "A daytime ocean fish available in summer and fall.",
+    "beginnerNote": "A daytime ocean fish available in summer and fall.",
+    "seasons": [
+      "Summer",
+      "Fall"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "6:00 AM - 2:00 PM",
+    "locations": [
+      "Ocean"
+    ],
+    "difficulty": 50,
+    "sellPrice": 75,
+    "bundleUsage": [
+      "Ocean Fish Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Tilapia",
+      "https://stardewvalleywiki.com/Bundles"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-walleye",
+    "slug": "walleye",
+    "name": "Walleye",
+    "description": "A rainy fall fish found in rivers, lakes, and forest ponds during the afternoon and night.",
+    "beginnerNote": "A rainy fall fish found in rivers, lakes, and forest ponds during the afternoon and night.",
+    "seasons": [
+      "Fall"
+    ],
+    "weather": [
+      "Rain"
+    ],
+    "time": "12:00 PM - 2:00 AM",
+    "locations": [
+      "River",
+      "Mountain Lake",
+      "Cindersap Forest Pond"
+    ],
+    "difficulty": 45,
+    "sellPrice": 105,
+    "bundleUsage": [
+      "Night Fishing Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Walleye",
+      "https://stardewvalleywiki.com/Bundles"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-eel",
+    "slug": "eel",
+    "name": "Eel",
+    "description": "A rainy evening ocean fish available in spring and fall.",
+    "beginnerNote": "A rainy evening ocean fish available in spring and fall.",
+    "seasons": [
+      "Spring",
+      "Fall"
+    ],
+    "weather": [
+      "Rain"
+    ],
+    "time": "4:00 PM - 2:00 AM",
+    "locations": [
+      "Ocean"
+    ],
+    "difficulty": 70,
+    "sellPrice": 85,
+    "bundleUsage": [
+      "Night Fishing Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Eel",
+      "https://stardewvalleywiki.com/Bundles"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-bream",
+    "slug": "bream",
+    "name": "Bream",
+    "description": "A river fish available at night in all seasons.",
+    "beginnerNote": "A river fish available at night in all seasons.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "6:00 PM - 2:00 AM",
+    "locations": [
+      "River"
+    ],
+    "difficulty": 35,
+    "sellPrice": 45,
+    "bundleUsage": [
+      "Night Fishing Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bream",
+      "https://stardewvalleywiki.com/Bundles"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-smallmouth-bass",
+    "slug": "smallmouth-bass",
+    "name": "Smallmouth Bass",
+    "description": "A common freshwater fish available in spring and fall.",
+    "beginnerNote": "A common freshwater fish available in spring and fall.",
+    "seasons": [
+      "Spring",
+      "Fall"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "River",
+      "Cindersap Forest Pond"
+    ],
+    "difficulty": 28,
+    "sellPrice": 50,
+    "bundleUsage": [
+      "needs verification"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Smallmouth_Bass"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-anchovy",
+    "slug": "anchovy",
+    "name": "Anchovy",
+    "description": "A small ocean fish available in spring and fall.",
+    "beginnerNote": "A small ocean fish available in spring and fall.",
+    "seasons": [
+      "Spring",
+      "Fall"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Ocean"
+    ],
+    "difficulty": 30,
+    "sellPrice": 30,
+    "bundleUsage": [
+      "needs verification"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Anchovy"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-herring",
+    "slug": "herring",
+    "name": "Herring",
+    "description": "An ocean fish available in spring and winter.",
+    "beginnerNote": "An ocean fish available in spring and winter.",
+    "seasons": [
+      "Spring",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "Ocean"
+    ],
+    "difficulty": 25,
+    "sellPrice": 30,
+    "bundleUsage": [
+      "needs verification"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Herring"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-flounder",
+    "slug": "flounder",
+    "name": "Flounder",
+    "description": "An ocean fish available during the day in spring and summer.",
+    "beginnerNote": "An ocean fish available during the day in spring and summer.",
+    "seasons": [
+      "Spring",
+      "Summer"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "6:00 AM - 8:00 PM",
+    "locations": [
+      "Ocean",
+      "Ginger Island Ocean"
+    ],
+    "difficulty": 50,
+    "sellPrice": 100,
+    "bundleUsage": [
+      "needs verification"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Flounder"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-halibut",
+    "slug": "halibut",
+    "name": "Halibut",
+    "description": "An ocean fish available in split morning and night windows during spring, summer, and winter.",
+    "beginnerNote": "An ocean fish available in split morning and night windows during spring, summer, and winter.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "6:00 AM - 11:00 AM; 7:00 PM - 2:00 AM",
+    "locations": [
+      "Ocean"
+    ],
+    "difficulty": 50,
+    "sellPrice": 80,
+    "bundleUsage": [
+      "needs verification"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Halibut"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-salmon",
+    "slug": "salmon",
+    "name": "Salmon",
+    "description": "A fall river fish available during daytime.",
+    "beginnerNote": "A fall river fish available during daytime.",
+    "seasons": [
+      "Fall"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "6:00 AM - 7:00 PM",
+    "locations": [
+      "River"
+    ],
+    "difficulty": 50,
+    "sellPrice": 75,
+    "bundleUsage": [
+      "needs verification"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Salmon"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-pike",
+    "slug": "pike",
+    "name": "Pike",
+    "description": "A freshwater fish available in summer and winter.",
+    "beginnerNote": "A freshwater fish available in summer and winter.",
+    "seasons": [
+      "Summer",
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "River",
+      "Cindersap Forest Pond"
+    ],
+    "difficulty": 60,
+    "sellPrice": 100,
+    "bundleUsage": [
+      "needs verification"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Pike"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-perch",
+    "slug": "perch",
+    "name": "Perch",
+    "description": "A winter freshwater fish available in rivers, the mountain lake, and forest pond.",
+    "beginnerNote": "A winter freshwater fish available in rivers, the mountain lake, and forest pond.",
+    "seasons": [
+      "Winter"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "Any",
+    "locations": [
+      "River",
+      "Mountain Lake",
+      "Cindersap Forest Pond"
+    ],
+    "difficulty": 35,
+    "sellPrice": 55,
+    "bundleUsage": [
+      "needs verification"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Perch"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-rainbow-trout",
+    "slug": "rainbow-trout",
+    "name": "Rainbow Trout",
+    "description": "A summer daytime fish found in rivers and the mountain lake during sunny weather.",
+    "beginnerNote": "A summer daytime fish found in rivers and the mountain lake during sunny weather.",
+    "seasons": [
+      "Summer"
+    ],
+    "weather": [
+      "Sun"
+    ],
+    "time": "6:00 AM - 7:00 PM",
+    "locations": [
+      "River",
+      "Mountain Lake"
+    ],
+    "difficulty": 45,
+    "sellPrice": 65,
+    "bundleUsage": [
+      "needs verification"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Rainbow_Trout"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "fish-octopus",
+    "slug": "octopus",
+    "name": "Octopus",
+    "description": "A difficult ocean fish available in the morning during summer.",
+    "beginnerNote": "A difficult ocean fish available in the morning during summer.",
+    "seasons": [
+      "Summer"
+    ],
+    "weather": [
+      "Any"
+    ],
+    "time": "6:00 AM - 1:00 PM",
+    "locations": [
+      "Ocean"
+    ],
+    "difficulty": 95,
+    "sellPrice": 150,
+    "bundleUsage": [
+      "needs verification"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Octopus"
+    ],
+    "lastChecked": "2026-05-17"
+  }
+]

@@ -1,0 +1,123 @@
+import { existsSync, readFileSync } from "node:fs";
+import path from "node:path";
+import type { Bundle, BundleItem, Crop, Fish, Season, Villager } from "./types";
+
+type BundleJson = Omit<Bundle, "items" | "name" | "slug"> & {
+  slug?: string;
+  name?: string;
+  bundleName?: string;
+  items?: BundleItem[] | string[];
+};
+
+const dataDirectory = getDataDirectory();
+
+function getDataDirectory() {
+  return path.resolve(process.cwd(), "data", "stardew");
+}
+
+function readJsonFile<T>(fileName: string, fallback: T): T {
+  const filePath = path.join(dataDirectory, fileName);
+
+  if (!existsSync(filePath)) {
+    return fallback;
+  }
+
+  try {
+    return JSON.parse(readFileSync(filePath, "utf8")) as T;
+  } catch {
+    return fallback;
+  }
+}
+
+function readJsonArray<T>(fileName: string): T[] {
+  const data = readJsonFile<unknown>(fileName, []);
+
+  if (!Array.isArray(data)) {
+    return [];
+  }
+
+  return data as T[];
+}
+
+export function getAllVillagers(): Villager[] {
+  return readJsonArray<Villager>("villagers.json").map(normalizeVillager);
+}
+
+export function getVillagerBySlug(slug: string): Villager | undefined {
+  return getAllVillagers().find((villager) => villager.slug === slug);
+}
+
+export function getAllCrops(): Crop[] {
+  return readJsonArray<Crop>("crops.json").map(normalizeCrop);
+}
+
+export function getCropBySlug(slug: string): Crop | undefined {
+  return getAllCrops().find((crop) => crop.slug === slug);
+}
+
+export function getAllFish(): Fish[] {
+  return readJsonArray<Fish>("fish.json");
+}
+
+export function getFishBySlug(slug: string): Fish | undefined {
+  return getAllFish().find((fish) => fish.slug === slug);
+}
+
+export function getAllBundles(): Bundle[] {
+  return readJsonArray<BundleJson>("bundles.json").map(normalizeBundle);
+}
+
+function normalizeVillager(villager: Villager): Villager {
+  return {
+    ...villager,
+    beginnerNote: villager.beginnerNote ?? villager.beginnerTip ?? villager.description ?? "needs verification"
+  };
+}
+
+function normalizeCrop(crop: Crop): Crop {
+  const rawSeasons = crop.seasons ?? crop.season ?? [];
+
+  return {
+    ...crop,
+    seasons: rawSeasons as Season[],
+    beginnerNote: crop.beginnerNote ?? crop.description ?? "needs verification"
+  };
+}
+
+function normalizeBundle(bundle: BundleJson): Bundle {
+  const name = bundle.name ?? bundle.bundleName ?? bundle.id ?? "needs verification";
+  const slug = bundle.slug ?? bundle.id ?? slugify(name);
+
+  return {
+    ...bundle,
+    name,
+    slug,
+    items: normalizeBundleItems(bundle.items ?? [], slug)
+  };
+}
+
+function normalizeBundleItems(items: NonNullable<BundleJson["items"]>, bundleSlug: string): BundleItem[] {
+  return items.map((item, index) => {
+    if (typeof item !== "string") {
+      return {
+        ...item,
+        id: item.id ?? `${bundleSlug}-${index + 1}`,
+        notes: item.notes ?? "needs verification"
+      };
+    }
+
+    return {
+      id: `${bundleSlug}-${slugify(item)}`,
+      name: item,
+      quantity: 1,
+      notes: "needs verification"
+    };
+  });
+}
+
+function slugify(value: string) {
+  return value
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/(^-|-$)/g, "");
+}

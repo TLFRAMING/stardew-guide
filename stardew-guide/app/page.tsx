@@ -1,0 +1,47 @@
+import type { Metadata } from "next";
+import { CardLink } from "@/components/CardLink";
+import { PageShell } from "@/components/PageShell";
+
+export const metadata: Metadata = {
+  title: "Stardew Guide",
+  description: "A mobile-friendly Stardew Valley guide for villagers, crops, fish, and Community Center bundles."
+};
+
+const features = [
+  {
+    href: "/villagers",
+    title: "Villager Gift Finder",
+    description: "Find beginner-friendly loved and liked gifts from local JSON data.",
+    tone: "meadow" as const
+  },
+  {
+    href: "/crops",
+    title: "Crops Database",
+    description: "Browse crop facts, seasons, prices, growth days, and starter notes.",
+    tone: "pond" as const
+  },
+  {
+    href: "/fish",
+    title: "Fish Calendar",
+    description: "Check fish by season, location, time, weather, and difficulty.",
+    tone: "berry" as const
+  },
+  {
+    href: "/community-center",
+    title: "Community Center Tracker",
+    description: "Track bundle items and save progress locally in your browser.",
+    tone: "gold" as const
+  }
+];
+
+export default function HomePage() {
+  return (
+    <PageShell eyebrow="MVP" title="A calmer Stardew Valley guide for new farmers">
+      <div className="grid gap-4 md:grid-cols-2">
+        {features.map((feature) => (
+          <CardLink description={feature.description} href={feature.href} key={feature.href} title={feature.title} tone={feature.tone} />
+        ))}
+      </div>
+    </PageShell>
+  );
+}

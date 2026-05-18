@@ -1,0 +1,928 @@
+[
+  {
+    "id": "bundle-spring-foraging",
+    "slug": "spring-foraging",
+    "name": "Spring Foraging Bundle",
+    "room": "Crafts Room",
+    "items": [
+      {
+        "id": "item-wild-horseradish",
+        "name": "Wild Horseradish",
+        "quantity": 1,
+        "notes": "Spring forage"
+      },
+      {
+        "id": "item-daffodil",
+        "name": "Daffodil",
+        "quantity": 1,
+        "notes": "Spring forage; also sold by Pierre at the Flower Dance"
+      },
+      {
+        "id": "item-leek",
+        "name": "Leek",
+        "quantity": 1,
+        "notes": "Spring forage"
+      },
+      {
+        "id": "item-dandelion",
+        "name": "Dandelion",
+        "quantity": 1,
+        "notes": "Spring forage; also sold by Pierre at the Flower Dance"
+      }
+    ],
+    "reward": "30 Spring Seeds",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Crafts_Room"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-summer-foraging",
+    "slug": "summer-foraging",
+    "name": "Summer Foraging Bundle",
+    "room": "Crafts Room",
+    "items": [
+      {
+        "id": "item-grape",
+        "name": "Grape",
+        "quantity": 1,
+        "notes": "Summer forage; also a fall crop"
+      },
+      {
+        "id": "item-spice-berry",
+        "name": "Spice Berry",
+        "quantity": 1,
+        "notes": "Summer forage; also from fruit bat Farm Cave"
+      },
+      {
+        "id": "item-sweet-pea",
+        "name": "Sweet Pea",
+        "quantity": 1,
+        "notes": "Summer forage"
+      }
+    ],
+    "reward": "30 Summer Seeds",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Crafts_Room"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-fall-foraging",
+    "slug": "fall-foraging",
+    "name": "Fall Foraging Bundle",
+    "room": "Crafts Room",
+    "items": [
+      {
+        "id": "item-common-mushroom",
+        "name": "Common Mushroom",
+        "quantity": 1,
+        "notes": "Fall forage; also from Secret Woods, mushroom Farm Cave, and Mushroom Trees"
+      },
+      {
+        "id": "item-wild-plum",
+        "name": "Wild Plum",
+        "quantity": 1,
+        "notes": "Fall forage; also from fruit bat Farm Cave"
+      },
+      {
+        "id": "item-hazelnut",
+        "name": "Hazelnut",
+        "quantity": 1,
+        "notes": "Fall forage"
+      },
+      {
+        "id": "item-blackberry",
+        "name": "Blackberry",
+        "quantity": 1,
+        "notes": "Fall forage; also from fruit bat Farm Cave"
+      }
+    ],
+    "reward": "30 Fall Seeds",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Crafts_Room"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-winter-foraging",
+    "slug": "winter-foraging",
+    "name": "Winter Foraging Bundle",
+    "room": "Crafts Room",
+    "items": [
+      {
+        "id": "item-winter-root",
+        "name": "Winter Root",
+        "quantity": 1,
+        "notes": "Winter tilling or artifact spots; also dropped by Blue Slimes"
+      },
+      {
+        "id": "item-crystal-fruit",
+        "name": "Crystal Fruit",
+        "quantity": 1,
+        "notes": "Winter forage; also dropped by Dust Sprites"
+      },
+      {
+        "id": "item-snow-yam",
+        "name": "Snow Yam",
+        "quantity": 1,
+        "notes": "Winter tilling or artifact spots"
+      },
+      {
+        "id": "item-crocus",
+        "name": "Crocus",
+        "quantity": 1,
+        "notes": "Winter forage"
+      }
+    ],
+    "reward": "30 Winter Seeds",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Crafts_Room"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-construction",
+    "slug": "construction",
+    "name": "Construction Bundle",
+    "room": "Crafts Room",
+    "items": [
+      {
+        "id": "item-wood-stack-1",
+        "name": "Wood",
+        "quantity": 99,
+        "notes": "First required Wood stack"
+      },
+      {
+        "id": "item-wood-stack-2",
+        "name": "Wood",
+        "quantity": 99,
+        "notes": "Second required Wood stack"
+      },
+      {
+        "id": "item-stone",
+        "name": "Stone",
+        "quantity": 99,
+        "notes": "Stone stack"
+      },
+      {
+        "id": "item-hardwood",
+        "name": "Hardwood",
+        "quantity": 10,
+        "notes": "Large stumps, large logs, crates, or Mahogany Trees"
+      }
+    ],
+    "reward": "1 Charcoal Kiln",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Crafts_Room"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-spring-crops",
+    "slug": "spring-crops",
+    "name": "Spring Crops Bundle",
+    "room": "Pantry",
+    "items": [
+      {
+        "id": "item-parsnip",
+        "name": "Parsnip",
+        "quantity": 1,
+        "notes": "Spring crop"
+      },
+      {
+        "id": "item-green-bean",
+        "name": "Green Bean",
+        "quantity": 1,
+        "notes": "Spring crop"
+      },
+      {
+        "id": "item-cauliflower",
+        "name": "Cauliflower",
+        "quantity": 1,
+        "notes": "Spring crop"
+      },
+      {
+        "id": "item-potato",
+        "name": "Potato",
+        "quantity": 1,
+        "notes": "Spring crop"
+      }
+    ],
+    "reward": "20 Speed-Gro",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Pantry"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-summer-crops",
+    "slug": "summer-crops",
+    "name": "Summer Crops Bundle",
+    "room": "Pantry",
+    "items": [
+      {
+        "id": "item-tomato",
+        "name": "Tomato",
+        "quantity": 1,
+        "notes": "Summer crop"
+      },
+      {
+        "id": "item-hot-pepper",
+        "name": "Hot Pepper",
+        "quantity": 1,
+        "notes": "Summer crop"
+      },
+      {
+        "id": "item-blueberry",
+        "name": "Blueberry",
+        "quantity": 1,
+        "notes": "Summer crop"
+      },
+      {
+        "id": "item-melon",
+        "name": "Melon",
+        "quantity": 1,
+        "notes": "Summer crop"
+      }
+    ],
+    "reward": "1 Quality Sprinkler",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Pantry"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-fall-crops",
+    "slug": "fall-crops",
+    "name": "Fall Crops Bundle",
+    "room": "Pantry",
+    "items": [
+      {
+        "id": "item-corn",
+        "name": "Corn",
+        "quantity": 1,
+        "notes": "Summer or fall crop"
+      },
+      {
+        "id": "item-eggplant",
+        "name": "Eggplant",
+        "quantity": 1,
+        "notes": "Fall crop"
+      },
+      {
+        "id": "item-pumpkin",
+        "name": "Pumpkin",
+        "quantity": 1,
+        "notes": "Fall crop"
+      },
+      {
+        "id": "item-yam",
+        "name": "Yam",
+        "quantity": 1,
+        "notes": "Fall crop; also dropped by Duggies"
+      }
+    ],
+    "reward": "1 Bee House",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Pantry"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-quality-crops",
+    "slug": "quality-crops",
+    "name": "Quality Crops Bundle",
+    "room": "Pantry",
+    "items": [
+      {
+        "id": "item-gold-parsnip",
+        "name": "Parsnip",
+        "quantity": 5,
+        "notes": "Gold quality; choose 3 of 4 listed crop options"
+      },
+      {
+        "id": "item-gold-melon",
+        "name": "Melon",
+        "quantity": 5,
+        "notes": "Gold quality; choose 3 of 4 listed crop options"
+      },
+      {
+        "id": "item-gold-pumpkin",
+        "name": "Pumpkin",
+        "quantity": 5,
+        "notes": "Gold quality; choose 3 of 4 listed crop options"
+      },
+      {
+        "id": "item-gold-corn",
+        "name": "Corn",
+        "quantity": 5,
+        "notes": "Gold quality; choose 3 of 4 listed crop options"
+      }
+    ],
+    "reward": "1 Preserves Jar",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Pantry"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-river-fish",
+    "slug": "river-fish",
+    "name": "River Fish Bundle",
+    "room": "Fish Tank",
+    "items": [
+      {
+        "id": "item-sunfish",
+        "name": "Sunfish",
+        "quantity": 1,
+        "notes": "River, 6 AM-7 PM, spring/summer, sunny weather"
+      },
+      {
+        "id": "item-catfish",
+        "name": "Catfish",
+        "quantity": 1,
+        "notes": "River or Secret Woods, 6 AM-midnight, spring/fall, rain"
+      },
+      {
+        "id": "item-shad",
+        "name": "Shad",
+        "quantity": 1,
+        "notes": "River, 9 AM-2 AM, spring/summer/fall, rain"
+      },
+      {
+        "id": "item-tiger-trout",
+        "name": "Tiger Trout",
+        "quantity": 1,
+        "notes": "River, 6 AM-7 PM, fall/winter, any weather"
+      }
+    ],
+    "reward": "30 Deluxe Bait",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Fish_Tank"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-lake-fish",
+    "slug": "lake-fish",
+    "name": "Lake Fish Bundle",
+    "room": "Fish Tank",
+    "items": [
+      {
+        "id": "item-largemouth-bass",
+        "name": "Largemouth Bass",
+        "quantity": 1,
+        "notes": "Mountain Lake, 6 AM-7 PM, all seasons"
+      },
+      {
+        "id": "item-carp",
+        "name": "Carp",
+        "quantity": 1,
+        "notes": "Mountain Lake spring/summer/fall; Secret Woods or Sewers all seasons"
+      },
+      {
+        "id": "item-bullhead",
+        "name": "Bullhead",
+        "quantity": 1,
+        "notes": "Mountain Lake, anytime, all seasons"
+      },
+      {
+        "id": "item-sturgeon",
+        "name": "Sturgeon",
+        "quantity": 1,
+        "notes": "Mountain Lake, 6 AM-7 PM, summer/winter"
+      }
+    ],
+    "reward": "1 Dressed Spinner",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Fish_Tank"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-ocean-fish",
+    "slug": "ocean-fish",
+    "name": "Ocean Fish Bundle",
+    "room": "Fish Tank",
+    "items": [
+      {
+        "id": "item-sardine",
+        "name": "Sardine",
+        "quantity": 1,
+        "notes": "Ocean, 6 AM-7 PM, spring/fall/winter"
+      },
+      {
+        "id": "item-tuna",
+        "name": "Tuna",
+        "quantity": 1,
+        "notes": "Ocean, 6 AM-7 PM, summer/winter"
+      },
+      {
+        "id": "item-red-snapper",
+        "name": "Red Snapper",
+        "quantity": 1,
+        "notes": "Ocean, 6 AM-7 PM, summer/fall, rain"
+      },
+      {
+        "id": "item-tilapia",
+        "name": "Tilapia",
+        "quantity": 1,
+        "notes": "Ocean, 6 AM-2 PM, summer/fall"
+      }
+    ],
+    "reward": "5 Warp Totem: Beach",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Fish_Tank"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-night-fishing",
+    "slug": "night-fishing",
+    "name": "Night Fishing Bundle",
+    "room": "Fish Tank",
+    "items": [
+      {
+        "id": "item-walleye",
+        "name": "Walleye",
+        "quantity": 1,
+        "notes": "River, Mountain Lake, or Cindersap Forest Pond, 12 PM-2 AM, fall rain"
+      },
+      {
+        "id": "item-bream",
+        "name": "Bream",
+        "quantity": 1,
+        "notes": "River, 6 PM-2 AM, all seasons"
+      },
+      {
+        "id": "item-eel",
+        "name": "Eel",
+        "quantity": 1,
+        "notes": "Ocean, 4 PM-2 AM, spring/fall rain"
+      }
+    ],
+    "reward": "1 Glow Ring",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Fish_Tank"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-crab-pot",
+    "slug": "crab-pot",
+    "name": "Crab Pot Bundle",
+    "room": "Fish Tank",
+    "items": [
+      {
+        "id": "item-lobster",
+        "name": "Lobster",
+        "quantity": 1,
+        "notes": "Crab Pot ocean; choose 5 of 10 listed options"
+      },
+      {
+        "id": "item-crayfish",
+        "name": "Crayfish",
+        "quantity": 1,
+        "notes": "Crab Pot freshwater; choose 5 of 10 listed options"
+      },
+      {
+        "id": "item-crab",
+        "name": "Crab",
+        "quantity": 1,
+        "notes": "Crab Pot ocean or Rock Crab/Lava Crab drop; choose 5 of 10 listed options"
+      },
+      {
+        "id": "item-cockle",
+        "name": "Cockle",
+        "quantity": 1,
+        "notes": "Crab Pot ocean or beach forage; choose 5 of 10 listed options"
+      },
+      {
+        "id": "item-mussel",
+        "name": "Mussel",
+        "quantity": 1,
+        "notes": "Crab Pot ocean or beach forage; choose 5 of 10 listed options"
+      },
+      {
+        "id": "item-shrimp",
+        "name": "Shrimp",
+        "quantity": 1,
+        "notes": "Crab Pot ocean; choose 5 of 10 listed options"
+      },
+      {
+        "id": "item-snail",
+        "name": "Snail",
+        "quantity": 1,
+        "notes": "Crab Pot freshwater; choose 5 of 10 listed options"
+      },
+      {
+        "id": "item-periwinkle",
+        "name": "Periwinkle",
+        "quantity": 1,
+        "notes": "Crab Pot freshwater; choose 5 of 10 listed options"
+      },
+      {
+        "id": "item-oyster",
+        "name": "Oyster",
+        "quantity": 1,
+        "notes": "Crab Pot ocean or beach forage; choose 5 of 10 listed options"
+      },
+      {
+        "id": "item-clam",
+        "name": "Clam",
+        "quantity": 1,
+        "notes": "Crab Pot ocean or beach forage; choose 5 of 10 listed options"
+      }
+    ],
+    "reward": "3 Crab Pots",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Fish_Tank"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-blacksmith",
+    "slug": "blacksmith",
+    "name": "Blacksmith's Bundle",
+    "room": "Boiler Room",
+    "items": [
+      {
+        "id": "item-copper-bar",
+        "name": "Copper Bar",
+        "quantity": 1,
+        "notes": "Smelt Copper Ore in a Furnace"
+      },
+      {
+        "id": "item-iron-bar",
+        "name": "Iron Bar",
+        "quantity": 1,
+        "notes": "Smelt Iron Ore in a Furnace or craft with Transmute (Fe)"
+      },
+      {
+        "id": "item-gold-bar",
+        "name": "Gold Bar",
+        "quantity": 1,
+        "notes": "Smelt Gold Ore in a Furnace or craft with Transmute (Au)"
+      }
+    ],
+    "reward": "1 Furnace",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Boiler_Room"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-geologist",
+    "slug": "geologist",
+    "name": "Geologist's Bundle",
+    "room": "Boiler Room",
+    "items": [
+      {
+        "id": "item-quartz",
+        "name": "Quartz",
+        "quantity": 1,
+        "notes": "Foraging on all floors of The Mines"
+      },
+      {
+        "id": "item-earth-crystal",
+        "name": "Earth Crystal",
+        "quantity": 1,
+        "notes": "Mines floors 1-39, Geodes, Omni Geodes, or Duggies"
+      },
+      {
+        "id": "item-frozen-tear",
+        "name": "Frozen Tear",
+        "quantity": 1,
+        "notes": "Mines floors 41-79, Frozen Geodes, Omni Geodes, or Dust Sprites"
+      },
+      {
+        "id": "item-fire-quartz",
+        "name": "Fire Quartz",
+        "quantity": 1,
+        "notes": "Mines floors 81-119, Magma Geodes, or Omni Geodes"
+      }
+    ],
+    "reward": "5 Omni Geodes",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Boiler_Room"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-adventurer",
+    "slug": "adventurer",
+    "name": "Adventurer's Bundle",
+    "room": "Boiler Room",
+    "items": [
+      {
+        "id": "item-slime",
+        "name": "Slime",
+        "quantity": 99,
+        "notes": "Dropped by Slimes; choose 2 of 4 listed options"
+      },
+      {
+        "id": "item-bat-wing",
+        "name": "Bat Wing",
+        "quantity": 10,
+        "notes": "Dropped by Bats; choose 2 of 4 listed options"
+      },
+      {
+        "id": "item-solar-essence",
+        "name": "Solar Essence",
+        "quantity": 1,
+        "notes": "Monster drops, Fish Ponds, or Krobus; choose 2 of 4 listed options"
+      },
+      {
+        "id": "item-void-essence",
+        "name": "Void Essence",
+        "quantity": 1,
+        "notes": "Monster drops, Fish Ponds, or Krobus; choose 2 of 4 listed options"
+      }
+    ],
+    "reward": "1 Small Magnet Ring",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Boiler_Room"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-chef",
+    "slug": "chef",
+    "name": "Chef's Bundle",
+    "room": "Bulletin Board",
+    "items": [
+      {
+        "id": "item-maple-syrup",
+        "name": "Maple Syrup",
+        "quantity": 1,
+        "notes": "Tapped Maple Tree"
+      },
+      {
+        "id": "item-fiddlehead-fern",
+        "name": "Fiddlehead Fern",
+        "quantity": 1,
+        "notes": "Summer Secret Woods forage or other listed sources"
+      },
+      {
+        "id": "item-truffle",
+        "name": "Truffle",
+        "quantity": 1,
+        "notes": "Pigs"
+      },
+      {
+        "id": "item-poppy",
+        "name": "Poppy",
+        "quantity": 1,
+        "notes": "Summer crop"
+      },
+      {
+        "id": "item-maki-roll",
+        "name": "Maki Roll",
+        "quantity": 1,
+        "notes": "Cooking"
+      },
+      {
+        "id": "item-fried-egg",
+        "name": "Fried Egg",
+        "quantity": 1,
+        "notes": "Cooking"
+      }
+    ],
+    "reward": "3 Pink Cake",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Bulletin_Board"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-dye",
+    "slug": "dye",
+    "name": "Dye Bundle",
+    "room": "Bulletin Board",
+    "items": [
+      {
+        "id": "item-red-mushroom",
+        "name": "Red Mushroom",
+        "quantity": 1,
+        "notes": "Mines, Secret Woods, mushroom Farm Cave, or Mushroom Tree"
+      },
+      {
+        "id": "item-sea-urchin",
+        "name": "Sea Urchin",
+        "quantity": 1,
+        "notes": "Beach forage after bridge repair or other beach sources"
+      },
+      {
+        "id": "item-sunflower",
+        "name": "Sunflower",
+        "quantity": 1,
+        "notes": "Summer or fall crop"
+      },
+      {
+        "id": "item-duck-feather",
+        "name": "Duck Feather",
+        "quantity": 1,
+        "notes": "Ducks"
+      },
+      {
+        "id": "item-aquamarine",
+        "name": "Aquamarine",
+        "quantity": 1,
+        "notes": "Aquamarine Nodes, Mines boxes, or Fishing Treasure Chests"
+      },
+      {
+        "id": "item-red-cabbage",
+        "name": "Red Cabbage",
+        "quantity": 1,
+        "notes": "Summer crop; standard Pierre access is year 2+"
+      }
+    ],
+    "reward": "1 Seed Maker",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Bulletin_Board"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-field-research",
+    "slug": "field-research",
+    "name": "Field Research Bundle",
+    "room": "Bulletin Board",
+    "items": [
+      {
+        "id": "item-purple-mushroom",
+        "name": "Purple Mushroom",
+        "quantity": 1,
+        "notes": "Mines, mushroom Farm Cave, or Forest Farm fall forage"
+      },
+      {
+        "id": "item-nautilus-shell",
+        "name": "Nautilus Shell",
+        "quantity": 1,
+        "notes": "Winter beach forage, Beach Farm forage, or Demetrius gift"
+      },
+      {
+        "id": "item-chub",
+        "name": "Chub",
+        "quantity": 1,
+        "notes": "Mountain lake and river, all seasons, any time"
+      },
+      {
+        "id": "item-frozen-geode",
+        "name": "Frozen Geode",
+        "quantity": 1,
+        "notes": "The Mines floors 41-79"
+      }
+    ],
+    "reward": "1 Recycling Machine",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Bulletin_Board"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-fodder",
+    "slug": "fodder",
+    "name": "Fodder Bundle",
+    "room": "Bulletin Board",
+    "items": [
+      {
+        "id": "item-wheat",
+        "name": "Wheat",
+        "quantity": 10,
+        "notes": "Summer or fall crop"
+      },
+      {
+        "id": "item-hay",
+        "name": "Hay",
+        "quantity": 10,
+        "notes": "Marnie's Ranch, Desert Trader, grass, or Wheat harvest"
+      },
+      {
+        "id": "item-apple",
+        "name": "Apple",
+        "quantity": 3,
+        "notes": "Apple Trees in fall or fruit bat Farm Cave"
+      }
+    ],
+    "reward": "1 Heater",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Bulletin_Board"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-enchanter",
+    "slug": "enchanter",
+    "name": "Enchanter's Bundle",
+    "room": "Bulletin Board",
+    "items": [
+      {
+        "id": "item-oak-resin",
+        "name": "Oak Resin",
+        "quantity": 1,
+        "notes": "Tapped Oak Tree"
+      },
+      {
+        "id": "item-wine",
+        "name": "Wine",
+        "quantity": 1,
+        "notes": "Keg"
+      },
+      {
+        "id": "item-rabbits-foot",
+        "name": "Rabbit's Foot",
+        "quantity": 1,
+        "notes": "Rabbits or rare Serpent drop"
+      },
+      {
+        "id": "item-pomegranate",
+        "name": "Pomegranate",
+        "quantity": 1,
+        "notes": "Pomegranate Trees in fall or fruit bat Farm Cave"
+      }
+    ],
+    "reward": "5 Gold Bars",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Bulletin_Board"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-2500g",
+    "slug": "2500g",
+    "name": "2,500g Bundle",
+    "room": "Vault",
+    "items": [
+      {
+        "id": "item-gold-2500",
+        "name": "Gold",
+        "quantity": 2500,
+        "notes": "Gold payment"
+      }
+    ],
+    "reward": "3 Chocolate Cake",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Vault"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-5000g",
+    "slug": "5000g",
+    "name": "5,000g Bundle",
+    "room": "Vault",
+    "items": [
+      {
+        "id": "item-gold-5000",
+        "name": "Gold",
+        "quantity": 5000,
+        "notes": "Gold payment"
+      }
+    ],
+    "reward": "30 Quality Fertilizer",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Vault"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-10000g",
+    "slug": "10000g",
+    "name": "10,000g Bundle",
+    "room": "Vault",
+    "items": [
+      {
+        "id": "item-gold-10000",
+        "name": "Gold",
+        "quantity": 10000,
+        "notes": "Gold payment"
+      }
+    ],
+    "reward": "1 Lightning Rod",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Vault"
+    ],
+    "lastChecked": "2026-05-17"
+  },
+  {
+    "id": "bundle-25000g",
+    "slug": "25000g",
+    "name": "25,000g Bundle",
+    "room": "Vault",
+    "items": [
+      {
+        "id": "item-gold-25000",
+        "name": "Gold",
+        "quantity": 25000,
+        "notes": "Gold payment"
+      }
+    ],
+    "reward": "1 Crystalarium",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bundles#Vault"
+    ],
+    "lastChecked": "2026-05-17"
+  }
+]

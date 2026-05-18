@@ -1,0 +1,621 @@
+[
+  {
+    "id": "crop-parsnip",
+    "slug": "parsnip",
+    "name": "Parsnip",
+    "description": "A basic spring vegetable grown from Parsnip Seeds.",
+    "seedSource": [
+      "Pierre's General Store",
+      "JojaMart",
+      "Night Market",
+      "Seed Maker"
+    ],
+    "seedPrice": 20,
+    "sellPrice": 35,
+    "growthDays": 4,
+    "regrowthDays": 0,
+    "profitNotes": "Low-cost starter crop with quick growth; exact profit by quality and profession needs verification.",
+    "bestUses": [
+      "Early spring cash flow",
+      "Spring Crops Bundle",
+      "Pam loved gift"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Parsnip",
+      "https://stardewvalleywiki.com/Parsnip_Seeds"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A basic spring vegetable grown from Parsnip Seeds.",
+    "seasons": [
+      "Spring"
+    ]
+  },
+  {
+    "id": "crop-potato",
+    "slug": "potato",
+    "name": "Potato",
+    "description": "A spring vegetable crop grown from Potato Seeds, with a chance to yield extra potatoes.",
+    "seedSource": [
+      "Pierre's General Store",
+      "JojaMart",
+      "Night Market",
+      "Seed Maker"
+    ],
+    "seedPrice": 50,
+    "sellPrice": 80,
+    "growthDays": 6,
+    "regrowthDays": 0,
+    "profitNotes": "Extra-yield chance affects profit; exact expected value needs verification.",
+    "bestUses": [
+      "Spring income",
+      "Spring Crops Bundle",
+      "Cooking recipes need verification"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Potato",
+      "https://stardewvalleywiki.com/Potato_Seeds"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A spring vegetable crop grown from Potato Seeds, with a chance to yield extra potatoes.",
+    "seasons": [
+      "Spring"
+    ]
+  },
+  {
+    "id": "crop-cauliflower",
+    "slug": "cauliflower",
+    "name": "Cauliflower",
+    "description": "A spring vegetable crop grown from Cauliflower Seeds.",
+    "seedSource": [
+      "Pierre's General Store",
+      "JojaMart",
+      "Night Market",
+      "Seed Maker"
+    ],
+    "seedPrice": 80,
+    "sellPrice": 175,
+    "growthDays": 12,
+    "regrowthDays": 0,
+    "profitNotes": "High single-harvest value for spring; giant crop and quality profit details need verification.",
+    "bestUses": [
+      "Spring Crops Bundle",
+      "High-value spring harvest",
+      "Maru loved gift"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cauliflower",
+      "https://stardewvalleywiki.com/Cauliflower_Seeds"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A spring vegetable crop grown from Cauliflower Seeds.",
+    "seasons": [
+      "Spring"
+    ]
+  },
+  {
+    "id": "crop-green-bean",
+    "slug": "green-bean",
+    "name": "Green Bean",
+    "description": "A spring trellis crop grown from Bean Starter that continues producing after maturity.",
+    "seedSource": [
+      "Pierre's General Store",
+      "JojaMart",
+      "Night Market",
+      "Seed Maker"
+    ],
+    "seedPrice": 60,
+    "sellPrice": 40,
+    "growthDays": 10,
+    "regrowthDays": 3,
+    "profitNotes": "Regrows after first harvest; trellis placement can reduce farm accessibility if planned poorly.",
+    "bestUses": [
+      "Spring Crops Bundle",
+      "Repeated spring harvests",
+      "Trellis layout planning"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Green_Bean",
+      "https://stardewvalleywiki.com/Bean_Starter"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A spring trellis crop grown from Bean Starter that continues producing after maturity.",
+    "seasons": [
+      "Spring"
+    ]
+  },
+  {
+    "id": "crop-strawberry",
+    "slug": "strawberry",
+    "name": "Strawberry",
+    "description": "A spring fruit crop grown from Strawberry Seeds and sold at the Egg Festival.",
+    "seedSource": [
+      "Egg Festival",
+      "Seed Maker"
+    ],
+    "seedPrice": 100,
+    "sellPrice": 120,
+    "growthDays": 8,
+    "regrowthDays": 4,
+    "profitNotes": "Strong spring regrowth crop, but first-year access starts at the Egg Festival unless seeds were saved.",
+    "bestUses": [
+      "Spring profit",
+      "Seed Maker planning",
+      "Demetrius and Maru loved gift"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Strawberry",
+      "https://stardewvalleywiki.com/Strawberry_Seeds"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A spring fruit crop grown from Strawberry Seeds and sold at the Egg Festival.",
+    "seasons": [
+      "Spring"
+    ]
+  },
+  {
+    "id": "crop-tomato",
+    "slug": "tomato",
+    "name": "Tomato",
+    "description": "A summer vegetable crop grown from Tomato Seeds that continues producing after maturity.",
+    "seedSource": [
+      "Pierre's General Store",
+      "JojaMart",
+      "Night Market",
+      "Seed Maker"
+    ],
+    "seedPrice": 50,
+    "sellPrice": 60,
+    "growthDays": 11,
+    "regrowthDays": 4,
+    "profitNotes": "Regrows through summer; exact profit by quality and processing needs verification.",
+    "bestUses": [
+      "Summer Crops Bundle",
+      "Repeated summer harvests",
+      "Cooking recipes need verification"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Tomato",
+      "https://stardewvalleywiki.com/Tomato_Seeds"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A summer vegetable crop grown from Tomato Seeds that continues producing after maturity.",
+    "seasons": [
+      "Summer"
+    ]
+  },
+  {
+    "id": "crop-hot-pepper",
+    "slug": "hot-pepper",
+    "name": "Hot Pepper",
+    "description": "A summer fruit crop grown from Pepper Seeds that continues producing after maturity.",
+    "seedSource": [
+      "Pierre's General Store",
+      "JojaMart",
+      "Night Market",
+      "Seed Maker"
+    ],
+    "seedPrice": 40,
+    "sellPrice": 40,
+    "growthDays": 5,
+    "regrowthDays": 3,
+    "profitNotes": "Fast first harvest and frequent regrowth; exact profit by quality and processing needs verification.",
+    "bestUses": [
+      "Summer Crops Bundle",
+      "Shane loved gift",
+      "Lewis loved gift"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Hot_Pepper",
+      "https://stardewvalleywiki.com/Pepper_Seeds"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A summer fruit crop grown from Pepper Seeds that continues producing after maturity.",
+    "seasons": [
+      "Summer"
+    ]
+  },
+  {
+    "id": "crop-blueberry",
+    "slug": "blueberry",
+    "name": "Blueberry",
+    "description": "A summer fruit crop grown from Blueberry Seeds that produces multiple berries and regrows.",
+    "seedSource": [
+      "Pierre's General Store",
+      "JojaMart",
+      "Night Market",
+      "Seed Maker"
+    ],
+    "seedPrice": 80,
+    "sellPrice": 50,
+    "growthDays": 13,
+    "regrowthDays": 4,
+    "profitNotes": "Multiple berries per harvest make profit calculations depend on yield assumptions; needs verification.",
+    "bestUses": [
+      "Summer Crops Bundle",
+      "Summer profit",
+      "Keg or preserves processing needs verification"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Blueberry",
+      "https://stardewvalleywiki.com/Blueberry_Seeds"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A summer fruit crop grown from Blueberry Seeds that produces multiple berries and regrows.",
+    "seasons": [
+      "Summer"
+    ]
+  },
+  {
+    "id": "crop-melon",
+    "slug": "melon",
+    "name": "Melon",
+    "description": "A summer fruit crop grown from Melon Seeds.",
+    "seedSource": [
+      "Pierre's General Store",
+      "JojaMart",
+      "Night Market",
+      "Seed Maker"
+    ],
+    "seedPrice": 80,
+    "sellPrice": 250,
+    "growthDays": 12,
+    "regrowthDays": 0,
+    "profitNotes": "High single-harvest value for summer; giant crop and quality profit details need verification.",
+    "bestUses": [
+      "Summer Crops Bundle",
+      "Quality Crops Bundle",
+      "Penny loved gift"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Melon",
+      "https://stardewvalleywiki.com/Melon_Seeds"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A summer fruit crop grown from Melon Seeds.",
+    "seasons": [
+      "Summer"
+    ]
+  },
+  {
+    "id": "crop-corn",
+    "slug": "corn",
+    "name": "Corn",
+    "description": "A multi-season crop grown from Corn Seeds that produces through summer and fall.",
+    "seedSource": [
+      "Pierre's General Store",
+      "JojaMart",
+      "Night Market",
+      "Seed Maker"
+    ],
+    "seedPrice": 150,
+    "sellPrice": 50,
+    "growthDays": 14,
+    "regrowthDays": 4,
+    "profitNotes": "Can produce across two seasons if planted in summer; exact season-spanning profit needs verification.",
+    "bestUses": [
+      "Fall Crops Bundle",
+      "Quality Crops Bundle",
+      "Oil Maker processing needs verification"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Corn",
+      "https://stardewvalleywiki.com/Corn_Seeds"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A multi-season crop grown from Corn Seeds that produces through summer and fall.",
+    "seasons": [
+      "Summer",
+      "Fall"
+    ]
+  },
+  {
+    "id": "crop-starfruit",
+    "slug": "starfruit",
+    "name": "Starfruit",
+    "description": "A high-value summer fruit crop grown from Starfruit Seeds.",
+    "seedSource": [
+      "Oasis",
+      "Traveling Cart",
+      "Seed Maker"
+    ],
+    "seedPrice": 400,
+    "sellPrice": 750,
+    "growthDays": 13,
+    "regrowthDays": 0,
+    "profitNotes": "High base value makes it strong for keg processing; exact profit by quality, profession, and processing needs verification.",
+    "bestUses": [
+      "Wine production",
+      "High-value summer crop",
+      "Junimo Hut quest item needs verification"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Starfruit",
+      "https://stardewvalleywiki.com/Starfruit_Seeds"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A high-value summer fruit crop grown from Starfruit Seeds.",
+    "seasons": [
+      "Summer"
+    ]
+  },
+  {
+    "id": "crop-cranberries",
+    "slug": "cranberries",
+    "name": "Cranberries",
+    "description": "A fall fruit crop grown from Cranberry Seeds that produces multiple berries and regrows.",
+    "seedSource": [
+      "Pierre's General Store",
+      "JojaMart",
+      "Night Market",
+      "Seed Maker"
+    ],
+    "seedPrice": 240,
+    "sellPrice": 75,
+    "growthDays": 7,
+    "regrowthDays": 5,
+    "profitNotes": "Multiple berries per harvest make profit calculations depend on yield assumptions; needs verification.",
+    "bestUses": [
+      "Fall profit",
+      "Repeated fall harvests",
+      "Preserves or keg processing needs verification"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cranberries",
+      "https://stardewvalleywiki.com/Cranberry_Seeds"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A fall fruit crop grown from Cranberry Seeds that produces multiple berries and regrows.",
+    "seasons": [
+      "Fall"
+    ]
+  },
+  {
+    "id": "crop-pumpkin",
+    "slug": "pumpkin",
+    "name": "Pumpkin",
+    "description": "A high-value fall vegetable crop grown from Pumpkin Seeds.",
+    "seedSource": [
+      "Pierre's General Store",
+      "JojaMart",
+      "Night Market",
+      "Seed Maker"
+    ],
+    "seedPrice": 100,
+    "sellPrice": 320,
+    "growthDays": 13,
+    "regrowthDays": 0,
+    "profitNotes": "High single-harvest value for fall; giant crop and quality profit details need verification.",
+    "bestUses": [
+      "Fall Crops Bundle",
+      "Quality Crops Bundle",
+      "Abigail loved gift"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Pumpkin",
+      "https://stardewvalleywiki.com/Pumpkin_Seeds"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A high-value fall vegetable crop grown from Pumpkin Seeds.",
+    "seasons": [
+      "Fall"
+    ]
+  },
+  {
+    "id": "crop-yam",
+    "slug": "yam",
+    "name": "Yam",
+    "description": "A fall vegetable crop grown from Yam Seeds.",
+    "seedSource": [
+      "Pierre's General Store",
+      "JojaMart",
+      "Night Market",
+      "Seed Maker"
+    ],
+    "seedPrice": 60,
+    "sellPrice": 160,
+    "growthDays": 10,
+    "regrowthDays": 0,
+    "profitNotes": "Moderate fall crop; exact profit by quality and processing needs verification.",
+    "bestUses": [
+      "Fall Crops Bundle",
+      "Linus loved gift",
+      "Cooking recipes need verification"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Yam",
+      "https://stardewvalleywiki.com/Yam_Seeds"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A fall vegetable crop grown from Yam Seeds.",
+    "seasons": [
+      "Fall"
+    ]
+  },
+  {
+    "id": "crop-eggplant",
+    "slug": "eggplant",
+    "name": "Eggplant",
+    "description": "A fall vegetable crop grown from Eggplant Seeds that continues producing after maturity.",
+    "seedSource": [
+      "Pierre's General Store",
+      "JojaMart",
+      "Night Market",
+      "Seed Maker"
+    ],
+    "seedPrice": 20,
+    "sellPrice": 60,
+    "growthDays": 5,
+    "regrowthDays": 5,
+    "profitNotes": "Low seed cost and regrowth make it accessible in fall; exact profit by quality needs verification.",
+    "bestUses": [
+      "Fall Crops Bundle",
+      "Repeated fall harvests",
+      "Cooking recipes need verification"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Eggplant",
+      "https://stardewvalleywiki.com/Eggplant_Seeds"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A fall vegetable crop grown from Eggplant Seeds that continues producing after maturity.",
+    "seasons": [
+      "Fall"
+    ]
+  },
+  {
+    "id": "crop-ancient-fruit",
+    "slug": "ancient-fruit",
+    "name": "Ancient Fruit",
+    "description": "A rare fruit crop grown from Ancient Seeds that produces through spring, summer, and fall.",
+    "seedSource": [
+      "Ancient Seeds recipe",
+      "Seed Maker",
+      "Traveling Cart"
+    ],
+    "seedPrice": "needs verification",
+    "sellPrice": 550,
+    "growthDays": 28,
+    "regrowthDays": 7,
+    "profitNotes": "Long initial growth and repeated harvests make it valuable over long seasons; exact acquisition cost and processing profit need verification.",
+    "bestUses": [
+      "Greenhouse planting",
+      "Wine production",
+      "Long-term farm planning"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ancient_Fruit",
+      "https://stardewvalleywiki.com/Ancient_Seeds"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A rare fruit crop grown from Ancient Seeds that produces through spring, summer, and fall.",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ]
+  },
+  {
+    "id": "crop-coffee-bean",
+    "slug": "coffee-bean",
+    "name": "Coffee Bean",
+    "description": "A spring and summer crop that grows from Coffee Bean and produces more coffee beans.",
+    "seedSource": [
+      "Dust Sprites",
+      "Traveling Cart",
+      "Seed Maker"
+    ],
+    "seedPrice": "needs verification",
+    "sellPrice": 15,
+    "growthDays": 10,
+    "regrowthDays": 2,
+    "profitNotes": "Frequent harvests support coffee production; acquisition cost and profit by processing need verification.",
+    "bestUses": [
+      "Coffee production",
+      "Spring and summer repeated harvests",
+      "Speed-focused food planning"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Coffee_Bean"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A spring and summer crop that grows from Coffee Bean and produces more coffee beans.",
+    "seasons": [
+      "Spring",
+      "Summer"
+    ]
+  },
+  {
+    "id": "crop-red-cabbage",
+    "slug": "red-cabbage",
+    "name": "Red Cabbage",
+    "description": "A summer vegetable crop grown from Red Cabbage Seeds.",
+    "seedSource": [
+      "Pierre's General Store",
+      "Traveling Cart",
+      "Night Market",
+      "Seed Maker"
+    ],
+    "seedPrice": 100,
+    "sellPrice": 260,
+    "growthDays": 9,
+    "regrowthDays": 0,
+    "profitNotes": "Seed availability timing can affect year-one planning; exact availability details need verification.",
+    "bestUses": [
+      "Dye Bundle",
+      "Cooking recipes need verification",
+      "Summer crop planning"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Red_Cabbage",
+      "https://stardewvalleywiki.com/Red_Cabbage_Seeds"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A summer vegetable crop grown from Red Cabbage Seeds.",
+    "seasons": [
+      "Summer"
+    ]
+  },
+  {
+    "id": "crop-wheat",
+    "slug": "wheat",
+    "name": "Wheat",
+    "description": "A summer and fall grain crop grown from Wheat Seeds.",
+    "seedSource": [
+      "Pierre's General Store",
+      "JojaMart",
+      "Night Market",
+      "Seed Maker"
+    ],
+    "seedPrice": 10,
+    "sellPrice": 25,
+    "growthDays": 4,
+    "regrowthDays": 0,
+    "profitNotes": "Low-cost fast crop; beer, flour, and hay-related value need verification.",
+    "bestUses": [
+      "Fodder Bundle",
+      "Beer production",
+      "Fast summer or fall planting"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Wheat",
+      "https://stardewvalleywiki.com/Wheat_Seeds"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A summer and fall grain crop grown from Wheat Seeds.",
+    "seasons": [
+      "Summer",
+      "Fall"
+    ]
+  },
+  {
+    "id": "crop-amaranth",
+    "slug": "amaranth",
+    "name": "Amaranth",
+    "description": "A fall grain crop grown from Amaranth Seeds.",
+    "seedSource": [
+      "Pierre's General Store",
+      "JojaMart",
+      "Night Market",
+      "Seed Maker"
+    ],
+    "seedPrice": 70,
+    "sellPrice": 150,
+    "growthDays": 7,
+    "regrowthDays": 0,
+    "profitNotes": "Moderate fall crop; exact profit by quality and mill-related use needs verification.",
+    "bestUses": [
+      "Fodder Bundle",
+      "Marnie request item needs verification",
+      "Fall crop planning"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Amaranth",
+      "https://stardewvalleywiki.com/Amaranth_Seeds"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A fall grain crop grown from Amaranth Seeds.",
+    "seasons": [
+      "Fall"
+    ]
+  }
+]

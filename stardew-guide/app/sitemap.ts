@@ -1,0 +1,18 @@
+import type { MetadataRoute } from "next";
+import { getAllCrops, getAllFish, getAllVillagers } from "@/lib/stardew/data";
+
+const siteUrl = "https://stardew-guide.vercel.app";
+
+export const dynamic = "force-static";
+
+export default function sitemap(): MetadataRoute.Sitemap {
+  const staticRoutes = ["/", "/villagers", "/crops", "/fish", "/community-center"];
+  const villagerRoutes = getAllVillagers().map((villager) => `/villagers/${villager.slug}`);
+  const cropRoutes = getAllCrops().map((crop) => `/crops/${crop.slug}`);
+  const fishRoutes = getAllFish().map((fish) => `/fish/${fish.slug}`);
+
+  return [...staticRoutes, ...villagerRoutes, ...cropRoutes, ...fishRoutes].map((route) => ({
+    url: `${siteUrl}${route}`,
+    lastModified: new Date()
+  }));
+}

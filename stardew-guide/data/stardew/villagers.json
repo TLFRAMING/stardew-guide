@@ -1,0 +1,344 @@
+[
+  {
+    "id": "villager-abigail",
+    "slug": "abigail",
+    "name": "Abigail",
+    "description": "A Pelican Town villager who lives at Pierre's General Store and is available as a marriage candidate.",
+    "birthday": "Fall 13",
+    "location": "Pierre's General Store, Pelican Town",
+    "marriageCandidate": true,
+    "lovedGifts": [
+      "Amethyst",
+      "Banana Pudding",
+      "Blackberry Cobbler",
+      "Chocolate Cake",
+      "Monster Compendium",
+      "Pufferfish",
+      "Pumpkin",
+      "Spicy Eel"
+    ],
+    "likedGifts": [
+      "Quartz",
+      "needs verification"
+    ],
+    "dislikedGifts": [
+      "needs verification"
+    ],
+    "hatedGifts": [
+      "needs verification"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Abigail"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A Pelican Town villager who lives at Pierre's General Store and is available as a marriage candidate."
+  },
+  {
+    "id": "villager-sebastian",
+    "slug": "sebastian",
+    "name": "Sebastian",
+    "description": "A villager who lives in the Carpenter's Shop basement and is available as a marriage candidate.",
+    "birthday": "Winter 10",
+    "location": "Carpenter's Shop basement, The Mountain",
+    "marriageCandidate": true,
+    "lovedGifts": [
+      "Frozen Tear",
+      "Obsidian",
+      "Pumpkin Soup",
+      "Sashimi",
+      "Void Egg"
+    ],
+    "likedGifts": [
+      "Flounder",
+      "Quartz",
+      "needs verification"
+    ],
+    "dislikedGifts": [
+      "needs verification"
+    ],
+    "hatedGifts": [
+      "needs verification"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sebastian"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A villager who lives in the Carpenter's Shop basement and is available as a marriage candidate."
+  },
+  {
+    "id": "villager-leah",
+    "slug": "leah",
+    "name": "Leah",
+    "description": "An artist who lives in a cottage south of the farm and is available as a marriage candidate.",
+    "birthday": "Winter 23",
+    "location": "Leah's Cottage, Cindersap Forest",
+    "marriageCandidate": true,
+    "lovedGifts": [
+      "Goat Cheese",
+      "Poppyseed Muffin",
+      "Salad",
+      "Stir Fry",
+      "Truffle",
+      "Vegetable Medley",
+      "Wine"
+    ],
+    "likedGifts": [
+      "Daffodil",
+      "needs verification"
+    ],
+    "dislikedGifts": [
+      "needs verification"
+    ],
+    "hatedGifts": [
+      "needs verification"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Leah"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "An artist who lives in a cottage south of the farm and is available as a marriage candidate."
+  },
+  {
+    "id": "villager-penny",
+    "slug": "penny",
+    "name": "Penny",
+    "description": "A Pelican Town villager who lives in the trailer and is available as a marriage candidate.",
+    "birthday": "Fall 2",
+    "location": "Trailer, Pelican Town",
+    "marriageCandidate": true,
+    "lovedGifts": [
+      "Diamond",
+      "Emerald",
+      "Melon",
+      "Poppy",
+      "Poppyseed Muffin",
+      "Red Plate",
+      "Roots Platter",
+      "Sandfish",
+      "Tom Kha Soup"
+    ],
+    "likedGifts": [
+      "Dandelion",
+      "Leek",
+      "needs verification"
+    ],
+    "dislikedGifts": [
+      "needs verification"
+    ],
+    "hatedGifts": [
+      "needs verification"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, tutoring days, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Penny"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A Pelican Town villager who lives in the trailer and is available as a marriage candidate."
+  },
+  {
+    "id": "villager-haley",
+    "slug": "haley",
+    "name": "Haley",
+    "description": "A Pelican Town villager who lives at 2 Willow Lane and is available as a marriage candidate.",
+    "birthday": "Spring 14",
+    "location": "2 Willow Lane, Pelican Town",
+    "marriageCandidate": true,
+    "lovedGifts": [
+      "Coconut",
+      "Fruit Salad",
+      "Pink Cake",
+      "Sunflower"
+    ],
+    "likedGifts": [
+      "Daffodil",
+      "needs verification"
+    ],
+    "dislikedGifts": [
+      "needs verification"
+    ],
+    "hatedGifts": [
+      "needs verification"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Haley"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A Pelican Town villager who lives at 2 Willow Lane and is available as a marriage candidate."
+  },
+  {
+    "id": "villager-sam",
+    "slug": "sam",
+    "name": "Sam",
+    "description": "A Pelican Town villager who lives at 1 Willow Lane and is available as a marriage candidate.",
+    "birthday": "Summer 17",
+    "location": "1 Willow Lane, Pelican Town",
+    "marriageCandidate": true,
+    "lovedGifts": [
+      "Cactus Fruit",
+      "Maple Bar",
+      "Pizza",
+      "Tigerseye"
+    ],
+    "likedGifts": [
+      "Joja Cola",
+      "needs verification"
+    ],
+    "dislikedGifts": [
+      "needs verification"
+    ],
+    "hatedGifts": [
+      "needs verification"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, work days, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sam"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A Pelican Town villager who lives at 1 Willow Lane and is available as a marriage candidate."
+  },
+  {
+    "id": "villager-emily",
+    "slug": "emily",
+    "name": "Emily",
+    "description": "A Pelican Town villager who lives at 2 Willow Lane and is available as a marriage candidate.",
+    "birthday": "Spring 27",
+    "location": "2 Willow Lane, Pelican Town",
+    "marriageCandidate": true,
+    "lovedGifts": [
+      "Amethyst",
+      "Aquamarine",
+      "Cloth",
+      "Emerald",
+      "Jade",
+      "Ruby",
+      "Survival Burger",
+      "Topaz",
+      "Wool"
+    ],
+    "likedGifts": [
+      "Daffodil",
+      "Quartz",
+      "needs verification"
+    ],
+    "dislikedGifts": [
+      "needs verification"
+    ],
+    "hatedGifts": [
+      "needs verification"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, work shifts, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Emily"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A Pelican Town villager who lives at 2 Willow Lane and is available as a marriage candidate."
+  },
+  {
+    "id": "villager-shane",
+    "slug": "shane",
+    "name": "Shane",
+    "description": "A villager who lives at Marnie's Ranch and is available as a marriage candidate.",
+    "birthday": "Spring 20",
+    "location": "Marnie's Ranch, Cindersap Forest",
+    "marriageCandidate": true,
+    "lovedGifts": [
+      "Beer",
+      "Hot Pepper",
+      "Pepper Poppers",
+      "Pizza"
+    ],
+    "likedGifts": [
+      "Egg",
+      "needs verification"
+    ],
+    "dislikedGifts": [
+      "needs verification"
+    ],
+    "hatedGifts": [
+      "needs verification"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, JojaMart work status, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Shane"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A villager who lives at Marnie's Ranch and is available as a marriage candidate."
+  },
+  {
+    "id": "villager-harvey",
+    "slug": "harvey",
+    "name": "Harvey",
+    "description": "The town doctor who runs Harvey's Clinic and is available as a marriage candidate.",
+    "birthday": "Winter 14",
+    "location": "Harvey's Clinic, Pelican Town",
+    "marriageCandidate": true,
+    "lovedGifts": [
+      "Coffee",
+      "Pickles",
+      "Super Meal",
+      "Truffle Oil",
+      "Wine"
+    ],
+    "likedGifts": [
+      "Daffodil",
+      "Duck Egg",
+      "Duck Feather",
+      "needs verification"
+    ],
+    "dislikedGifts": [
+      "needs verification"
+    ],
+    "hatedGifts": [
+      "needs verification"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, clinic hours, weather, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Harvey"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "The town doctor who runs Harvey's Clinic and is available as a marriage candidate."
+  },
+  {
+    "id": "villager-maru",
+    "slug": "maru",
+    "name": "Maru",
+    "description": "A villager who lives at the Carpenter's Shop, works at the clinic, and is available as a marriage candidate.",
+    "birthday": "Summer 10",
+    "location": "Carpenter's Shop, The Mountain",
+    "marriageCandidate": true,
+    "lovedGifts": [
+      "Battery Pack",
+      "Cauliflower",
+      "Cheese Cauliflower",
+      "Diamond",
+      "Gold Bar",
+      "Iridium Bar",
+      "Miner's Treat",
+      "Pepper Poppers",
+      "Radioactive Bar",
+      "Rhubarb Pie",
+      "Strawberry"
+    ],
+    "likedGifts": [
+      "Copper Bar",
+      "Iron Bar",
+      "needs verification"
+    ],
+    "dislikedGifts": [
+      "needs verification"
+    ],
+    "hatedGifts": [
+      "needs verification"
+    ],
+    "scheduleNotes": "Schedule varies by season, weekday, weather, clinic work shifts, and heart events; needs verification before production use.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Maru"
+    ],
+    "lastChecked": "2026-05-17",
+    "beginnerNote": "A villager who lives at the Carpenter's Shop, works at the clinic, and is available as a marriage candidate."
+  }
+]
