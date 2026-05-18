@@ -1,0 +1,851 @@
+[
+  {
+    "id": "sap",
+    "slug": "sap",
+    "name": "Sap",
+    "seasons": [
+      "All"
+    ],
+    "locations": [
+      "Trees",
+      "Stumps"
+    ],
+    "sellPrice": 2,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sap",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Common early resource for crafting and fertilizer."
+  },
+  {
+    "id": "common_mushroom",
+    "slug": "common_mushroom",
+    "name": "Common Mushroom",
+    "seasons": [
+      "All"
+    ],
+    "locations": [
+      "Secret Woods",
+      "Forest Farm",
+      "Mines",
+      "Farm Cave"
+    ],
+    "sellPrice": 40,
+    "bundleUsage": [
+      "Fall Foraging Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Common_Mushroom",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful year-round forage for Fall Foraging Bundle."
+  },
+  {
+    "id": "daffodil",
+    "slug": "daffodil",
+    "name": "Daffodil",
+    "seasons": [
+      "Spring"
+    ],
+    "locations": [
+      "Pelican Town",
+      "Bus Stop",
+      "Railroad"
+    ],
+    "sellPrice": 30,
+    "bundleUsage": [
+      "Spring Foraging Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Daffodil",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful spring forage for Spring Foraging Bundle."
+  },
+  {
+    "id": "dandelion",
+    "slug": "dandelion",
+    "name": "Dandelion",
+    "seasons": [
+      "Spring"
+    ],
+    "locations": [
+      "Cindersap Forest",
+      "Bus Stop",
+      "Railroad",
+      "Forest Farm"
+    ],
+    "sellPrice": 40,
+    "bundleUsage": [
+      "Spring Foraging Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Dandelion",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful spring forage for Spring Foraging Bundle."
+  },
+  {
+    "id": "leek",
+    "slug": "leek",
+    "name": "Leek",
+    "seasons": [
+      "Spring"
+    ],
+    "locations": [
+      "Mountain",
+      "Bus Stop",
+      "Railroad",
+      "Forest Farm"
+    ],
+    "sellPrice": 60,
+    "bundleUsage": [
+      "Spring Foraging Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Leek",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful spring forage for Spring Foraging Bundle."
+  },
+  {
+    "id": "morel",
+    "slug": "morel",
+    "name": "Morel",
+    "seasons": [
+      "Spring"
+    ],
+    "locations": [
+      "Secret Woods",
+      "Farm Cave"
+    ],
+    "sellPrice": 150,
+    "bundleUsage": [
+      "Exotic Foraging Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Morel",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful spring forage for Exotic Foraging Bundle."
+  },
+  {
+    "id": "salmonberry",
+    "slug": "salmonberry",
+    "name": "Salmonberry",
+    "seasons": [
+      "Spring"
+    ],
+    "locations": [
+      "Bushes",
+      "Farm Cave"
+    ],
+    "sellPrice": 5,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Salmonberry",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Spring berry with strong early food value."
+  },
+  {
+    "id": "spring_onion",
+    "slug": "spring_onion",
+    "name": "Spring Onion",
+    "seasons": [
+      "Spring"
+    ],
+    "locations": [
+      "Cindersap Forest"
+    ],
+    "sellPrice": 8,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Spring_Onion",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Easy early forage from Cindersap Forest."
+  },
+  {
+    "id": "wild_horseradish",
+    "slug": "wild_horseradish",
+    "name": "Wild Horseradish",
+    "seasons": [
+      "Spring"
+    ],
+    "locations": [
+      "Cindersap Forest",
+      "Bus Stop",
+      "Railroad",
+      "Forest Farm"
+    ],
+    "sellPrice": 50,
+    "bundleUsage": [
+      "Spring Foraging Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Wild_Horseradish",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful spring forage for Spring Foraging Bundle."
+  },
+  {
+    "id": "fiddlehead_fern",
+    "slug": "fiddlehead_fern",
+    "name": "Fiddlehead Fern",
+    "seasons": [
+      "Summer"
+    ],
+    "locations": [
+      "Secret Woods",
+      "Mines",
+      "Ginger Island Jungle"
+    ],
+    "sellPrice": 90,
+    "bundleUsage": [
+      "Chef's Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Fiddlehead_Fern",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful summer forage for Chef's Bundle."
+  },
+  {
+    "id": "grape",
+    "slug": "grape",
+    "name": "Grape",
+    "seasons": [
+      "Summer"
+    ],
+    "locations": [
+      "Railroad",
+      "Wild Vine Spots"
+    ],
+    "sellPrice": 80,
+    "bundleUsage": [
+      "Summer Foraging Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Grape",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful summer forage for Summer Foraging Bundle."
+  },
+  {
+    "id": "red_mushroom",
+    "slug": "red_mushroom",
+    "name": "Red Mushroom",
+    "seasons": [
+      "Summer"
+    ],
+    "locations": [
+      "Mines",
+      "Farm Cave"
+    ],
+    "sellPrice": 75,
+    "bundleUsage": [
+      "Exotic Foraging Bundle",
+      "Dye Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Red_Mushroom",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful summer forage for Exotic Foraging Bundle."
+  },
+  {
+    "id": "spice_berry",
+    "slug": "spice_berry",
+    "name": "Spice Berry",
+    "seasons": [
+      "Summer"
+    ],
+    "locations": [
+      "Cindersap Forest",
+      "Bus Stop",
+      "Railroad"
+    ],
+    "sellPrice": 80,
+    "bundleUsage": [
+      "Summer Foraging Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Spice_Berry",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful summer forage for Summer Foraging Bundle."
+  },
+  {
+    "id": "sweet_pea",
+    "slug": "sweet_pea",
+    "name": "Sweet Pea",
+    "seasons": [
+      "Summer"
+    ],
+    "locations": [
+      "Cindersap Forest",
+      "Bus Stop",
+      "Railroad"
+    ],
+    "sellPrice": 50,
+    "bundleUsage": [
+      "Summer Foraging Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sweet_Pea",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful summer forage for Summer Foraging Bundle."
+  },
+  {
+    "id": "blackberry",
+    "slug": "blackberry",
+    "name": "Blackberry",
+    "seasons": [
+      "Fall"
+    ],
+    "locations": [
+      "Bus Stop",
+      "Railroad",
+      "Mountain",
+      "Forest"
+    ],
+    "sellPrice": 20,
+    "bundleUsage": [
+      "Fall Foraging Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Blackberry",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful fall forage for Fall Foraging Bundle."
+  },
+  {
+    "id": "chanterelle",
+    "slug": "chanterelle",
+    "name": "Chanterelle",
+    "seasons": [
+      "Fall"
+    ],
+    "locations": [
+      "Secret Woods",
+      "Farm Cave"
+    ],
+    "sellPrice": 160,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Chanterelle",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Special forage item with niche utility."
+  },
+  {
+    "id": "hazelnut",
+    "slug": "hazelnut",
+    "name": "Hazelnut",
+    "seasons": [
+      "Fall"
+    ],
+    "locations": [
+      "Forest",
+      "Mountain",
+      "Bus Stop",
+      "Railroad"
+    ],
+    "sellPrice": 90,
+    "bundleUsage": [
+      "Fall Foraging Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Hazelnut",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful fall forage for Fall Foraging Bundle."
+  },
+  {
+    "id": "purple_mushroom",
+    "slug": "purple_mushroom",
+    "name": "Purple Mushroom",
+    "seasons": [
+      "All"
+    ],
+    "locations": [
+      "Mines",
+      "Farm Cave",
+      "Skull Cavern"
+    ],
+    "sellPrice": 250,
+    "bundleUsage": [
+      "Exotic Foraging Bundle",
+      "Field Research Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Purple_Mushroom",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful year-round forage for Exotic Foraging Bundle."
+  },
+  {
+    "id": "wild_plum",
+    "slug": "wild_plum",
+    "name": "Wild Plum",
+    "seasons": [
+      "Fall"
+    ],
+    "locations": [
+      "Cindersap Forest",
+      "Bus Stop",
+      "Railroad"
+    ],
+    "sellPrice": 80,
+    "bundleUsage": [
+      "Fall Foraging Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Wild_Plum",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful fall forage for Fall Foraging Bundle."
+  },
+  {
+    "id": "crocus",
+    "slug": "crocus",
+    "name": "Crocus",
+    "seasons": [
+      "Winter"
+    ],
+    "locations": [
+      "Bus Stop",
+      "Railroad",
+      "Mountain"
+    ],
+    "sellPrice": 60,
+    "bundleUsage": [
+      "Winter Foraging Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Crocus",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful winter forage for Winter Foraging Bundle."
+  },
+  {
+    "id": "crystal_fruit",
+    "slug": "crystal_fruit",
+    "name": "Crystal Fruit",
+    "seasons": [
+      "All"
+    ],
+    "locations": [
+      "Mines",
+      "Skull Cavern"
+    ],
+    "sellPrice": 150,
+    "bundleUsage": [
+      "Winter Foraging Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Crystal_Fruit",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful year-round forage for Winter Foraging Bundle."
+  },
+  {
+    "id": "holly",
+    "slug": "holly",
+    "name": "Holly",
+    "seasons": [
+      "Winter"
+    ],
+    "locations": [
+      "Winter forage spots"
+    ],
+    "sellPrice": 80,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Holly",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Special forage item with niche utility."
+  },
+  {
+    "id": "snow_yam",
+    "slug": "snow_yam",
+    "name": "Snow Yam",
+    "seasons": [
+      "Winter"
+    ],
+    "locations": [
+      "Winter forage spots",
+      "Tilling"
+    ],
+    "sellPrice": 100,
+    "bundleUsage": [
+      "Winter Foraging Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Snow_Yam",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful winter forage for Winter Foraging Bundle."
+  },
+  {
+    "id": "winter_root",
+    "slug": "winter_root",
+    "name": "Winter Root",
+    "seasons": [
+      "Winter"
+    ],
+    "locations": [
+      "Winter forage spots",
+      "Tilling"
+    ],
+    "sellPrice": 70,
+    "bundleUsage": [
+      "Winter Foraging Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Winter_Root",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful winter forage for Winter Foraging Bundle."
+  },
+  {
+    "id": "clam",
+    "slug": "clam",
+    "name": "Clam",
+    "seasons": [
+      "All"
+    ],
+    "locations": [
+      "Beach"
+    ],
+    "sellPrice": 50,
+    "bundleUsage": [
+      "Crab Pot Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Clam",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful year-round forage for Crab Pot Bundle."
+  },
+  {
+    "id": "cockle",
+    "slug": "cockle",
+    "name": "Cockle",
+    "seasons": [
+      "All"
+    ],
+    "locations": [
+      "Beach"
+    ],
+    "sellPrice": 50,
+    "bundleUsage": [
+      "Crab Pot Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cockle",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful year-round forage for Crab Pot Bundle."
+  },
+  {
+    "id": "coral",
+    "slug": "coral",
+    "name": "Coral",
+    "seasons": [
+      "All"
+    ],
+    "locations": [
+      "Beach",
+      "Ginger Island"
+    ],
+    "sellPrice": 80,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Coral",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Beach forage with niche utility and light money value."
+  },
+  {
+    "id": "mussel",
+    "slug": "mussel",
+    "name": "Mussel",
+    "seasons": [
+      "All"
+    ],
+    "locations": [
+      "Beach"
+    ],
+    "sellPrice": 30,
+    "bundleUsage": [
+      "Crab Pot Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Mussel",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful year-round forage for Crab Pot Bundle."
+  },
+  {
+    "id": "nautilus_shell",
+    "slug": "nautilus_shell",
+    "name": "Nautilus Shell",
+    "seasons": [
+      "Winter"
+    ],
+    "locations": [
+      "Beach"
+    ],
+    "sellPrice": 120,
+    "bundleUsage": [
+      "Field Research Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Nautilus_Shell",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful winter forage for Field Research Bundle."
+  },
+  {
+    "id": "oyster",
+    "slug": "oyster",
+    "name": "Oyster",
+    "seasons": [
+      "All"
+    ],
+    "locations": [
+      "Beach"
+    ],
+    "sellPrice": 40,
+    "bundleUsage": [
+      "Crab Pot Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Oyster",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Useful year-round forage for Crab Pot Bundle."
+  },
+  {
+    "id": "rainbow_shell",
+    "slug": "rainbow_shell",
+    "name": "Rainbow Shell",
+    "seasons": [
+      "Summer"
+    ],
+    "locations": [
+      "Beach"
+    ],
+    "sellPrice": 300,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Rainbow_Shell",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Rare beach forage with niche utility."
+  },
+  {
+    "id": "sea_urchin",
+    "slug": "sea_urchin",
+    "name": "Sea Urchin",
+    "seasons": [
+      "All"
+    ],
+    "locations": [
+      "Beach",
+      "Ginger Island"
+    ],
+    "sellPrice": 160,
+    "bundleUsage": [
+      "Dye Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sea_Urchin",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Beach forage mainly kept for dye and decoration use."
+  },
+  {
+    "id": "seaweed",
+    "slug": "seaweed",
+    "name": "Seaweed",
+    "seasons": [
+      "All"
+    ],
+    "locations": [
+      "Beach",
+      "Fishing"
+    ],
+    "sellPrice": 20,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Seaweed",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Common beach forage with useful cooking and fish pond value."
+  },
+  {
+    "id": "cave_carrot",
+    "slug": "cave_carrot",
+    "name": "Cave Carrot",
+    "seasons": [
+      "All"
+    ],
+    "locations": [
+      "Mines"
+    ],
+    "sellPrice": 25,
+    "bundleUsage": [
+      "Exotic Foraging Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cave_Carrot",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Mine forage that is handy for stamina and the Exotic Foraging Bundle."
+  },
+  {
+    "id": "cactus_fruit",
+    "slug": "cactus_fruit",
+    "name": "Cactus Fruit",
+    "seasons": [
+      "All"
+    ],
+    "locations": [
+      "Calico Desert"
+    ],
+    "sellPrice": 75,
+    "bundleUsage": [
+      "Exotic Foraging Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cactus_Fruit",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Desert forage with strong energy and bundle value."
+  },
+  {
+    "id": "coconut",
+    "slug": "coconut",
+    "name": "Coconut",
+    "seasons": [
+      "All"
+    ],
+    "locations": [
+      "Calico Desert",
+      "Ginger Island"
+    ],
+    "sellPrice": 100,
+    "bundleUsage": [
+      "Exotic Foraging Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Coconut",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Desert and island forage with strong bundle value."
+  },
+  {
+    "id": "ginger",
+    "slug": "ginger",
+    "name": "Ginger",
+    "seasons": [
+      "All"
+    ],
+    "locations": [
+      "Ginger Island"
+    ],
+    "sellPrice": 60,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ginger",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Island forage that supports Ginger Island progress."
+  },
+  {
+    "id": "magma_cap",
+    "slug": "magma_cap",
+    "name": "Magma Cap",
+    "seasons": [
+      "All"
+    ],
+    "locations": [
+      "Volcano Dungeon"
+    ],
+    "sellPrice": 400,
+    "bundleUsage": [],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Magma_Cap",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Late-game mushroom forage from the Volcano Dungeon."
+  },
+  {
+    "id": "truffle",
+    "slug": "truffle",
+    "name": "Truffle",
+    "seasons": [
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "locations": [
+      "Farm",
+      "Pig Pasture"
+    ],
+    "sellPrice": 625,
+    "bundleUsage": [
+      "Chef's Bundle"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Truffle",
+      "https://stardewvalleywiki.com/Foraging"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Pig-produced forage item with strong artisan value."
+  }
+]

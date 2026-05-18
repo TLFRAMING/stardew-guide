@@ -39,7 +39,7 @@ const groups: HubGroup[] = [
   {
     name: "Foraging",
     tone: "border-amber-700/20 bg-amber-100/65",
-    items: [{ title: "Forage", note: "Planned seasonal forage reference.", status: "Planned" }]
+    items: [{ title: "Forage", href: "/forage", note: "Seasonal pickups, beach items, and bundle forage.", status: "Live" }]
   },
   {
     name: "Fishing",

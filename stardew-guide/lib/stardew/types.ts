@@ -72,6 +72,17 @@ export type FruitTree = StardewDataSource & {
   beginnerNote: string;
 };
 
+export type ForageItem = StardewDataSource & {
+  id: string;
+  slug: string;
+  name: string;
+  seasons: Season[];
+  locations: string[];
+  sellPrice: number | VerificationValue;
+  bundleUsage: string[];
+  beginnerNote: string;
+};
+
 export type BundleItem = {
   id: string;
   name: string;

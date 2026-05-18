@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs";
 import path from "node:path";
-import type { Bundle, BundleItem, Crop, Fish, FruitTree, MoneyGuide, Season, Villager } from "./types";
+import type { Bundle, BundleItem, Crop, Fish, ForageItem, FruitTree, MoneyGuide, Season, Villager } from "./types";
 
 type BundleJson = Omit<Bundle, "items" | "name" | "slug"> & {
   slug?: string;
@@ -69,6 +69,14 @@ export function getAllFruitTrees(): FruitTree[] {
 
 export function getFruitTreeBySlug(slug: string): FruitTree | undefined {
   return getAllFruitTrees().find((tree) => tree.slug === slug);
+}
+
+export function getAllForage(): ForageItem[] {
+  return readJsonArray<ForageItem>("forage.json");
+}
+
+export function getForageBySlug(slug: string): ForageItem | undefined {
+  return getAllForage().find((item) => item.slug === slug);
 }
 
 export function getAllBundles(): Bundle[] {
