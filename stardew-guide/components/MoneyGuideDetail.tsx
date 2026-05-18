@@ -5,7 +5,7 @@ export function MoneyGuideDetail({ guide }: { guide: MoneyGuide }) {
   return (
     <div className="space-y-5">
       <section className="rounded-lg border border-amber-500/20 bg-amber-50/80 p-4">
-        <p className="text-sm font-bold text-amber-900">Draft strategy data. Profit estimates are under review.</p>
+        <p className="text-sm font-bold text-amber-900">{getReviewNotice(guide)}</p>
       </section>
 
       <section className="rounded-lg border border-green-950/10 bg-white p-5 shadow-soft">
@@ -101,4 +101,14 @@ function NumberedList({ title, values }: { title: string; values: string[] }) {
 
 function formatConfidence(value: string) {
   return value === "needs verification" ? "Under review" : formatLabel(value);
+}
+
+function getReviewNotice(guide: MoneyGuide) {
+  const hasUnderReviewEstimate = guide.profitEstimates.some((estimate) => estimate.confidence === "needs verification");
+
+  if (hasUnderReviewEstimate) {
+    return "Source-reviewed strategy data. Some profit estimates remain under review.";
+  }
+
+  return "Source-reviewed strategy data. Profit estimates are derived from verified mechanics.";
 }

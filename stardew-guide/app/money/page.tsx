@@ -12,7 +12,7 @@ export default function MoneyGuidesPage() {
   const guides = getAllMoneyGuides();
 
   return (
-    <PageShell eyebrow="Stardew Guide" kicker="Draft strategy data. Profit estimates are under review." title="Money-Making Guides">
+    <PageShell eyebrow="Stardew Guide" kicker="Strategy data is source-reviewed. Some profit estimates remain under review." title="Money-Making Guides">
       <MoneyGuideDirectory guides={guides} />
     </PageShell>
   );
