@@ -4,7 +4,10 @@
     "slug": "sap",
     "name": "Sap",
     "seasons": [
-      "All"
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
     ],
     "locations": [
       "Trees",
@@ -24,7 +27,10 @@
     "slug": "common_mushroom",
     "name": "Common Mushroom",
     "seasons": [
-      "All"
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
     ],
     "locations": [
       "Secret Woods",
@@ -386,7 +392,10 @@
     "slug": "purple_mushroom",
     "name": "Purple Mushroom",
     "seasons": [
-      "All"
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
     ],
     "locations": [
       "Mines",
@@ -456,7 +465,10 @@
     "slug": "crystal_fruit",
     "name": "Crystal Fruit",
     "seasons": [
-      "All"
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
     ],
     "locations": [
       "Mines",
@@ -541,7 +553,10 @@
     "slug": "clam",
     "name": "Clam",
     "seasons": [
-      "All"
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
     ],
     "locations": [
       "Beach"
@@ -562,7 +577,10 @@
     "slug": "cockle",
     "name": "Cockle",
     "seasons": [
-      "All"
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
     ],
     "locations": [
       "Beach"
@@ -583,7 +601,10 @@
     "slug": "coral",
     "name": "Coral",
     "seasons": [
-      "All"
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
     ],
     "locations": [
       "Beach",
@@ -603,7 +624,10 @@
     "slug": "mussel",
     "name": "Mussel",
     "seasons": [
-      "All"
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
     ],
     "locations": [
       "Beach"
@@ -645,7 +669,10 @@
     "slug": "oyster",
     "name": "Oyster",
     "seasons": [
-      "All"
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
     ],
     "locations": [
       "Beach"
@@ -685,7 +712,10 @@
     "slug": "sea_urchin",
     "name": "Sea Urchin",
     "seasons": [
-      "All"
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
     ],
     "locations": [
       "Beach",
@@ -707,7 +737,10 @@
     "slug": "seaweed",
     "name": "Seaweed",
     "seasons": [
-      "All"
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
     ],
     "locations": [
       "Beach",
@@ -727,7 +760,10 @@
     "slug": "cave_carrot",
     "name": "Cave Carrot",
     "seasons": [
-      "All"
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
     ],
     "locations": [
       "Mines"
@@ -748,7 +784,10 @@
     "slug": "cactus_fruit",
     "name": "Cactus Fruit",
     "seasons": [
-      "All"
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
     ],
     "locations": [
       "Calico Desert"
@@ -769,7 +808,10 @@
     "slug": "coconut",
     "name": "Coconut",
     "seasons": [
-      "All"
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
     ],
     "locations": [
       "Calico Desert",
@@ -791,7 +833,10 @@
     "slug": "ginger",
     "name": "Ginger",
     "seasons": [
-      "All"
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
     ],
     "locations": [
       "Ginger Island"
@@ -810,7 +855,10 @@
     "slug": "magma_cap",
     "name": "Magma Cap",
     "seasons": [
-      "All"
+      "Spring",
+      "Summer",
+      "Fall",
+      "Winter"
     ],
     "locations": [
       "Volcano Dungeon"
