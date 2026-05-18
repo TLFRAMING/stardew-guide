@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getAllCrops, getAllFish, getAllVillagers } from "@/lib/stardew/data";
 
-const siteUrl = "https://stardew-guide.vercel.app";
+const siteUrl = "https://stardew-guide-8vq.pages.dev";
 
 export const dynamic = "force-static";
 

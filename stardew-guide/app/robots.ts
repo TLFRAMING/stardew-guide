@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const siteUrl = "https://stardew-guide.vercel.app";
+const siteUrl = "https://stardew-guide-8vq.pages.dev";
 
 export const dynamic = "force-static";
 
