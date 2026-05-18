@@ -60,6 +60,18 @@ export type Fish = StardewDataSource & {
   beginnerNote: string;
 };
 
+export type FruitTree = StardewDataSource & {
+  id: string;
+  slug: string;
+  name: string;
+  seasons: Season[];
+  saplingPrice: number | VerificationValue;
+  growthDays: number | VerificationValue;
+  fruitName: string;
+  fruitSellPrice: number | VerificationValue;
+  beginnerNote: string;
+};
+
 export type BundleItem = {
   id: string;
   name: string;

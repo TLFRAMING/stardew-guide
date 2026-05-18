@@ -1,0 +1,146 @@
+[
+  {
+    "id": "fruit-tree-apricot-tree",
+    "slug": "apricot-tree",
+    "name": "Apricot Tree",
+    "seasons": [
+      "Spring"
+    ],
+    "saplingPrice": 2000,
+    "growthDays": 28,
+    "fruitName": "Apricot",
+    "fruitSellPrice": 50,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Apricot_Tree",
+      "https://stardewvalleywiki.com/Apricot"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Cheap spring tree for early bundles and gifting."
+  },
+  {
+    "id": "fruit-tree-cherry-tree",
+    "slug": "cherry-tree",
+    "name": "Cherry Tree",
+    "seasons": [
+      "Spring"
+    ],
+    "saplingPrice": 3400,
+    "growthDays": 28,
+    "fruitName": "Cherry",
+    "fruitSellPrice": 80,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cherry_Tree",
+      "https://stardewvalleywiki.com/Cherry"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Spring fruit tree with modest value and bundle utility."
+  },
+  {
+    "id": "fruit-tree-banana-tree",
+    "slug": "banana-tree",
+    "name": "Banana Tree",
+    "seasons": [
+      "Summer"
+    ],
+    "saplingPrice": "needs verification",
+    "growthDays": 28,
+    "fruitName": "Banana",
+    "fruitSellPrice": 150,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Banana_Tree",
+      "https://stardewvalleywiki.com/Banana"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "High-value tropical tree; sapling uses an item exchange rather than gold."
+  },
+  {
+    "id": "fruit-tree-mango-tree",
+    "slug": "mango-tree",
+    "name": "Mango Tree",
+    "seasons": [
+      "Summer"
+    ],
+    "saplingPrice": "needs verification",
+    "growthDays": 28,
+    "fruitName": "Mango",
+    "fruitSellPrice": 130,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Mango_Tree",
+      "https://stardewvalleywiki.com/Mango"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Strong island tree; sapling uses an item exchange rather than gold."
+  },
+  {
+    "id": "fruit-tree-orange-tree",
+    "slug": "orange-tree",
+    "name": "Orange Tree",
+    "seasons": [
+      "Summer"
+    ],
+    "saplingPrice": 4000,
+    "growthDays": 28,
+    "fruitName": "Orange",
+    "fruitSellPrice": 100,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Orange_Tree",
+      "https://stardewvalleywiki.com/Orange"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Solid summer tree with moderate value and easy bundle use."
+  },
+  {
+    "id": "fruit-tree-peach-tree",
+    "slug": "peach-tree",
+    "name": "Peach Tree",
+    "seasons": [
+      "Summer"
+    ],
+    "saplingPrice": 6000,
+    "growthDays": 28,
+    "fruitName": "Peach",
+    "fruitSellPrice": 140,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Peach_Tree",
+      "https://stardewvalleywiki.com/Peach"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Higher-value summer fruit tree that also works well for gifts."
+  },
+  {
+    "id": "fruit-tree-apple-tree",
+    "slug": "apple-tree",
+    "name": "Apple Tree",
+    "seasons": [
+      "Fall"
+    ],
+    "saplingPrice": 4000,
+    "growthDays": 28,
+    "fruitName": "Apple",
+    "fruitSellPrice": 100,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Apple_Tree",
+      "https://stardewvalleywiki.com/Apple"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "Key fall tree for bundle progress and steady orchard value."
+  },
+  {
+    "id": "fruit-tree-pomegranate-tree",
+    "slug": "pomegranate-tree",
+    "name": "Pomegranate Tree",
+    "seasons": [
+      "Fall"
+    ],
+    "saplingPrice": 6000,
+    "growthDays": 28,
+    "fruitName": "Pomegranate",
+    "fruitSellPrice": 140,
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Pomegranate_Tree",
+      "https://stardewvalleywiki.com/Pomegranate"
+    ],
+    "lastChecked": "2026-05-18",
+    "beginnerNote": "High-value fall tree with strong bundle and gift utility."
+  }
+]

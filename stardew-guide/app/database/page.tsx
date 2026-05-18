@@ -31,7 +31,7 @@ const groups: HubGroup[] = [
     tone: "border-pond/20 bg-pond/7",
     items: [
       { title: "Crops", href: "/crops", note: "Season, price, and growth references.", status: "Live" },
-      { title: "Fruit Trees", note: "Planned orchard reference.", status: "Planned" },
+      { title: "Fruit Trees", href: "/fruit-trees", note: "Sapling prices, seasons, and fruit values.", status: "Live" },
       { title: "Animals", note: "Planned barn and coop reference.", status: "Planned" },
       { title: "Animal Products", note: "Planned products reference.", status: "Planned" }
     ]
