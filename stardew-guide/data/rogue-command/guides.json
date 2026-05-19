@@ -1,0 +1,129 @@
+[
+  {
+    "id": "rogue-command-overview",
+    "title": "Rogue Command Overview",
+    "slug": "rogue-command-overview",
+    "category": "overview",
+    "summary": "Source-backed overview of what Rogue Command is and which official sources support the basic facts.",
+    "intro": "Rogue Command has an official Steam store page, and Steam lists feneq as developer and publisher. Steam frames the game as single-player RTS gameplay with roguelite build crafting.",
+    "allowedClaims": [
+      "Rogue Command has an official Steam store page.",
+      "Steam lists feneq as developer and publisher.",
+      "Steam frames the game as single-player RTS gameplay with roguelite build crafting.",
+      "Steam categories include Action, Simulation, and Strategy.",
+      "The official About page supports limited feneq background."
+    ],
+    "blockedClaims": [
+      "strategy recommendations",
+      "rankings",
+      "exact mechanics",
+      "numeric stats",
+      "asset usage rights",
+      "third-party social/forum claims",
+      "route advice"
+    ],
+    "sourceIds": [
+      "steam-store",
+      "official-about"
+    ],
+    "sourceUrls": [
+      "https://store.steampowered.com/app/1461910/Rogue_Command/",
+      "https://www.roguecommand.net/about-us"
+    ],
+    "confidence": "high",
+    "lastChecked": "2026-05-19",
+    "notes": "Intro-level production guide metadata only. This is not a strategy guide and should not be used for recommendations or detailed mechanics."
+  },
+  {
+    "id": "release-and-early-access-timeline",
+    "title": "Release and Early Access Timeline",
+    "slug": "release-and-early-access-timeline",
+    "category": "timeline",
+    "summary": "Source-backed timeline covering Steam Early Access and the 1.0 release.",
+    "intro": "Steam lists Rogue Command's full release as 2026-05-14 and its Early Access release as 2024-11-18. Steam announcements support that the game reached 1.0 and left Early Access.",
+    "allowedClaims": [
+      "Steam lists full release as 2026-05-14.",
+      "Steam lists Early Access release as 2024-11-18.",
+      "Steam announcements support that Rogue Command reached 1.0 and left Early Access."
+    ],
+    "blockedClaims": [
+      "roadmap",
+      "patch impact",
+      "balance claim",
+      "future promise",
+      "strategy claim",
+      "third-party social/forum claims"
+    ],
+    "sourceIds": [
+      "steam-store",
+      "steam-announcements"
+    ],
+    "sourceUrls": [
+      "https://store.steampowered.com/app/1461910/Rogue_Command/",
+      "https://steamcommunity.com/app/1461910/announcements/"
+    ],
+    "confidence": "medium",
+    "lastChecked": "2026-05-19",
+    "notes": "Intro-level production guide metadata only. This record is limited to date and release-status facts and should not be used for patch interpretation."
+  },
+  {
+    "id": "beginner-systems-glossary",
+    "title": "Beginner Systems Glossary",
+    "slug": "beginner-systems-glossary",
+    "category": "systems",
+    "summary": "Source-backed glossary candidate for official-source system names whose details remain under review.",
+    "intro": "Blueprints, Upgrades, Hacks, Engineer, Economy, and Specialist appear in official Steam source material. This guide metadata only marks those terms as systems under review.",
+    "allowedClaims": [
+      "Blueprints, Upgrades, Hacks, Engineer, Economy, and Specialist appear in official Steam source material.",
+      "These terms can be listed as systems under review.",
+      "Detailed effects remain pending until later verification."
+    ],
+    "blockedClaims": [
+      "detailed definitions",
+      "unlock rules",
+      "effectiveness",
+      "rankings",
+      "numeric effects",
+      "official Chinese names",
+      "strategy advice"
+    ],
+    "sourceIds": [
+      "steam-store"
+    ],
+    "sourceUrls": [
+      "https://store.steampowered.com/app/1461910/Rogue_Command/"
+    ],
+    "confidence": "medium",
+    "lastChecked": "2026-05-19",
+    "notes": "Intro-level production guide metadata only. This is not a system reference yet; detailed terms require later verification."
+  },
+  {
+    "id": "core-gameplay-loop-overview",
+    "title": "Core Gameplay Loop Overview",
+    "slug": "core-gameplay-loop-overview",
+    "category": "gameplay-loop",
+    "summary": "High-level gameplay-loop overview using only official-source broad descriptions.",
+    "intro": "Steam store text supports broad play descriptions: controlling units, building a base, harvesting resources, exploring the map, defending positions, and planning attacks. This metadata does not imply Player Codex has tested or optimized the loop.",
+    "allowedClaims": [
+      "Steam store text supports broad play descriptions: controlling units, building a base, harvesting resources, exploring the map, defending positions, and planning attacks.",
+      "The topic can explain the loop at a high level without implying Player Codex has tested or optimized it."
+    ],
+    "blockedClaims": [
+      "fastest clears",
+      "optimal economy routes",
+      "current patch strategy",
+      "detailed tactical recommendations",
+      "tested build guidance",
+      "strategy recommendations"
+    ],
+    "sourceIds": [
+      "steam-store"
+    ],
+    "sourceUrls": [
+      "https://store.steampowered.com/app/1461910/Rogue_Command/"
+    ],
+    "confidence": "high",
+    "lastChecked": "2026-05-19",
+    "notes": "Intro-level production guide metadata only. This record stays at broad gameplay-loop framing and is not a tactical guide."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "steam-store",
+    "title": "Rogue Command on Steam",
+    "url": "https://store.steampowered.com/app/1461910/Rogue_Command/",
+    "publisher": "Steam",
+    "sourceType": "store",
+    "lastChecked": "2026-05-19",
+    "confidence": "high",
+    "notes": "Primary source for store listing, developer and publisher listing, release dates, broad genre framing, Steam categories, achievements count, and high-level gameplay description. Do not use this source for strategy recommendations, detailed mechanics, or image usage rights."
+  },
+  {
+    "id": "steam-announcements",
+    "title": "Rogue Command Steam Announcements",
+    "url": "https://steamcommunity.com/app/1461910/announcements/",
+    "publisher": "Steam",
+    "sourceType": "announcement",
+    "lastChecked": "2026-05-19",
+    "confidence": "medium",
+    "notes": "Official Steam announcements source for 1.0 release context and Early Access exit. Do not use community comments, review text, or patch-sensitive claims as production guidance without a separate review."
+  },
+  {
+    "id": "official-about",
+    "title": "Rogue Command official About page",
+    "url": "https://www.roguecommand.net/about-us",
+    "publisher": "Rogue Command official site",
+    "sourceType": "official-site",
+    "lastChecked": "2026-05-19",
+    "confidence": "high",
+    "notes": "Official site source for feneq background and the connection between feneq and Rogue Command. Do not use this page for gameplay mechanics, release timing, build guidance, or image usage rights."
+  }
+]

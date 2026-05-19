@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { PageShell } from "@/components/PageShell";
+import guides from "@/data/rogue-command/guides.json";
+import sources from "@/data/rogue-command/sources.json";
 
 export const metadata: Metadata = {
   title: "Rogue Command | Player Codex",
@@ -17,35 +19,19 @@ const verifiedFacts = [
 
 const systemsUnderReview = ["Blueprints", "Upgrades", "Hacks", "Engineer", "Economy", "Specialist"];
 
-const plannedModules = [
-  {
-    title: "Guides",
-    description: "Beginner-facing notes and system explanations will be published after source review."
-  },
-  {
-    title: "Builds",
-    description: "Build pages are still under review and will not include rankings until claims are verified."
-  },
-  {
-    title: "Database",
-    description: "Reference data for systems and terms is being staged before it becomes production content."
-  }
-];
+const sourceTypeLabels: Record<string, string> = {
+  announcement: "Announcement",
+  "official-site": "Official site",
+  store: "Store",
+  wiki: "Wiki",
+  other: "Source"
+};
 
-const sources = [
-  {
-    title: "Steam store",
-    href: "https://store.steampowered.com/app/1461910/Rogue_Command/"
-  },
-  {
-    title: "Steam announcements",
-    href: "https://steamcommunity.com/app/1461910/announcements/"
-  },
-  {
-    title: "Official About page",
-    href: "https://www.roguecommand.net/about-us"
-  }
-];
+const confidenceLabels: Record<string, string> = {
+  high: "Source-backed",
+  medium: "Reviewed source",
+  "needs verification": "Needs verification"
+};
 
 export default function RogueCommandPage() {
   return (
@@ -106,17 +92,21 @@ export default function RogueCommandPage() {
           </div>
 
           <div className="rounded-md border border-green-950/10 bg-white/80 px-4 py-5 sm:px-5">
-            <h2 className="text-base font-black text-green-950">Planned Modules</h2>
+            <h2 className="text-base font-black text-green-950">Source-backed guide topics</h2>
+            <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">
+              These topics are prepared as guide metadata. Full guide pages are not published yet.
+            </p>
             <div className="mt-4 space-y-3">
-              {plannedModules.map((module) => (
-                <article key={module.title} className="rounded-sm border border-green-950/10 bg-green-950/[0.025] p-3">
+              {guides.map((guide) => (
+                <article key={guide.id} className="rounded-sm border border-green-950/10 bg-green-950/[0.025] p-3">
                   <div className="flex items-center justify-between gap-3">
-                    <h3 className="text-sm font-black text-green-950">{module.title}</h3>
+                    <h3 className="text-sm font-black text-green-950">{guide.title}</h3>
                     <span className="rounded-sm bg-green-950/[0.06] px-2 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/50">
-                      Planned
+                      {confidenceLabels[guide.confidence] ?? "Reviewed source"}
                     </span>
                   </div>
-                  <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">{module.description}</p>
+                  <p className="mt-2 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/45">{guide.category}</p>
+                  <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">{guide.summary}</p>
                 </article>
               ))}
             </div>
@@ -126,19 +116,22 @@ export default function RogueCommandPage() {
         <section className="rounded-md border border-green-950/10 bg-white/80 px-4 py-5 sm:px-5">
           <div className="grid gap-5 lg:grid-cols-[0.9fr_1.1fr]">
             <div>
-              <h2 className="text-base font-black text-green-950">Sources</h2>
+              <h2 className="text-base font-black text-green-950">Verified sources</h2>
               <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">
-                This intro is based on public source review. No images, screenshots, logos, or icons are used.
+                This intro is based on public source review. Source notes remain internal, and no images, screenshots, logos, or icons are used.
               </p>
             </div>
             <div className="grid gap-2">
               {sources.map((source) => (
                 <Link
-                  key={source.href}
+                  key={source.id}
                   className="rounded-sm border border-green-950/10 bg-green-950/[0.035] px-3 py-2 text-sm font-black text-green-950 transition hover:bg-green-950/[0.08]"
-                  href={source.href}
+                  href={source.url}
                 >
-                  {source.title}
+                  <span className="block">{source.title}</span>
+                  <span className="mt-1 block text-[0.68rem] uppercase tracking-[0.12em] text-green-950/48">
+                    {source.publisher} / {sourceTypeLabels[source.sourceType] ?? source.sourceType}
+                  </span>
                 </Link>
               ))}
             </div>
