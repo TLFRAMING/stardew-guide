@@ -1,13 +1,8 @@
 import Link from "next/link";
 
-const navItems = [
-  { href: "/", label: "Home" },
-  { href: "/database", label: "Database" },
-  { href: "/stardew", label: "Stardew" },
-  { href: "/stardew/database", label: "Stardew DB" },
-  { href: "/stardew/villagers", label: "Villagers" },
-  { href: "/stardew/crops", label: "Crops" },
-  { href: "/stardew/fish", label: "Fish" }
+const gameNavItems = [
+  { href: "/stardew", label: "Stardew Guide", status: "Live" },
+  { href: "/rogue-command", label: "Rogue Command", status: "Planned" }
 ];
 
 export function SiteNav() {
@@ -21,10 +16,11 @@ export function SiteNav() {
             <span className="block break-words text-[11px] font-black uppercase tracking-[0.16em] text-meadow">Multi-game guide index</span>
           </span>
         </Link>
-        <div className="flex flex-wrap gap-2 text-sm font-bold text-green-950/72">
-          {navItems.map((item) => (
+        <div className="flex flex-wrap gap-2 text-sm font-bold text-green-950/72" aria-label="Game navigation">
+          {gameNavItems.map((item) => (
             <Link className="codex-tab rounded-sm px-3 py-2 leading-none" href={item.href} key={item.href}>
-              {item.label}
+              <span>{item.label}</span>
+              <span className="ml-2 text-[10px] font-black uppercase tracking-[0.12em] text-green-950/42">{item.status}</span>
             </Link>
           ))}
         </div>
