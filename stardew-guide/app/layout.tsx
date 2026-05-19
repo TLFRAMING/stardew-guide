@@ -4,8 +4,8 @@ import { SiteNav } from "@/components/SiteNav";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Player Codex | Stardew Guide",
-  description: "A fan-made Stardew Valley guide for villagers, crops, fish, and Community Center bundles.",
+  title: "Player Codex",
+  description: "Player Codex hosts practical, fan-made game guides and databases.",
   other: {
     "google-adsense-account": "ca-pub-5708282524875348"
   }

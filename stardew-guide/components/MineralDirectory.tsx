@@ -70,7 +70,7 @@ export function MineralDirectory({ minerals }: { minerals: Mineral[] }) {
           {filteredMinerals.map((item) => (
             <Link
               className="codex-list-card codex-list-card-pond group block rounded-md transition hover:-translate-y-0.5 hover:border-pond/30"
-              href={`/minerals/${item.slug}`}
+              href={`/stardew/minerals/${item.slug}`}
               key={item.slug}
             >
               <div className="relative flex h-full min-w-0 flex-col gap-4 px-5 py-5 pl-7">

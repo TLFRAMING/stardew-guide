@@ -3,7 +3,7 @@ import { PageShell } from "@/components/PageShell";
 
 export const metadata: Metadata = {
   title: "About | Player Codex",
-  description: "Learn about Player Codex and the fan-made Stardew Guide module."
+  description: "Learn about Player Codex and its fan-made game guide modules."
 };
 
 export default function AboutPage() {
@@ -15,10 +15,10 @@ export default function AboutPage() {
             Player Codex is a fan-made game guide site focused on practical, readable reference pages for players.
           </p>
           <p>
-            The current module is Stardew Guide, a Stardew Valley guide covering villagers, crops, fish, Community Center bundles, and money-making routes.
+            The live module is Stardew Guide, a Stardew Valley guide covering villagers, crops, fish, Community Center bundles, and money-making routes. Additional game codexes can be staged as Player Codex expands.
           </p>
           <p>
-            Player Codex is not affiliated with, endorsed by, or sponsored by ConcernedApe.
+            Player Codex is not affiliated with, endorsed by, or sponsored by any game publisher or developer.
           </p>
         </div>
       </section>

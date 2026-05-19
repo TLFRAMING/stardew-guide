@@ -66,7 +66,7 @@ export function FishDirectory({ fish }: { fish: Fish[] }) {
           {filteredFish.map((item) => (
             <Link
               className="codex-list-card codex-list-card-berry group block rounded-md transition hover:-translate-y-0.5 hover:border-berry/30"
-              href={`/fish/${item.slug}`}
+              href={`/stardew/fish/${item.slug}`}
               key={item.slug}
             >
               <div className="relative flex h-full min-w-0 flex-col gap-4 px-5 py-5 pl-7">

@@ -3,136 +3,57 @@ import Link from "next/link";
 import { PageShell } from "@/components/PageShell";
 
 export const metadata: Metadata = {
-  title: "Stardew Valley Database | Stardew Guide | Player Codex",
-  description: "Browse Stardew Valley villagers, crops, fish, community center tools, money guides, and planned database categories."
+  title: "Game Databases | Player Codex",
+  description: "Browse live and planned Player Codex game databases."
 };
 
-type HubItem = {
-  title: string;
-  href?: string;
-  note: string;
-  status: "Live" | "Planned";
-};
-
-type HubGroup = {
-  name: string;
-  tone: string;
-  items: HubItem[];
-};
-
-const groups: HubGroup[] = [
+const games = [
   {
-    name: "People",
-    tone: "border-meadow/25 bg-meadow/8",
-    items: [{ title: "Villagers", href: "/villagers", note: "Gift finder and profile pages.", status: "Live" }]
+    name: "Stardew Guide",
+    href: "/stardew/database",
+    status: "Live",
+    description: "Villagers, crops, fish, forage, fruit trees, minerals, bundles, and money guides.",
+    entries: ["Villagers", "Crops", "Fish", "Fruit Trees", "Forage", "Minerals", "Community Center", "Money Guides"]
   },
   {
-    name: "Farming",
-    tone: "border-pond/20 bg-pond/7",
-    items: [
-      { title: "Crops", href: "/crops", note: "Season, price, and growth references.", status: "Live" },
-      { title: "Fruit Trees", href: "/fruit-trees", note: "Sapling prices, seasons, and fruit values.", status: "Live" },
-      { title: "Animals", note: "Planned barn and coop reference.", status: "Planned" },
-      { title: "Animal Products", note: "Planned products reference.", status: "Planned" }
-    ]
-  },
-  {
-    name: "Foraging",
-    tone: "border-amber-700/20 bg-amber-100/65",
-    items: [{ title: "Forage", href: "/forage", note: "Seasonal pickups, beach items, and bundle forage.", status: "Live" }]
-  },
-  {
-    name: "Fishing",
-    tone: "border-berry/20 bg-berry/7",
-    items: [{ title: "Fish", href: "/fish", note: "Calendar, weather, and location lookup.", status: "Live" }]
-  },
-  {
-    name: "Items",
-    tone: "border-green-950/10 bg-white/75",
-    items: [
-      { title: "Artisan Goods", note: "Planned processed-goods reference.", status: "Planned" },
-      { title: "Minerals", href: "/minerals", note: "Location, value, and museum lookup.", status: "Live" },
-      { title: "Artifacts", note: "Planned artifact index.", status: "Planned" }
-    ]
-  },
-  {
-    name: "Crafting & Cooking",
-    tone: "border-gold/25 bg-gold/10",
-    items: [
-      { title: "Cooking Recipes", note: "Planned cooking reference.", status: "Planned" },
-      { title: "Crafting Recipes", note: "Planned crafting reference.", status: "Planned" }
-    ]
-  },
-  {
-    name: "Other Tools",
-    tone: "border-green-950/14 bg-green-950/[0.04]",
-    items: [
-      { title: "Community Center", href: "/community-center", note: "Bundle tracker with local progress.", status: "Live" },
-      { title: "Money Guides", href: "/money", note: "Source-reviewed strategy overviews.", status: "Live" }
-    ]
+    name: "Rogue Command",
+    href: "/rogue-command",
+    status: "Planned",
+    description: "Builds, strategy notes, and reference data are being staged before launch.",
+    entries: ["Guides", "Builds", "Sources"]
   }
 ];
 
 export default function DatabasePage() {
   return (
-    <PageShell
-      eyebrow="Database Hub"
-      kicker="A shelf for live Stardew tools now, with planned reference categories staged behind them."
-      title="Stardew Valley Database"
-    >
+    <PageShell eyebrow="Player Codex" kicker="A cross-game index for live databases and planned codex modules." title="Game Databases">
       <section className="space-y-4">
-        {groups.map((group) => (
-          <section className={`rounded-md border px-4 py-4 sm:px-5 ${group.tone}`} key={group.name}>
-            <div className="mb-3 flex items-center justify-between gap-3 border-b border-green-950/10 pb-3">
-              <h2 className="text-lg font-black text-green-950">{group.name}</h2>
-              <span className="text-xs font-black uppercase tracking-[0.14em] text-green-950/48">{group.items.length} entries</span>
+        {games.map((game) => (
+          <article className="rounded-md border border-green-950/10 bg-white/80 px-4 py-4 sm:px-5" key={game.name}>
+            <div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
+              <div className="min-w-0">
+                <div className="flex flex-wrap items-center gap-2">
+                  <h2 className="text-lg font-black text-green-950">{game.name}</h2>
+                  <span className={game.status === "Live" ? "rounded-sm bg-meadow/12 px-2 py-1 text-[11px] font-black uppercase tracking-[0.14em] text-meadow" : "rounded-sm bg-green-950/[0.06] px-2 py-1 text-[11px] font-black uppercase tracking-[0.14em] text-green-950/50"}>
+                    {game.status}
+                  </span>
+                </div>
+                <p className="mt-2 text-sm font-semibold leading-6 text-green-950/66">{game.description}</p>
+                <div className="mt-3 flex flex-wrap gap-2">
+                  {game.entries.map((entry) => (
+                    <span className="rounded-sm bg-green-950/[0.05] px-2.5 py-1 text-xs font-black uppercase tracking-[0.12em] text-green-950/52" key={entry}>
+                      {entry}
+                    </span>
+                  ))}
+                </div>
+              </div>
+              <Link className="w-fit rounded-sm border border-green-950/14 bg-green-950/[0.04] px-3 py-2 text-sm font-black text-green-950 transition hover:bg-green-950/[0.08]" href={game.href}>
+                {game.status === "Live" ? "Open" : "Preview"}
+              </Link>
             </div>
-            <div className="divide-y divide-green-950/10">
-              {group.items.map((item) => (
-                <DatabaseItem item={item} key={item.title} />
-              ))}
-            </div>
-          </section>
+          </article>
         ))}
       </section>
     </PageShell>
   );
-}
-
-function DatabaseItem({ item }: { item: HubItem }) {
-  const content = (
-    <div className="flex min-w-0 flex-col gap-3 py-3 sm:flex-row sm:items-start sm:justify-between sm:gap-4">
-      <div className="min-w-0">
-        <div className="flex min-w-0 flex-wrap items-center gap-2">
-          <h3 className="text-base font-black text-green-950">{item.title}</h3>
-          <StatusPill status={item.status} />
-        </div>
-        <p className="mt-1 text-sm font-semibold leading-6 text-green-950/66">{item.note}</p>
-      </div>
-      {item.status === "Live" ? (
-        <span className="w-fit rounded-sm bg-green-950/[0.05] px-2.5 py-1 text-xs font-black uppercase tracking-[0.14em] text-green-950/58">Open</span>
-      ) : (
-        <span className="w-fit rounded-sm bg-green-950/[0.04] px-2.5 py-1 text-xs font-black uppercase tracking-[0.14em] text-green-950/42">Soon</span>
-      )}
-    </div>
-  );
-
-  if (item.href) {
-    return (
-      <Link className="block transition hover:translate-y-[-1px] hover:text-green-950" href={item.href}>
-        {content}
-      </Link>
-    );
-  }
-
-  return <div>{content}</div>;
-}
-
-function StatusPill({ status }: { status: HubItem["status"] }) {
-  const styles =
-    status === "Live"
-      ? "bg-meadow/12 text-meadow"
-      : "bg-green-950/[0.06] text-green-950/50";
-
-  return <span className={`rounded-sm px-2 py-1 text-[11px] font-black uppercase tracking-[0.14em] ${styles}`}>{status}</span>;
 }

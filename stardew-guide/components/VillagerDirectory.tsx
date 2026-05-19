@@ -79,7 +79,7 @@ export function VillagerDirectory({ villagers }: { villagers: Villager[] }) {
           {filteredVillagers.map((villager) => (
             <Link
               className="codex-list-card codex-list-card-meadow group block rounded-md transition hover:-translate-y-0.5 hover:border-meadow/30"
-              href={`/villagers/${villager.slug}`}
+              href={`/stardew/villagers/${villager.slug}`}
               key={villager.slug}
             >
               <div className="relative flex h-full min-w-0 flex-col gap-4 px-5 py-5 pl-7">

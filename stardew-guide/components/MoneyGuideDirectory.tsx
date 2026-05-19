@@ -10,7 +10,7 @@ export function MoneyGuideDirectory({ guides }: { guides: MoneyGuide[] }) {
 
       <section className="grid gap-4 md:grid-cols-2">
         {guides.map((guide) => (
-          <Link className="rounded-lg border border-green-950/10 bg-white p-5 shadow-soft transition hover:-translate-y-0.5 hover:border-amber-500/35" href={`/money/${guide.slug}`} key={guide.slug}>
+          <Link className="rounded-lg border border-green-950/10 bg-white p-5 shadow-soft transition hover:-translate-y-0.5 hover:border-amber-500/35" href={`/stardew/money/${guide.slug}`} key={guide.slug}>
             <div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
               <div>
                 <p className="text-xs font-bold uppercase tracking-wide text-amber-700">{formatLabel(guide.category)}</p>
@@ -46,7 +46,7 @@ export function MoneyGuideDirectory({ guides }: { guides: MoneyGuide[] }) {
               {guides.map((guide) => (
                 <tr className="border-b border-green-950/8 last:border-b-0" key={guide.slug}>
                   <td className="py-3 pr-4 font-bold text-green-950">
-                    <Link className="hover:text-amber-700" href={`/money/${guide.slug}`}>
+                    <Link className="hover:text-amber-700" href={`/stardew/money/${guide.slug}`}>
                       {guide.shortName}
                     </Link>
                   </td>

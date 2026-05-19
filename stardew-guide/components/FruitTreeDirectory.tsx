@@ -72,7 +72,7 @@ export function FruitTreeDirectory({ fruitTrees }: { fruitTrees: FruitTree[] }) 
           {filteredTrees.map((tree) => (
             <Link
               className="codex-list-card codex-list-card-pond group block rounded-md transition hover:-translate-y-0.5 hover:border-pond/30"
-              href={`/fruit-trees/${tree.slug}`}
+              href={`/stardew/fruit-trees/${tree.slug}`}
               key={tree.slug}
             >
               <div className="relative flex h-full min-w-0 flex-col gap-4 px-5 py-5 pl-7">

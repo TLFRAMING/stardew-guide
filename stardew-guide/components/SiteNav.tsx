@@ -3,10 +3,11 @@ import Link from "next/link";
 const navItems = [
   { href: "/", label: "Home" },
   { href: "/database", label: "Database" },
-  { href: "/villagers", label: "Villagers" },
-  { href: "/crops", label: "Crops" },
-  { href: "/fish", label: "Fish" },
-  { href: "/community-center", label: "Community Center" }
+  { href: "/stardew", label: "Stardew" },
+  { href: "/stardew/database", label: "Stardew DB" },
+  { href: "/stardew/villagers", label: "Villagers" },
+  { href: "/stardew/crops", label: "Crops" },
+  { href: "/stardew/fish", label: "Fish" }
 ];
 
 export function SiteNav() {
@@ -17,7 +18,7 @@ export function SiteNav() {
           <span className="codex-brand-mark rounded-sm text-sm font-black">PC</span>
           <span className="min-w-0">
             <span className="block text-lg font-black leading-tight text-green-950">Player Codex</span>
-            <span className="block break-words text-[11px] font-black uppercase tracking-[0.16em] text-meadow">Current codex: Stardew Guide</span>
+            <span className="block break-words text-[11px] font-black uppercase tracking-[0.16em] text-meadow">Multi-game guide index</span>
           </span>
         </Link>
         <div className="flex flex-wrap gap-2 text-sm font-bold text-green-950/72">

@@ -70,7 +70,7 @@ export function CropDirectory({ crops }: { crops: Crop[] }) {
           {filteredCrops.map((crop) => (
             <Link
               className="codex-list-card codex-list-card-pond group block rounded-md transition hover:-translate-y-0.5 hover:border-pond/30"
-              href={`/crops/${crop.slug}`}
+              href={`/stardew/crops/${crop.slug}`}
               key={crop.slug}
             >
               <div className="relative flex h-full min-w-0 flex-col gap-4 px-5 py-5 pl-7">
