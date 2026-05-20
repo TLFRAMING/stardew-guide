@@ -1,9 +1,277 @@
 [
   {
-    "slug": "keg-empire",
-    "title": "Ancient Fruit and Starfruit Keg Empire",
-    "shortName": "Keg Empire",
-    "summary": "A long-term artisan route built around Ancient Fruit, Starfruit, and enough kegs to turn harvests into weekly cash flow. It is strong once the greenhouse or Ginger Island removes normal seasonal limits.",
+    "slug": "early-game-tea-saplings",
+    "title": "Early-Game Tea Saplings: Fast Cash Without Building a Whole Farm Around Them",
+    "shortName": "Tea Saplings",
+    "summary": "A version-aware early cash guide for turning Caroline's Tea Sapling recipe into useful Spring money without relying on outdated 500g advice.",
+    "bestStage": "early",
+    "category": "crafting",
+    "profitPotential": "medium",
+    "laborCost": "low",
+    "automation": "high",
+    "versionRisk": "high",
+    "bestFor": [
+      "Players who need a cash bridge before sprinklers, animals, or artisan machines are online",
+      "Players who can reach Caroline's 2-heart event early",
+      "Players who want a low-maintenance way to convert forage, fiber, and wood into gold"
+    ],
+    "whyItWorks": [
+      "Tea Saplings sell for a fixed value, so they turn uneven early resources into predictable cash.",
+      "The recipe uses wild seeds, fiber, and wood rather than an expensive shop seed loop.",
+      "The route is useful as a bridge, not as a permanent late-game engine."
+    ],
+    "setupSteps": [
+      "Build Caroline friendship early enough to trigger her 2-heart event and receive the recipe by mail.",
+      "Save mixed seasonal forage for Wild Seeds instead of selling every forage item immediately.",
+      "Keep fiber and wood in reserve before crafting so the route does not interrupt tool upgrades or basic farm building.",
+      "Craft Tea Saplings when you need a cash injection, then decide whether to sell them or plant a few Tea Bushes for future Tea Leaves.",
+      "Stop scaling the route once sprinklers, animals, kegs, or larger crop plans become better uses of time."
+    ],
+    "profitEstimates": [
+      {
+        "label": "Single sapling cash-out",
+        "assumption": "Current 1.6 wiki value for selling one crafted Tea Sapling; material opportunity cost not subtracted.",
+        "value": "250g per Tea Sapling.",
+        "confidence": "high"
+      },
+      {
+        "label": "Small early batch",
+        "assumption": "Derived estimate for 20 crafted Tea Saplings sold at the current listed value.",
+        "value": "About 5,000g before valuing forage, fiber, and wood.",
+        "confidence": "medium"
+      }
+    ],
+    "caveats": [
+      "Older guides may be based on the pre-1.6 500g sell price, so this route should be labeled version-sensitive.",
+      "Selling saplings consumes resources that could become seeds, fences, buildings, or crafting materials.",
+      "Tea Saplings are better as an early bridge than as a farm's main long-term income plan."
+    ],
+    "articleAngles": [
+      "Use Tea Saplings when you need an early cash bridge, not when you already have a stronger production engine.",
+      "The real decision is whether your forage and fiber are worth immediate gold or future flexibility.",
+      "The 1.6 price change makes this a controlled tool instead of a runaway money exploit."
+    ],
+    "seoKeywords": [
+      "Stardew Valley Tea Saplings money",
+      "early game money Stardew Valley",
+      "Tea Sapling 1.6 sell price",
+      "Caroline Tea Sapling recipe"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Tea_Sapling",
+      "https://stardewvalleywiki.com/Tea_Leaves",
+      "https://stardewvalleywiki.com/Caroline"
+    ],
+    "confidence": "medium",
+    "lastChecked": "2026-05-20",
+    "notes": "Wiki/database source tier. Core mechanics and 1.6 sell-price change are verified on wiki pages; batch profit is derived from the listed sale value and should not be presented as a full-route net profit."
+  },
+  {
+    "slug": "strawberry-spring-year-one",
+    "title": "Spring Year 1 Strawberries: Planning the Egg Festival Without Starving Your Farm",
+    "shortName": "Spring Strawberries",
+    "summary": "A Spring Year 1 planning guide for buying Strawberry Seeds at the Egg Festival while keeping enough cash and time for tools, backpack pressure, and the rest of the season.",
+    "bestStage": "early",
+    "category": "crop",
+    "profitPotential": "medium-high",
+    "laborCost": "medium",
+    "automation": "low-medium",
+    "versionRisk": "low",
+    "bestFor": [
+      "Players planning their first Spring cash crop",
+      "Players who can water a larger crop field after Spring 13",
+      "Players choosing between immediate Strawberry planting and saving seed stock for Year 2"
+    ],
+    "whyItWorks": [
+      "Strawberries are a regrowing Spring crop, so planting after the Egg Festival can still create multiple harvest windows.",
+      "The purchase point is fixed around the festival, which makes the route a planning problem instead of a normal seed-shop decision.",
+      "The crop rewards players who enter the festival with cash ready, but overbuying can make the rest of Spring awkward."
+    ],
+    "setupSteps": [
+      "Before Spring 13, decide how much money can safely become Strawberry Seeds without delaying essential upgrades.",
+      "Clear and water the future Strawberry plot before the festival day if possible.",
+      "Buy seeds at the Egg Festival before starting the Egg Hunt, because the shop is unavailable afterward.",
+      "Plant the seeds immediately after returning to the farm if your energy and layout allow it.",
+      "Keep a small reserve of gold for tool upgrades, backpack needs, or Summer preparation instead of spending everything at the booth."
+    ],
+    "profitEstimates": [
+      {
+        "label": "Per-crop base value",
+        "assumption": "Wiki-listed base Strawberry sell price, before quality, Tiller, processing, or extra berry chance.",
+        "value": "120g per base-quality Strawberry.",
+        "confidence": "high"
+      },
+      {
+        "label": "Festival planting model",
+        "assumption": "Derived from 8-day growth and 4-day regrowth when planted after the Egg Festival; actual output depends on planting day, watering, quality, and extra berry rolls.",
+        "value": "A practical Year 1 Spring model usually treats Strawberries as a two-harvest cash crop, not a guaranteed perfect-season engine.",
+        "confidence": "medium"
+      }
+    ],
+    "caveats": [
+      "The Egg Festival ends the day when the Egg Hunt is finished, so buying seeds must happen first.",
+      "Overbuying seeds can create watering fatigue before sprinklers are available.",
+      "Seed Maker planning for later years is separate from the Year 1 cashflow decision."
+    ],
+    "articleAngles": [
+      "The Strawberry decision is about cash timing, not just crop value.",
+      "Buy enough seeds to matter, but not so many that your Spring farm becomes unmanageable.",
+      "A smaller watered field that you maintain every day is better than a huge field that drains your energy."
+    ],
+    "seoKeywords": [
+      "Stardew Valley Strawberry Spring Year 1",
+      "Egg Festival Strawberry Seeds",
+      "Spring money guide Stardew Valley",
+      "Strawberry Seeds planning"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Strawberry",
+      "https://stardewvalleywiki.com/Strawberry_Seeds",
+      "https://stardewvalleywiki.com/Egg_Festival"
+    ],
+    "confidence": "medium",
+    "lastChecked": "2026-05-20",
+    "notes": "Wiki/database source tier. Crop timing, seed purchase timing, and sale value are source-backed; exact Spring profit depends on player route, watering capacity, quality rolls, and whether seeds are planted the same night."
+  },
+  {
+    "slug": "blueberry-summer-cashflow",
+    "title": "Summer Blueberry Cashflow: Stable Regrowth Before Your Artisan Setup Is Ready",
+    "shortName": "Blueberry Cashflow",
+    "summary": "A Summer guide for using Blueberries as a reliable cashflow crop while sprinklers, jars, kegs, and Fall plans are still developing.",
+    "bestStage": "early-mid",
+    "category": "crop",
+    "profitPotential": "medium-high",
+    "laborCost": "medium",
+    "automation": "medium",
+    "versionRisk": "low",
+    "bestFor": [
+      "Players entering Summer Year 1 with basic sprinklers or a manageable watering plan",
+      "Players who want recurring crop income instead of one large harvest",
+      "Players preparing cash for Fall seeds, tool upgrades, or early artisan machines"
+    ],
+    "whyItWorks": [
+      "Blueberries regrow after maturity, so one seed purchase can support repeated Summer income.",
+      "The crop produces multiple berries per harvest, which creates frequent shipping income even without machines.",
+      "The route pairs well with gradual sprinkler expansion because the field keeps paying back through the season."
+    ],
+    "setupSteps": [
+      "Choose a Blueberry field size that your watering or sprinkler setup can maintain every morning.",
+      "Plant on Summer 1 when possible to capture the full regrowth rhythm.",
+      "Use the first harvests to fund tool upgrades, jars, kegs, or Fall seed money rather than expanding beyond your labor capacity.",
+      "Process only the amount your machines can handle; ship the rest if storage starts delaying cashflow.",
+      "Use Blueberries as a Summer stabilizer, then decide whether Fall Cranberries or pumpkins better fit your next step."
+    ],
+    "profitEstimates": [
+      {
+        "label": "Base crop reference",
+        "assumption": "Wiki-listed Blueberry mechanics: Summer crop with regrowth and multiple berries per harvest; values vary by quality and profession.",
+        "value": "Use as recurring cashflow rather than one fixed daily-profit promise.",
+        "confidence": "high"
+      },
+      {
+        "label": "Processed surplus model",
+        "assumption": "Derived route advice: low-value, high-yield fruit can fit Preserves Jars when machines are available, but direct shipping keeps cash moving.",
+        "value": "Profit depends on machine count; do not hold the entire crop if waiting blocks Summer cash.",
+        "confidence": "medium"
+      }
+    ],
+    "caveats": [
+      "Blueberries can flood storage if the field is larger than your machine network.",
+      "A huge non-sprinkled field can cost too much time and energy.",
+      "This route is about stable Summer cashflow, not claiming the highest possible gold per tile."
+    ],
+    "articleAngles": [
+      "Blueberries are useful because they pay repeatedly while your farm infrastructure catches up.",
+      "The mistake is scaling the crop faster than your watering and processing capacity.",
+      "Cashflow crops should fund the next season, not trap you in daily labor."
+    ],
+    "seoKeywords": [
+      "Stardew Valley Blueberry money",
+      "Summer cashflow Stardew Valley",
+      "Blueberry crop guide",
+      "Stardew Valley Summer Year 1 money"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Blueberry",
+      "https://stardewvalleywiki.com/Blueberry_Seeds",
+      "https://stardewvalleywiki.com/Preserves_Jar"
+    ],
+    "confidence": "medium",
+    "lastChecked": "2026-05-20",
+    "notes": "Wiki/database source tier. Mechanics are source-backed; route recommendations are original decision guidance based on watering, cashflow, and processing bottlenecks."
+  },
+  {
+    "slug": "cranberry-fall-scaling",
+    "title": "Fall Cranberry Scaling: Big Seasonal Cash Without Losing Control of the Farm",
+    "shortName": "Cranberry Scaling",
+    "summary": "A Fall crop-scaling guide for using Cranberries as a recurring income base while avoiding the common trap of planting more than you can water, harvest, or process.",
+    "bestStage": "early-mid",
+    "category": "crop",
+    "profitPotential": "high",
+    "laborCost": "medium-high",
+    "automation": "medium",
+    "versionRisk": "low",
+    "bestFor": [
+      "Players entering Fall with enough cash for a larger crop plan",
+      "Players with sprinklers or a strong watering routine",
+      "Players who want repeated Fall harvests rather than a single pumpkin-style payout"
+    ],
+    "whyItWorks": [
+      "Cranberries are a regrowing Fall crop, so early planting turns one seed investment into multiple harvests.",
+      "Repeated harvests create steady cash for barns, coops, tool upgrades, or artisan expansion.",
+      "The crop scales well, but only if the farm can handle the daily labor and harvest volume."
+    ],
+    "setupSteps": [
+      "Set the field size before Fall 1 based on sprinkler coverage and available morning time.",
+      "Buy enough Cranberry Seeds to create meaningful recurring income, while reserving gold for other Fall priorities.",
+      "Plant on Fall 1 if possible so the crop gets the full season to pay back.",
+      "Decide in advance which harvests will be shipped and which will be processed.",
+      "Use Fall income to fund winter infrastructure, not just more unprocessed crop stockpiles."
+    ],
+    "profitEstimates": [
+      {
+        "label": "Seasonal scaling model",
+        "assumption": "Derived from Cranberries being a regrowing Fall crop; actual output depends on planting date, watering, quality, and extra cranberry mechanics.",
+        "value": "Treat as a recurring seasonal cash engine, with final returns driven by field size and labor capacity.",
+        "confidence": "medium"
+      },
+      {
+        "label": "Processing decision",
+        "assumption": "Preserves Jar formula can improve low-value fruit, but machine count determines how much crop can be processed before cash is needed.",
+        "value": "Ship enough to preserve cashflow; process only what your jars can handle without creating a backlog.",
+        "confidence": "medium"
+      }
+    ],
+    "caveats": [
+      "Large Cranberry fields can overwhelm new players without sprinklers.",
+      "Processing every berry is not always practical if jars are scarce.",
+      "This guide assumes normal seasons, not a modded calendar or remixed economy."
+    ],
+    "articleAngles": [
+      "Cranberries are a scaling test: the right field size matters more than the biggest field size.",
+      "Fall crop income should prepare the farm for winter infrastructure.",
+      "Repeated harvests are only useful if the player keeps cash moving."
+    ],
+    "seoKeywords": [
+      "Stardew Valley Cranberry money",
+      "Fall crop money Stardew Valley",
+      "Cranberry Seeds guide",
+      "Stardew Valley Fall cash crops"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cranberries",
+      "https://stardewvalleywiki.com/Cranberry_Seeds",
+      "https://stardewvalleywiki.com/Preserves_Jar"
+    ],
+    "confidence": "medium",
+    "lastChecked": "2026-05-20",
+    "notes": "Wiki/database source tier. Crop and machine mechanics are source-backed; profit framing is deliberately conditional and avoids exact daily income claims."
+  },
+  {
+    "slug": "keg-ancient-fruit-wine",
+    "title": "Ancient Fruit Wine and Keg Scaling: Build the Engine Before You Chase Bigger Numbers",
+    "shortName": "Ancient Fruit Wine",
+    "summary": "A mid-to-late game artisan guide for turning Ancient Fruit into a weekly wine engine once permanent growing space and keg production are ready.",
     "bestStage": "mid-late",
     "category": "artisan",
     "profitPotential": "very-high",
@@ -11,70 +279,136 @@
     "automation": "medium-high",
     "versionRisk": "low",
     "bestFor": [
-      "Players who want stable long-term weekly income",
-      "Players with greenhouse or Ginger Island access",
-      "Players willing to build a large keg supply chain"
+      "Players with Greenhouse or Ginger Island farming space",
+      "Players who want stable weekly artisan income",
+      "Players ready to build around oak resin, kegs, and processing space"
     ],
     "whyItWorks": [
-      "Ancient Fruit regrows on a weekly rhythm after setup, which pairs cleanly with wine production.",
-      "Starfruit has a higher single-bottle value and can bridge the route before Ancient Fruit production scales.",
-      "The main bottleneck becomes keg count, oak resin, and processing space rather than crop value."
+      "Ancient Fruit regrows on a weekly rhythm after its long first growth period.",
+      "Wine multiplies fruit value through the Keg, making processing the center of the route.",
+      "Once the crop area is mature, the main bottleneck becomes keg count rather than seed buying."
     ],
     "setupSteps": [
-      "Unlock the greenhouse or Ginger Island farming space.",
-      "Use Starfruit for cash bursts while Ancient Fruit seed stock is still limited.",
-      "Expand Ancient Fruit through seed production until the permanent growing area is filled.",
-      "Build enough kegs to process each harvest without long idle periods.",
-      "Use the Artisan profession if the route is intended as a primary income engine."
+      "Secure permanent growing space such as the Greenhouse or Ginger Island before treating Ancient Fruit as the main engine.",
+      "Expand seed stock gradually instead of expecting the full field to appear immediately.",
+      "Build kegs in parallel with crop expansion so harvests do not sit idle for weeks.",
+      "Place machines where weekly collection is easy, because the route rewards consistency.",
+      "Use casks as a limited bonus path, not as the main bottleneck for all wine."
     ],
     "profitEstimates": [
       {
-        "label": "Mature greenhouse Ancient Fruit wine",
-        "assumption": "120 mature Ancient Fruit plants, enough kegs, weekly harvest rhythm, and Artisan profession assumptions from the research draft",
-        "value": "About 277,200g per week before aging assumptions",
-        "confidence": "medium"
+        "label": "Per-fruit processing reference",
+        "assumption": "Wiki-listed Ancient Fruit and wine values before individual farm layout, keg count, and profession choices are applied.",
+        "value": "Ancient Fruit wine is a high-value processed good; exact route profit depends on kegs and harvest count.",
+        "confidence": "high"
       },
       {
-        "label": "Starfruit bridge batch",
-        "assumption": "30 Starfruit processed into wine with enough kegs and seed costs excluded from final value",
-        "value": "About 94,500g gross per batch under the draft assumptions",
+        "label": "Mature engine model",
+        "assumption": "Derived route model: a full permanent field with enough kegs creates weekly cashflow; no cask aging assumed.",
+        "value": "Use weekly harvest volume times processed wine value as an estimate, not a guaranteed farm-wide profit number.",
         "confidence": "medium"
       }
     ],
     "caveats": [
-      "Large keg networks take time, oak resin, wood, copper, and iron.",
-      "Aging wine in casks is not the main engine because cellar space is limited.",
-      "Starfruit versus Ancient Fruit depends on seed access, replanting labor, fertilizer, and time horizon."
+      "Ancient Fruit has a long first growth period, so it is slow to start.",
+      "Kegs require materials and oak resin; machine supply can lag behind crop supply.",
+      "Cask aging is space-limited and should not be treated as the core income rate."
     ],
     "articleAngles": [
-      "Ancient Fruit versus Starfruit: which should power your late-game winery?",
-      "Why keg count is the real bottleneck in a wine empire",
-      "Greenhouse setup path for a weekly cash-flow farm"
+      "The Ancient Fruit route is a machine-scaling problem, not just a crop choice.",
+      "Build kegs while the seed stock grows so the engine matures evenly.",
+      "Weekly rhythm is the main advantage over replant-heavy cash crops."
     ],
     "seoKeywords": [
-      "stardew valley keg empire",
-      "ancient fruit wine",
-      "starfruit wine",
-      "stardew valley greenhouse money"
+      "Stardew Valley Ancient Fruit wine",
+      "keg scaling Stardew Valley",
+      "Greenhouse Ancient Fruit",
+      "Stardew Valley wine money"
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Ancient_Fruit",
-      "https://stardewvalleywiki.com/Starfruit",
-      "https://stardewvalleywiki.com/Starfruit_Seeds",
       "https://stardewvalleywiki.com/Keg",
       "https://stardewvalleywiki.com/Wine",
       "https://stardewvalleywiki.com/Greenhouse",
       "https://stardewvalleywiki.com/Farming"
     ],
     "confidence": "medium",
-    "lastChecked": "2026-05-18",
-    "notes": "Wiki verified crop timing, greenhouse constraints, Keg and Wine mechanics, and Artisan profession. Profit estimates are derived route math and should not be treated as exact guarantees."
+    "lastChecked": "2026-05-20",
+    "notes": "Wiki/database source tier. Mechanics are verified; route profit remains derived because keg count, profession choice, seed expansion speed, and layout vary by farm."
   },
   {
-    "slug": "truffle-pigs",
-    "title": "Truffle Pigs and the Truffle Oil Question",
-    "shortName": "Truffle Pigs",
-    "summary": "A high-value animal route where mature pigs produce truffles that can be sold directly or processed into truffle oil. The main article hook is when processing is worth the extra labor.",
+    "slug": "starfruit-wine-burst-profit",
+    "title": "Starfruit Wine Burst Profit: When a Big Batch Beats a Slow Engine",
+    "shortName": "Starfruit Wine",
+    "summary": "A decision guide for using Starfruit wine as burst profit when you can afford seeds, handle replanting, and process the crop without letting kegs sit empty.",
+    "bestStage": "mid-late",
+    "category": "artisan",
+    "profitPotential": "very-high",
+    "laborCost": "medium-high",
+    "automation": "medium",
+    "versionRisk": "low",
+    "bestFor": [
+      "Players with Desert access and enough cash to buy Starfruit Seeds",
+      "Players who want large batch payouts instead of a slow seed-expansion route",
+      "Players with kegs ready before the harvest arrives"
+    ],
+    "whyItWorks": [
+      "Starfruit has a high base crop value and becomes a very valuable wine when processed.",
+      "The route is front-loaded: you invest in seeds, grow a batch, then convert the batch into wine.",
+      "It can bridge a farm into a larger Ancient Fruit setup or serve as a repeatable burst-profit plan."
+    ],
+    "setupSteps": [
+      "Confirm you can access Starfruit Seeds and afford the seed cost before committing field space.",
+      "Plant the batch when your watering, sprinkler, or permanent growing setup can support it.",
+      "Build or reserve enough kegs so the harvest does not create a long processing backlog.",
+      "Replant only if the next batch still fits your cash, time, and machine plan.",
+      "Use Starfruit as a deliberate batch strategy instead of mixing it randomly into every field."
+    ],
+    "profitEstimates": [
+      {
+        "label": "Per-bottle reference",
+        "assumption": "Wiki-listed Starfruit and Wine mechanics; profession, quality, seed cost, and processing backlog affect net value.",
+        "value": "Starfruit wine is a high-value artisan product, but net profit must subtract seed cost and time.",
+        "confidence": "high"
+      },
+      {
+        "label": "Burst batch model",
+        "assumption": "Derived route model for a planned Starfruit field with enough kegs ready.",
+        "value": "Strong batch profit when seed cost is affordable and machine capacity is already built.",
+        "confidence": "medium"
+      }
+    ],
+    "caveats": [
+      "Starfruit requires replanting, so labor and seed cost matter more than with Ancient Fruit.",
+      "A batch can become a storage problem if keg capacity is too low.",
+      "This is not an unconditional replacement for Ancient Fruit; it serves a different cash timing."
+    ],
+    "articleAngles": [
+      "Starfruit wine is best understood as planned burst income.",
+      "The correct question is whether you have seeds, field space, and kegs at the same time.",
+      "Use Starfruit to convert cash into a larger cash event, not to avoid planning."
+    ],
+    "seoKeywords": [
+      "Stardew Valley Starfruit wine",
+      "Starfruit Seeds money",
+      "Stardew Valley burst profit",
+      "Starfruit vs Ancient Fruit"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Starfruit",
+      "https://stardewvalleywiki.com/Starfruit_Seeds",
+      "https://stardewvalleywiki.com/Keg",
+      "https://stardewvalleywiki.com/Wine"
+    ],
+    "confidence": "medium",
+    "lastChecked": "2026-05-20",
+    "notes": "Wiki/database source tier. Item and processing mechanics are verified; route strength is conditional on seed access, profession choice, replanting labor, and keg count."
+  },
+  {
+    "slug": "pig-truffle-oil-economy",
+    "title": "Pig, Truffle, and Truffle Oil Economy: Sell Direct or Process?",
+    "shortName": "Pig Truffles",
+    "summary": "A barn-income guide for deciding when pigs, direct truffle sales, and Truffle Oil fit your farm routine.",
     "bestStage": "mid-late",
     "category": "animal",
     "profitPotential": "very-high",
@@ -82,45 +416,51 @@
     "automation": "medium",
     "versionRisk": "low",
     "bestFor": [
-      "Players who want strong income without filling the farm with crops",
-      "Players who like animal-based routes",
-      "Players comparing direct truffle sales against truffle oil"
+      "Players who want strong animal income instead of another crop field",
+      "Players with Deluxe Barn access and space for outdoor pig movement",
+      "Players comparing Botanist-style truffle sales against Oil Maker processing"
     ],
     "whyItWorks": [
-      "Pigs can generate multiple high-value truffles on productive days once friendship and outdoor access are established.",
-      "The Gatherer and Botanist professions can materially change the direct-sale case for truffles.",
-      "Oil makers add value in some cases but also add processing time and daily handling."
+      "Mature fed pigs can generate Truffles outdoors when season and weather conditions allow it.",
+      "Truffles have strong direct sale value, especially when profession choices affect quality.",
+      "Truffle Oil can add value, but it also adds machine management and processing time."
     ],
     "setupSteps": [
-      "Upgrade to a Deluxe Barn and buy pigs.",
-      "Keep pigs fed, happy, and able to go outside during valid weather and seasons.",
-      "Collect truffles regularly so new truffles are not blocked by cluttered ground.",
-      "Decide whether to sell iridium truffles directly or process lower-quality truffles into oil.",
-      "Scale oil makers only if processing time fits the farm routine."
+      "Upgrade to a Deluxe Barn and buy pigs only when the farm can absorb the upfront cost.",
+      "Keep pigs fed, allow outdoor access, and maintain open ground where Truffles can appear.",
+      "Collect Truffles regularly so the outdoor area stays readable and productive.",
+      "Compare direct sale value against Truffle Oil value under your current profession setup.",
+      "Build Oil Makers only if the added handling fits your daily routine."
     ],
     "profitEstimates": [
       {
-        "label": "Ten mature pigs, direct iridium truffle sales",
-        "assumption": "Research draft model using mature pigs and Botanist-style iridium truffle assumptions",
-        "value": "About 3.15M per year in the draft comparison model",
-        "confidence": "needs verification"
+        "label": "Direct sale reference",
+        "assumption": "Wiki-listed Truffle values and pig production constraints; actual count depends on outdoor access, weather, season, and friendship.",
+        "value": "Direct Truffle income can be high, especially when quality is improved by profession choices.",
+        "confidence": "high"
+      },
+      {
+        "label": "Processing decision model",
+        "assumption": "Derived comparison between selling Truffles and using Oil Makers; labor and profession setup decide the practical winner.",
+        "value": "Process when the Oil Maker value gain is worth the extra handling; sell direct when time and simplicity matter more.",
+        "confidence": "medium"
       }
     ],
     "caveats": [
-      "Pigs do not produce truffles in winter and require outdoor access.",
-      "Weather, friendship, animal count, and available ground space affect real output.",
-      "The truffle oil decision depends on profession choices and whether the player values lower labor."
+      "Pigs do not find Truffles in winter and need outdoor access on valid days.",
+      "Rain, cluttered ground, and daily routine can reduce practical output.",
+      "Annual profit models need farm-specific assumptions and should be treated as estimates."
     ],
     "articleAngles": [
-      "Should you sell truffles or make truffle oil?",
-      "Why pig income is stronger than it looks",
-      "A low-crop money route for players who prefer barns"
+      "The Truffle Oil question is a labor question as much as a profit question.",
+      "Pigs reward a clean outdoor layout and consistent collection routine.",
+      "Direct Truffle sales can be the lower-friction choice on busy farms."
     ],
     "seoKeywords": [
-      "stardew valley truffle pigs",
-      "truffle oil vs truffle",
-      "stardew valley pig money",
-      "botanist truffle"
+      "Stardew Valley pig money",
+      "Truffle Oil vs Truffle",
+      "Stardew Valley Truffle economy",
+      "Oil Maker profit"
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Pig",
@@ -130,14 +470,14 @@
       "https://stardewvalleywiki.com/Foraging"
     ],
     "confidence": "medium",
-    "lastChecked": "2026-05-18",
-    "notes": "Wiki verified pig production constraints, Truffle and Truffle Oil values, Oil Maker processing, and Foraging profession relevance. The annual profit estimate remains a route model."
+    "lastChecked": "2026-05-20",
+    "notes": "Wiki/database source tier. Pig production rules and item values are verified; exact yearly output needs farm-specific tracking and should not be framed as guaranteed."
   },
   {
-    "slug": "fairy-rose-honey",
-    "title": "Fairy Rose Honey on Ginger Island",
+    "slug": "fairy-rose-honey-island",
+    "title": "Fairy Rose Honey on Ginger Island: Low-Labor Artisan Income With Layout Discipline",
     "shortName": "Fairy Rose Honey",
-    "summary": "A low-labor artisan route built around Bee Houses placed around Fairy Roses, especially on Ginger Island where season pressure is reduced. It trades maximum profit for simple collection and attractive layouts.",
+    "summary": "A Ginger Island honey guide for players who want recurring low-labor income from Fairy Rose Honey without turning the route into a fragile layout puzzle.",
     "bestStage": "mid-late",
     "category": "artisan",
     "profitPotential": "high",
@@ -145,45 +485,51 @@
     "automation": "high",
     "versionRisk": "medium",
     "bestFor": [
-      "Players who want low-maintenance recurring income",
-      "Players who enjoy layout planning",
-      "Players with Ginger Island access"
+      "Players with Ginger Island access",
+      "Players who want a low-labor artisan route",
+      "Players who enjoy layout planning more than daily crop handling"
     ],
     "whyItWorks": [
-      "Bee Houses can repeatedly produce flower honey after the layout is built.",
-      "Fairy Rose Honey has a high unit value compared with ordinary Wild Honey.",
-      "Ginger Island makes the route easier to maintain because crops are not constrained by normal valley seasons."
+      "Bee Houses produce honey on a repeating cycle when placed in valid outdoor conditions.",
+      "A fully grown Fairy Rose within range changes Wild Honey into high-value Fairy Rose Honey.",
+      "Ginger Island reduces normal seasonal pressure, making flavored honey layouts easier to maintain."
     ],
     "setupSteps": [
-      "Unlock Ginger Island or prepare a seasonal valley flower honey layout.",
-      "Plant Fairy Roses where they can influence nearby Bee Houses.",
-      "Place Bee Houses in a compact pattern that stays within the flower effect range.",
-      "Avoid harvesting the Fairy Rose if it is needed to keep honey flavored.",
-      "Collect honey on its production cycle and expand the layout if material supply allows."
+      "Unlock Ginger Island before treating the route as year-round income.",
+      "Plant Fairy Roses where they can remain unharvested and influence nearby Bee Houses.",
+      "Place Bee Houses within the flower range and leave paths for collection.",
+      "Do not pick the Fairy Rose that is flavoring the layout unless you are intentionally ending that honey cycle.",
+      "Expand the layout only as fast as maple syrup, iron bars, coal, and wood allow."
     ],
     "profitEstimates": [
       {
-        "label": "Compact Fairy Rose Honey array",
-        "assumption": "44 Bee Houses around a Fairy Rose style layout from the research draft",
-        "value": "About 1.17M per year in the draft comparison model",
-        "confidence": "needs verification"
+        "label": "Per-honey reference",
+        "assumption": "Wiki-listed Bee House and Fairy Rose Honey values; Artisan profession and layout size are separate variables.",
+        "value": "Fairy Rose Honey has a much higher listed value than Wild Honey.",
+        "confidence": "high"
+      },
+      {
+        "label": "Island layout model",
+        "assumption": "Derived route model: multiply working Bee Houses by collection cycles, then adjust for missed collection and layout downtime.",
+        "value": "Best treated as low-labor recurring income rather than a precise gold-per-day promise.",
+        "confidence": "medium"
       }
     ],
     "caveats": [
-      "Exact placement rules and flower range must be verified before publishing layout diagrams.",
-      "The route depends on Bee House material costs and access to Fairy Rose seeds.",
-      "It is strong for low labor, not necessarily the highest possible gold per tile."
+      "Bee House flower range and harvest timing must be respected or the product can become Wild Honey.",
+      "Garden Pot and flower behavior changed in 1.6.6, so layout advice should remain version-aware.",
+      "This route uses many Bee Houses, which compete for maple syrup and other crafting materials."
     ],
     "articleAngles": [
-      "The low-effort Ginger Island honey farm",
-      "Why Fairy Rose Honey is a layout strategy, not just a flower choice",
-      "How to compare honey income against crop processing"
+      "Fairy Rose Honey is a layout discipline route, not just a flower choice.",
+      "The main player mistake is harvesting the flower or breaking the range setup.",
+      "It is attractive because the labor stays low after construction."
     ],
     "seoKeywords": [
-      "stardew valley fairy rose honey",
-      "ginger island honey farm",
-      "bee house layout",
-      "stardew valley honey money"
+      "Stardew Valley Fairy Rose Honey",
+      "Ginger Island honey farm",
+      "Bee House layout Stardew Valley",
+      "low labor money Stardew Valley"
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Bee_House",
@@ -192,81 +538,14 @@
       "https://stardewvalleywiki.com/Ginger_Island"
     ],
     "confidence": "medium",
-    "lastChecked": "2026-05-18",
-    "notes": "Wiki verified Bee House production, flower honey mechanics, Fairy Rose Honey value, and Ginger Island relevance. Layout and yearly profit remain derived estimates."
+    "lastChecked": "2026-05-20",
+    "notes": "Wiki/database source tier. Honey mechanics and Ginger Island relevance are verified; exact layouts and annual totals remain derived and should be checked before publishing diagrams."
   },
   {
-    "slug": "tea-saplings",
-    "title": "Tea Saplings After the 1.6 Price Change",
-    "shortName": "Tea Saplings",
-    "summary": "An early-game cash route built around crafting and selling Tea Saplings. It is still useful as a quick money tool, but the guide must clearly separate current 1.6 values from older 500g advice.",
-    "bestStage": "early",
-    "category": "crop",
-    "profitPotential": "medium",
-    "laborCost": "low",
-    "automation": "high",
-    "versionRisk": "high",
-    "bestFor": [
-      "Players who need early cash before major farm systems are online",
-      "Players with Caroline friendship progress",
-      "Readers confused by older Tea Sapling guides"
-    ],
-    "whyItWorks": [
-      "The route converts common early resources into a sellable crafted item.",
-      "It was historically known as a powerful early-game strategy, which makes version correction valuable.",
-      "The current value proposition depends heavily on the post-1.6 sell price."
-    ],
-    "setupSteps": [
-      "Build friendship with Caroline until the Tea Sapling recipe is unlocked.",
-      "Gather the required forage, fiber, and wood for crafting.",
-      "Craft Tea Saplings as a cash-conversion tool rather than a permanent endgame industry.",
-      "Compare selling saplings against planting tea bushes for repeated Tea Leaves.",
-      "Call out the 1.6 price change before giving any profit table."
-    ],
-    "profitEstimates": [
-      {
-        "label": "Post-1.6 Tea Sapling sale value",
-        "assumption": "Tea Sapling sell price reduced from the older guide value to the current draft value",
-        "value": "250g per Tea Sapling in the research draft",
-        "confidence": "high"
-      },
-      {
-        "label": "100 sapling cash-out",
-        "assumption": "100 crafted Tea Saplings sold at the current draft value",
-        "value": "About 25,000g before material opportunity cost",
-        "confidence": "medium"
-      }
-    ],
-    "caveats": [
-      "Old guides may quote 500g per Tea Sapling and are version-sensitive.",
-      "Material opportunity cost matters more after the sell price reduction.",
-      "This is an early cash tool, not a late-game money engine."
-    ],
-    "articleAngles": [
-      "Is the Tea Sapling strategy still worth it after 1.6?",
-      "Why old 500g Tea Sapling guides can mislead new players",
-      "Early cash without rushing a full crop empire"
-    ],
-    "seoKeywords": [
-      "stardew valley tea saplings",
-      "tea sapling 250g",
-      "stardew valley 1.6 tea sapling",
-      "early game money stardew"
-    ],
-    "sourceUrls": [
-      "https://stardewvalleywiki.com/Tea_Sapling",
-      "https://stardewvalleywiki.com/Tea_Leaves",
-      "https://stardewvalleywiki.com/Caroline"
-    ],
-    "confidence": "medium",
-    "lastChecked": "2026-05-18",
-    "notes": "Wiki verified current Tea Sapling price and recipe path. Official 1.6 changelog confirmation still needs verification."
-  },
-  {
-    "slug": "fish-smoker",
-    "title": "Fish Smoker Active Money Route",
+    "slug": "fish-smoker-profit-route",
+    "title": "Fish Smoker Profit Route: Active Fishing Money in Stardew Valley 1.6",
     "shortName": "Fish Smoker",
-    "summary": "A Stardew Valley 1.6 fishing route that turns high-value catches into smoked fish for faster active income. It is powerful, but unlike passive routes it depends on fishing skill, coal supply, and player attention.",
+    "summary": "A 1.6 fishing guide for deciding when the Fish Smoker is worth the coal, recipe cost, and attention compared with simply selling fish.",
     "bestStage": "early-mid",
     "category": "fishing",
     "profitPotential": "high",
@@ -274,51 +553,51 @@
     "automation": "low",
     "versionRisk": "medium",
     "bestFor": [
-      "Players who enjoy active fishing",
+      "Players who actively enjoy fishing",
       "Players on version 1.6 or later",
-      "Players who want faster cash before late-game infrastructure"
+      "Players who can target high-value fish and keep coal available"
     ],
     "whyItWorks": [
-      "The Fish Smoker converts fish into a higher-value artisan product.",
-      "The route can benefit from fishing-focused income bonuses and artisan-style scaling according to the research draft.",
-      "Rainy-day Catfish and late-game high-value fish create clear article examples."
+      "The Fish Smoker turns fish plus coal into Smoked Fish and doubles the fish sale value while preserving quality.",
+      "Smoked Fish can also benefit from relevant fishing and Artisan profession interactions.",
+      "The route converts player skill and fishing time into faster cash before passive late-game systems dominate."
     ],
     "setupSteps": [
-      "Acquire or craft a Fish Smoker after confirming the current version requirements.",
-      "Stockpile coal and the required jelly ingredients before planning long fishing sessions.",
-      "Target high-value fish rather than processing every low-value catch.",
-      "Use fishing buffs and tackle when aiming for difficult fish.",
-      "Sell smoked fish through valid sale channels and account for coal cost."
+      "Confirm access to the Fish Smoker recipe, a starter smoker, or another valid source in your save.",
+      "Keep coal available before a fishing day so the machine does not sit idle.",
+      "Prioritize high-value fish rather than smoking every low-value catch automatically.",
+      "Process fish while continuing to fish or handle farm chores, because the processing time is short enough to fit an active day.",
+      "Sell through valid sale channels and remember that Smoked Fish is an Artisan Good."
     ],
     "profitEstimates": [
       {
-        "label": "Spring rainy-day Catfish model",
-        "assumption": "Research draft model with about 30 Catfish in an efficient active fishing day",
-        "value": "About 16,800g per high-efficiency fishing day before profession variation",
-        "confidence": "needs verification"
+        "label": "Per-fish processing reference",
+        "assumption": "Wiki-listed Fish Smoker and Smoked Fish mechanics before coal opportunity cost and profession choices.",
+        "value": "Smoked Fish sells for 2x fish price, or 2.8x with Artisan according to the wiki page.",
+        "confidence": "high"
       },
       {
-        "label": "Profession-boosted active day",
-        "assumption": "Same active fishing model with fishing profession bonuses from the research draft",
-        "value": "About 21,000g to 25,200g per active day",
-        "confidence": "needs verification"
+        "label": "Active fishing day model",
+        "assumption": "Derived route estimate based on number and value of fish caught in a day; player skill and fish selection dominate the result.",
+        "value": "Profitable when the catch value justifies coal and attention; weak if used on low-value fish or poor fishing days.",
+        "confidence": "medium"
       }
     ],
     "caveats": [
-      "This route is active and skill-dependent; poor fishing performance will reduce returns.",
-      "Coal and jelly ingredients are real early-game constraints.",
-      "Fish Smoker details are version-sensitive because the item is tied to the 1.6 update."
+      "This is not passive income; it depends on fishing skill, route planning, and time spent catching fish.",
+      "Coal is an opportunity cost, especially early.",
+      "The Fish Smoker is a 1.6 item, so guides must not assume it exists in older versions."
     ],
     "articleAngles": [
-      "How the Fish Smoker changed early fishing income",
-      "Catfish rain-day money route with realistic caveats",
-      "Why Fish Smoker is strong but not passive income"
+      "The Fish Smoker rewards active players, not idle farms.",
+      "Coal management is the hidden cost of smoked fish.",
+      "Use the smoker on valuable fish first; do not turn it into automatic busywork."
     ],
     "seoKeywords": [
-      "stardew valley fish smoker",
-      "smoked fish money",
-      "stardew valley 1.6 fishing money",
-      "catfish money route"
+      "Stardew Valley Fish Smoker",
+      "Smoked Fish profit",
+      "Stardew Valley 1.6 fishing money",
+      "Fish Smoker route"
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Fish_Smoker",
@@ -328,7 +607,75 @@
       "https://stardewvalleywiki.com/Lava_Eel"
     ],
     "confidence": "medium",
-    "lastChecked": "2026-05-18",
-    "notes": "Wiki verified Fish Smoker mechanics and profession interactions. Exact daily profit estimates remain route assumptions."
+    "lastChecked": "2026-05-20",
+    "notes": "Wiki/database source tier. Fish Smoker mechanics are verified; daily route profit requires own testing because catch count, fish quality, weather, bait, tackle, and player skill vary heavily."
+  },
+  {
+    "slug": "preserve-jars-vs-kegs",
+    "title": "Preserves Jar vs Keg: How to Choose the Right Machine for Your Crops",
+    "shortName": "Jars vs Kegs",
+    "summary": "A practical machine-decision guide for choosing Preserves Jars or Kegs based on crop value, processing speed, machine count, and how quickly you need cash.",
+    "bestStage": "early-late",
+    "category": "artisan",
+    "profitPotential": "high",
+    "laborCost": "medium",
+    "automation": "medium-high",
+    "versionRisk": "low",
+    "bestFor": [
+      "Players deciding what artisan machines to craft first",
+      "Players drowning in crop stockpiles",
+      "Players comparing fast cashflow against maximum item value"
+    ],
+    "whyItWorks": [
+      "Preserves Jars use a formula that favors lower-value crops and faster processing cycles.",
+      "Kegs favor high-value fruits and certain crops where the multiplier produces a better final item.",
+      "The practical decision depends on machine count and backlog, not only on the theoretical best output."
+    ],
+    "setupSteps": [
+      "Sort crops into low-value bulk crops and high-value crops before loading machines.",
+      "Use Preserves Jars when faster turnaround matters or when the crop fits the jar formula well.",
+      "Use Kegs for high-value fruit and long-term wine or beverage plans.",
+      "Do not let perfect processing math block cashflow if the farm needs money now.",
+      "Expand machine count around the crops you actually grow every season."
+    ],
+    "profitEstimates": [
+      {
+        "label": "Formula reference",
+        "assumption": "Wiki-listed Preserves Jar formula and Keg processing rules.",
+        "value": "Jellies and Pickles use 2x base crop value plus 50g; Kegs use different multipliers depending on product type.",
+        "confidence": "high"
+      },
+      {
+        "label": "Backlog decision model",
+        "assumption": "Derived route advice: a technically higher-value product may be worse if the machine queue delays cash for too long.",
+        "value": "Choose the machine that clears your real crop volume at the timing your farm needs.",
+        "confidence": "medium"
+      }
+    ],
+    "caveats": [
+      "Quality usually does not carry into jar products, so compare against base crop value when using the formula.",
+      "The best machine for one crop is not automatically best for another.",
+      "Processing speed, material cost, and available space can matter more than theoretical maximum value."
+    ],
+    "articleAngles": [
+      "The machine choice is a cashflow decision, not just a profit table.",
+      "Jars solve early backlog problems; kegs power higher-value long-term routes.",
+      "Use formulas as filters, then adjust for your farm's actual machine count."
+    ],
+    "seoKeywords": [
+      "Stardew Valley Preserves Jar vs Keg",
+      "Stardew Valley artisan machines",
+      "Keg or Preserves Jar",
+      "Stardew Valley crop processing guide"
+    ],
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Preserves_Jar",
+      "https://stardewvalleywiki.com/Jellies_and_Pickles",
+      "https://stardewvalleywiki.com/Keg",
+      "https://stardewvalleywiki.com/Wine"
+    ],
+    "confidence": "medium",
+    "lastChecked": "2026-05-20",
+    "notes": "Wiki/database source tier. Machine formulas are source-backed; final recommendations are original decision guidance and should stay conditional by crop, machine count, and cash timing."
   }
 ]
