@@ -1,9 +1,9 @@
 ---
 slug: economy-base-tempo
-title: "Rogue Command Economy and Base Tempo: Crystal, Production, and Map Control"
+title: "Rogue Command Economy and Base Tempo: Keep Crystal, Production, and Safety Aligned"
 category: systems
 patchVersion: "1.0"
-lastVerified: "2026-05-19"
+lastVerified: "2026-05-20"
 confidence: official
 patchSensitivity: medium
 sourceIds:
@@ -11,36 +11,40 @@ sourceIds:
   - wiki-gg
 ---
 
-# Rogue Command Economy and Base Tempo: Crystal, Production, and Map Control
+# Rogue Command Economy and Base Tempo: Keep Crystal, Production, and Safety Aligned
 
-Many Rogue Command losses look like combat failures, but the real cause is often economy or base tempo. You may have a strong Blueprint but no Crystal to build it. You may have resources but no active production. You may be winning the front while enemies slip into your base.
+This guide helps players diagnose economy losses in Rogue Command. Most economy problems are not just "not enough Crystal." They are timing problems between harvesting, production, map control, and base safety.
 
-## Crystal Sets Your Action Limit
+The practical goal is to keep resources moving through a chain: Crystal becomes production, production becomes army presence, army presence protects more map, and more map supports the next economy step.
 
-Crystal is the resource that funds units and structures. It is not just a number. It determines how many decisions you can turn into action.
+## Crystal Is Only Useful When It Becomes Action
 
-When Crystal is low, you must prioritize essential units and defenses. When Crystal is stable, you can expand production, add new Blueprints, or invest in safer map control. If resources pile up, your production is too slow. If production exists but stays idle, your economy is too weak or too exposed.
+Crystal sitting in reserve is potential, not pressure. If you have resources but your army is thin, queue units or build production. If production is idle because Crystal is missing, stop adding new plans and secure harvesting.
 
-## Build a Base That Serves the Current Map
+Use post-fight downtime for a quick audit. What is being harvested? What is being produced? What area is now safe because you won the fight? If you cannot answer all three, the next push is probably premature.
 
-A bigger base is not always better. Early overbuilding spreads resources thin, widens the area you must defend, and can delay the units you need right now.
+## Expand When the Army Can Hold the Space
 
-Start with a compact base around your economy and core production. Expand when the map gives you a reason: safer resources, a stronger defensive position, or a new Blueprint that actually solves a current problem.
+Expansion is not a reward for feeling ahead. It is a trade: you gain access to resources or positioning, but you create more ground to defend. Expand after you have enough units to cover the new route or after you have removed the threat that made the route dangerous.
 
-## Protect the Harvester
+If the Harvester path crosses unknown ground, clear the path first. If the base entrance is exposed, leave a minimum defense before sending everything forward. If the Engineer must move to build, slow time and escort it rather than treating the build command as safe by default.
 
-Harvesters are easy to ignore until they are gone. If a Harvester dies or stops working, the consequences may appear later when your army cannot be replaced.
+## Defend When the Economy Is About to Break
 
-Clear paths before sending Harvesters into risky space. Keep minimal defense near the base. If one lost Harvester completely stops your run, your economy is too fragile and needs either safer routing, more protection, or less aggressive spending.
+Greedy pushes fail when they ignore the next wave, the exposed Harvester, or an idle production chain. Defending is not passive if it preserves the resources that fund your next attack.
 
-## Map Control Is Economic Control
+Choose defense when Crystal flow is fragile, when the base has multiple entrances, when a weather or map condition weakens your current army, or when your Engineer is needed near production. A stable defended economy often creates a stronger attack one minute later.
 
-Scouting is not only about finding enemies. It is about finding safer resources, better defensive lines, and the direction of future threats.
+## Production Must Match the Build You Are Actually Playing
 
-Push when your army, base, and economy can support the next step. Hold when weather, map events, or enemy pressure make the next fight uncertain. Rogue Command rewards adaptation, and sometimes the best economic move is to stabilize before expanding.
+Adding a new Blueprint is not the same as adding a working unit line. You need resources, build space, and time to make it matter. If you keep adding options while older production sits idle, your base is becoming complicated without becoming stronger.
 
-## How to Review Economy Losses
+When a reward changes the plan, decide what production line it replaces or supports. If nothing changes, keep producing the army that already wins fights.
 
-After a failed run, do not only inspect the final battle. Ask when the economy first became unstable. Did production idle? Did the Harvester die? Did you spend too much on a new branch of the build? Did the base become too wide to defend?
+## Review Economy Collapse by First Failure
 
-Fixing one economy habit often improves more runs than memorizing one more combo.
+After a loss, do not begin with the final fight. Look for the first economy failure. Was the Harvester exposed? Did Crystal stop? Did factories idle? Did you build too many structures before protecting them? Did the Engineer die while expanding?
+
+Fix one failure in the next run. Cleaner economy tempo comes from removing repeated leaks, not from memorizing a precise route.
+
+Source boundary: this article uses official RTS/economy framing and wiki-backed system structure. It avoids exact economy routes and current-version optimization claims.

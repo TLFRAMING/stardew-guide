@@ -1,9 +1,9 @@
 ---
 slug: specialist-overview
-title: "Rogue Command Specialist Overview: Pick a Role, Not a Tier List"
+title: "Rogue Command Specialist Overview: Understand Roles Before Rankings"
 category: specialists
 patchVersion: "1.0"
-lastVerified: "2026-05-19"
+lastVerified: "2026-05-20"
 confidence: wiki
 patchSensitivity: high
 sourceIds:
@@ -11,38 +11,52 @@ sourceIds:
   - wiki-gg
 ---
 
-# Rogue Command Specialist Overview: Pick a Role, Not a Tier List
+# Rogue Command Specialist Overview: Understand Roles Before Rankings
 
-Specialists are one of the clearest ways to define a Rogue Command run. They provide early combat identity and influence which rewards become attractive later. Since version 1.0 is recent, exact strength claims should be treated as patch-sensitive. This guide focuses on role identity rather than ranking.
+This guide helps players read Specialist identity without turning the roster into a ranking. A Specialist is the combat foundation of a run. It changes what the early army is good at and what kinds of rewards become attractive later.
 
-## Castle: Defense and Artillery
+Because Specialist mechanics and balance are patch-sensitive, this article describes roles and player fit. It does not claim current-version strength order.
 
-Castle is framed around strong defense and global artillery pressure. It suits players who like building stable positions, holding ground, and letting enemies fight into prepared firepower.
+## Castle: For Players Who Want a Position to Fight From
 
-## Incinerator: Fire and Area Pressure
+Castle points toward defense and artillery pressure. It suits players who like building a stable position, forcing enemies to approach prepared firepower, and expanding after the front is safe.
 
-Incinerator covers the battlefield with fire, burning enemies and helping allies. It works best when rewards support fire application, area control, or ways to keep the fight inside its pressure zone.
+It can fail if the player becomes too static. Defense should create space for economy and map control, not turn the run into waiting.
 
-## Robo Recycler: Turning Losses Into Value
+## Incinerator: For Players Who Like Area Pressure
 
-Robo Recycler uses fallen units as part of its identity by creating Robo Zombos from remnants. This can support attrition-style play, but it should not become an excuse to waste units. The goal is to benefit from losses, not to lose carelessly.
+Incinerator leans into fire and battlefield control. It rewards players who can keep enemies inside damaging zones and draft rewards that support status pressure.
 
-## Support Tank: Protecting the Army
+The risk is assuming fire solves every fight. If a map asks for mobility, direct damage, or protection, the rest of the build must cover that.
 
-Support Tank is a team stabilizer. Its value rises when you have important units worth protecting. It is less about solo damage and more about making the rest of the army survive longer.
+## Robo Recycler: For Attrition-Minded Players
 
-## Swarm Walker: Infection and Pressure
+Recycler turns losses into a resource pattern. That identity rewards players who can distinguish acceptable losses from wasteful ones.
 
-Swarm Walker leans into Spider Spawn Egg pressure and swarm-style snowballing. It wants fights where its mechanics have time to spread and create value.
+The failure mode is careless trading. If you feed units into bad fights without preserving economy and production, the mechanic becomes a way to lose more slowly, not a plan.
 
-## Mantis Mech: Consumption and Growth
+## Support Tank: For Players Who Value Army Preservation
 
-Mantis Mech grows by consuming allied units. This makes it one of the most distinct Specialists in the roster. It rewards players who can judge when a unit is more valuable as a fighter and when it is more valuable as fuel for permanent growth.
+Support Tank protects squads and makes key units harder to lose. It fits players who think in formations, identify priority units, and prefer stable pushes.
 
-## Robo Rush Beacon and Phase Walker: Mobility and Disruption
+It needs an army worth supporting. If your production is weak or your damage plan is unclear, support alone will not finish fights.
 
-Robo Rush Beacon helps establish map presence and mobility. Phase Walker uses teleport-style disruption and buffs. Both reward players who understand positioning, timing, and map control.
+## Swarm Walker: For Players Who Like Pressure That Spreads
 
-## How to Choose
+Swarm Walker points toward infection-style and spawn-pressure ideas. It fits players who like fights that snowball after contact.
 
-Do not start with "which Specialist is best?" Start with "what role do I want to practice?" Defense, fire, attrition, support, swarm pressure, consumption, mobility, and teleport disruption all teach different parts of Rogue Command.
+Its patch-sensitive details should be tested before making specific claims. Treat the role as a pressure identity, not a guaranteed answer.
+
+## Mantis Mech: For Players Who Accept Sacrifice Decisions
+
+Mantis asks a different question: when is an allied unit worth more as fuel than as a fighter? It suits players who enjoy resource conversion and a growing centerpiece.
+
+It can fail if the player consumes too much army too early or forgets that a melee core still needs support, economy, and answers to dangerous enemies.
+
+## Rush Beacon and Phase Walker: For Players Who Read the Map
+
+Rush Beacon and Phase Walker lean toward mobility, map presence, and disruption. They reward players who use positioning to create better fights instead of only relying on raw army size.
+
+These roles punish late reactions. If you do not scout, plan retreat routes, or track the Engineer's safety, mobility can turn into overextension.
+
+Source boundary: role descriptions combine official store framing with wiki-backed roster structure. This is role guidance and should not be used as a balance verdict.

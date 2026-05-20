@@ -1,9 +1,9 @@
 ---
 slug: ascension-progression
-title: "Rogue Command Ascension Progression Guide: Winning Once Is the Beginning"
+title: "Rogue Command Ascension Progression: Make Fewer Expensive Mistakes"
 category: progression
 patchVersion: "1.0"
-lastVerified: "2026-05-19"
+lastVerified: "2026-05-20"
 confidence: official
 patchSensitivity: medium
 sourceIds:
@@ -11,34 +11,40 @@ sourceIds:
   - steam-community-1-0-announcement
 ---
 
-# Rogue Command Ascension Progression Guide: Winning Once Is the Beginning
+# Rogue Command Ascension Progression: Make Fewer Expensive Mistakes
 
-In Rogue Command, a first win is not the end of progression. Official information points to 15 Ascensions as escalating challenges, with Heat Levels extending the pressure even further. The point of Ascension is not simply higher numbers. It is learning which habits stop working when the margin for error shrinks.
+This guide helps players approach Ascension as a learning curve, not a race to a fixed route. Official sources frame a first win as the beginning, with Ascensions and Heat Levels adding escalating pressure. The higher you climb, the more every loose habit costs.
 
-## Early Ascensions: Fix Fundamentals
+The point is not to find a universal climb route. The point is to identify which mistakes each layer starts punishing.
 
-The first Ascension levels are the best place to clean up basic play. Keep the Engineer safe, maintain Crystal income, keep production active, and use slow time before the army collapses.
+## Low Ascension: Prove the Fundamentals
 
-If you fail often at low Ascension, the answer is usually not a hidden build. It is a basic rhythm problem: production stopped, the Harvester died, the Engineer overextended, or rewards pulled the run in too many directions.
+At lower Ascension, focus on basics that should work in any run. Keep the Engineer behind controlled space. Maintain Crystal flow. Keep production active. Use slow time before the army breaks. Draft rewards that solve the last fight's problem.
 
-## Mid Ascensions: Make Rewards Purposeful
+If you lose here, do not assume the build was doomed. Look first for execution leaks: idle factories, exposed Harvesters, late retreats, greedy expansion, or rewards that never connected to the army.
 
-As difficulty rises, casual reward picks become more expensive. Each Blueprint, Upgrade, or Hack should answer a clear question. Do you need damage, survival, control, mobility, economy, or a way to support your existing mechanic?
+## Mid Ascension: Stop Taking Unfunded Ideas
 
-Speculative picks can still work, but know when you are gambling. A reward that needs several more pieces may be too slow if the next map already threatens your current army.
+Mid Ascension starts punishing speculative drafting. A reward that might become useful later has to compete with a reward that solves the next map. If the run lacks defense, take defense. If the army cannot kill priority targets, add damage or control. If economy is unstable, repair the map position.
 
-## High Ascensions: Reduce Mistakes Before They Happen
+This is where players should learn to pass on attractive but unsupported mechanics. A Hack without a trigger, an Upgrade for a unit you are not producing, or a Blueprint you cannot afford may be interesting, but it can also delay survival.
 
-Higher Ascensions punish small errors. A bad Engineer movement, an exposed Harvester, or a lost core unit can end the run even if the build looked strong.
+## High Ascension: Plan Before the Mistake Happens
 
-The solution is planning earlier, not clicking faster. Prepare retreat paths. Leave enough defense near the base. Read the map before committing the army. Use slow time to execute the plan cleanly.
+Higher pressure makes late reactions weaker. You need retreat paths before the fight starts, base defense before the flank arrives, and production queues before losses happen.
 
-## Heat Levels: Stress Test Mature Builds
+Use slow time to execute decisions you already made, not to invent a plan after everything has gone wrong. If the Engineer must move, escort it. If the Harvester route is exposed, secure it before chasing the next objective. If a fight starts badly, retreat before the core army is gone.
 
-Heat Levels are best treated as pressure tests for builds you already understand. Before pushing Heat, make sure your route can handle early fights, economy, boss pressure, and late-run scaling.
+## Heat Levels Are Stress Tests
 
-If you cannot explain how the build survives the first few maps, it is probably not ready for Heat.
+Heat Levels should be treated as pressure tests for routes you understand. If you cannot explain how the run handles early economy, army preservation, reward direction, and dangerous map conditions, Heat will expose that uncertainty quickly.
 
-## How to Review an Ascension Loss
+Do not use Heat to validate a half-built idea. Use it to test whether a working idea remains stable under pressure.
 
-After each loss, write down one main cause: economy collapse, Engineer death, army wipe, reward direction drift, map event failure, or enemy counterpressure. Fix one main cause at a time. That discipline improves Ascension progress faster than constantly switching Specialists.
+## Review Losses by the First Expensive Error
+
+After a loss, find the first error that forced a bad chain. Was the Engineer too far forward? Was production idle? Did a reward fail to affect the next fight? Did the army overextend without a retreat path?
+
+Fix one repeated error at a time. Ascension progress comes from reducing expensive mistakes, not from copying a route without understanding why it works.
+
+Source boundary: this article uses official progression framing. It does not provide a speed-climb route, balance-route prescription, or exact Ascension modifier walkthrough.

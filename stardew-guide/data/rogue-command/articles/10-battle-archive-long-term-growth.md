@@ -1,41 +1,47 @@
 ---
 slug: battle-archive-long-term-growth
-title: "Rogue Command Battle Archive Guide: Make Failed Runs Pay Off"
+title: "Rogue Command Battle Archive Guide: Turn Losses Into Better Decisions"
 category: progression
 patchVersion: "1.0"
-lastVerified: "2026-05-19"
+lastVerified: "2026-05-20"
 confidence: official
 patchSensitivity: medium
 sourceIds:
   - steam-store
 ---
 
-# Rogue Command Battle Archive Guide: Make Failed Runs Pay Off
+# Rogue Command Battle Archive Guide: Turn Losses Into Better Decisions
 
-Rogue Command is a roguelite, so long-term progression matters. Official information describes archive tokens and the Battle Archive as a way to unlock permanent improvements, build toward specific traits, spread bonuses widely, or gain more control over randomness.
+This guide helps players use long-term progression as a learning tool. Rogue Command's Battle Archive and archive tokens can improve future runs, but permanent growth should not be used to hide basic mistakes.
 
-The important lesson is that a failed run should still produce value.
+The practical question is not "where should every token go?" without testing data. The better question is: what did the last run prove I need to improve?
 
-## What the Battle Archive Does
+## Start With the Loss, Not the Upgrade Screen
 
-The Battle Archive does not play the next map for you. It changes the future starting point and gives you more ways to shape runs over time. That makes it most useful when you connect upgrades to actual problems you have encountered.
+After a run ends, identify the first point where the run became unstable. Did the Engineer die while expanding? Did Crystal stop flowing? Did the army lose too many key units? Did rewards point in several directions without forming a plan?
 
-If your early economy fails often, look for growth that helps opening stability. If key rewards do not appear reliably enough, look for ways to control randomness. If fights collapse too quickly, consider improvements that increase survivability or make your preferred army type more consistent.
+Only after answering that should you think about long-term growth. If the loss was economy tempo, look for growth that supports stability or gives you more room to recover. If the loss was random reward direction, value tools that help you shape future runs. If the loss was army preservation, consider how your next run can lose fewer important units.
 
-## Turn Losses Into Decisions
+## Permanent Growth Should Reinforce Better Play
 
-After a run ends, take one minute before starting again. Identify the first point where the run became unstable. Was Crystal too low? Did production stop? Did the Engineer die? Did the build depend on a reward that never appeared?
+Good progression makes solid habits stronger. It gives you more margin, more options, or more control. It should not become a substitute for scouting, production, and Engineer safety.
 
-Then choose your next Battle Archive investment or next run goal around that problem. This turns each failed run into a test with a result, not just a reset.
+If the Engineer always walks into danger, permanent bonuses will not solve the real problem. If factories sit idle, more unlocks may only give you more things you fail to produce. If every reward choice is unrelated, more options can make the draft harder, not easier.
 
-## Do Not Use Permanent Growth to Hide Bad Habits
+## Choose Growth Around the Run You Are Actually Playing
 
-Permanent upgrades increase your margin for error, but they do not fix everything. If the Engineer keeps walking into danger, more bonuses will not solve the core issue. If factories sit idle, better unlocks will not matter. If reward picks have no direction, more options can even make the build less focused.
+Spread investment when you are still learning broad systems. Focus investment when you know which identity you enjoy and what keeps breaking it. If you like stable defensive play, support that style. If you like mobility, support the map-control habits it requires. If you like sacrifice mechanics, make sure the economy and production can feed them.
 
-Use Battle Archive growth alongside better fundamentals. The two systems support each other.
+Avoid planning around a future route you cannot yet execute. The Archive should help the next few runs become clearer, not lock you into a fantasy build.
 
-## Long-Term Progression Advice
+## Review Progress in Small Loops
 
-Early on, prioritize learning systems and unlocking options. In the middle stage, invest around the Specialists and build styles you actually enjoy. Later, use Ascension and Heat failures to decide what needs more support.
+Use a simple loop: play a run, name the first serious failure, choose one improvement target, then test whether the next run fails later or differently. If the same problem repeats, the issue is probably gameplay habit rather than missing progression.
 
-Rogue Command becomes more rewarding as you recognize more interactions. The Battle Archive is the long-term record of that learning process, not a shortcut around it.
+This keeps the Battle Archive tied to learning. You are not just collecting bonuses; you are making better decisions with each attempt.
+
+## What Not to Claim Yet
+
+Without recorded testing, do not publish an optimal token route, exact farming path, or universal Archive order. Different players lose for different reasons, and the value of growth depends on the run identity and current skill gaps.
+
+Source boundary: official sources support the existence and broad purpose of archive tokens and Battle Archive progression. Specific upgrade routes need own testing before they become high-confidence advice.

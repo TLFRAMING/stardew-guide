@@ -1,9 +1,9 @@
 ---
 slug: support-tank-guide
-title: "Rogue Command Support Tank Guide: How to Make a Support Specialist Matter"
+title: "Rogue Command Support Tank Guide: Win by Losing Fewer Key Units"
 category: specialists
 patchVersion: "1.0"
-lastVerified: "2026-05-19"
+lastVerified: "2026-05-20"
 confidence: wiki
 patchSensitivity: high
 sourceIds:
@@ -11,34 +11,38 @@ sourceIds:
   - wiki-gg
 ---
 
-# Rogue Command Support Tank Guide: How to Make a Support Specialist Matter
+# Rogue Command Support Tank Guide: Win by Losing Fewer Key Units
 
-Support Tank is not designed to clear the map alone. Its job is to make your army harder to kill and easier to stabilize. That makes its power less obvious than a damage-focused Specialist, but in the right army it can save enormous amounts of Crystal by preventing losses.
+This guide helps players understand Support Tank as a value-preservation Specialist. It is not a solo carry and should not be judged by how quickly it clears a map alone. Its job is to keep the units that matter alive long enough for the army to win.
 
-## Support Value Depends on Targets
+That makes Support Tank a tempo tool. Fewer losses mean less Crystal spent replacing units, less downtime rebuilding the army, and more freedom to draft rewards that improve a stable plan.
 
-A support Specialist is only as useful as the units it supports. If your army has no clear core, Support Tank has no obvious target. If your formation is scattered, its protection may miss the units that matter most.
+## Identify the Unit That Decides the Fight
 
-Before a fight, identify the units that must survive. These are usually high-damage fragile units, key control or healing units, or the specific tool needed to answer the current enemy composition.
+Before a fight starts, decide which unit or group must survive. It may be your main damage source, a fragile specialist unit, a control piece, or the squad protecting the Engineer. Support that unit first.
 
-## Do Not Protect Everything Equally
+Do not spread attention evenly just because the army is large. Equal protection can miss the actual failure point. If the frontline collapses, protect it. If the damage group is being targeted, stabilize it. If the Engineer route is threatened, move support there before the fight becomes a base crisis.
 
-Spreading support evenly feels safe, but it can waste the most important part of Support Tank's kit. The goal is not to make every unit slightly safer. The goal is to keep the units that decide the fight alive long enough to do their job.
+## Reduce Losses, Then Convert the Savings
 
-If one group is holding the line while another group deals the real damage, protect whichever group prevents collapse. That answer can change from fight to fight.
+Support Tank's value often appears after the fight. If the army survives with fewer losses, you spend less Crystal rebuilding and can invest more into production, map control, or reward synergies.
 
-## Positioning and Tempo
+Track this mentally. After a fight, ask whether support prevented a rebuild. If it did, push the advantage by expanding safely, adding production, or drafting around the army that survived. If it did not, ask whether the protected target was the wrong one.
 
-Support Tank should stay close enough to affect the main army, but not so far forward that it becomes the first target. Let frontline units or summons make contact, then use Support Tank to stabilize the units that enemies are actually threatening.
+## Formation Is the Real Skill Check
 
-When the map splits your attention, use slow time. Decide which lane matters most: the Engineer's position, the base entrance, the main army, or the Harvester route. Support cannot be everywhere, so the important skill is choosing the correct crisis.
+Support does not matter if the army is scattered. Keep the Support Tank close enough to affect the units that matter but not so far forward that it becomes the first target. Let durable units or summons make contact, then stabilize the part of the army taking meaningful pressure.
 
-## Reward Priorities
+When enemies split your attention, use slow time to choose a priority. Support Tank cannot solve every lane at once. Pick the crisis that would end the run: Engineer danger, Harvester collapse, base breach, or loss of the core damage group.
 
-Support Tank wants a real army to protect. Look for Blueprints that create a stable damage core, Upgrades that make important units more durable or efficient, and Hacks that reward defensive or buff-based play.
+## Draft Rewards That Give Support Something to Protect
 
-Avoid taking only defensive rewards. A protected army still needs to kill enemies. The best Support Tank runs usually combine one clear damage plan with enough protection to reduce losses.
+Support Tank wants an army with a job. Blueprints should create units worth preserving. Upgrades should improve the units that stay in the plan. Hacks should support survival, buffs, or army cohesion when the triggers are already present.
 
-## Who Should Play Support Tank
+Avoid building a route that only prevents death but cannot end fights. A protected army still needs damage, map control, and economy.
 
-Support Tank suits players who enjoy formation control, stable pushes, and low-loss fights. It teaches an important Rogue Command lesson: sometimes the correct play is not adding more damage, but keeping the right unit alive.
+## When Support Tank Is Not the Right Lesson Yet
+
+If your production is always idle or your Engineer keeps dying ahead of the army, Support Tank will not fix the core issue. Stabilize basic RTS habits first. Once you can build and move a coherent army, Support Tank becomes a strong teacher of target priority and loss reduction.
+
+Source boundary: this guide uses official and wiki-backed role framing. It avoids strength ranking, exact buff values, and current-version balance claims.

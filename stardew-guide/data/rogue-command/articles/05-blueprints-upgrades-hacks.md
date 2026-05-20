@@ -1,45 +1,47 @@
 ---
 slug: blueprints-upgrades-hacks
-title: "Rogue Command Blueprints, Upgrades, and Hacks: How to Choose Rewards"
+title: "Rogue Command Reward Drafting: Blueprints, Upgrades, and Hacks"
 category: systems
 patchVersion: "1.0"
-lastVerified: "2026-05-19"
+lastVerified: "2026-05-20"
 confidence: official
 patchSensitivity: medium
 sourceIds:
   - steam-store
 ---
 
-# Rogue Command Blueprints, Upgrades, and Hacks: How to Choose Rewards
+# Rogue Command Reward Drafting: Blueprints, Upgrades, and Hacks
 
-Rogue Command builds are shaped by three major reward types: Blueprints, Upgrades, and Hacks. They all make the run stronger, but they do so at different levels. Choosing well starts with understanding what each reward type actually changes.
+This guide helps players draft rewards by solving real run problems instead of chasing abstract power. Rogue Command's reward system gives you Blueprints, Upgrades, and Hacks, but each one changes a different layer of the run.
 
-## Blueprints Add New Tools
+Good drafting starts after the fight, not on the reward screen. First identify what the last map exposed. Then pick the reward that makes the next map less likely to punish the same weakness.
 
-Blueprints expand what your Engineer can build. They answer the question: what tool is missing from my army?
+## Blueprints Give You New Tools
 
-If you lack frontline durability, area damage, static defense, healing, or a specific kind of unit production, a Blueprint may solve the problem directly. A strong Blueprint is not automatically the right pick, though. If it is too expensive or does not solve the next map, it may sit unused.
+A Blueprint adds something the Engineer can build. That makes it the right answer when the army is missing a function: frontline durability, healing, defensive coverage, a new damage profile, map control, or a structure that changes how you hold space.
 
-## Upgrades Improve Existing Tools
+The trap is taking every interesting Blueprint. More options can dilute production. Before taking one, ask whether you can afford to build it soon and whether it solves a problem the current army cannot solve. If the answer is no, it may be a future idea rather than a current pick.
 
-Upgrades are most useful when you already know what your army is built around. They modify a Blueprint you plan to keep using, often turning a normal unit or structure into the center of the run.
+## Upgrades Reward Commitment
 
-Before choosing an Upgrade, ask whether you will continue producing the affected unit or building. If the answer is no, the Upgrade is probably a distraction. If the answer is yes, it may be more valuable than adding another new Blueprint.
+An Upgrade improves something already in your plan. It is most useful when you have a unit, structure, or production line you intend to keep using. If you are not producing the target, the Upgrade is often a dead branch.
 
-## Hacks Change Rules
+Before selecting an Upgrade, name the target and the job it performs. "This keeps my frontline alive." "This makes my main damage unit scale." "This improves the structure protecting my Harvester route." If you cannot name the job, delay the Upgrade or choose a broader tool.
 
-Hacks modify broader mechanics. They can turn status effects, movement tools, deaths, teleports, or other interactions into the identity of the run.
+## Hacks Change the Rules
 
-The danger is picking a Hack before you can support it. A fire-focused Hack is much better when you already apply fire reliably. A teleport Hack needs teleport access. A death or summon Hack needs units that can make that mechanic matter.
+Hacks are the most tempting rewards because they can reshape mechanics. They are also the easiest to overvalue when the trigger is missing. A Hack that improves burning needs reliable burning. A Hack tied to deaths needs units that can die profitably. A teleport interaction needs teleport access.
 
-## A Simple Priority Rule
+Use Hacks when they connect to something already happening in the run or when you have a clear plan to enable them immediately. Do not take a rule-changing reward and hope the rest of the build appears by accident.
 
-Choose a Blueprint when you need a missing function.  
-Choose an Upgrade when you already have a core unit or building.  
-Choose a Hack when you can trigger and support the mechanic right now.
+## Draft by Visible Problems
 
-This rule is not absolute, but it prevents the most common reward mistakes: taking a complex Hack with no enabler, adding too many Blueprints, or upgrading a unit you barely use.
+Use a short decision tree. If you cannot survive contact, draft defense, control, or cheaper replacement tools. If fights take too long, draft damage or scaling for the current army. If the economy is threatened, draft map control, defensive structures, or mobility. If the build already has a clear mechanic, draft the reward that deepens it.
 
-## Keep the Build Focused
+This is not a ranking system. The same reward can be correct in one run and a distraction in another.
 
-Rogue Command offers many tempting rewards, but one run has limited resources and limited attention. A focused build with one clear main plan and a few tools to cover weaknesses is usually more reliable than three half-built ideas competing for Crystal.
+## Common Drafting Mistakes
+
+The first mistake is picking for a build you wish you had. The second is adding a new production line when Crystal is already tight. The third is taking a Hack with no trigger. The fourth is refusing practical defensive picks because they look less exciting.
+
+Patch note: official sources support the reward categories and broad examples. This article intentionally avoids Hack rankings, Upgrade tiers, and exact current-version setups.

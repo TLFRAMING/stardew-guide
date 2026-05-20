@@ -1,47 +1,53 @@
 ---
 slug: beginner-first-run
-title: "Rogue Command Beginner First Run Guide: Survive Before You Optimize"
+title: "Rogue Command First Run Guide: Learn the RTS Before Chasing Synergy"
 category: getting-started
 patchVersion: "1.0"
-lastVerified: "2026-05-19"
+lastVerified: "2026-05-20"
 confidence: official
 patchSensitivity: medium
 sourceIds:
   - steam-store
 ---
 
-# Rogue Command Beginner First Run Guide: Survive Before You Optimize
+# Rogue Command First Run Guide: Learn the RTS Before Chasing Synergy
 
-Your first Rogue Command run should not be about forcing a flashy combo. The game has roguelite rewards, random Blueprints, Hacks, and Upgrades, but the foundation is still real-time strategy: gather resources, build production, protect your Engineer, control your army, scout carefully, and use slow time when the fight gets messy.
+This guide helps new players make better first-run decisions in Rogue Command 1.0. The goal is not to win with a perfect route. The goal is to leave the run understanding what broke: Engineer safety, economy, production, army control, or reward direction.
 
-Most early losses come from broken fundamentals rather than bad reward luck. New players usually lose because the economy stalls, production stops, the Engineer walks too far forward, or the army takes a fight without enough control.
+Rogue Command gives you roguelite rewards after battles, but the fight itself is still an RTS. If the base is idle, the Harvester is exposed, and the Engineer is walking into danger, no clever Hack will save the run. Treat the first few attempts as training for the command layer.
 
-## Keep the Engineer Alive
+## The First Principle: The Engineer Is Not a Scout
 
-The Engineer is your presence on the map. It calls down buildings, enables your base, and anchors your army. Losing the Engineer means losing the run, so every early decision should start with one question: does this expose the Engineer?
+Your Engineer is the run's map presence. It calls down buildings, controls armies, and creates your base footprint. Losing it ends the run, so the first habit to build is simple: combat units reveal danger before the Engineer moves forward.
 
-Do not use the Engineer as a scout or frontline unit. Let combat units reveal danger first, then move the Engineer into safe space to expand production or reposition the base. When a map event, enemy wave, or unknown structure appears, slow down and protect the Engineer before chasing value.
+Before crossing into new space, send units ahead, slow time if enemies appear, then move the Engineer only after you know where the threat is. If you need to build near the front, clear enough room first. A rushed forward building is rarely worth a dead Engineer.
 
-## Keep the Economy Working
+## Keep Economy and Production Moving Together
 
-Crystal is the resource that turns plans into actual units and buildings. If your Harvester stops working or dies, the run may collapse several minutes later when you no longer have enough production to replace losses.
+New players often separate economy from combat, but in Rogue Command they are the same tempo problem. Crystal is only useful when it becomes production, and production is only useful when the army survives long enough to matter.
 
-After every fight, check three things: are your Harvesters still working, do you have enough Crystal for the next production step, and is your base safe from flanks? If you have resources but no army, your production is behind. If you have factories but no resources, your economy or map control is behind.
+After each fight, run a short check. Is the Harvester still working? Is the production structure queued or idle? Do you have enough army to protect the next resource move? If Crystal is floating, add production or units. If production is idle because Crystal is missing, stop expanding the army plan and secure economy first.
 
-## Pick Rewards You Can Explain
+## Use Slow Time Before the Crisis Peaks
 
-Early rewards should solve visible problems. Take a Blueprint if you need a new tool, an Upgrade if you already have a unit or structure worth improving, and a Hack if you can actually trigger its mechanic.
+The store page describes the ability to slow time dramatically. Use it proactively. Slow time when an enemy wave splits, when your Engineer has to cross danger, when a new attack pattern appears, or when you are choosing whether to retreat.
 
-Avoid picking rewards only because they sound rare or complicated. A simple option that improves your current army is usually better than a speculative synergy that needs several more pieces before it matters.
+Do not save slow time only for panic. Good use looks boring: pull the Engineer back, retarget dangerous enemies, queue a unit, reposition the frontline, then resume. The point is to prevent chaos, not to look fast while drowning in it.
 
-## Use Slow Time Early
+## Pick Rewards That Repair Real Problems
 
-Rogue Command lets you slow time dramatically. Treat this as a core command tool, not a panic button. Use it when enemies split your attention, when your Engineer is threatened, when you need to dodge a dangerous skill, or when you are deciding whether to push or retreat.
+Your first run should not chase a fragile combo. After a battle, name the problem you just had. Did enemies reach your base? You may need defense, control, or more bodies. Did fights take too long? You may need damage or better production. Did the Harvester get threatened? You may need safer map control.
 
-Good slow-time usage turns chaos into a sequence of orders: pull the Engineer back, focus the threatening enemy, redirect the frontline, queue production, and resume.
+Take a Blueprint when you need a new tool. Take an Upgrade when you already rely on the target. Take a Hack when you can trigger the mechanic now or very soon. If a reward sounds exciting but does not solve a visible problem, it belongs in a later test run.
 
-## What Counts as a Successful First Run
+## Common First-Run Failures
 
-A successful first run does not have to be a win. It should teach you why the run failed. Was the economy too weak? Did the Engineer die? Did you stop producing units? Did your rewards pull the build in too many directions?
+The most common failure is moving the Engineer like a hero unit. The second is building a base that cannot defend its economy. The third is taking rewards in three unrelated directions, then having no coherent army when pressure rises.
 
-Once you can answer those questions, you are ready to start learning Specialists, Blueprint upgrades, Hack synergies, Ascensions, and long-term Battle Archive growth.
+When you lose, write one sentence: "I lost because..." Make it specific. "Engineer died while expanding." "Production was idle after the second fight." "I picked fire rewards without enough fire sources." That sentence is more valuable than blaming random rewards.
+
+## When This Advice Stops Being Enough
+
+Once you can keep the Engineer safe, maintain Crystal flow, and produce continuously, then start testing Specialist-specific routes and more complex reward chains. Until then, the most practical improvement is cleaner RTS execution.
+
+Patch note: this article uses official store-level mechanics and broad gameplay framing. It does not claim current-version optimal starts, Specialist rankings, or exact build routes.

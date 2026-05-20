@@ -1,45 +1,47 @@
 ---
 slug: mantis-mech-guide
-title: "Rogue Command Mantis Mech Guide: Consumption Is a Plan, Not a Habit"
+title: "Rogue Command Mantis Mech Guide: Consume With a Reason"
 category: specialists
 patchVersion: "1.0"
-lastVerified: "2026-05-19"
+lastVerified: "2026-05-20"
 confidence: wiki
 patchSensitivity: high
 sourceIds:
   - wiki-gg
 ---
 
-# Rogue Command Mantis Mech Guide: Consumption Is a Plan, Not a Habit
+# Rogue Command Mantis Mech Guide: Consume With a Reason
 
-Mantis Mech is one of Rogue Command's most distinctive Specialists. Wiki-backed data describes it as a frontline melee Specialist with high durability, recovery tools, and a skill that consumes allied units for permanent growth. That mechanic is powerful, but it is easy to misuse.
+This guide helps Mantis Mech players make better consumption decisions. Mantis is not just a melee unit with a dramatic mechanic. It is a Specialist that asks you to convert part of your army into long-term power without collapsing the army that has to win the next fight.
 
-The core rule is simple: do not eat units just because you can. Consumption should support a plan.
+The exact numbers and current balance details are wiki-backed and patch-sensitive. The decision framework is the important part: what do you eat, when do you eat it, and what does the army still need afterward?
 
-## What Mantis Wants
+## Consumption Is a Timing Decision
 
-Mantis Mech wants time, targets, and support. It can grow over a run, but it still needs an army around it. If you consume too many units early, your frontline may become too thin and the Mantis may be forced to carry fights before it is ready.
+Do not consume units just because the button is available. A unit can be worth more alive if it is your only answer to a threat, if it protects the Engineer, or if it keeps production from being overwhelmed.
 
-Treat early battles as setup. Build enough army to survive, then identify which units can be turned into growth without breaking your current composition.
+Look for consumption windows after a fight is stabilized, when the next map's needs are clearer, or when a unit has fallen out of the core plan. Eating during a chaotic fight can be correct, but only if it prevents a worse collapse. If it removes the unit that was holding the line, it is self-sabotage.
 
-## What to Consume
+## What Makes a Good Consumption Target
 
-Good consumption targets usually fit one of these conditions: they are no longer central to the army, they give meaningful growth, they are too slow or awkward for the next map, or they interact with death or sacrifice mechanics.
+A good target is replaceable, outdated, redundant, or deliberately disposable. If you have two units filling the same job and one is no longer needed, that is a candidate. If a unit's role was early defense and the build has moved beyond it, that can work. If a reward makes sacrifice valuable, the target pool changes.
 
-Avoid consuming your only source of a critical function. Do not eat the only anti-air answer, the only support tool, the only control option, or the main damage unit if the rest of the army cannot replace it.
+Bad targets are easier to spot. Do not consume your only control piece, your only anti-swarm answer, your only protection for the Engineer, or the unit that lets the rest of the army deal damage safely.
 
-## Positioning the Mantis
+## Mantis Still Needs an Army
 
-Mantis is melee, but melee does not mean reckless. It should not always be the first unit into unknown space. Use other units to reveal threats, then send Mantis into fights where it can stay active without being surrounded by everything at once.
+A growing melee centerpiece does not replace economy, production, or support. Mantis needs bodies to manage enemy attention, tools to handle threats it cannot safely reach, and enough production to recover from fights.
 
-Slow time is especially useful with Mantis. Use it to choose consumption targets, dodge dangerous skills, pull back from focus fire, or reposition before the frontline collapses.
+If you build only around Mantis, the run can become brittle. The Specialist may survive while the base falls, the Harvester dies, or ranged enemies punish every approach. Keep asking what job the rest of the army performs.
 
-## Reward Priorities
+## Positioning Matters More Than Bravery
 
-Mantis builds usually want three things: more survivability, better value from consumption, and ways to make disposable or sacrificed units matter. Specific Hack and Upgrade combinations are patch-sensitive, so treat exact setups as testing targets rather than permanent rules.
+Mantis wants contact, but not every contact is good. Let scouts or cheaper units reveal danger. Use slow time before committing into dense fire. Pull back when focus fire turns a trade into a loss.
 
-Do not build only around the Mantis itself. You still need economy, production, and answers to enemy types that can punish a single melee centerpiece.
+Melee positioning is about choosing the fight's edge. Enter from the side when possible, avoid standing in the center of every enemy, and preserve a retreat path. If Mantis cannot leave, a strong unit becomes a trapped unit.
 
-## Who Should Play Mantis
+## Reward Drafting for Mantis
 
-Mantis Mech suits players who like growing a central unit and making hard resource decisions. If you enjoy turning army management into long-term power, it is a strong identity to learn. If you are still struggling with economy and basic army control, learn those fundamentals first and return to Mantis once your runs are more stable.
+Draft rewards that support the current Mantis plan. If Mantis is becoming the frontline, look for survival and control. If consumption is central, look for ways to make sacrifice less costly or more meaningful. If the army lacks range, economy, or defensive coverage, repair that before deepening the gimmick.
+
+Source boundary: this guide does not claim an optimal Mantis build, exact stat breakpoints, or current patch dominance. Mantis-specific details need direct testing before they become high-confidence recommendations.
