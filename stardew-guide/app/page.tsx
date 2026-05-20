@@ -18,9 +18,9 @@ const games = [
   {
     title: "Rogue Command",
     href: "/rogue-command",
-    status: "Planned",
-    description: "A future codex for builds, strategy notes, and reference data. Content is being staged before launch.",
-    meta: "In planning"
+    status: "Live",
+    description: "Beginner guides, systems primers, Specialist notes, and long-term progression advice with patch-sensitive source metadata.",
+    meta: "Rogue Command"
   }
 ];
 

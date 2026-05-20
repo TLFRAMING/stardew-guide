@@ -1,4 +1,5 @@
 import type { MetadataRoute } from "next";
+import { getAllRogueCommandArticles } from "@/lib/rogue-command/data";
 import { getAllCrops, getAllFish, getAllForage, getAllFruitTrees, getAllMinerals, getAllMoneyGuides, getAllVillagers } from "@/lib/stardew/data";
 
 const siteUrl = "https://playercodex.app";
@@ -30,8 +31,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const mineralRoutes = getAllMinerals().map((item) => `/stardew/minerals/${item.slug}`);
   const fishRoutes = getAllFish().map((fish) => `/stardew/fish/${fish.slug}`);
   const moneyRoutes = getAllMoneyGuides().map((guide) => `/stardew/money/${guide.slug}`);
+  const rogueCommandRoutes = getAllRogueCommandArticles().map((article) => `/rogue-command/${article.slug}`);
 
-  return [...staticRoutes, ...villagerRoutes, ...cropRoutes, ...fruitTreeRoutes, ...forageRoutes, ...mineralRoutes, ...fishRoutes, ...moneyRoutes].map((route) => ({
+  return [...staticRoutes, ...rogueCommandRoutes, ...villagerRoutes, ...cropRoutes, ...fruitTreeRoutes, ...forageRoutes, ...mineralRoutes, ...fishRoutes, ...moneyRoutes].map((route) => ({
     url: `${siteUrl}${route}`,
     lastModified: new Date()
   }));

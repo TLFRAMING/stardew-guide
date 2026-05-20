@@ -28,5 +28,25 @@
     "lastChecked": "2026-05-19",
     "confidence": "high",
     "notes": "Official site source for feneq background and the connection between feneq and Rogue Command. Do not use this page for gameplay mechanics, release timing, build guidance, or image usage rights."
+  },
+  {
+    "id": "wiki-gg",
+    "title": "Rogue Command Wiki.gg",
+    "url": "https://roguecommand.wiki.gg/",
+    "publisher": "wiki.gg",
+    "sourceType": "wiki",
+    "lastChecked": "2026-05-19",
+    "confidence": "medium",
+    "notes": "Wiki-backed source for structure and mechanics references. Keep specialist and system claims patch-sensitive, and do not use this source for current-version tier lists, best builds, or image usage rights."
+  },
+  {
+    "id": "steam-community-1-0-announcement",
+    "title": "Rogue Command 1.0 Steam announcement",
+    "url": "https://steamcommunity.com/app/1461910/announcements/",
+    "publisher": "Steam",
+    "sourceType": "announcement",
+    "lastChecked": "2026-05-19",
+    "confidence": "medium",
+    "notes": "Steam announcement source for 1.0 release and Early Access exit context. Do not use this source for patch-meta rankings, current balance conclusions, or strategy recommendations without separate verification."
   }
 ]

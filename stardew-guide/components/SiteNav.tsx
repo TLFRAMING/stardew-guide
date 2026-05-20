@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const gameNavItems = [
   { href: "/stardew", label: "Stardew Guide", status: "Live" },
-  { href: "/rogue-command", label: "Rogue Command", status: "Planned" }
+  { href: "/rogue-command", label: "Rogue Command", status: "Live" }
 ];
 
 export function SiteNav() {

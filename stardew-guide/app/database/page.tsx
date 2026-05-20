@@ -18,9 +18,9 @@ const games = [
   {
     name: "Rogue Command",
     href: "/rogue-command",
-    status: "Planned",
-    description: "Builds, strategy notes, and reference data are being staged before launch.",
-    entries: ["Guides", "Builds", "Sources"]
+    status: "Live",
+    description: "Beginner articles, systems primers, Specialist notes, progression guides, and verified source references.",
+    entries: ["Guides", "Systems", "Specialists", "Progression", "Sources"]
   }
 ];
 
