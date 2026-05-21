@@ -1,0 +1,166 @@
+[
+  {
+    "slug": "rainy-day-planning",
+    "title": "Rainy Day Planning: What to Do When You Do Not Have to Water",
+    "category": "beginner",
+    "guidePromise": "This guide helps early players turn rainy days into useful progress without treating every rainy day as a fixed route.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Weather",
+      "https://stardewvalleywiki.com/Tools",
+      "https://stardewvalleywiki.com/The_Mines",
+      "https://stardewvalleywiki.com/Fishing"
+    ],
+    "confidence": "medium",
+    "patchSensitivity": "low",
+    "recommendedStage": "S7 candidate",
+    "risk": "low",
+    "notes": "Good follow-up to energy and tool timing. Avoid exact weather prediction claims."
+  },
+  {
+    "slug": "first-sprinkler-transition",
+    "title": "Your First Sprinklers: When the Farm Starts Running Without You",
+    "category": "farming",
+    "guidePromise": "This guide helps beginners understand when sprinklers change the daily schedule and when they are not worth forcing yet.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sprinkler",
+      "https://stardewvalleywiki.com/Quality_Sprinkler",
+      "https://stardewvalleywiki.com/Farming",
+      "https://stardewvalleywiki.com/The_Mines"
+    ],
+    "confidence": "medium",
+    "patchSensitivity": "low",
+    "recommendedStage": "S7 candidate",
+    "risk": "low",
+    "notes": "Can link to existing sprinkler/scaling guide later. Avoid layout diagrams unless manually reviewed."
+  },
+  {
+    "slug": "first-community-center-seasonal-check",
+    "title": "First Community Center Seasonal Check: What Not to Miss",
+    "category": "community-center",
+    "guidePromise": "This guide helps players check seasonal bundle risk without turning the Community Center into a rigid route.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Community_Center",
+      "https://stardewvalleywiki.com/Bundles",
+      "https://stardewvalleywiki.com/Calendar"
+    ],
+    "confidence": "medium",
+    "patchSensitivity": "medium",
+    "recommendedStage": "defer until bundle example QA",
+    "risk": "medium",
+    "notes": "Use standard bundles only. Must verify examples against local bundles.json before production."
+  },
+  {
+    "slug": "early-foraging-habits",
+    "title": "Early Foraging Habits That Make the First Season Easier",
+    "category": "foraging",
+    "guidePromise": "This guide helps new players decide what to pick up, save, sell, or convert into early options.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Foraging",
+      "https://stardewvalleywiki.com/Wild_Seeds",
+      "https://stardewvalleywiki.com/Spring"
+    ],
+    "confidence": "medium",
+    "patchSensitivity": "low",
+    "recommendedStage": "S7 candidate",
+    "risk": "low",
+    "notes": "Good internal-link candidate for forage data. Avoid exhaustive item table."
+  },
+  {
+    "slug": "backpack-upgrade-timing",
+    "title": "Backpack Upgrade Timing: When Inventory Space Is Worth the Money",
+    "category": "progression",
+    "guidePromise": "This guide helps early players decide when inventory space is more valuable than seeds, tools, or buildings.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Inventory",
+      "https://stardewvalleywiki.com/Pierre%27s_General_Store",
+      "https://stardewvalleywiki.com/Tools"
+    ],
+    "confidence": "medium",
+    "patchSensitivity": "low",
+    "recommendedStage": "S7 candidate",
+    "risk": "low",
+    "notes": "Strong beginner decision topic. Avoid pretending there is one universal purchase day."
+  },
+  {
+    "slug": "first-animal-building-decision",
+    "title": "First Animal Building Decision: Why Comfort Matters More Than Rankings",
+    "category": "animals",
+    "guidePromise": "This guide helps players decide whether an animal building fits their current routine before comparing profit.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Animals",
+      "https://stardewvalleywiki.com/Coop",
+      "https://stardewvalleywiki.com/Barn",
+      "https://stardewvalleywiki.com/Robin%27s_Carpenter_Shop"
+    ],
+    "confidence": "medium",
+    "patchSensitivity": "medium",
+    "recommendedStage": "defer until animal cost QA",
+    "risk": "medium",
+    "notes": "Do not publish profit ranking without verifying building and product costs."
+  },
+  {
+    "slug": "festival-planning-for-beginners",
+    "title": "Festival Planning for Beginners: How Events Change Your Week",
+    "category": "progression",
+    "guidePromise": "This guide helps new players plan around festivals without losing crops, errands, or tool timing.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Festivals",
+      "https://stardewvalleywiki.com/Calendar",
+      "https://stardewvalleywiki.com/Days_of_the_Week"
+    ],
+    "confidence": "medium",
+    "patchSensitivity": "low",
+    "recommendedStage": "S7 candidate",
+    "risk": "low",
+    "notes": "Useful progression guide. Verify event dates before production examples."
+  },
+  {
+    "slug": "first-winter-preparation",
+    "title": "First Winter Preparation: What to Set Up Before Crops Slow Down",
+    "category": "progression",
+    "guidePromise": "This guide helps Year 1 players prepare for Winter as a planning season rather than a dead season.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Winter",
+      "https://stardewvalleywiki.com/Winter_Seeds",
+      "https://stardewvalleywiki.com/The_Mines",
+      "https://stardewvalleywiki.com/Fishing"
+    ],
+    "confidence": "medium",
+    "patchSensitivity": "medium",
+    "recommendedStage": "S7 candidate",
+    "risk": "low-medium",
+    "notes": "Good continuation after Fall prep. Avoid late-game or perfection routing."
+  },
+  {
+    "slug": "museum-donations-early-game",
+    "title": "Museum Donations in the Early Game: What to Donate, Save, or Sell",
+    "category": "progression",
+    "guidePromise": "This guide helps early players think through museum donations without needing a complete artifact checklist.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Museum",
+      "https://stardewvalleywiki.com/Artifacts",
+      "https://stardewvalleywiki.com/Minerals"
+    ],
+    "confidence": "medium",
+    "patchSensitivity": "medium",
+    "recommendedStage": "S7 candidate after local mineral/artifact data check",
+    "risk": "medium",
+    "notes": "Needs local data alignment because project has minerals but not a full artifact production module yet."
+  },
+  {
+    "slug": "first-farm-layout-thinking",
+    "title": "First Farm Layout Thinking: Paths, Crops, Machines, and Future Space",
+    "category": "farming",
+    "guidePromise": "This guide helps beginners leave room for future systems without copying a layout template.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Farm_Maps",
+      "https://stardewvalleywiki.com/Crafting",
+      "https://stardewvalleywiki.com/Sprinkler"
+    ],
+    "confidence": "medium",
+    "patchSensitivity": "medium",
+    "recommendedStage": "S7 candidate",
+    "risk": "low-medium",
+    "notes": "No screenshots or copied layouts. Keep it conceptual and player-decision focused."
+  }
+]
