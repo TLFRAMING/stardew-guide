@@ -20,6 +20,14 @@ export function getStardewGuideArticleBySlug(slug: string): StardewGuideArticle 
   return getAllStardewGuideArticles().find((article) => article.slug === slug);
 }
 
+export function getStardewGuideArticlesBySlugs(slugs: string[]): StardewGuideArticle[] {
+  const articles = getAllStardewGuideArticles();
+
+  return slugs
+    .map((slug) => articles.find((article) => article.slug === slug))
+    .filter((article): article is StardewGuideArticle => Boolean(article));
+}
+
 function parseArticle(fileName: string): StardewGuideArticle | undefined {
   const filePath = path.join(articleDirectory, fileName);
   const raw = readFileSync(filePath, "utf8");
@@ -41,8 +49,11 @@ function parseArticle(fileName: string): StardewGuideArticle | undefined {
   };
 }
 
+type RelatedDataLink = NonNullable<StardewGuideArticleMeta["relatedDataLinks"]>[number];
+type FrontmatterValue = string | string[] | RelatedDataLink[];
+
 function parseFrontmatter(frontmatter: string): StardewGuideArticleMeta {
-  const meta: Record<string, string | string[]> = {};
+  const meta: Record<string, FrontmatterValue> = {};
   const lines = frontmatter.split(/\r?\n/);
 
   for (let index = 0; index < lines.length; index += 1) {
@@ -54,6 +65,36 @@ function parseFrontmatter(frontmatter: string): StardewGuideArticleMeta {
     }
 
     const [, key, rawValue] = pair;
+
+    if (rawValue === "" && key === "relatedDataLinks") {
+      const values: RelatedDataLink[] = [];
+
+      while (lines[index + 1]?.trim().startsWith("- ")) {
+        index += 1;
+        const firstPair = lines[index].trim().replace(/^- /, "").match(/^(label|href):\s*(.*)$/);
+        const link: Partial<RelatedDataLink> = {};
+
+        if (firstPair) {
+          link[firstPair[1] as keyof RelatedDataLink] = unquote(firstPair[2]);
+        }
+
+        while (lines[index + 1]?.match(/^\s+(label|href):\s*/)) {
+          index += 1;
+          const nestedPair = lines[index].trim().match(/^(label|href):\s*(.*)$/);
+
+          if (nestedPair) {
+            link[nestedPair[1] as keyof RelatedDataLink] = unquote(nestedPair[2]);
+          }
+        }
+
+        if (link.label && link.href) {
+          values.push({ label: link.label, href: link.href });
+        }
+      }
+
+      meta[key] = values;
+      continue;
+    }
 
     if (rawValue === "") {
       const values: string[] = [];
@@ -78,7 +119,8 @@ function parseFrontmatter(frontmatter: string): StardewGuideArticleMeta {
     lastChecked: stringValue(meta.lastChecked),
     confidence: stringValue(meta.confidence) as StardewGuideArticleMeta["confidence"],
     patchSensitivity: stringValue(meta.patchSensitivity) as StardewGuideArticleMeta["patchSensitivity"],
-    sourceUrls: Array.isArray(meta.sourceUrls) ? meta.sourceUrls : []
+    sourceUrls: stringArrayValue(meta.sourceUrls),
+    relatedDataLinks: relatedDataLinkValue(meta.relatedDataLinks)
   };
 }
 
@@ -176,8 +218,28 @@ function getReadingTimeMinutes(markdown: string) {
   return Math.max(1, Math.ceil(words.length / 220));
 }
 
-function stringValue(value: string | string[] | undefined) {
-  return Array.isArray(value) ? value[0] ?? "" : value ?? "";
+function stringValue(value: FrontmatterValue | undefined) {
+  if (typeof value === "string") {
+    return value;
+  }
+
+  if (Array.isArray(value) && typeof value[0] === "string") {
+    return value[0];
+  }
+
+  return "";
+}
+
+function stringArrayValue(value: FrontmatterValue | undefined) {
+  return Array.isArray(value) && value.every((item) => typeof item === "string") ? value : [];
+}
+
+function relatedDataLinkValue(value: FrontmatterValue | undefined) {
+  return Array.isArray(value) && value.every(isRelatedDataLink) ? value : undefined;
+}
+
+function isRelatedDataLink(value: string | RelatedDataLink): value is RelatedDataLink {
+  return typeof value !== "string" && typeof value.label === "string" && typeof value.href === "string";
 }
 
 function unquote(value: string) {

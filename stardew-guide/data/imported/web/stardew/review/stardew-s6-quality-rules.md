@@ -175,6 +175,34 @@ New guide surfaces need at least one stable internal discovery path. For S4/S5, 
 
 Do not add every new guide to global navigation.
 
+### 13. Resource Summary And Internal Links
+
+Every new production guide should identify the Stardew resources it meaningfully touches before publication. Add those references as `relatedDataLinks` in frontmatter when there is a real user path from the guide to a database/tool page.
+
+Allowed internal links include:
+
+- `/stardew/crops`
+- `/stardew/fish`
+- `/stardew/forage`
+- `/stardew/fruit-trees`
+- `/stardew/minerals`
+- `/stardew/community-center`
+- `/stardew/money`
+- `/stardew/database`
+- `/stardew/guides`
+
+Example:
+
+```yaml
+relatedDataLinks:
+  - label: "Fish Calendar"
+    href: "/stardew/fish"
+  - label: "Money-Making Guides"
+    href: "/stardew/money"
+```
+
+Do not add unrelated links just to increase clicks. The link should help a player check concrete data after reading the guide.
+
 ## Review Checklist For Each Future Batch
 
 Before approving production, confirm:
@@ -186,6 +214,7 @@ Before approving production, confirm:
 - no image URLs or hotlinks are present;
 - no copied wiki/guide structure is present;
 - no "best route", "most optimal", "current meta", or unsupported ranking claim is present;
+- guide resources are summarized and useful internal links are added through `relatedDataLinks` where relevant;
 - high-risk topics are either deferred or explicitly bounded;
 - sitemap includes only approved production pages;
 - `npm.cmd run build` passes;
