@@ -67,6 +67,7 @@ const groups: HubGroup[] = [
     name: "Other Tools",
     tone: "border-green-950/14 bg-green-950/[0.04]",
     items: [
+      { title: "Guides", href: "/stardew/guides", note: "Beginner and progression decision guides.", status: "Live" },
       { title: "Community Center", href: "/stardew/community-center", note: "Bundle tracker with local progress.", status: "Live" },
       { title: "Money Guides", href: "/stardew/money", note: "Source-reviewed strategy overviews.", status: "Live" }
     ]
