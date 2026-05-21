@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-type CardTone = "meadow" | "pond" | "berry" | "gold";
+type CardTone = "meadow" | "pond" | "berry" | "gold" | "guide";
 
 const toneStyles: Record<CardTone, { className: string; markerText: string }> = {
   meadow: {
@@ -18,6 +18,10 @@ const toneStyles: Record<CardTone, { className: string; markerText: string }> = 
   gold: {
     className: "codex-entry-gold",
     markerText: "Tracker"
+  },
+  guide: {
+    className: "codex-entry-meadow",
+    markerText: "Guides"
   }
 };
 

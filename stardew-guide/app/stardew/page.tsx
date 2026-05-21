@@ -4,10 +4,16 @@ import { PageShell } from "@/components/PageShell";
 
 export const metadata: Metadata = {
   title: "Player Codex | Stardew Guide",
-  description: "Player Codex hosts a fan-made Stardew Valley guide for villagers, crops, fish, and Community Center bundles."
+  description: "Player Codex hosts fan-made Stardew Valley guides, database tools, villagers, crops, fish, and Community Center bundles."
 };
 
 const features = [
+  {
+    href: "/stardew/guides",
+    title: "Beginner Guides",
+    description: "Read original Stardew Valley decision guides for first-week planning, energy, mining, fishing, sprinklers, tools, and Fall prep.",
+    tone: "guide" as const
+  },
   {
     href: "/stardew/villagers",
     title: "Villager Gift Finder",
@@ -35,7 +41,7 @@ const features = [
   {
     href: "/stardew/money",
     title: "Money-Making Guides",
-    description: "Compare five Stardew Valley money routes, from keg empires to fish smokers.",
+    description: "Compare original Stardew Valley money routes, from early cash bridges to artisan scaling.",
     tone: "gold" as const
   }
 ];
