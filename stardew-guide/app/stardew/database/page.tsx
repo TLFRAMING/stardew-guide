@@ -32,8 +32,8 @@ const groups: HubGroup[] = [
     items: [
       { title: "Crops", href: "/stardew/crops", note: "Season, price, and growth references.", status: "Live" },
       { title: "Fruit Trees", href: "/stardew/fruit-trees", note: "Sapling prices, seasons, and fruit values.", status: "Live" },
-      { title: "Animals", note: "Planned barn and coop reference.", status: "Planned" },
-      { title: "Animal Products", note: "Planned products reference.", status: "Planned" }
+      { title: "Animals", href: "/stardew/animals", note: "Barn and coop animals, unlocks, products, and care notes.", status: "Live" },
+      { title: "Animal Products", href: "/stardew/animal-products", note: "Eggs, milk, wool, truffles, processing, and bundle uses.", status: "Live" }
     ]
   },
   {

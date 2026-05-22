@@ -94,6 +94,30 @@ export type Mineral = StardewDataSource & {
   beginnerNote: string;
 };
 
+export type Animal = StardewDataSource & {
+  id: string;
+  slug: string;
+  name: string;
+  building: "Coop" | "Barn";
+  unlock: string;
+  purchaseSource: string;
+  products: string[];
+  careNotes: string[];
+  beginnerNote: string;
+};
+
+export type AnimalProduct = StardewDataSource & {
+  id: string;
+  slug: string;
+  name: string;
+  producedBy: string[];
+  sourceBuilding: "Coop" | "Barn" | "Mixed";
+  sellPrice: number | VerificationValue;
+  processingUses: string[];
+  bundleUsage: string[];
+  beginnerNote: string;
+};
+
 export type BundleItem = {
   id: string;
   name: string;
