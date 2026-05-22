@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import { DataCard, SourceLine } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
 import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
-import { getAllAnimalProducts, getAnimalProductBySlug } from "@/lib/stardew/data";
+import { getAllAnimalProducts, getAllAnimals, getAnimalProductBySlug } from "@/lib/stardew/data";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 
 export const dynamicParams = false;
@@ -42,6 +43,7 @@ export default async function AnimalProductDetailPage({ params }: { params: Prom
     "community-center-priority-route",
     "first-winter-preparation"
   ]);
+  const animalLinks = getAllAnimals().filter((animal) => product.producedBy.includes(animal.name));
 
   return (
     <PageShell eyebrow="Animal Products Database" title={product.name}>
@@ -60,6 +62,20 @@ export default async function AnimalProductDetailPage({ params }: { params: Prom
           </dl>
           <SourceLine lastChecked={product.lastChecked} sourceUrls={product.sourceUrls} />
         </DataCard>
+
+        {animalLinks.length > 0 ? (
+          <DataCard>
+            <h2 className="text-lg font-black text-green-950">Animals that produce this item</h2>
+            <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">Use these links to check unlock path, building tier, and care notes before planning the product.</p>
+            <div className="mt-4 flex flex-wrap gap-2">
+              {animalLinks.map((animal) => (
+                <Link className="rounded-md border border-pond/20 bg-pond/10 px-3 py-2 text-sm font-black text-pond transition hover:bg-pond/15" href={`/stardew/animals/${animal.slug}`} key={animal.slug}>
+                  {animal.name}
+                </Link>
+              ))}
+            </div>
+          </DataCard>
+        ) : null}
 
         <RelatedStardewGuides articles={relatedGuides} title="Guides for animal products, bundles, and farm planning" />
       </div>

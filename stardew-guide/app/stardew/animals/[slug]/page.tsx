@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import { DataCard, SourceLine, TagList } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
 import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
-import { getAllAnimals, getAnimalBySlug } from "@/lib/stardew/data";
+import { getAllAnimalProducts, getAllAnimals, getAnimalBySlug } from "@/lib/stardew/data";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 
 export const dynamicParams = false;
@@ -42,6 +43,7 @@ export default async function AnimalDetailPage({ params }: { params: Promise<{ s
     "community-center-priority-route",
     "first-winter-preparation"
   ]);
+  const productLinks = getAllAnimalProducts().filter((product) => animal.products.includes(product.name));
 
   return (
     <PageShell eyebrow="Animals Database" title={animal.name}>
@@ -60,6 +62,20 @@ export default async function AnimalDetailPage({ params }: { params: Promise<{ s
           <TagList label="Care notes" values={animal.careNotes} />
           <SourceLine lastChecked={animal.lastChecked} sourceUrls={animal.sourceUrls} />
         </DataCard>
+
+        {productLinks.length > 0 ? (
+          <DataCard>
+            <h2 className="text-lg font-black text-green-950">Products from this animal</h2>
+            <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">Open the linked product pages to compare sell value, processing use, and bundle relevance.</p>
+            <div className="mt-4 flex flex-wrap gap-2">
+              {productLinks.map((product) => (
+                <Link className="rounded-md border border-pond/20 bg-pond/10 px-3 py-2 text-sm font-black text-pond transition hover:bg-pond/15" href={`/stardew/animal-products/${product.slug}`} key={product.slug}>
+                  {product.name}
+                </Link>
+              ))}
+            </div>
+          </DataCard>
+        ) : null}
 
         <RelatedStardewGuides articles={relatedGuides} title="Guides for animal buildings and bundle planning" />
       </div>
