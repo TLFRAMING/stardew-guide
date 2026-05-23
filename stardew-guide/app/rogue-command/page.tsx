@@ -8,7 +8,18 @@ import type { RogueCommandArticle } from "@/lib/rogue-command/types";
 export const metadata: Metadata = {
   title: "Rogue Command | Player Codex",
   description:
-    "Source-reviewed introduction to Rogue Command, a single-player RTS with roguelite build crafting, staged as a future Player Codex guide module."
+    "Source-reviewed Rogue Command beginner guides, systems primers, Specialist notes, and progression advice with patch-sensitive metadata.",
+  alternates: {
+    canonical: "https://playercodex.app/rogue-command"
+  },
+  openGraph: {
+    title: "Rogue Command | Player Codex",
+    description:
+      "Source-reviewed Rogue Command beginner guides, systems primers, Specialist notes, and progression advice with patch-sensitive metadata.",
+    url: "https://playercodex.app/rogue-command",
+    siteName: "Player Codex",
+    type: "website"
+  }
 };
 
 const verifiedFacts = [
@@ -74,6 +85,7 @@ const readingPaths: Array<{ category: string; title: string; note: string }> = [
 export default function RogueCommandPage() {
   const articles = getAllRogueCommandArticles();
   const articleGroups = getRogueCommandArticlesByCategory();
+  const firstArticle = articles[0];
   const categoryEntries = readingPaths
     .map((path) => [path.category, articleGroups[path.category] ?? []] as const)
     .filter(([, groupArticles]) => groupArticles.length > 0);
@@ -92,10 +104,20 @@ export default function RogueCommandPage() {
             <p className="text-sm font-semibold leading-6 text-green-950/62">
               The articles are written as practical player guidance, but they do not publish current-version tier lists, best-build rankings, or unverified optimal routes.
             </p>
+            <div className="flex flex-wrap gap-2 pt-1">
+              {firstArticle ? (
+                <Link className="rounded-sm border border-green-950/14 bg-green-950/[0.06] px-3 py-2 text-sm font-black text-green-950 transition hover:bg-green-950/[0.1]" href={`/rogue-command/${firstArticle.slug}`}>
+                  Start with the first guide
+                </Link>
+              ) : null}
+              <a className="rounded-sm border border-green-950/14 bg-white/70 px-3 py-2 text-sm font-black text-green-950 transition hover:bg-white" href="#guides">
+                Browse guide path
+              </a>
+            </div>
           </div>
         </section>
 
-        <section className="rounded-md border border-green-950/10 bg-white/80 px-4 py-5 sm:px-5">
+        <section className="scroll-mt-24 rounded-md border border-green-950/10 bg-white/80 px-4 py-5 sm:px-5" id="guides">
           <div className="grid gap-5 lg:grid-cols-[1.2fr_0.8fr]">
             <div className="space-y-3">
               <h2 className="text-base font-black text-green-950">Overview</h2>
@@ -211,6 +233,9 @@ export default function RogueCommandPage() {
                   <span className="block">{source.title}</span>
                   <span className="mt-1 block text-[0.68rem] uppercase tracking-[0.12em] text-green-950/48">
                     {source.publisher} / {sourceTypeLabels[source.sourceType] ?? source.sourceType}
+                  </span>
+                  <span className="mt-1 block text-[0.68rem] uppercase tracking-[0.12em] text-green-950/42">
+                    {source.confidence} confidence / checked {source.lastChecked}
                   </span>
                 </Link>
               ))}

@@ -41,7 +41,17 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
   return {
     title: `${article.title} | Player Codex`,
-    description: article.summary
+    description: article.summary,
+    alternates: {
+      canonical: `https://playercodex.app/rogue-command/${article.slug}`
+    },
+    openGraph: {
+      title: `${article.title} | Player Codex`,
+      description: article.summary,
+      url: `https://playercodex.app/rogue-command/${article.slug}`,
+      siteName: "Player Codex",
+      type: "article"
+    }
   };
 }
 
@@ -67,6 +77,24 @@ export default async function RogueCommandArticlePage({ params }: { params: Prom
   return (
     <PageShell eyebrow="Rogue Command Guide" kicker={article.summary} title={article.title}>
       <article className="space-y-5">
+        <nav aria-label="Breadcrumb" className="rounded-md border border-green-950/10 bg-white/70 px-4 py-3 text-sm font-black text-green-950/58 sm:px-5">
+          <ol className="flex flex-wrap items-center gap-2">
+            <li>
+              <Link className="hover:text-green-950" href="/">
+                Player Codex
+              </Link>
+            </li>
+            <li aria-hidden="true">/</li>
+            <li>
+              <Link className="hover:text-green-950" href="/rogue-command">
+                Rogue Command
+              </Link>
+            </li>
+            <li aria-hidden="true">/</li>
+            <li className="text-green-950">{categoryLabels[article.category] ?? article.category}</li>
+          </ol>
+        </nav>
+
         <section className="rounded-md border border-green-950/10 bg-white/85 px-4 py-4 sm:px-5">
           <div className="flex flex-wrap gap-2">
             <span className="rounded-sm bg-green-950/[0.06] px-2.5 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/55">
@@ -141,6 +169,9 @@ export default async function RogueCommandArticlePage({ params }: { params: Prom
                   <span className="block">{source.title}</span>
                   <span className="mt-1 block text-[0.68rem] uppercase tracking-[0.12em] text-green-950/48">
                     {source.publisher} / {source.sourceType}
+                  </span>
+                  <span className="mt-1 block text-[0.68rem] uppercase tracking-[0.12em] text-green-950/42">
+                    {source.confidence} confidence / checked {source.lastChecked}
                   </span>
                 </Link>
               ))}
