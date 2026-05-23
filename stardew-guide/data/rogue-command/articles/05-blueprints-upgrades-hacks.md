@@ -14,7 +14,7 @@ sourceIds:
 
 This guide helps players draft rewards by solving real run problems instead of chasing abstract power. Rogue Command's reward system gives you Blueprints, Upgrades, and Hacks, but each one changes a different layer of the run.
 
-Good drafting starts after the fight, not on the reward screen. First identify what the last map exposed. Then pick the reward that makes the next map less likely to punish the same weakness.
+Good drafting starts after the fight, not on the reward screen. First identify what the last map exposed. Then pick the reward that makes the next map less likely to punish the same weakness. If you cannot name the weakness, take the practical option that keeps the army and economy stable.
 
 ## Blueprints Give You New Tools
 
@@ -39,6 +39,17 @@ Use Hacks when they connect to something already happening in the run or when yo
 Use a short decision tree. If you cannot survive contact, draft defense, control, or cheaper replacement tools. If fights take too long, draft damage or scaling for the current army. If the economy is threatened, draft map control, defensive structures, or mobility. If the build already has a clear mechanic, draft the reward that deepens it.
 
 This is not a ranking system. The same reward can be correct in one run and a distraction in another.
+
+## Use This Decision Order
+
+When several rewards look useful, sort them in this order:
+
+1. Does one reward prevent the next likely loss?
+2. Does one reward improve the army or structure you already rely on?
+3. Does one reward create a new job your army is missing?
+4. Does one reward need a trigger you do not yet have?
+
+The fourth answer is the danger zone. A reward that needs missing support can become strong later, but it should not replace a reward that solves a problem already visible on the map.
 
 ## Common Drafting Mistakes
 

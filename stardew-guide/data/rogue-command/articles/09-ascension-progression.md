@@ -15,7 +15,7 @@ sourceIds:
 
 This guide helps players approach Ascension as a learning curve, not a race to a fixed route. Official sources frame a first win as the beginning, with Ascensions and Heat Levels adding escalating pressure. The higher you climb, the more every loose habit costs.
 
-The point is not to find a universal climb route. The point is to identify which mistakes each layer starts punishing.
+The point is not to find a universal climb route. The point is to identify which mistakes each layer starts punishing, then raise pressure only when the previous layer is failing later and for clearer reasons.
 
 ## Low Ascension: Prove the Fundamentals
 
@@ -40,6 +40,17 @@ Use slow time to execute decisions you already made, not to invent a plan after 
 Heat Levels should be treated as pressure tests for routes you understand. If you cannot explain how the run handles early economy, army preservation, reward direction, and dangerous map conditions, Heat will expose that uncertainty quickly.
 
 Do not use Heat to validate a half-built idea. Use it to test whether a working idea remains stable under pressure.
+
+## Before Raising Pressure, Confirm This
+
+Move upward only when you can answer these questions after most losses:
+
+- What was the first expensive mistake?
+- Was the reward plan connected to the army you were actually producing?
+- Did the Engineer stay behind controlled space until the run was already unstable?
+- Did higher pressure reveal a new problem, or repeat an old one?
+
+If the same mistake repeats, stay at the current pressure and fix it. If the mistake changes, the run is teaching you something useful.
 
 ## Review Losses by the First Expensive Error
 

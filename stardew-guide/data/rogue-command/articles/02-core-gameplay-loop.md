@@ -14,7 +14,7 @@ sourceIds:
 
 This guide helps players understand how a Rogue Command run becomes a build. The answer is not a fixed order. A run grows from map control, army preservation, resource tempo, and reward choices that respond to what is actually happening.
 
-The official description frames the game as RTS combat reinforced by roguelite build crafting. That order matters. You fight the map first, then draft tools that change how the next fight works.
+The official description frames the game as RTS combat reinforced by roguelite build crafting. That order matters. You fight the map first, then draft tools that change how the next fight works. A strong run is not a script; it is a loop that keeps answering the current map.
 
 ## Map Control Comes Before Build Fantasy
 
@@ -33,6 +33,17 @@ Preservation does not mean never losing units. It means protecting the units tha
 After each battle, do not ask which reward is generically powerful. Ask two questions. What problem did the last map reveal? What will the next map punish if I ignore that problem?
 
 Blueprints add options to build. Upgrades improve something you already have. Hacks bend rules and can turn a mechanic into a run identity. The correct pick is the one that makes your next fight more controllable. If a reward needs several missing pieces, treat it as a risk, not a plan.
+
+## Use This Map-Start Checklist
+
+Before moving deep into a new map, make four quick decisions:
+
+- Where can the Engineer stand without becoming the first target?
+- Which route keeps the Harvester or economy line protected?
+- Which unit group is allowed to make first contact?
+- What is the retreat path if the fight starts badly?
+
+This checklist matters because rewards only help if the army gets to use them. If the opening move loses position, the rest of the map becomes recovery instead of build development.
 
 ## Long-Term Progression Changes the Next Attempt
 

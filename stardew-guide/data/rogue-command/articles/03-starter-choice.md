@@ -15,7 +15,7 @@ sourceIds:
 
 This guide helps players choose a starting setup without reducing the decision to a Specialist ranking. A Rogue Command run starts from three linked choices: Engineer, Economy, and Specialist. If you evaluate only the Specialist, you miss the tempo that actually keeps the run alive.
 
-Use this as a decision framework, not as a universal answer. Specific mechanics and Specialist details are patch-sensitive where they rely on wiki-backed structure.
+Use this as a decision framework, not as a universal answer. The best starting setup for your next run is the one that makes your most common failure easier to control. Specific mechanics and Specialist details are patch-sensitive where they rely on wiki-backed structure.
 
 ## Engineer: How Safely Can You Operate?
 
@@ -40,6 +40,17 @@ Do not treat the Specialist list as a power chart. Treat it as a question about 
 A stable opening has all three corners: Engineer safety, economy tempo, and Specialist purpose. If one corner is weak, your first rewards should repair it.
 
 For example, if the Specialist wants time to scale, the economy and base need enough defense to survive. If the economy wants map space, the Specialist should help claim or protect it. If the Engineer is fragile or hard to reposition, avoid greedy expansions until you can cover the route.
+
+## Choose by the Problem You Want to Make Easier
+
+Use your recent losses as the selector:
+
+- If the Engineer dies first, choose and play around safer movement, slower expansion, and clearer escort habits.
+- If production falls behind, choose an opening that keeps the army plan simple and affordable.
+- If fights drag on, choose a Specialist identity that gives you a clearer combat job.
+- If rewards feel random, repeat one setup for several runs so you can see what actually changes.
+
+This is more useful than chasing a roster verdict. A setup that teaches you your own failure pattern is worth more than a setup you cannot pilot cleanly.
 
 ## When to Experiment
 

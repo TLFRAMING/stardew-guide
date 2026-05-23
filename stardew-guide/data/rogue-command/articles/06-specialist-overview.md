@@ -15,7 +15,17 @@ sourceIds:
 
 This guide helps players read Specialist identity without turning the roster into a ranking. A Specialist is the combat foundation of a run. It changes what the early army is good at and what kinds of rewards become attractive later.
 
-Because Specialist mechanics and balance are patch-sensitive, this article describes roles and player fit. It does not claim current-version strength order.
+Because Specialist mechanics and balance are patch-sensitive, this article describes roles and player fit. It does not claim current-version strength order. Read each Specialist as a question: what problem does this identity make easier, and what mistake does it punish harder?
+
+## How to Read a Specialist Safely
+
+Before judging a Specialist, separate three things:
+
+- Role: what kind of fight or map pattern it naturally supports.
+- Requirement: what the player must do for that role to matter.
+- Failure mode: what happens when the role is forced into the wrong situation.
+
+This keeps the roster useful without turning uncertain balance notes into a verdict. It also helps you pick rewards that support the role you are actually playing.
 
 ## Castle: For Players Who Want a Position to Fight From
 

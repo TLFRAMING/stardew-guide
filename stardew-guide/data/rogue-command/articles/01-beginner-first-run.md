@@ -14,7 +14,7 @@ sourceIds:
 
 This guide helps new players make better first-run decisions in Rogue Command 1.0. The goal is not to win with a perfect route. The goal is to leave the run understanding what broke: Engineer safety, economy, production, army control, or reward direction.
 
-Rogue Command gives you roguelite rewards after battles, but the fight itself is still an RTS. If the base is idle, the Harvester is exposed, and the Engineer is walking into danger, no clever Hack will save the run. Treat the first few attempts as training for the command layer.
+Rogue Command gives you roguelite rewards after battles, but the fight itself is still an RTS. If the base is idle, the Harvester is exposed, and the Engineer is walking into danger, no clever Hack will save the run. Treat the first few attempts as training for the command layer: protect the Engineer, keep Crystal moving, produce before greed, and draft around the last thing that nearly killed you.
 
 ## The First Principle: The Engineer Is Not a Scout
 
@@ -27,6 +27,18 @@ Before crossing into new space, send units ahead, slow time if enemies appear, t
 New players often separate economy from combat, but in Rogue Command they are the same tempo problem. Crystal is only useful when it becomes production, and production is only useful when the army survives long enough to matter.
 
 After each fight, run a short check. Is the Harvester still working? Is the production structure queued or idle? Do you have enough army to protect the next resource move? If Crystal is floating, add production or units. If production is idle because Crystal is missing, stop expanding the army plan and secure economy first.
+
+## Run This Five-Point Check After Every Fight
+
+Use the same check even when the fight felt easy:
+
+- Is the Engineer behind controlled space?
+- Is the Harvester working without crossing unknown danger?
+- Is production queued instead of sitting idle?
+- Did any key unit survive that the next reward should support?
+- Did the last fight reveal a clear weakness?
+
+If two or more answers are weak, stabilize before pushing. First-run losses usually come from stacking small problems until one enemy wave turns them into a collapse.
 
 ## Use Slow Time Before the Crisis Peaks
 

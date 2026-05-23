@@ -14,7 +14,7 @@ sourceIds:
 
 This guide helps Mantis Mech players make better consumption decisions. Mantis is not just a melee unit with a dramatic mechanic. It is a Specialist that asks you to convert part of your army into long-term power without collapsing the army that has to win the next fight.
 
-The exact numbers and current balance details are wiki-backed and patch-sensitive. The decision framework is the important part: what do you eat, when do you eat it, and what does the army still need afterward?
+The exact numbers and current balance details are wiki-backed and patch-sensitive. The decision framework is the important part: what do you eat, when do you eat it, and what does the army still need afterward? A good Mantis run grows stronger without deleting the army that makes that growth usable.
 
 ## Consumption Is a Timing Decision
 
@@ -27,6 +27,17 @@ Look for consumption windows after a fight is stabilized, when the next map's ne
 A good target is replaceable, outdated, redundant, or deliberately disposable. If you have two units filling the same job and one is no longer needed, that is a candidate. If a unit's role was early defense and the build has moved beyond it, that can work. If a reward makes sacrifice valuable, the target pool changes.
 
 Bad targets are easier to spot. Do not consume your only control piece, your only anti-swarm answer, your only protection for the Engineer, or the unit that lets the rest of the army deal damage safely.
+
+## Do Not Consume If...
+
+Skip the consumption even when it looks efficient if:
+
+- the unit is the only thing protecting the Engineer route;
+- the next fight needs that unit's range, control, or durability;
+- production cannot replace the lost role quickly;
+- Mantis would become strong while the base becomes undefended.
+
+The question is not whether consumption is valuable in isolation. The question is whether the next map is still playable after the unit disappears.
 
 ## Mantis Still Needs an Army
 

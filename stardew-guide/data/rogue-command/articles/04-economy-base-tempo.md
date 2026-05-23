@@ -15,7 +15,7 @@ sourceIds:
 
 This guide helps players diagnose economy losses in Rogue Command. Most economy problems are not just "not enough Crystal." They are timing problems between harvesting, production, map control, and base safety.
 
-The practical goal is to keep resources moving through a chain: Crystal becomes production, production becomes army presence, army presence protects more map, and more map supports the next economy step.
+The practical goal is to keep resources moving through a chain: Crystal becomes production, production becomes army presence, army presence protects more map, and more map supports the next economy step. When that chain breaks, pause the push and repair the earliest weak link.
 
 ## Crystal Is Only Useful When It Becomes Action
 
@@ -40,6 +40,17 @@ Choose defense when Crystal flow is fragile, when the base has multiple entrance
 Adding a new Blueprint is not the same as adding a working unit line. You need resources, build space, and time to make it matter. If you keep adding options while older production sits idle, your base is becoming complicated without becoming stronger.
 
 When a reward changes the plan, decide what production line it replaces or supports. If nothing changes, keep producing the army that already wins fights.
+
+## Do This After Each Fight
+
+Treat downtime as part of combat, not as a break:
+
+- Recheck the Harvester route before sending the Engineer forward.
+- Queue the next units or structures before scouting farther.
+- Move damaged or important units out of unnecessary danger.
+- Decide whether the next reward should fix defense, damage, economy, or control.
+
+If the next attack begins while production is idle and the Engineer is exposed, the economy mistake already happened before enemies arrived.
 
 ## Review Economy Collapse by First Failure
 

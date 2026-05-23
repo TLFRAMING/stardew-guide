@@ -15,7 +15,7 @@ sourceIds:
 
 This guide helps players understand Support Tank as a value-preservation Specialist. It is not a solo carry and should not be judged by how quickly it clears a map alone. Its job is to keep the units that matter alive long enough for the army to win.
 
-That makes Support Tank a tempo tool. Fewer losses mean less Crystal spent replacing units, less downtime rebuilding the army, and more freedom to draft rewards that improve a stable plan.
+That makes Support Tank a tempo tool. Fewer losses mean less Crystal spent replacing units, less downtime rebuilding the army, and more freedom to draft rewards that improve a stable plan. The run improves when protection is aimed at the unit that actually decides the fight.
 
 ## Identify the Unit That Decides the Fight
 
@@ -34,6 +34,17 @@ Track this mentally. After a fight, ask whether support prevented a rebuild. If 
 Support does not matter if the army is scattered. Keep the Support Tank close enough to affect the units that matter but not so far forward that it becomes the first target. Let durable units or summons make contact, then stabilize the part of the army taking meaningful pressure.
 
 When enemies split your attention, use slow time to choose a priority. Support Tank cannot solve every lane at once. Pick the crisis that would end the run: Engineer danger, Harvester collapse, base breach, or loss of the core damage group.
+
+## Protect in This Priority Order
+
+When the fight becomes messy, choose the protected target by consequence:
+
+1. Engineer safety, because losing the run ends every other plan.
+2. The squad stopping a base or Harvester collapse.
+3. The main damage or control unit that lets the army win the fight.
+4. Replaceable units only after the core plan is stable.
+
+This order is not a mechanical rule. It is a way to avoid spending support on units that can be replaced while the real failure point goes uncovered.
 
 ## Draft Rewards That Give Support Something to Protect
 

@@ -14,7 +14,7 @@ sourceIds:
 
 This guide helps players use long-term progression as a learning tool. Rogue Command's Battle Archive and archive tokens can improve future runs, but permanent growth should not be used to hide basic mistakes.
 
-The practical question is not "where should every token go?" without testing data. The better question is: what did the last run prove I need to improve?
+The practical question is not "where should every token go?" without testing data. The better question is: what did the last run prove I need to improve? The Archive is most useful when it turns a repeated weakness into a clearer next attempt.
 
 ## Start With the Loss, Not the Upgrade Screen
 
@@ -39,6 +39,17 @@ Avoid planning around a future route you cannot yet execute. The Archive should 
 Use a simple loop: play a run, name the first serious failure, choose one improvement target, then test whether the next run fails later or differently. If the same problem repeats, the issue is probably gameplay habit rather than missing progression.
 
 This keeps the Battle Archive tied to learning. You are not just collecting bonuses; you are making better decisions with each attempt.
+
+## Archive Review Template
+
+After each run, write four short notes:
+
+- First failure: the earliest mistake that made the run unstable.
+- Cost: what that mistake damaged, such as army, economy, Engineer safety, or reward direction.
+- Growth target: what permanent progress could make the next attempt more stable.
+- Gameplay target: what habit must change even if the Archive helps.
+
+This prevents permanent growth from becoming a vague comfort pick. It keeps the next run focused on a specific improvement.
 
 ## What Not to Claim Yet
 
