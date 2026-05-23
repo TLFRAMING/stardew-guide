@@ -12,6 +12,9 @@ export function SiteFooter() {
           <Link className="hover:text-green-950" href="/stardew">
             Stardew
           </Link>
+          <Link className="hover:text-green-950" href="/recommended-tools">
+            Tools
+          </Link>
           <Link className="hover:text-green-950" href="/about">
             About
           </Link>
