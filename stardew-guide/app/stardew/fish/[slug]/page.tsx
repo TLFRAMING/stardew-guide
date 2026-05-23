@@ -2,7 +2,10 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { DataCard, SourceLine, TagList } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
+import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
 import { getAllFish, getFishBySlug } from "@/lib/stardew/data";
+import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
+import type { Fish } from "@/lib/stardew/types";
 
 export const dynamicParams = false;
 
@@ -18,8 +21,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   return {
-    title: `${item.name} Fish Guide | Stardew Guide | Player Codex`,
-    description: item.beginnerNote ?? item.description ?? `Fish details for ${item.name}.`
+    title: `${item.name} Stardew Fish: Location, Time, Weather`,
+    description: buildFishMetaDescription(item)
   };
 }
 
@@ -35,9 +38,16 @@ export default async function FishDetailPage({ params }: { params: Promise<{ slu
     notFound();
   }
 
+  const relatedGuides = getStardewGuideArticlesBySlugs(getRelatedFishGuideSlugs(item));
+
   return (
     <PageShell eyebrow="Fish Calendar" title={item.name}>
       <div className="space-y-4">
+        <DataCard>
+          <h2 className="text-xl font-black text-green-950">{item.name} quick answer</h2>
+          <p className="mt-3 text-sm leading-6 text-green-950/72">{buildFishQuickAnswer(item)}</p>
+        </DataCard>
+
         <DataCard>
           <p className="text-sm leading-6 text-green-950/72">{item.description ?? item.beginnerNote ?? "needs verification"}</p>
         </DataCard>
@@ -62,6 +72,8 @@ export default async function FishDetailPage({ params }: { params: Promise<{ slu
           <p className="mt-3 text-sm leading-6 text-green-950/72">{buildHowToCatch(item)}</p>
           <TagList label="Weather" values={item.weather} />
         </DataCard>
+
+        <RelatedStardewGuides articles={relatedGuides} title="Guides for fish timing, weather windows, and bundle planning" />
       </div>
     </PageShell>
   );
@@ -114,4 +126,30 @@ function buildHowToCatch(item: {
   weather: string[];
 }) {
   return `Look for ${item.name} during ${item.seasons.join(" / ")} at ${item.locations.join(", ")}. Time: ${item.time}. Weather: ${item.weather.join(", ")}.`;
+}
+
+function buildFishMetaDescription(item: Fish) {
+  return `${item.name} Stardew Valley fish details: seasons ${item.seasons.join(" / ")}, locations ${item.locations.join(", ")}, time ${item.time}, weather ${item.weather.join(", ")}, difficulty ${item.difficulty}, and bundle usage.`;
+}
+
+function buildFishQuickAnswer(item: Fish) {
+  const bundle = formatBundleUsage(item.bundleUsage);
+  const bundleText = bundle === "Yes" ? " It is used for a Community Center bundle, so check the guide links before the season changes." : "";
+
+  return `Catch ${item.name} during ${item.seasons.join(" / ")} at ${item.locations.join(", ")}. Time window: ${item.time}. Weather: ${item.weather.join(", ")}. Difficulty: ${item.difficulty}.${bundleText}`;
+}
+
+function getRelatedFishGuideSlugs(item: Fish) {
+  const slugs = ["fishing-season-weather-planning", "fishing-early-game-cash"];
+  const needsWeatherPlanning = item.weather.some((weather) => weather.toLowerCase() !== "any");
+
+  if (needsWeatherPlanning) {
+    slugs.push("rainy-day-planning");
+  }
+
+  if (formatBundleUsage(item.bundleUsage) === "Yes") {
+    slugs.push("community-center-priority-route");
+  }
+
+  return [...new Set(slugs)];
 }

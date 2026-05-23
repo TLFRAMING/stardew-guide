@@ -2,7 +2,10 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { DataCard, SourceLine } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
+import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
 import { getAllCrops, getCropBySlug } from "@/lib/stardew/data";
+import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
+import type { Crop } from "@/lib/stardew/types";
 
 export const dynamicParams = false;
 
@@ -18,8 +21,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   return {
-    title: `${crop.name} Crop Guide | Stardew Guide | Player Codex`,
-    description: crop.beginnerNote ?? crop.description ?? `Crop details for ${crop.name}.`
+    title: `${crop.name} Stardew Crop: Season, Price, Growth`,
+    description: buildCropMetaDescription(crop)
   };
 }
 
@@ -35,9 +38,16 @@ export default async function CropDetailPage({ params }: { params: Promise<{ slu
     notFound();
   }
 
+  const relatedGuides = getStardewGuideArticlesBySlugs(getRelatedCropGuideSlugs(crop));
+
   return (
     <PageShell eyebrow="Crops Database" title={crop.name}>
       <div className="space-y-4">
+        <DataCard>
+          <h2 className="text-xl font-black text-green-950">{crop.name} quick answer</h2>
+          <p className="mt-3 text-sm leading-6 text-green-950/72">{buildCropQuickAnswer(crop)}</p>
+        </DataCard>
+
         <DataCard>
           <p className="text-sm leading-6 text-green-950/72">{crop.description ?? crop.beginnerNote ?? "needs verification"}</p>
         </DataCard>
@@ -61,6 +71,8 @@ export default async function CropDetailPage({ params }: { params: Promise<{ slu
           <h2 className="text-xl font-bold text-green-950">Beginner Recommendation</h2>
           <p className="mt-3 text-sm leading-6 text-green-950/72">{buildBeginnerRecommendation(crop)}</p>
         </DataCard>
+
+        <RelatedStardewGuides articles={relatedGuides} title="Guides for crop timing, protection, and farm scaling" />
       </div>
     </PageShell>
   );
@@ -117,4 +129,35 @@ function buildBeginnerRecommendation(crop: {
   }
 
   return notes.join(" ");
+}
+
+function buildCropMetaDescription(crop: Crop) {
+  return `${crop.name} Stardew Valley crop details: season ${crop.seasons.join(" / ")}, seed source ${formatValueList(crop.seedSource)}, growth ${formatDays(crop.growthDays)}, sell price ${formatGold(crop.sellPrice)}, and beginner use notes.`;
+}
+
+function buildCropQuickAnswer(crop: Crop) {
+  const season = crop.seasons.join(" / ");
+  const growth = formatDays(crop.growthDays);
+  const regrowth = formatDays(crop.regrowthDays);
+  const sellPrice = formatGold(crop.sellPrice);
+  const seedSource = formatValueList(crop.seedSource);
+  const regrowthText = regrowth === "needs verification" ? "" : ` Regrowth: ${regrowth}.`;
+
+  return `${crop.name} grows in ${season}. It takes ${growth}, sells for ${sellPrice}, and comes from ${seedSource}.${regrowthText} Use the guide links below when deciding whether this crop fits your season plan, scarecrow coverage, or sprinkler transition.`;
+}
+
+function getRelatedCropGuideSlugs(crop: Crop) {
+  const slugs = ["sprinklers-and-farm-scaling", "first-scarecrow-crop-protection"];
+  const seasonSet = new Set(crop.seasons);
+
+  if (seasonSet.has("Spring")) {
+    slugs.push("spring-year-one-first-week");
+  }
+
+  if (seasonSet.has("Fall")) {
+    slugs.push("year-one-fall-preparation");
+  }
+
+  slugs.push("first-sprinkler-transition");
+  return [...new Set(slugs)];
 }
