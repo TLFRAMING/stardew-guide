@@ -22,48 +22,40 @@ relatedDataLinks:
 
 # Your First Sprinklers: When the Farm Starts Running Without You
 
-The first sprinkler is not just a tool for watering more crops. It is the moment your farm starts giving time back. New players often judge sprinklers only by how many tiles they cover, but the bigger question is what the saved morning energy lets you do instead.
+Your first sprinklers should reduce a real morning problem. Use them when watering is blocking mining, fishing, animals, or errands, and place them in a crop block that will still make sense after the next expansion.
 
-This guide helps beginners decide when to chase sprinklers, when to wait, and how to think about the first transition from hand-watering to automated crop care.
+## Player Pain Point
 
-## What Sprinklers Really Buy
+Players know sprinklers are important, but the first few can feel disappointing. A small number of weakly placed sprinklers may not save enough time, while rushing stronger sprinklers can drain ore and delay other progress.
 
-Sprinklers buy time, energy, and consistency. A watered tile without a morning click means you can leave the farm earlier, mine longer, fish without guilt, or run town errands before the day is half over.
+## Why It Happens
 
-That matters more as the crop field grows. If you are watering a tiny patch, a sprinkler may be convenient but not urgent. If watering consumes most of the morning, automation becomes a progression tool rather than a decoration.
+Sprinklers are a transition, not a magic switch. They need materials, farming progress, and a layout that converts automation into usable time. If the farm is too small, the gain is minor. If the farm is too large, a few sprinklers will not fix the workload by themselves.
 
-## Do Not Force Them Before The Farm Is Ready
+## Prevention Plan
 
-The first sprinkler transition has an opportunity cost. You need resources, crafting access, and often mine progress. If chasing the materials makes you miss crop care, ignore money needs, or delay a tool upgrade that would help more, the timing may be wrong.
+Place early sprinklers where they protect crops you already intend to grow. Build compact blocks, keep paths clear, and avoid designing around a future layout you cannot support yet. Decide what the saved morning time will fund: mining for more ore, fishing for cash, animal care, or Community Center checks.
 
-Ask a simple question: will this sprinkler meaningfully change tomorrow's routine? If it saves only a few seconds, you may be better off planting modestly and building toward stronger automation later. If it removes a painful part of your daily watering, it is probably worth prioritizing.
+## Recovery Plan
 
-## Basic Sprinklers Are A Teaching Tool
+If your first sprinkler setup is awkward, do not rebuild the whole farm immediately. Let current crops finish, then move the next planting into cleaner blocks. If you rushed materials and stalled other goals, stop crafting new sprinklers until cash, ore, and crop plans are stable again.
 
-Basic Sprinklers can teach placement and automation habits, but they do not have to define your whole farm. Use them when they solve a real problem: a small stable patch, a crop section you keep forgetting, or a temporary setup while you work toward better coverage.
+## Practical Checklist
 
-Avoid rebuilding the entire farm around early low-coverage automation unless you enjoy that style. The value is not only tile count. The value is learning how automated watering changes your choices.
-
-## Quality Sprinklers Change The Morning
-
-Quality Sprinklers are often the point where the farm starts to feel different. More coverage means a crop area can become a stable engine instead of a daily stamina drain. That can open better mine days, more fishing time, or a less stressful Community Center routine.
-
-The practical move is to expand crops after the watering burden is controlled, not before. If you plant a field that only feels manageable after sprinklers are finished, every delay becomes painful. Build the automation base first, then scale into it.
+- Ask what problem automation is solving before crafting.
+- Use [Crops](/stardew/crops) to plan blocks that match your field size.
+- Use [Minerals](/stardew/minerals) to plan ore pressure.
+- Convert saved watering time into one planned task.
+- Review other [Stardew Guides](/stardew/guides) if tool, mining, or scaling timing is the real bottleneck.
 
 ## Common Mistakes
 
-The first mistake is measuring sprinklers only by profit. They also change time management, which is harder to see but often more important.
-
-The second mistake is overexpanding immediately. Saved energy is useful, but huge fields still require seeds, scarecrows, harvest time, processing plans, and money to replant.
-
-The third mistake is copying a layout before understanding your routine. A clean layout can be satisfying, but it should serve the way you actually spend days.
-
-## When This Advice Changes
-
-If you enjoy manual watering and keep a small farm, sprinklers can wait. If you want mining, fishing, animals, or artisan processing to become larger parts of the save, sprinklers become more valuable earlier.
-
-Farm map, crop goals, and tool upgrades also change timing. A constrained layout or a route built around early ore may make the transition feel different from a relaxed first farm.
+- Expecting one or two sprinklers to fix an oversized field.
+- Placing sprinklers where harvesting and movement become awkward.
+- Spending ore needed for tools without noticing the tradeoff.
+- Expanding immediately after automation without checking seed money and harvest time.
+- Ignoring rainy days as chances to gather sprinkler materials.
 
 ## Source Boundary / Confidence Note
 
-This guide uses Stardew Valley Wiki mechanics for sprinkler items, farming context, and mining-related resource pressure. It does not prescribe an exact layout or optimal upgrade day. Confidence is medium because the automation logic is stable, while the right timing depends on each save.
+This guide uses Wiki references for sprinkler items, farming context, and mining-related resource pressure. It does not prescribe an exact layout or upgrade day. Confidence is medium because automation rules are stable, while timing depends on each save.

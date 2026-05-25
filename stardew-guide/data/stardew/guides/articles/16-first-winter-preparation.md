@@ -11,52 +11,57 @@ sourceUrls:
   - "https://stardewvalleywiki.com/Winter_Seeds"
   - "https://stardewvalleywiki.com/The_Mines"
   - "https://stardewvalleywiki.com/Fishing"
+relatedDataLinks:
+  - label: "Animal Products Database"
+    href: "/stardew/animal-products"
+  - label: "Animals Database"
+    href: "/stardew/animals"
+  - label: "Forage Database"
+    href: "/stardew/forage"
+  - label: "Fish Database"
+    href: "/stardew/fish"
+  - label: "Mineral Database"
+    href: "/stardew/minerals"
+  - label: "Stardew Guides"
+    href: "/stardew/guides"
 ---
 
 # First Winter Preparation: What to Set Up Before Crops Slow Down
 
-Winter can feel like the game has taken farming away. A better way to see it is that Winter removes one big daily pressure and asks whether the rest of your farm can carry progress. If Fall ends with no plan, Winter feels empty. If Fall ends with tools, materials, and goals ready, Winter becomes one of the cleanest planning seasons in Year 1.
+Winter is not a dead season. Prepare before Fall ends by saving money, organizing resources, checking winter fish and forage, planning tool upgrades, and deciding which system Winter should fix: mining, animals, machines, relationships, or farm layout.
 
-This guide helps Year 1 players prepare for Winter without turning the season into a late-game route or perfection checklist.
+## Player Pain Point
 
-## Decide What Winter Should Fix
+New players often reach Winter and feel stalled because normal crop income slows down. If they enter with no cash, no materials, no animals, and no plan, Winter becomes waiting instead of rebuilding.
 
-Before Winter starts, choose what the season is meant to improve. You might want better tools, more mine progress, fishing income, building materials, animal care, museum progress, or preparation for Spring.
+## Why It Happens
 
-Do not try to fix every system at once. Winter is long enough to make progress, but scattered plans still waste days. Pick a primary bottleneck and let the season support it.
+Winter changes the daily routine. Outdoor crop pressure drops, but time windows remain for fishing, mining, tool upgrades, forage, animals, and processing. The season rewards preparation because many useful projects need stored materials, money, or a clear backlog.
 
-## Prepare Materials Before Fall Ends
+## Prevention Plan
 
-Fall is your last normal crop season before Winter changes the routine. Use the end of Fall to look at wood, stone, ore, coal, seeds, machines, and tool plans. If you already know a building, upgrade, or crafting push matters, start collecting before the season changes.
+In late Fall, decide what Winter should accomplish. Save materials for buildings, machines, and tool upgrades. Keep some cash for animals, supplies, or seeds where relevant. Check fish and forage windows before the season begins. Do not spend all Fall profit on a final expansion that leaves Winter empty.
 
-The point is not to hoard everything. The point is to avoid entering Winter with no clear resources and no clear next step.
+## Recovery Plan
 
-## Use Winter For Systems That Need Time
+If Winter starts weak, choose one stabilizing path. Mine for ore and stone, fish for cash and collection, organize chests, upgrade tools one at a time, or build animal routines if resources allow. Avoid buying into a new system before you can feed, process, or maintain it.
 
-Winter is useful for systems that are hard to prioritize during heavy crop seasons. Mining becomes easier to schedule when mornings are not dominated by watering. Fishing can fill cash gaps. Farm layout changes can happen with less crop disruption. Tool upgrades may be easier to plan when fewer crops depend on daily care.
+## Practical Checklist
 
-If you have animals, machines, or preserved resources, Winter can also become a season of routine maintenance and setup rather than waiting.
-
-## Do Not Assume Winter Means No Farming
-
-Winter reduces normal crop pressure, but it does not mean the farm is inactive. Winter Seeds and other systems can still create work. The important question is whether that work supports your plan.
-
-If you want a quieter season, do not overload it with chores. If you want steady progress, choose activities that fit your energy, tools, and money.
+- Pick one Winter priority before Fall ends.
+- Use [Fish](/stardew/fish) for Winter catches and [Forage](/stardew/forage) for seasonal items.
+- Use [Minerals](/stardew/minerals) to turn mining days into tool or machine progress.
+- Check [Animals](/stardew/animals) and [Animal Products](/stardew/animal-products) before expanding livestock.
+- Keep Winter as a reset window for layout, storage, and long-delayed upgrades.
 
 ## Common Mistakes
 
-The first mistake is spending late Fall as if Winter will solve everything automatically. It will not. Winter gives time, but time without materials or goals becomes wandering.
-
-The second mistake is treating Winter as useless because standard crop routines change. Mining, fishing, tool upgrades, farm organization, and preparation can all matter.
-
-The third mistake is jumping into late-game goals too early. Skull Cavern optimization, perfection routing, and complex Ginger Island planning belong in later, better-sourced guides.
-
-## When This Advice Changes
-
-If your farm already has strong income, Winter can become a cleanup and expansion season. If money is tight, fishing, mining, and material gathering may matter more. If animals or machines are established, daily routine still exists even without normal crops.
-
-The best Winter plan is the one that makes Spring less chaotic. If the first week of Spring will be easier because of what you did in Winter, the season worked.
+- Treating Winter as empty because normal crops slow down.
+- Entering with no money reserved for projects.
+- Buying animals without feed planning.
+- Ignoring Winter fish or forage windows.
+- Starting every backlog project at once.
 
 ## Source Boundary / Confidence Note
 
-This guide uses Stardew Valley Wiki references for Winter, Winter Seeds, mining, and fishing context. It avoids perfection routing, late-game optimization, and exact profit modeling. Confidence is medium because Winter mechanics are stable, while the right preparation path depends on each Year 1 save.
+This guide uses Wiki references for Winter, Winter Seeds, mines, and fishing. It does not promise complete winter recovery or exact money output. Confidence is medium because seasonal behavior is stable, while Winter value depends on what the farm neglected earlier.

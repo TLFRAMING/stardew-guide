@@ -20,36 +20,40 @@ relatedDataLinks:
 
 # Tool Upgrade Timing: Avoiding Bad Rainy-Day Decisions
 
-Tool upgrades are powerful because they turn daily friction into faster work. They are also risky because losing the wrong tool for two days can make crops, mining, or farm cleanup awkward.
+Upgrade a tool when you can live without it for the upgrade window. The safest upgrades happen when weather, crop layout, ore supply, and tomorrow's chores all agree that losing the tool will not trap you.
 
-This guide helps players choose safer upgrade windows without pretending there is one correct upgrade order for every save.
+## Player Pain Point
 
-## What This Guide Helps With
+Tool upgrades look like obvious progress, but a bad upgrade can block watering, mining, chopping, or farm cleanup at the exact moment the player needs that tool most.
 
-The real decision is opportunity cost. When you hand Clint a tool, you are not only spending bars and gold. You are also giving up that tool temporarily. The upgrade is good if those missing days are planned. It is painful if you discover too late that you needed the tool tomorrow.
+## Why It Happens
 
-Different tools create different risks. The watering can affects crops. The pickaxe affects mining and stone. The axe affects wood and farm clearing. The hoe affects planting and artifact spots. The trash can is convenience, not a first priority for most beginners.
+Upgrades have opportunity cost. The tool leaves your hands, ore and money leave your inventory, and the calendar keeps moving. Rain helps with watering-can timing, but rain alone does not make every upgrade safe if festivals, planting, mining plans, or season-end chores are close.
 
-## Practical Steps
+## Prevention Plan
 
-Check tomorrow before upgrading. Weather, festivals, crop state, and errands all matter. Rain can make a watering can upgrade safer, but festival timing and shop access can still change pickup plans.
+Before upgrading, ask three questions: what does this tool do tomorrow, what resource will the upgrade consume, and what task gets delayed if the tool is gone? Upgrade the watering can when crops will not need it or when rain creates cover. Upgrade mining and clearing tools when you have no urgent mine or farm expansion plan using that tool.
 
-Upgrade after using the tool for the day. If you need to water crops, water first, then deliver the watering can. If you need a mine trip today, mine first or delay the pickaxe upgrade until the next window.
+## Recovery Plan
 
-Match the upgrade to your next bottleneck. If watering is eating every morning, the watering can or sprinklers deserve attention. If sprinkler materials are blocked by mining speed, the pickaxe may matter more. If wood gates buildings and paths, the axe can be the better investment.
+If you upgraded at a bad time, reduce the damage instead of forcing the original plan. Delay new planting, use the day for errands or fishing, and postpone mine or clearing goals until the tool returns. If ore spending created a shortage, use the next mine day to rebuild stock before starting another upgrade.
 
-Keep enough cash for the day after the upgrade. Spending all gold on the upgrade can delay seeds, buildings, or other planned progress.
+## Practical Checklist
+
+- Check weather and calendar before handing over a tool.
+- Do not upgrade the watering can before a heavy watering day.
+- Keep enough ore planning room for sprinklers, machines, or the next tool.
+- Use [Minerals](/stardew/minerals) and [Stardew Guides](/stardew/guides) to connect upgrades to broader goals.
+- Let festivals and season-end planting windows override a tempting upgrade.
 
 ## Common Mistakes
 
-The classic mistake is upgrading the watering can because rain is forecast, then forgetting a festival or pickup timing issue. Another is upgrading the pickaxe right before you planned to mine for more bars.
-
-Players also upgrade tools because they can, not because the farm needs it. A tool upgrade should solve a workload problem.
-
-## When This Advice Changes
-
-As sprinklers reduce watering, the watering can becomes less urgent. As farm clearing ends, the axe changes role. As mining goals increase, pickaxe upgrades may become more valuable. Experienced players can route upgrades tightly; new players should leave margin.
+- Upgrading because you can afford it, not because the timing is safe.
+- Spending ore needed for near-term farm automation.
+- Forgetting that losing a tool changes tomorrow's plan.
+- Treating every rainy day as a watering-can upgrade day.
+- Starting multiple progression projects with the same resource pile.
 
 ## Source Boundary / Confidence Note
 
-This draft uses Stardew Valley Wiki pages for tools, Blacksmith upgrade timing, weather, and calendar context. It avoids a universal upgrade order and exact date script. Confidence is medium because specific upgrade windows should be checked against the player's crop field, weather report, and festival calendar.
+This guide uses Wiki references for tools, the Blacksmith, weather, and calendar context. It does not claim one upgrade order for every save. Confidence is medium because upgrade rules are stable, while safe timing depends on crops, weather, and resource pressure.

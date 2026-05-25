@@ -20,38 +20,40 @@ relatedDataLinks:
 
 # When Sprinklers Start to Matter and How to Scale Around Them
 
-Sprinklers do not just let you plant more crops. They change the structure of the day. Once watering stops consuming the morning, you can mine, fish, build relationships, process goods, or expand the farm without fighting the energy bar.
+Sprinklers matter when watering is blocking the rest of your day. Do not expand crops just because sprinklers exist; expand when automation, energy, seeds, and harvesting time can all support the larger field.
 
-This guide helps players decide when sprinklers matter and how to scale around them without turning the page into a layout prescription.
+## Player Pain Point
 
-## What This Guide Helps With
+Players often swing between two mistakes: ignoring sprinklers until watering dominates every morning, or chasing sprinklers so early that mining and crafting drain the farm's cash and time.
 
-The beginner mistake is thinking crop count is the only goal. A bigger field is only useful if you can plant, water, harvest, and sell or process it without losing the rest of the game.
+## Why It Happens
 
-Sprinklers matter when watering is blocking better work. If the first half of every day is locked into the same field, automation is no longer optional convenience; it is progression.
+Sprinklers convert morning labor into setup work. They need resources, farming progress, mine access, and layout space. If the farm expands before automation, watering becomes a bottleneck. If automation is forced too early, ore and time disappear before the payoff arrives.
 
-## Practical Steps
+## Prevention Plan
 
-Start by measuring your morning. If watering leaves enough energy and time for your current goals, you can delay sprinkler pressure. If watering prevents mining, fishing, errands, or tool upgrades, start planning around sprinklers.
+Watch your morning. If watering leaves enough energy and time for one real secondary task, the field is still manageable. If watering regularly consumes the morning, stop expanding and shift effort toward ore, crafting, or a smaller crop plan. Build sprinkler blocks around reachable paths and future upgrades, not scattered tiles that are annoying to harvest.
 
-Treat sprinkler crafting as a mining and farming project together. You need resources, skill progression, and crop plans that make use of the freed time. Do not craft sprinklers only to plant a field you cannot afford or harvest.
+## Recovery Plan
 
-Think in stages. Basic sprinklers can teach placement and routine, but they are limited. Quality sprinklers are often the point where field planning feels different. Iridium sprinklers later turn large-scale layouts into a different kind of farm management. The exact timing depends on your resources and goals.
+If your field is too large, do not keep planting at the same size next cycle. Let the current crop finish, then replant only the area you can water comfortably or automate. If you rushed sprinklers and stalled cash, pause crafting, sell safe harvests, and use mine trips only when they serve the next clear automation step.
 
-Scale fields after automation, not before. Add crops in blocks you can manage. If a new block creates harvest chaos, processing backlog, or seed-money problems, pause expansion and stabilize.
+## Practical Checklist
+
+- Measure watering pressure before buying more seeds.
+- Use [Crops](/stardew/crops) to plan fields you can actually maintain.
+- Use [Minerals](/stardew/minerals) to connect mine goals to sprinkler materials.
+- Build in compact blocks so future sprinklers reduce chores cleanly.
+- Treat automation as a way to free time for fishing, mining, animals, or Community Center checks.
 
 ## Common Mistakes
 
-The first mistake is planting for a future sprinkler setup before the sprinklers exist. That creates several days of hand-watering stress.
-
-The second is copying a layout without understanding why it fits the farm. A layout that works with one crop plan may be awkward for another.
-
-The third is ignoring the rest of the economy. Sprinklers free time, but you still need seed money, storage, processing, and tool progress.
-
-## When This Advice Changes
-
-Experienced players may rush sprinkler materials earlier. Challenge routes may use exact field sizes. Later in the game, sprinkler layout becomes more about efficiency and aesthetics. For S2 beginner content, the safer lesson is that automation should match your daily workload.
+- Expanding crops before the watering routine is stable.
+- Spending all mine resources without knowing the next farm goal.
+- Placing sprinklers randomly and creating awkward harvest routes.
+- Assuming automation removes the need for crop planning.
+- Forgetting that larger fields still need seeds, harvest time, and storage.
 
 ## Source Boundary / Confidence Note
 
-This draft uses Stardew Valley Wiki mechanics for sprinklers, crops, mining, and farming. It avoids exact crop-count breakpoints, farm layouts, and media diagrams. Confidence is medium because the strategic timing depends on player skill, crop choice, and resource availability.
+This guide uses Wiki references for sprinklers, crops, mining, and farming context. It does not prescribe an exact layout, crop count, or upgrade day. Confidence is medium because sprinkler mechanics are stable, while good timing depends on farm size and player priorities.

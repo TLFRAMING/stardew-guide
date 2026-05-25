@@ -10,52 +10,49 @@ sourceUrls:
   - "https://stardewvalleywiki.com/Festivals"
   - "https://stardewvalleywiki.com/Calendar"
   - "https://stardewvalleywiki.com/Days_of_the_Week"
+relatedDataLinks:
+  - label: "Stardew Database"
+    href: "/stardew/database"
+  - label: "Stardew Guides"
+    href: "/stardew/guides"
 ---
 
 # Festival Planning for Beginners: How Events Change Your Week
 
-Festivals are easy to treat as isolated events: show up, enjoy the day, go home. For a new farmer, the bigger lesson is that festivals change the rhythm around them. Shops may be unavailable, time may be committed, and your normal errands may need to happen earlier.
+Plan festivals as calendar interruptions with possible rewards, not as normal errands. Water crops first when needed, move shop tasks earlier, check gift or item needs before the event, and avoid scheduling tool upgrades or long mine trips around blocked days.
 
-This guide helps beginners plan around festivals without turning the calendar into a strict route.
+## Player Pain Point
 
-## Check The Calendar Before The Week Starts
+Festivals surprise players because they change access, time, and routine. A player may lose a shopping day, miss crop care, forget an event item, or arrive with the wrong expectation about what can still be done afterward.
 
-The simplest festival habit is checking the calendar before making plans for tools, seeds, errands, or gifts. If an event interrupts a normal routine, you want to know before the morning arrives.
+## Why It Happens
 
-A festival does not have to ruin a plan. It only becomes a problem when the plan depended on a shop, tool, or trip that you delayed until the event day.
+Stardew festivals are tied to specific dates and times. Some replace normal town behavior, some start or end at fixed windows, and some reward preparation. The calendar matters because a festival can collide with planting, birthdays, tool pickup, and season-end tasks.
 
-## Protect Crop Care First
+## Prevention Plan
 
-Before leaving for an event, make sure daily farm work is handled. Watering, harvesting, and replanting can matter more than squeezing in one extra errand. If the festival takes over the day, the farm still needs to survive the morning.
+Check the calendar at the start of each week. If a festival is coming, handle seed shopping, tool pickup, animal supplies, and bundle drop-offs before the event day. On the morning of the festival, do unavoidable chores first, then enter with the item, cash, or plan the event expects.
 
-This is especially important early, before sprinklers and money buffers exist. A missed plan can mean delayed harvests, awkward replanting, or less cash for the next seasonal step.
+## Recovery Plan
 
-## Move Errands Earlier
+If you missed a festival, do not let it derail the whole season. Most festival opportunities return next year. If you lost a shopping day, adjust planting size or buy the next morning. If you missed a gift or event item, move the relationship or collection goal into normal weekly planning.
 
-If you know a festival is coming, move small errands ahead of it. Buy seeds before the day you need them, process geodes earlier if the results matter, and avoid starting a tool upgrade plan that depends on exact pickup timing unless you have checked the week.
+## Practical Checklist
 
-This is not about memorizing every event. It is about not letting one calendar day become the only day your plan can work.
-
-## Use Festivals As Planning Breaks
-
-Festivals can be useful pauses. They give you a moment to think about what the farm needs next: more seeds, better tools, a mining push, a fishing day, or a smaller crop field that you can actually maintain.
-
-Use the event as a checkpoint. If the previous week felt rushed, simplify the next one. If money is stable and energy is manageable, decide which system you want to push next.
+- Check the calendar before buying seeds or upgrading tools.
+- Finish crop and animal chores before entering an event.
+- Use [Villagers](/stardew/villagers) if a festival connects to gifts or relationships.
+- Use [Community Center](/stardew/community-center) before selling event-season items.
+- Keep [Stardew Guides](/stardew/guides) open for related season and planning topics.
 
 ## Common Mistakes
 
-The first mistake is forgetting that events affect the day's rhythm. If you planned a packed shopping, mining, and planting day, a festival can make the schedule unrealistic.
-
-The second is ignoring the day before. Many festival problems are really preparation problems from the previous morning.
-
-The third is overcorrecting. You do not need to freeze your whole week because an event exists. You just need the important errands handled before they become urgent.
-
-## When This Advice Changes
-
-Experienced players may plan around specific festival rewards, purchases, or route goals. New players should start simpler: check the date, protect crops, and avoid making a shop-dependent plan on a day that may not support it.
-
-The advice also changes once sprinklers, cash reserves, and upgraded tools reduce daily pressure. Festivals become less disruptive when the farm is already stable.
+- Waiting until festival day to buy seeds or supplies.
+- Forgetting that shop access can change around events.
+- Carrying no cash or item when the event rewards preparation.
+- Scheduling a tool upgrade without checking event timing.
+- Treating a missed festival as unrecoverable.
 
 ## Source Boundary / Confidence Note
 
-This guide uses Stardew Valley Wiki references for festivals, the calendar, and weekly timing context. It does not list every festival reward or prescribe exact event-day routing. Confidence is medium because the planning logic is stable, while date-specific examples should be checked before adding detail.
+This guide uses Wiki references for festivals, calendar behavior, and days of the week. It does not list every event reward or claim a required festival route. Confidence is medium because festival dates are stable, while importance depends on current farm goals.

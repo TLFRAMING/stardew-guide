@@ -22,61 +22,40 @@ relatedDataLinks:
 
 # Rainy Day Planning: What to Do When You Do Not Have to Water
 
-Rainy days feel like free time because your crops are handled for you. The mistake is spending that freedom randomly. A rainy day is strongest when it removes one daily chore and lets you push one meaningful goal forward.
+A rainy day is a chance to move one stalled system forward. Pick mining, fishing, tool timing, errands, or farm organization before the day starts, then protect that choice instead of scattering the free time.
 
-This guide helps early Stardew Valley players decide what to do on rain days without following a rigid schedule. The right choice depends on your energy, inventory, tool plans, money pressure, and what the next few days need.
+## Player Pain Point
 
-## What Rain Actually Changes
+Rain feels like a bonus day, but many players waste it because the normal morning routine disappears. Without watering as an anchor, they bounce between errands and end the day with no major progress.
 
-Rain changes the morning routine. If your outdoor crops do not need watering, you can spend the first part of the day somewhere else: the Mines, the river, the ocean, Clint's shop, Robin's shop, or a town errand you kept delaying.
+## Why It Happens
 
-That does not make every rainy day a mining day. It means your usual constraint has moved. On a dry day, watering may decide how much energy remains. On a rainy day, inventory space, food, tool availability, and travel time become the bigger limits.
+Rain changes opportunity cost. It removes watering, can change fish availability, and may create safe tool-upgrade windows. That does not mean every rainy day should do everything. Time, inventory, energy, and shop hours still limit the day.
 
-## Choose One Main Goal
+## Prevention Plan
 
-Pick one main goal before leaving the farm.
+Check the weather report the night before and prepare inventory around one goal. For mining, empty your bag and bring food. For fishing, confirm fish conditions. For tools, check whether losing the tool will hurt tomorrow. For errands, route shops and bundles early so closing times do not waste the day.
 
-- Mine if you need ore, stone, geodes, or progress toward better tools and sprinklers.
-- Fish if you need cash and your inventory can support a long session.
-- Upgrade or collect a tool if the timing is safe for your crop workload.
-- Run errands if shops, bundles, or materials are blocking tomorrow's plan.
+## Recovery Plan
 
-Trying to do all of those usually turns the day into a loop of half-finished errands. Rain gives you time, but it does not make travel instant.
+If the rainy day is already half gone, choose the highest-value remaining action. Do not start a deep mine push at night with no supplies. Use late time for chest sorting, light fishing, forage routes, or preparation for tomorrow. If you missed a rain-only fish, check whether another rainy day or another season gives a future window.
 
-## Mining On Rainy Days
+## Practical Checklist
 
-Rain is a good mining window when your crop field is large enough that watering usually drains the morning. Use the saved energy to reach elevator progress, gather ore, or collect stone for farm upgrades.
-
-Bring enough food that the trip can end by choice instead of exhaustion. Leave when your inventory is full, when health becomes a problem, or when the next elevator goal would require a risky push. A successful rainy mine day is not always the deepest day; sometimes it is the day that gives you copper, stone, and enough energy to sort inventory before bed.
-
-This advice changes if you have no food, a tiny inventory, or a tool upgrade plan that needs your pickaxe elsewhere. In that case, fishing or errands may produce cleaner progress.
-
-## Fishing On Rainy Days
-
-Fishing is useful when you need flexible money and do not want to spend the day on crop expansion. Rain can also change which fish are available, so it is worth checking whether your current season and location have fish that matter to your goals.
-
-Do not treat fishing income as guaranteed. Skill level, rod quality, tackle access, fish difficulty, weather, time, and player comfort all change the result. For a beginner, a rainy fishing day is best judged by whether it improves cash flow without making the farm harder to manage tomorrow.
-
-## Tool Timing And Errands
-
-Rain can help with watering can timing because the weather can cover a day when you would otherwise need the can. Still, exact tool timing depends on the forecast, crop layout, festivals, and shop schedules. Do not start an upgrade just because it is raining today if tomorrow's crops would be stranded.
-
-Use rainy days to combine errands. If you are already going to town, check shop needs, process geodes, review the calendar, or prepare a material purchase. The goal is not to fill every minute; it is to remove bottlenecks.
+- Decide the rainy-day goal before leaving the farm.
+- Use [Fish](/stardew/fish) for weather-limited catches.
+- Use [Minerals](/stardew/minerals) if the day is for mining resources.
+- Check tool timing before visiting the Blacksmith.
+- Keep one backup task in case the main plan becomes impossible.
 
 ## Common Mistakes
 
-The first mistake is treating rain as a vacation day every time. Resting is fine, but repeated unplanned rainy days slow tool upgrades, mining progress, and cash recovery.
-
-The second mistake is overcommitting. A rainy mine trip, fishing session, and shopping route can each be good alone. Packed together, they can waste the benefit of the weather.
-
-The third mistake is upgrading tools without checking tomorrow. Rain helps timing, but it does not protect you from a bad handoff if the next day needs that tool.
-
-## When This Advice Changes
-
-If your farm is small, rain may not save much energy. If sprinklers already handle most crops, rain becomes less special. If you are chasing a specific fish, resource, or upgrade, the day may have a clearer priority.
-
-The core rule stays the same: rain is not automatically a route. It is a temporary opening in your routine. Spend it on the bottleneck that would otherwise hold the farm back.
+- Treating rain as permission to start every delayed task.
+- Forgetting tomorrow's crop care when upgrading tools.
+- Going mining with a full backpack.
+- Fishing without checking season, weather, time, and location.
+- Spending the whole day sorting chests when a rare window is open.
 
 ## Source Boundary / Confidence Note
 
-This guide uses Stardew Valley Wiki mechanics for weather, tools, mining, and fishing context. It avoids exact weather prediction, fixed daily routes, and guaranteed income claims. Confidence is medium because the practical advice is source-supported but still depends on save state and player execution.
+This guide uses Wiki references for weather, tools, mines, and fishing. It does not claim a single correct rainy-day route. Confidence is medium because rain effects are stable, while the strongest use of a rainy day depends on farm size, season, and current bottleneck.

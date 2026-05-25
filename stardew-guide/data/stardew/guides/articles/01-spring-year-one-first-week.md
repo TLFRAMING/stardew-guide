@@ -20,40 +20,42 @@ relatedDataLinks:
 
 # Spring Year 1 First Week: What to Do Before the Farm Opens Up
 
-The first week of Stardew Valley is not a test of how perfectly you can route every hour. It is a test of whether you can keep the farm moving without turning the save into a chore before the Mines, fishing, villagers, and crop planning all compete for attention.
+Use the first week to make your farm controllable, not huge. Water a small crop patch, learn where the main shops and paths are, save a few seasonal items, and choose one extra goal per day: fishing, mining unlocks, foraging, or town errands.
 
-This guide helps new players decide what deserves attention in Spring 1-7. It is not a rigid day-by-day script. Use it as a framework for choosing useful work while leaving room for mistakes, weather, curiosity, and your own pace.
+## Player Pain Point
 
-## What This Guide Helps With
+The first week feels crowded because every system opens before the player has stamina, money, backpack space, or map knowledge. New players often spend the morning clearing random debris, then reach noon with low energy and no clear plan.
 
-Your first week has three practical goals: establish a small crop routine, learn how far your energy bar really goes, and open enough of the map rhythm that future choices make sense. The trap is trying to do everything at once. Clearing the whole farm, planting too many crops, meeting every villager, fishing all day, and preparing for the Mines can all be useful, but not all on the same day.
+## Why It Happens
 
-Think of the week as setup. You are building habits: water what you can maintain, sell enough to keep buying essentials, check town schedules before errands, and keep some energy for learning rather than only grinding.
+Stardew Valley rewards daily planning. Crops need attention, shops and town routes use time, the calendar creates fixed windows, and early tools consume energy quickly. A large field looks productive, but it can steal the time and stamina needed for fishing, mining, gathering, and Community Center setup.
 
-## Practical Steps
+## Prevention Plan
 
-Start with a modest crop patch. Plant enough that watering feels like a morning routine, not a full-time job. If the watering can drains most of your day, the field is too large for your current tools and food supply.
+Keep the first farm patch small enough that watering does not dominate the morning. After watering, pick one main task for the rest of the day. If your energy is already below half before noon, stop clearing random debris and spend the rest of the day on one planned task.
 
-Use early clearing selectively. Cut paths to exits, shipping, water, and usable field space. Do not spend the entire first week chopping every tree or breaking every rock. Wood and stone matter, but so does having time to visit town, fish, forage, and learn the map.
+Use the first week to build habits: check the calendar, keep one chest near the house, store one copy of suspicious seasonal items, and avoid selling everything before you know whether it connects to crops, fish, minerals, or bundles.
 
-Before Spring 5, prepare for the Mines instead of pretending they are already available. Keep some food, empty inventory space, and a plan for what a successful mine trip means. Once the Mines open, a useful goal is learning when to leave, not proving how deep you can go in one exhausted push.
+## Recovery Plan
 
-Use town errands with intent. Pierre's schedule, birthdays, festivals, and weekly patterns can affect simple plans. If you are already going into town, combine errands: buy seeds, check the calendar, meet villagers nearby, and return before your farm work becomes late-night cleanup.
+If the farm is already too large, stop planting more until harvest catches up. Water what is growing, sell only what you are comfortable losing, and use one or two days for low-energy errands such as foraging, meeting villagers, or checking routes. If you missed early fishing or mining, recover by scheduling a dedicated rainy day or a light-crop day instead of trying to do everything after a full watering routine.
+
+## Practical Checklist
+
+- Water planted crops first, then decide the day's real goal.
+- Build a chest early and keep seasonal crops, forage, fish, and minerals until checked.
+- Visit Pierre's and the calendar before spending all cash.
+- Treat the mine unlock as a new option, not a command to abandon the farm.
+- Use the [Crop Database](/stardew/crops), [Fish Database](/stardew/fish), [Minerals Database](/stardew/minerals), and [Community Center Tracker](/stardew/community-center) before selling uncertain items.
 
 ## Common Mistakes
 
-The first mistake is over-clearing. A clean farm feels good, but empty stamina and no cash flow make the next day worse.
-
-The second is overplanting. Crops are only profitable if you can water them consistently. A smaller field you maintain every day beats a larger field that makes you resent mornings.
-
-The third is treating the first week as a permanent route decision. You are allowed to fish one day, mine another, and spend a morning meeting villagers. Early variety teaches you what the save needs.
-
-## When This Advice Changes
-
-If you already know the map and want a challenge route, you may choose a tighter schedule. If you are on a farm type with unusual layout pressure, path clearing may matter more. If rain appears, the day can shift toward errands, mining, or fishing.
-
-The advice also changes after the first week. Once the Mines are open and you understand your crop workload, your next decisions become more about tools, sprinklers, Community Center items, and cash goals.
+- Planting more crops than you can water comfortably.
+- Clearing the whole farm instead of opening paths and workable space.
+- Selling every crop or forage item before checking bundle needs.
+- Leaving town errands until shops are closed.
+- Treating the first week like a fixed route instead of a control phase.
 
 ## Source Boundary / Confidence Note
 
-This draft uses local project data context plus Stardew Valley Wiki pages for calendar, crop, weekly schedule, and Mines availability mechanics. It avoids a fixed early route, exact profit promise, and copied checklist structure. Confidence is medium because the practical flow is source-supported but not tested as a recorded fresh-save route.
+This guide uses Stardew Valley Wiki pages for calendar behavior, days, crops, and mine access context. It does not claim a perfect first-week route, exact earnings, or full bundle completion. Confidence is medium because the mechanics are stable, while the right daily priority depends on weather, player skill, and how much land you planted.

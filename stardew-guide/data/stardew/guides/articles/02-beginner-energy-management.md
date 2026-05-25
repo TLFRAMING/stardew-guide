@@ -22,40 +22,42 @@ relatedDataLinks:
 
 # Energy Management for New Stardew Valley Players
 
-Energy is the first real limit in Stardew Valley. Gold matters, time matters, and inventory matters, but in the early game your day often ends because you spent too much energy on low-value work before the important choices were done.
+Spend energy on the task that moves the day forward. In the early game, that usually means watering a controlled crop patch, then choosing between fishing, mining, targeted clearing, or errands instead of draining stamina on random cleanup.
 
-This guide helps beginners decide when to keep working, when to stop, and when to spend food or a rainy day to change the plan. It is not a food table or a perfect daily budget.
+## Player Pain Point
 
-## What This Guide Helps With
+New players run out of energy because the farm looks like the urgent problem. They cut trees, break stones, hoe extra soil, and water too many crops before deciding what the day is supposed to accomplish.
 
-The core question is simple: what should your energy buy today? Watering crops, chopping wood, breaking rocks, fishing, and mining can all be useful. The problem is that early tools make each action expensive. If you spend the morning clearing random debris, you may not have enough energy for crops, fishing practice, or a mine trip.
+## Why It Happens
 
-Good energy management is not about ending every day with a full bar. It is about spending energy on actions that move the farm forward.
+Most tool actions cost energy, and early stamina is limited. Watering expands as the field expands, mining and fishing both compete for the same day, and food is not always available in enough quantity to repair poor planning. Energy shortage is usually a sequencing problem before it is a resource problem.
 
-## Practical Steps
+## Prevention Plan
 
-Start each morning with required work. Water crops first unless rain handles it. Feed or check animals later in the game before optional chores. Once the required loop is done, decide the day's main project: farm clearing, fishing, mining, errands, or crop expansion.
+Set a morning limit. If watering and essential cleanup take too much of your bar, do not expand the field that day. Keep farm clearing purposeful: open paths, create chest space, and prepare a small crop block. Leave decorative cleanup for days when crops are light or rain removes watering.
 
-Use a stopping rule. If energy drops low and the current task is not urgent, stop before exhaustion. Exhaustion slows the rest of the day and can turn a useful plan into a crawl. If you are in the Mines or far from home, leave enough margin to get out safely.
+Plan food as support, not permission to overwork. Eat when it lets you finish a clear objective, such as reaching an elevator floor, catching a weather-limited fish, or completing a planting job before night.
 
-Save food for days with a clear payoff. Eating to finish a mine floor, catch more fish during a strong fishing window, or complete a planting plan can make sense. Eating just to clear one more random patch of weeds often does not.
+## Recovery Plan
 
-Think about rain as schedule relief. Rain can free watering energy, which makes it a good day for mining, fishing, tool upgrades, or errands. Do not waste every rainy day simply because the farm feels less demanding.
+If you are low before noon, stop spending energy on low-value actions. Switch to walking errands, calendar checks, chest sorting, light foraging, or shopping. If the problem repeats, reduce next season's field size, prioritize sprinklers or watering-can timing, and reserve one day for materials instead of mixing every activity into every day.
+
+## Practical Checklist
+
+- Water crops first, then reassess energy before starting a second job.
+- Clear only what unlocks movement, farm space, or materials you need now.
+- Save food for mine pushes, fishing windows, or finish-line tasks.
+- Use rainy days for mining, fishing, tool upgrades, or errands.
+- Check [Crops](/stardew/crops), [Fish](/stardew/fish), and [Minerals](/stardew/minerals) so energy goes toward current goals.
 
 ## Common Mistakes
 
-The biggest mistake is clearing the farm as if all debris has the same value. Clear paths and usable space first. Leave distant clutter for later.
-
-Another mistake is planting beyond your morning energy. If watering consumes the day, the farm is too large for the current tool stage. Scale crops as your watering capacity improves.
-
-Fishing and mining also become traps if you ignore fatigue. Both can turn "one more attempt" into a late return with no energy, low health, or a messy next morning.
-
-## When This Advice Changes
-
-Energy gets easier to manage as tools improve, food options expand, sprinklers appear, and later progression opens restoration options. The early lesson still matters: automation and upgrades are valuable because they buy back time and stamina.
-
-If you are experienced, you may intentionally push energy harder for a route. New players should first learn what overextension feels like, then decide when it is worth doing.
+- Expanding crops because you have seed money, not because you have watering capacity.
+- Eating food to continue unfocused clearing.
+- Starting a mine trip after exhausting yourself on the farm.
+- Forgetting that walking, shopping, gifting, and planning do not need much energy.
+- Treating an empty energy bar as normal every day.
 
 ## Source Boundary / Confidence Note
 
-This draft uses Stardew Valley Wiki mechanics for energy, tools, fishing, and mining. It intentionally avoids listing every food item or prescribing exact energy thresholds. Confidence is medium because the mechanics are source-supported, while the advice is practical decision framing rather than measured route testing.
+This guide uses Wiki references for energy, tools, fishing, and mine context. It gives a decision framework rather than exact stamina math or a fixed daily schedule. Confidence is medium because energy costs and systems are stable, while food access and player comfort vary by save.
