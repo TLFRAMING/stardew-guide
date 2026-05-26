@@ -46,6 +46,21 @@ const features = [
   }
 ];
 
+const popularLookups = [
+  { href: "/stardew/villagers/george", label: "George gifts" },
+  { href: "/stardew/villagers/gus", label: "Gus gifts" },
+  { href: "/stardew/villagers/vincent", label: "Vincent gifts" },
+  { href: "/stardew/villagers/wizard", label: "Wizard gifts" },
+  { href: "/stardew/fish/bream", label: "Bream location" },
+  { href: "/stardew/fish/radioactive-carp", label: "Radioactive Carp" },
+  { href: "/stardew/fish/tiger-trout", label: "Tiger Trout" },
+  { href: "/stardew/fish/sturgeon", label: "Sturgeon" },
+  { href: "/stardew/crops/cranberries", label: "Cranberries" },
+  { href: "/stardew/crops/red-cabbage", label: "Red Cabbage" },
+  { href: "/stardew/crops/starfruit", label: "Starfruit" },
+  { href: "/stardew/minerals/basalt", label: "Basalt" }
+];
+
 export default function HomePage() {
   return (
     <PageShell eyebrow="Player Codex" kicker="Current codex: Stardew Guide, a practical reference for new farmers." title="Stardew Guide Codex">
@@ -72,6 +87,27 @@ export default function HomePage() {
           <div className="grid gap-3 md:grid-cols-2">
             {features.map((feature) => (
               <CardLink description={feature.description} href={feature.href} key={feature.href} title={feature.title} tone={feature.tone} />
+            ))}
+          </div>
+        </section>
+
+        <section className="rounded-md border border-green-950/10 bg-white/80 px-4 py-4 sm:px-5">
+          <div className="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
+            <div>
+              <p className="text-xs font-black uppercase tracking-[0.16em] text-green-950/46">Popular Stardew Lookups</p>
+              <h2 className="mt-1 text-lg font-black text-green-950">Fast answers for gifts, fish, crops, and minerals</h2>
+            </div>
+            <p className="text-xs font-bold text-green-950/58">{popularLookups.length} quick routes</p>
+          </div>
+          <div className="mt-4 flex flex-wrap gap-2">
+            {popularLookups.map((lookup) => (
+              <a
+                className="rounded-sm border border-green-950/10 bg-green-950/[0.04] px-3 py-2 text-sm font-black text-green-950 transition hover:bg-green-950/[0.08]"
+                href={lookup.href}
+                key={lookup.href}
+              >
+                {lookup.label}
+              </a>
             ))}
           </div>
         </section>

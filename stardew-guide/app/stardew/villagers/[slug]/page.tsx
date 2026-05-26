@@ -170,10 +170,14 @@ function buildVillagerQuickAnswer(villager: {
 
 function buildVillagerMetaTitle(villager: { slug: string; name: string }) {
   const focusedTitles: Record<string, string> = {
+    caroline: "Caroline Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
     evelyn: "Evelyn Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
     george: "George Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
     gus: "Gus Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
+    harvey: "Harvey Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
     penny: "Penny Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
+    sebastian: "Sebastian Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
+    vincent: "Vincent Stardew Valley Gifts, Birthday, Loved Items, and Schedule",
     wizard: "Wizard Stardew Gifts: Loved Items, Birthday, and Friendship Tips",
     haley: "Haley Stardew Gifts: Loved Items, Birthday, and Friendship Tips"
   };
@@ -206,6 +210,22 @@ function getVillagerRouteClusters(slug: string, name: string): StardewRouteClust
     gus: [
       { href: "/stardew/villagers/evelyn", label: "Evelyn gifts" },
       { href: "/stardew/villagers/george", label: "George gifts" }
+    ],
+    vincent: [
+      { href: "/stardew/villagers/penny", label: "Penny gifts" },
+      { href: "/stardew/villagers/caroline", label: "Caroline gifts" }
+    ],
+    sebastian: [
+      { href: "/stardew/villagers/harvey", label: "Harvey gifts" },
+      { href: "/stardew/villagers/haley", label: "Haley gifts" }
+    ],
+    harvey: [
+      { href: "/stardew/villagers/sebastian", label: "Sebastian gifts" },
+      { href: "/stardew/villagers/penny", label: "Penny gifts" }
+    ],
+    caroline: [
+      { href: "/stardew/villagers/vincent", label: "Vincent gifts" },
+      { href: "/stardew/villagers/gus", label: "Gus gifts" }
     ]
   };
 

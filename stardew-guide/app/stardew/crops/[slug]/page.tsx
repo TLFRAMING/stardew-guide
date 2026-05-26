@@ -171,8 +171,11 @@ function buildCropQuickAnswer(crop: Crop) {
 
 function buildCropMetaTitle(crop: Crop) {
   const focusedTitles: Record<string, string> = {
+    amaranth: "Amaranth Stardew Valley: Growth Time, Season, Price, and Uses",
+    "blue-jazz": "Blue Jazz Stardew Valley: Growth Time, Season, Price, and Uses",
     cranberries: "Cranberries Stardew Valley: Growth Time, Regrowth, Profit, and Uses",
     "red-cabbage": "Red Cabbage Stardew Valley: Seeds, Growth Time, Bundle Use, and Year 1 Tips",
+    starfruit: "Starfruit Stardew Valley: Seeds, Growth Time, Price, Wine, and Uses",
     wheat: "Wheat Stardew Valley: Growth Time, Hay, Beer, and Summer/Fall Uses"
   };
 
@@ -208,6 +211,18 @@ function getCropRouteClusters(crop: Crop): StardewRouteCluster[] {
     wheat: [
       { href: "/stardew/crops/cranberries", label: "Cranberries" },
       { href: "/stardew/guides/first-scarecrow-crop-protection", label: "Scarecrow guide" }
+    ],
+    starfruit: [
+      { href: "/stardew/money/starfruit-wine-burst-profit", label: "Starfruit wine guide" },
+      { href: "/stardew/crops/cranberries", label: "Cranberries" }
+    ],
+    amaranth: [
+      { href: "/stardew/crops/wheat", label: "Wheat" },
+      { href: "/stardew/guides/year-one-fall-preparation", label: "Fall prep" }
+    ],
+    "blue-jazz": [
+      { href: "/stardew/guides/spring-year-one-first-week", label: "Spring first week" },
+      { href: "/stardew/crops/parsnip", label: "Parsnip" }
     ]
   };
 

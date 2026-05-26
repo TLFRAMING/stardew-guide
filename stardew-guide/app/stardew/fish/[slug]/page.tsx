@@ -162,7 +162,11 @@ function buildFishQuickAnswer(item: Fish) {
 function buildFishMetaTitle(item: Fish) {
   const focusedTitles: Record<string, string> = {
     bream: "Bream Stardew Valley: Location, Time, Season, Weather, and Uses",
+    bullhead: "Bullhead Stardew Valley: Location, Season, Time, Difficulty, and Uses",
     halibut: "Halibut Stardew Valley: Where to Catch, Season, Time, and Uses",
+    "radioactive-carp": "Radioactive Carp Stardew Valley: Location, Season, Time, and Uses",
+    "spook-fish": "Spook Fish Stardew Valley: Location, Season, Time, and Uses",
+    sturgeon: "Sturgeon Stardew Valley: Location, Season, Time, Weather, and Uses",
     "tiger-trout": "Tiger Trout Stardew Valley: Location, Season, Time, Weather, and Uses"
   };
 
@@ -213,7 +217,8 @@ function getFishRouteClusters(item: Fish): StardewRouteCluster[] {
     ],
     bullhead: [
       { href: "/stardew/fish/bream", label: "Bream" },
-      { href: "/stardew/fish/tiger-trout", label: "Tiger Trout" }
+      { href: "/stardew/fish/tiger-trout", label: "Tiger Trout" },
+      { href: "/stardew/fish/sturgeon", label: "Sturgeon" }
     ],
     sardine: [
       { href: "/stardew/fish/halibut", label: "Halibut" },
@@ -222,6 +227,18 @@ function getFishRouteClusters(item: Fish): StardewRouteCluster[] {
     shad: [
       { href: "/stardew/fish/bream", label: "Bream" },
       { href: "/stardew/fish/tiger-trout", label: "Tiger Trout" }
+    ],
+    sturgeon: [
+      { href: "/stardew/fish/bullhead", label: "Bullhead" },
+      { href: "/stardew/fish/tiger-trout", label: "Tiger Trout" }
+    ],
+    "radioactive-carp": [
+      { href: "/stardew/fish/spook-fish", label: "Spook Fish" },
+      { href: "/stardew/fish/sturgeon", label: "Sturgeon" }
+    ],
+    "spook-fish": [
+      { href: "/stardew/fish/radioactive-carp", label: "Radioactive Carp" },
+      { href: "/stardew/fish/sturgeon", label: "Sturgeon" }
     ]
   };
 
