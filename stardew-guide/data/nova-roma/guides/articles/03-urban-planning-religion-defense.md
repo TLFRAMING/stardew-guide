@@ -1,9 +1,9 @@
 ---
 slug: "urban-planning-religion-defense"
-title: "Nova Roma Urban Planning Guide: Water, Religion, Defense, and Growth"
+title: "Nova Roma City Planning Guide: Water, Religion, Defense, and Growth"
 category: "city-planning"
-summary: "A source-bounded Nova Roma guide for moving from survival into planned districts without creating water, temple, or defense problems later."
-lastChecked: "2026-05-24"
+summary: "A source-bounded Nova Roma planning guide for players who want cleaner district growth without creating later problems in water access, temple support, or defense."
+lastChecked: "2026-05-25"
 confidence: "medium"
 patchSensitivity: "medium"
 sourceUrls:
@@ -15,13 +15,21 @@ sourceUrls:
 relatedDataLinks:
   - label: "Nova Roma Home"
     href: "/nova-roma"
+  - label: "Nova Roma Guides"
+    href: "/nova-roma/guides"
+  - label: "Water Planning"
+    href: "/nova-roma/guides/water-planning-basics"
+  - label: "Population Stability"
+    href: "/nova-roma/guides/population-needs-and-stability"
+  - label: "Production Chains"
+    href: "/nova-roma/guides/production-chain-basics"
 ---
 
-# Nova Roma Urban Planning Guide: Water, Religion, Defense, and Growth
+# Nova Roma City Planning Guide: Water, Religion, Defense, and Growth
 
-Once your Nova Roma settlement survives the opening, the next challenge is shape. A city that grows without corridors, water logic, temple planning, and defensive space can look successful while becoming expensive to repair.
+If your city grows fast but starts feeling awkward to service or defend, this guide is for you. Once your Nova Roma settlement survives the opening, the next challenge is shape: a city that grows without corridors, water logic, temple planning, and defensive space can look successful while becoming expensive to repair. If water is the part that feels hardest to reserve, start with the [water planning guide](/nova-roma/guides/water-planning-basics).
 
-The safe midgame mindset is to choose anchors before sprawl: where water enters, where citizens live, where resources move, where temples support civic pressure, and where threats should be stopped.
+The safer planning habit is to choose anchors before sprawl: where water enters, where citizens live, where resources move, where temples support civic pressure, and where threats should be stopped.
 
 ## Player Problem
 
@@ -73,7 +81,7 @@ If your defensive pieces sit randomly inside town, they may protect a few buildi
 
 ## Recovery Plan After A Bad Expansion
 
-If the city has already sprawled, do not try to rebuild everything at once. Pick the system causing the most risk and stabilize that first.
+If the city has already sprawled, do not try to rebuild everything at once. Pick the system causing the most risk and stabilize that first. If the sprawl came from adding too many homes or needs too quickly, compare the recovery work against the [population stability guide](/nova-roma/guides/population-needs-and-stability).
 
 Start with water or food if either is unreliable. Then shorten resource paths and protect storage. After that, reserve a defensive edge and decide which later expansions should wait.
 

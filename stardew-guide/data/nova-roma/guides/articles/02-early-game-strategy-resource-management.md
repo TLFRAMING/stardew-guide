@@ -1,34 +1,40 @@
 ---
 slug: "early-game-strategy-resource-management"
-title: "Nova Roma Early Game Strategy: Resource Management Without Overexpanding"
+title: "Nova Roma Early Game Guide: How to Avoid Resource Shortages and Overexpansion"
 category: "resources"
-summary: "A practical first-hour Nova Roma guide for compact growth, resource-chain reading, labor pressure, and shortage recovery."
-lastChecked: "2026-05-24"
+summary: "A practical Nova Roma early game guide for spotting the first shortage, slowing expansion before the city stalls, and recovering without relying on rigid formulas."
+lastChecked: "2026-05-25"
 confidence: "medium"
 patchSensitivity: "medium"
 sourceUrls:
   - "https://store.steampowered.com/app/2426530/Nova_Roma/"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Resources"
-  - "https://wiki.hoodedhorse.com/Nova_Roma/Food"
-  - "https://wiki.hoodedhorse.com/Nova_Roma/Amenities"
-  - "https://wiki.hoodedhorse.com/Nova_Roma/Natural_Resources"
-  - "https://wiki.hoodedhorse.com/Nova_Roma/Buildings/Industry"
+  - "https://wiki.hoodedhorse.com/Nova_Roma/Nova_Roma_Official_Wiki"
+  - "https://wiki.hoodedhorse.com/Nova_Roma/Infrastructure"
 relatedDataLinks:
   - label: "Nova Roma Home"
     href: "/nova-roma"
+  - label: "Nova Roma Guides"
+    href: "/nova-roma/guides"
+  - label: "Resource Shortage Guide"
+    href: "/nova-roma/guides/early-resource-shortage-guide"
+  - label: "Water Planning"
+    href: "/nova-roma/guides/water-planning-basics"
+  - label: "Population Stability"
+    href: "/nova-roma/guides/population-needs-and-stability"
 ---
 
-# Nova Roma Early Game Strategy: Resource Management Without Overexpanding
+# Nova Roma Early Game Guide: How to Avoid Resource Shortages and Overexpansion
 
-The safest first-hour plan in Nova Roma is disciplined growth. Build only what your city can feed, heat, staff, store, and move. If a new project makes the city harder to read, delay it until the current loop is stable.
+If your Nova Roma opening keeps turning into a shortage spiral, this guide is for you. The safest early plan is disciplined growth: build only what your city can staff, supply, store, and move without losing track of what the next district will cost. For a deeper shortage diagnosis, continue with the [resource shortage guide](/nova-roma/guides/early-resource-shortage-guide).
 
-Your opening goal is not to create the final city. Your opening goal is to create a settlement that can survive pressure without hiding the cause of every shortage.
+Your first goal is not to shape the final city. It is to build a settlement that can survive pressure without hiding the cause of every shortage.
 
 ## Player Problem
 
-Beginners often fail because they treat early space as permission to expand. More homes create more citizens, more citizens create more needs, and more needs pull on food, heating, amenities, labor, storage, and gold.
+Beginners often fail because they treat early space as permission to expand. More homes create more citizens, more citizens create more needs, and more needs pull on workforce, storage, support systems, and the resource chains behind them. If that pressure is coming from housing growth, the [population stability guide](/nova-roma/guides/population-needs-and-stability) is the better next stop.
 
-The city may look successful right before it stalls. That is why the first hour should be judged by stability, not size.
+The city may look successful right before it stalls. That is why the early game should be judged by stability, not size.
 
 ## Start Compact, Then Read The City
 
@@ -38,15 +44,15 @@ Compact does not mean cramped forever. It means the first district should be rea
 
 Before expanding, ask three questions:
 
-1. Does the city have a stable food path?
-2. Does it have enough labor for the buildings already placed?
+1. Does the city have a stable support path for the systems already placed?
+2. Does it have enough labor for the buildings already running?
 3. Can storage and transport keep up with the current demand?
 
 If any answer is uncertain, stabilize before growing.
 
 ## Read Resource Shortages Backward
 
-Nova Roma's resource list includes food, amenities, natural resources, utensils, and gold. Many of those resources are connected through production chains, so the visible shortage is not always the root problem.
+Nova Roma's resource systems include raw inputs, processed goods, civic support, and gold. Many of those layers connect through production chains, so the visible shortage is not always the root problem.
 
 When a shortage appears, read it backward:
 
@@ -58,11 +64,11 @@ When a shortage appears, read it backward:
 
 This keeps you from solving the wrong problem. If the bottleneck is distance or labor, simply adding another consumer or workshop can make the shortage worse.
 
-## Protect Food And Heat Before Prestige
+## Protect Core Support Before Prestige
 
-Food and basic comfort should come before prestige growth. The official wiki notes that food is needed for citizens to survive and that food can spoil if not stored before winter. Amenities such as charcoal, bread, oil, pottery, salt, and wine can support happiness or comfort, but they also add production pressure.
+Basic support should come before prestige growth. The safe beginner reading is that survival, city function, and supply continuity matter more than decorative or prestige expansion while the city is still trying to prove that its core loops work.
 
-Use this as a beginner rule: do not add a new layer of demand until the old layer is reliable. A city that cannot keep basic needs stable should not rush into expensive civic ambition.
+Use this as a beginner rule: do not add a new layer of demand until the old layer is reliable. A city that cannot keep its essential systems stable should not rush into expensive civic ambition.
 
 ## Manage Labor As A Resource
 
@@ -76,27 +82,27 @@ When pressure rises, pause optional work. Favor the buildings that keep citizens
 
 When the city starts to stall, stop expanding first. Do not add another district while the current one is already behind.
 
-Then isolate the shortage. If it is food, check production, storage, and seasonal risk. If it is a construction material, check the gatherer, the workshop, labor, storage, and transport distance. If it is comfort or happiness, check whether the city grew beyond what its services can support.
+Then isolate the shortage. Check what is missing, what produces it, what stores it, how far it travels, and whether recent growth added more demand than the city can absorb.
 
-Fix one weak link at a time. If you try to solve food, labor, water, and expansion in the same minute, you lose the ability to tell which correction worked.
+Fix one weak link at a time. If you try to solve labor, water, storage, and expansion in the same minute, you lose the ability to tell which correction worked.
 
 ## Practical Checklist
 
 - Build the first district compact enough to read at a glance.
 - Keep producers, storage, and consumers close enough that transport does not hide the bottleneck.
-- Add housing only after food, labor, and basic support can absorb more citizens.
-- Treat winter and spoilage as planning pressure, not a surprise.
+- Add housing only after labor and support can absorb more citizens.
+- Treat seasonality, travel distance, and storage pressure as planning risks, not surprises.
 - Pause optional projects when a core resource starts falling.
 - Resume expansion only after the city holds a stable cycle.
 
 ## Common Mistakes
 
-- Building too many homes before jobs and food are ready.
+- Building too many homes before jobs and support are ready.
 - Treating every empty space as a place to expand.
-- Adding prestige or comfort systems before survival systems are reliable.
+- Adding prestige systems before survival systems are reliable.
 - Forgetting that transport distance can create a shortage even when production exists.
 - Fixing the visible shortage without checking the chain behind it.
 
 ## Source Boundary / Confidence Note
 
-This guide uses the Steam store page and the Hooded Horse official wiki for resource categories, food pressure, amenities, natural resources, and industry framing. It does not publish exact production ratios, ideal map seeds, fixed build orders, tax percentages, or guaranteed first-hour routes. Confidence is medium because the article is a practical framework built from verified system categories rather than current-version testing.
+This guide uses the Steam store page plus the Hooded Horse official wiki pages already registered in the Nova Roma source set for resource framing, infrastructure pressure, and broad system context. It does not publish exact production ratios, fixed build orders, tax percentages, or guaranteed early routes. Confidence is medium because the article is a practical framework built from verified system categories rather than current-version testing.

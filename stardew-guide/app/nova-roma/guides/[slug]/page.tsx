@@ -191,7 +191,7 @@ function ArticleBlock({ block, index }: { block: NovaRomaGuideArticleBlock; inde
     return (
       <List className={block.ordered ? "list-decimal space-y-2 pl-5 text-sm font-semibold leading-7 text-green-950/72 sm:text-[0.95rem]" : "list-disc space-y-2 pl-5 text-sm font-semibold leading-7 text-green-950/72 sm:text-[0.95rem]"}>
         {block.items.map((item) => (
-          <li key={item}>{item}</li>
+          <li key={item}>{renderInlineInternalLinks(item)}</li>
         ))}
       </List>
     );
@@ -199,9 +199,36 @@ function ArticleBlock({ block, index }: { block: NovaRomaGuideArticleBlock; inde
 
   return (
     <p className="text-sm font-semibold leading-7 text-green-950/72 sm:text-[0.95rem]" key={`${block.text}-${index}`}>
-      {block.text}
+      {renderInlineInternalLinks(block.text)}
     </p>
   );
+}
+
+function renderInlineInternalLinks(text: string) {
+  const segments: Array<string | React.ReactElement> = [];
+  const linkPattern = /\[([^\]]+)\]\((\/nova-roma\/[^\s)]+)\)/g;
+  let lastIndex = 0;
+  let match: RegExpExecArray | null;
+
+  while ((match = linkPattern.exec(text)) !== null) {
+    if (match.index > lastIndex) {
+      segments.push(text.slice(lastIndex, match.index));
+    }
+
+    segments.push(
+      <Link className="font-black text-pond hover:underline" href={match[2]} key={`${match[2]}-${match.index}`}>
+        {match[1]}
+      </Link>
+    );
+
+    lastIndex = linkPattern.lastIndex;
+  }
+
+  if (lastIndex < text.length) {
+    segments.push(text.slice(lastIndex));
+  }
+
+  return segments.length > 0 ? segments : text;
 }
 
 function NavArticle({ article, label }: { article: NovaRomaGuideArticle; label: string }) {

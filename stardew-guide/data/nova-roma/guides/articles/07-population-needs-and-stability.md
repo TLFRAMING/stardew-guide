@@ -25,11 +25,17 @@ relatedDataLinks:
     href: "/nova-roma"
   - label: "Nova Roma Guides"
     href: "/nova-roma/guides"
+  - label: "Production Chains"
+    href: "/nova-roma/guides/production-chain-basics"
+  - label: "Water Planning"
+    href: "/nova-roma/guides/water-planning-basics"
+  - label: "City Planning Guide"
+    href: "/nova-roma/guides/urban-planning-religion-defense"
 ---
 
 # Nova Roma Population Stability Guide: Needs, Growth, and City Pressure
 
-Population growth in Nova Roma is not a free upgrade. Every new home and new resident can make the city richer in labor over time, but it can also increase pressure on water, food, storage, jobs, and the support systems that were already carrying the last stage of growth.
+Population growth in Nova Roma is not a free upgrade. Every new home and new resident can make the city richer in labor over time, but it can also increase pressure on water, food, storage, jobs, and the support systems that were already carrying the last stage of growth. If those support systems are unclear, review the [production chain guide](/nova-roma/guides/production-chain-basics) before adding more housing.
 
 The safer framework is to treat population as a multiplier. When the city is healthy, more people can strengthen it. When the city is already stretched, more people can expose every weak link at once.
 
@@ -85,7 +91,7 @@ If the city cannot answer those questions cleanly, adding more people usually ma
 
 One of the hardest beginner decisions is to stop building when the map still has room. But a city that keeps growing through instability usually pays for that choice twice: once in the shortage itself, and again in the extra complexity needed to repair it.
 
-The safer move is to pause when population growth starts amplifying multiple pressures at once. Use that pause to restore readable water access, stable core supply, and a labor picture that makes sense again.
+The safer move is to pause when population growth starts amplifying multiple pressures at once. Use that pause to restore readable water access, stable core supply, and a labor picture that makes sense again. If water access is the weak point, step back to the [water planning guide](/nova-roma/guides/water-planning-basics).
 
 Growth is worth more after the city can support it than before.
 

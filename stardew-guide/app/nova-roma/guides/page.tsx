@@ -50,7 +50,7 @@ export default function NovaRomaGuidesPage() {
               Nova Roma is still in Early Access. These guides are written as source-bounded planning help, not as solved layouts, exact economy routes, or live-balance verdicts.
             </p>
             <p className="text-sm font-semibold leading-6 text-green-950/62">
-              Use this hub to start with beginner mechanics, resource pressure, and city-planning notes while the source set remains conservative.
+              Use this hub to move from beginner mechanics into resource pressure, water planning, production chains, population stability, and later city-planning decisions while the source set remains conservative.
             </p>
           </div>
         </section>
@@ -60,7 +60,7 @@ export default function NovaRomaGuidesPage() {
             <div>
               <h2 className="text-base font-black text-green-950">Guide set</h2>
               <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">
-                Three production drafts are currently wired into the site. Each guide keeps its confidence and patch-sensitivity metadata visible.
+                These seven live guides follow a beginner-safe reading path. Each one keeps confidence and patch-sensitivity visible so the hub stays useful without pretending Early Access strategy is already solved.
               </p>
             </div>
             <span className="w-fit rounded-sm bg-green-950/[0.06] px-2.5 py-1 text-xs font-black uppercase tracking-[0.14em] text-green-950/50">

@@ -4,6 +4,16 @@ import type { NovaRomaGuideArticle, NovaRomaGuideArticleBlock, NovaRomaGuideRela
 
 const dataDirectory = path.resolve(process.cwd(), "data", "nova-roma");
 const articleDirectory = path.join(dataDirectory, "guides", "articles");
+const preferredGuideOrder = [
+  "understand-nova-roma-core-mechanics",
+  "early-game-strategy-resource-management",
+  "early-resource-shortage-guide",
+  "water-planning-basics",
+  "production-chain-basics",
+  "population-needs-and-stability",
+  "urban-planning-religion-defense"
+] as const;
+const preferredGuideOrderIndex = new Map<string, number>(preferredGuideOrder.map((slug, index) => [slug, index]));
 
 function readJsonArray<T>(fileName: string): T[] {
   const filePath = path.join(dataDirectory, fileName);
@@ -33,7 +43,17 @@ export function getAllNovaRomaGuideArticles(): NovaRomaGuideArticle[] {
     .filter((fileName) => fileName.endsWith(".md"))
     .sort()
     .map(parseArticle)
-    .filter((article): article is NovaRomaGuideArticle => Boolean(article));
+    .filter((article): article is NovaRomaGuideArticle => Boolean(article))
+    .sort((left, right) => {
+      const leftIndex = preferredGuideOrderIndex.get(left.slug) ?? Number.MAX_SAFE_INTEGER;
+      const rightIndex = preferredGuideOrderIndex.get(right.slug) ?? Number.MAX_SAFE_INTEGER;
+
+      if (leftIndex !== rightIndex) {
+        return leftIndex - rightIndex;
+      }
+
+      return left.slug.localeCompare(right.slug);
+    });
 }
 
 export function getNovaRomaGuideArticleBySlug(slug: string): NovaRomaGuideArticle | undefined {

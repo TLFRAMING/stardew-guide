@@ -23,11 +23,17 @@ relatedDataLinks:
     href: "/nova-roma"
   - label: "Nova Roma Guides"
     href: "/nova-roma/guides"
+  - label: "Resource Shortage Guide"
+    href: "/nova-roma/guides/early-resource-shortage-guide"
+  - label: "Early Game Strategy"
+    href: "/nova-roma/guides/early-game-strategy-resource-management"
+  - label: "Population Stability"
+    href: "/nova-roma/guides/population-needs-and-stability"
 ---
 
 # Nova Roma Production Chain Guide: How to Read Inputs, Outputs, and Bottlenecks
 
-If one building in Nova Roma looks empty or slow, do not assume the city simply needs more of that resource. In a production-chain game, the safer diagnosis is to check whether the problem starts at the input source, the workers, the storage path, or the consumer pressure pulling faster than the chain can recover.
+If one building in Nova Roma looks empty or slow, do not assume the city simply needs more of that resource. In a production-chain game, the safer diagnosis is to check whether the problem starts at the input source, the workers, the storage path, or the consumer pressure pulling faster than the chain can recover. If the whole city is already stalling, begin with the [resource shortage guide](/nova-roma/guides/early-resource-shortage-guide).
 
 The useful beginner habit is to read a chain as a connected system from raw input to storage to consumer. When that system stays readable, it is easier to fix, easier to scale, and less likely to fail all at once.
 
@@ -54,7 +60,7 @@ If the first link is weak, more downstream buildings will not stabilize the city
 
 When output feels low, ask whether the source itself is consistent enough for the city shape you now have. If that answer is unclear, expanding the chain usually makes the diagnosis worse instead of better.
 
-This is also where growth timing matters. A city can support one chain comfortably and still collapse when two or three new chains begin competing for the same workers, roads, or storage layer.
+This is also where growth timing matters. A city can support one chain comfortably and still collapse when two or three new chains begin competing for the same workers, roads, or storage layer. If the pressure is coming from added residents and housing, check the [population stability guide](/nova-roma/guides/population-needs-and-stability) before expanding more chains.
 
 ## Treat Labor As Part Of The Chain
 
