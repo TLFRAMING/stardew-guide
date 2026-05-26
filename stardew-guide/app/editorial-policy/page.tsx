@@ -23,6 +23,14 @@ const standards = [
   {
     title: "Fan-made independence",
     text: "Player Codex is not affiliated with, endorsed by, or sponsored by any covered game publisher or developer. Game names are used only to identify the fan guide topic."
+  },
+  {
+    title: "AI-assisted editing boundary",
+    text: "Drafting and research workflows may use AI assistance, but pages are edited for original structure, player utility, source boundaries, and duplicate-topic risk before publication."
+  },
+  {
+    title: "Community pain points",
+    text: "Player comments and reviews may be used to identify common questions, but they are not treated as proof of mechanics, balance, popularity, or the best current strategy."
   }
 ];
 

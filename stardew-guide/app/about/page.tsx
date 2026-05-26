@@ -32,6 +32,19 @@ export default function AboutPage() {
         </section>
 
         <section className="rounded-lg border border-green-950/10 bg-white p-5 shadow-soft">
+          <div className="max-w-3xl space-y-4 text-sm leading-6 text-green-950/72">
+            <h2 className="text-lg font-black text-green-950">Who maintains the site</h2>
+            <p>
+              Player Codex is maintained as an editorial guide project. New pages are reviewed for source boundaries,
+              duplicate topics, patch-sensitive claims, and whether the page helps a player make a practical in-game decision.
+            </p>
+            <p>
+              The site avoids official game artwork, wiki image hotlinking, copied guide structures, and unsupported claims such as current-meta rankings or guaranteed best routes.
+            </p>
+          </div>
+        </section>
+
+        <section className="rounded-lg border border-green-950/10 bg-white p-5 shadow-soft">
           <div className="mb-4 border-b border-green-950/10 pb-3">
             <p className="text-xs font-black uppercase tracking-[0.16em] text-green-950/46">Live Codexes</p>
             <h2 className="mt-1 text-lg font-black text-green-950">What the site covers now</h2>
@@ -87,6 +100,9 @@ export default function AboutPage() {
             </Link>
             <Link className="rounded-sm border border-green-950/14 bg-green-950/[0.04] px-3 py-2 text-sm font-black text-green-950 transition hover:bg-green-950/[0.08]" href="/nova-roma">
               Nova Roma
+            </Link>
+            <Link className="rounded-sm border border-green-950/14 bg-green-950/[0.04] px-3 py-2 text-sm font-black text-green-950 transition hover:bg-green-950/[0.08]" href="/contact">
+              Contact
             </Link>
           </div>
         </section>

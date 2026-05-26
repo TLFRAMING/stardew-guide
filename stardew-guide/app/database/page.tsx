@@ -21,6 +21,13 @@ const games = [
     status: "Live",
     description: "Beginner articles, systems primers, Specialist notes, progression guides, and verified source references.",
     entries: ["Guides", "Systems", "Specialists", "Progression", "Sources"]
+  },
+  {
+    name: "Nova Roma",
+    href: "/nova-roma/guides",
+    status: "Live",
+    description: "Early Access city-building guide coverage for first-city planning, resource pressure, water, production chains, population stability, religion, and defense.",
+    entries: ["Beginner Guides", "Water Planning", "Resource Shortages", "Production Chains", "Population Stability", "City Planning"]
   }
 ];
 
