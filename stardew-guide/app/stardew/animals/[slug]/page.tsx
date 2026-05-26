@@ -4,7 +4,8 @@ import { notFound } from "next/navigation";
 import { DataCard, SourceLine, TagList } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
 import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
-import { getAllAnimalProducts, getAllAnimals, getAnimalBySlug } from "@/lib/stardew/data";
+import { StardewRouteClusterLinks, type StardewRouteCluster } from "@/components/StardewRouteClusterLinks";
+import { getAllAnimalProducts, getAllAnimals, getAnimalBySlug, getArtisanGoodsForInput } from "@/lib/stardew/data";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 
 export const dynamicParams = false;
@@ -44,6 +45,8 @@ export default async function AnimalDetailPage({ params }: { params: Promise<{ s
     "first-winter-preparation"
   ]);
   const productLinks = getAllAnimalProducts().filter((product) => animal.products.includes(product.name));
+  const artisanOutputs = uniqueBySlug(productLinks.flatMap((product) => getArtisanGoodsForInput(product.name)));
+  const contextualClusters = getAnimalRouteClusters(animal.slug);
 
   return (
     <PageShell eyebrow="Animals Database" title={animal.name}>
@@ -77,10 +80,64 @@ export default async function AnimalDetailPage({ params }: { params: Promise<{ s
           </DataCard>
         ) : null}
 
+        {artisanOutputs.length > 0 ? (
+          <DataCard>
+            <h2 className="text-lg font-black text-green-950">Processing outputs from this animal</h2>
+            <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">Open the artisan pages to compare machine, processing time, and output value for this animal product chain.</p>
+            <div className="mt-4 flex flex-wrap gap-2">
+              {artisanOutputs.map((good) => (
+                <Link className="rounded-md border border-pond/20 bg-pond/10 px-3 py-2 text-sm font-black text-pond transition hover:bg-pond/15" href={`/stardew/artisan-goods/${good.slug}`} key={good.slug}>
+                  {good.name}
+                </Link>
+              ))}
+            </div>
+          </DataCard>
+        ) : null}
+
+        <StardewRouteClusterLinks clusters={contextualClusters} title="Plan the full animal route" />
+
         <RelatedStardewGuides articles={relatedGuides} title="Guides for animal buildings and bundle planning" />
       </div>
     </PageShell>
   );
+}
+
+function getAnimalRouteClusters(slug: string): StardewRouteCluster[] {
+  if (slug === "pig") {
+    return [
+      {
+        title: "Pig to Truffle Oil",
+        description: "Use this chain to evaluate Pig timing, Truffle collection, Oil Maker processing, and whether the money guide fits your farm routine.",
+        links: [
+          { href: "/stardew/animals/pig", label: "Pig" },
+          { href: "/stardew/animal-products/truffle", label: "Truffle" },
+          { href: "/stardew/artisan-goods/truffle-oil", label: "Truffle Oil" },
+          { href: "/stardew/money/pig-truffle-oil-economy", label: "Money guide" }
+        ]
+      }
+    ];
+  }
+
+  if (slug === "chicken") {
+    return [
+      {
+        title: "Chicken to Mayonnaise",
+        description: "Use this chain when planning your first coop routine: care for Chickens, collect Eggs, and decide when Mayonnaise Machines are worth using.",
+        links: [
+          { href: "/stardew/animals/chicken", label: "Chicken" },
+          { href: "/stardew/animal-products/egg", label: "Egg" },
+          { href: "/stardew/artisan-goods/mayonnaise", label: "Mayonnaise" },
+          { href: "/stardew/guides/animals-first-barn-or-coop", label: "Animal guide" }
+        ]
+      }
+    ];
+  }
+
+  return [];
+}
+
+function uniqueBySlug<T extends { slug: string }>(items: T[]) {
+  return Array.from(new Map(items.map((item) => [item.slug, item])).values());
 }
 
 function Fact({ label, value }: { label: string; value: string }) {

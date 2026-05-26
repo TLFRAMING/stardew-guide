@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { DataCard, SourceLine } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
 import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
+import { StardewRouteClusterLinks, type StardewRouteCluster } from "@/components/StardewRouteClusterLinks";
 import { getAllAnimalProducts, getAllAnimals, getAnimalProductBySlug, getArtisanGoodsForInput } from "@/lib/stardew/data";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 
@@ -45,6 +46,7 @@ export default async function AnimalProductDetailPage({ params }: { params: Prom
   ]);
   const animalLinks = getAllAnimals().filter((animal) => product.producedBy.includes(animal.name));
   const artisanOutputs = getArtisanGoodsForInput(product.name);
+  const contextualClusters = getAnimalProductRouteClusters(product.slug);
 
   return (
     <PageShell eyebrow="Animal Products Database" title={product.name}>
@@ -96,7 +98,9 @@ export default async function AnimalProductDetailPage({ params }: { params: Prom
                       <span className="rounded-sm bg-pond/10 px-2.5 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-pond">{good.machine}</span>
                       <span className="rounded-sm bg-green-950/[0.06] px-2.5 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/55">{good.processingTime}</span>
                     </div>
-                    <h3 className="mt-3 text-base font-black text-green-950">{good.name}</h3>
+                    <Link className="mt-3 block text-base font-black text-green-950 transition hover:text-amber-700" href={`/stardew/artisan-goods/${good.slug}`}>
+                      {good.name}
+                    </Link>
                     <dl className="mt-3 grid gap-2 sm:grid-cols-3">
                       <Fact label="Raw" value={formatGold(product.sellPrice)} />
                       <Fact label="Output" value={`${formatGold(input.sellPrice)}${input.outputQuantity > 1 ? ` total (${input.outputQuantity}x)` : ""}`} />
@@ -110,10 +114,46 @@ export default async function AnimalProductDetailPage({ params }: { params: Prom
           </DataCard>
         ) : null}
 
+        <StardewRouteClusterLinks clusters={contextualClusters} title="Continue this product chain" />
+
         <RelatedStardewGuides articles={relatedGuides} title="Guides for animal products, bundles, and farm planning" />
       </div>
     </PageShell>
   );
+}
+
+function getAnimalProductRouteClusters(slug: string): StardewRouteCluster[] {
+  if (slug === "truffle") {
+    return [
+      {
+        title: "Truffle income route",
+        description: "Compare Pig requirements, raw Truffle use, Truffle Oil processing, and the dedicated money guide before building your late-barn routine.",
+        links: [
+          { href: "/stardew/animal-products/truffle", label: "Truffle" },
+          { href: "/stardew/animals/pig", label: "Pig" },
+          { href: "/stardew/artisan-goods/truffle-oil", label: "Truffle Oil" },
+          { href: "/stardew/money/pig-truffle-oil-economy", label: "Money guide" }
+        ]
+      }
+    ];
+  }
+
+  if (slug === "egg" || slug === "large-egg") {
+    return [
+      {
+        title: "Egg processing route",
+        description: "Check the Chicken source page, Mayonnaise processing output, and animal-building guide when planning your first coop loop.",
+        links: [
+          { href: `/stardew/animal-products/${slug}`, label: slug === "egg" ? "Egg" : "Large Egg" },
+          { href: "/stardew/animals/chicken", label: "Chicken" },
+          { href: "/stardew/artisan-goods/mayonnaise", label: "Mayonnaise" },
+          { href: "/stardew/guides/animals-first-barn-or-coop", label: "Animal guide" }
+        ]
+      }
+    ];
+  }
+
+  return [];
 }
 
 function Fact({ label, value }: { label: string; value: string }) {
