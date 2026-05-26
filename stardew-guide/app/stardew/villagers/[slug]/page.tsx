@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { DataCard, SourceLine, TagList } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
 import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
+import { StardewRouteClusterLinks, type StardewRouteCluster } from "@/components/StardewRouteClusterLinks";
 import { getAllVillagers, getVillagerBySlug } from "@/lib/stardew/data";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 
@@ -42,6 +43,7 @@ export default async function VillagerDetailPage({ params }: { params: Promise<{
     "stardew-valley-festivals-overview",
     "spring-year-one-first-week"
   ]);
+  const routeClusters = getVillagerRouteClusters(villager.slug, villager.name);
 
   return (
     <PageShell eyebrow="Villager Gift Finder" title={villager.name}>
@@ -74,6 +76,8 @@ export default async function VillagerDetailPage({ params }: { params: Promise<{
           <SourceLine lastChecked={villager.lastChecked} sourceUrls={villager.sourceUrls} />
           <p className="mt-4 text-sm font-semibold text-green-950/58">Data may require verification.</p>
         </DataCard>
+
+        <StardewRouteClusterLinks clusters={routeClusters} title="Continue this friendship route" />
 
         <RelatedStardewGuides articles={relatedGuides} title="Guides for gifts, birthdays, and early friendship planning" />
       </div>
@@ -159,4 +163,46 @@ function buildVillagerMetaTitle(villager: { slug: string; name: string }) {
   };
 
   return focusedTitles[villager.slug] ?? `${villager.name} Stardew Valley Gifts, Birthday, Loved Items, and Schedule`;
+}
+
+function getVillagerRouteClusters(slug: string, name: string): StardewRouteCluster[] {
+  const comparisonLinks: Record<string, { href: string; label: string }[]> = {
+    wizard: [
+      { href: "/stardew/villagers/haley", label: "Haley gifts" },
+      { href: "/stardew/villagers/penny", label: "Penny gifts" }
+    ],
+    evelyn: [
+      { href: "/stardew/villagers/george", label: "George gifts" },
+      { href: "/stardew/villagers/gus", label: "Gus gifts" }
+    ],
+    george: [
+      { href: "/stardew/villagers/evelyn", label: "Evelyn gifts" },
+      { href: "/stardew/villagers/gus", label: "Gus gifts" }
+    ],
+    haley: [
+      { href: "/stardew/villagers/penny", label: "Penny gifts" },
+      { href: "/stardew/villagers/wizard", label: "Wizard gifts" }
+    ],
+    penny: [
+      { href: "/stardew/villagers/haley", label: "Haley gifts" },
+      { href: "/stardew/villagers/wizard", label: "Wizard gifts" }
+    ],
+    gus: [
+      { href: "/stardew/villagers/evelyn", label: "Evelyn gifts" },
+      { href: "/stardew/villagers/george", label: "George gifts" }
+    ]
+  };
+
+  return [
+    {
+      title: `${name} gift planning links`,
+      description: "Use these links to compare nearby gift pages, check birthday planning, and avoid turning a one-page lookup into a dead end.",
+      links: [
+        { href: "/stardew/villagers", label: "All villagers" },
+        { href: "/stardew/guides/friendship-and-gifts-basics", label: "Gift guide" },
+        { href: "/stardew/guides/stardew-valley-festivals-overview", label: "Festival guide" },
+        ...(comparisonLinks[slug] ?? [])
+      ]
+    }
+  ];
 }

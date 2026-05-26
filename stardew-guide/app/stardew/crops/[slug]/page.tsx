@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { DataCard, SourceLine } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
 import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
+import { StardewRouteClusterLinks, type StardewRouteCluster } from "@/components/StardewRouteClusterLinks";
 import { getAllCrops, getCropBySlug } from "@/lib/stardew/data";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 import type { Crop } from "@/lib/stardew/types";
@@ -39,6 +40,7 @@ export default async function CropDetailPage({ params }: { params: Promise<{ slu
   }
 
   const relatedGuides = getStardewGuideArticlesBySlugs(getRelatedCropGuideSlugs(crop));
+  const routeClusters = getCropRouteClusters(crop);
 
   return (
     <PageShell eyebrow="Crops Database" title={crop.name}>
@@ -71,6 +73,8 @@ export default async function CropDetailPage({ params }: { params: Promise<{ slu
           <h2 className="text-xl font-bold text-green-950">Beginner Recommendation</h2>
           <p className="mt-3 text-sm leading-6 text-green-950/72">{buildBeginnerRecommendation(crop)}</p>
         </DataCard>
+
+        <StardewRouteClusterLinks clusters={routeClusters} title="Continue this crop route" />
 
         <RelatedStardewGuides articles={relatedGuides} title="Guides for crop timing, protection, and farm scaling" />
       </div>
@@ -173,4 +177,33 @@ function getRelatedCropGuideSlugs(crop: Crop) {
 
   slugs.push("first-sprinkler-transition");
   return [...new Set(slugs)];
+}
+
+function getCropRouteClusters(crop: Crop): StardewRouteCluster[] {
+  const comparisonLinks: Record<string, { href: string; label: string }[]> = {
+    cranberries: [
+      { href: "/stardew/crops/wheat", label: "Wheat" },
+      { href: "/stardew/guides/year-one-fall-preparation", label: "Fall prep" }
+    ],
+    "red-cabbage": [
+      { href: "/stardew/community-center", label: "Community Center" },
+      { href: "/stardew/guides/community-center-priority-route", label: "Bundle guide" }
+    ],
+    wheat: [
+      { href: "/stardew/crops/cranberries", label: "Cranberries" },
+      { href: "/stardew/guides/first-scarecrow-crop-protection", label: "Scarecrow guide" }
+    ]
+  };
+
+  return [
+    {
+      title: `${crop.name} planning links`,
+      description: "Use these links to compare nearby crop pages, bundle pressure, protection needs, and season planning before buying seeds.",
+      links: [
+        { href: "/stardew/crops", label: "All crops" },
+        { href: "/stardew/guides/sprinklers-and-farm-scaling", label: "Sprinklers guide" },
+        ...(comparisonLinks[crop.slug] ?? [])
+      ]
+    }
+  ];
 }

@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { DataCard, SourceLine, TagList } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
 import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
+import { StardewRouteClusterLinks, type StardewRouteCluster } from "@/components/StardewRouteClusterLinks";
 import { getAllFish, getFishBySlug } from "@/lib/stardew/data";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 import type { Fish } from "@/lib/stardew/types";
@@ -39,6 +40,7 @@ export default async function FishDetailPage({ params }: { params: Promise<{ slu
   }
 
   const relatedGuides = getStardewGuideArticlesBySlugs(getRelatedFishGuideSlugs(item));
+  const routeClusters = getFishRouteClusters(item);
 
   return (
     <PageShell eyebrow="Fish Calendar" title={item.name}>
@@ -72,6 +74,8 @@ export default async function FishDetailPage({ params }: { params: Promise<{ slu
           <p className="mt-3 text-sm leading-6 text-green-950/72">{buildHowToCatch(item)}</p>
           <TagList label="Weather" values={item.weather} />
         </DataCard>
+
+        <StardewRouteClusterLinks clusters={routeClusters} title="Continue this fish route" />
 
         <RelatedStardewGuides articles={relatedGuides} title="Guides for fish timing, weather windows, and bundle planning" />
       </div>
@@ -162,4 +166,54 @@ function getRelatedFishGuideSlugs(item: Fish) {
   }
 
   return [...new Set(slugs)];
+}
+
+function getFishRouteClusters(item: Fish): StardewRouteCluster[] {
+  const links = [
+    { href: "/stardew/fish", label: "All fish" },
+    { href: "/stardew/guides/fishing-season-weather-planning", label: "Fishing guide" }
+  ];
+
+  if (formatBundleUsage(item.bundleUsage) === "Yes") {
+    links.push({ href: "/stardew/community-center", label: "Community Center" });
+  }
+
+  if (item.weather.some((weather) => weather.toLowerCase() !== "any")) {
+    links.push({ href: "/stardew/guides/rainy-day-planning", label: "Rain planning" });
+  }
+
+  const comparisonLinks: Record<string, { href: string; label: string }[]> = {
+    bream: [
+      { href: "/stardew/fish/halibut", label: "Halibut" },
+      { href: "/stardew/fish/tiger-trout", label: "Tiger Trout" }
+    ],
+    halibut: [
+      { href: "/stardew/fish/bream", label: "Bream" },
+      { href: "/stardew/fish/sardine", label: "Sardine" }
+    ],
+    "tiger-trout": [
+      { href: "/stardew/fish/bream", label: "Bream" },
+      { href: "/stardew/fish/shad", label: "Shad" }
+    ],
+    bullhead: [
+      { href: "/stardew/fish/bream", label: "Bream" },
+      { href: "/stardew/fish/tiger-trout", label: "Tiger Trout" }
+    ],
+    sardine: [
+      { href: "/stardew/fish/halibut", label: "Halibut" },
+      { href: "/stardew/fish/bream", label: "Bream" }
+    ],
+    shad: [
+      { href: "/stardew/fish/bream", label: "Bream" },
+      { href: "/stardew/fish/tiger-trout", label: "Tiger Trout" }
+    ]
+  };
+
+  return [
+    {
+      title: `${item.name} planning links`,
+      description: "Use these links to compare timing, season pressure, weather rules, and bundle planning before the current season ends.",
+      links: [...links, ...(comparisonLinks[item.slug] ?? [])]
+    }
+  ];
 }
