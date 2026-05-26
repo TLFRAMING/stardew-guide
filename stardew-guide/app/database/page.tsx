@@ -3,8 +3,8 @@ import Link from "next/link";
 import { PageShell } from "@/components/PageShell";
 
 export const metadata: Metadata = {
-  title: "Game Databases | Player Codex",
-  description: "Browse live and planned Player Codex game databases."
+  title: "Game Guides and Databases | Player Codex",
+  description: "Browse live Player Codex game databases, guide hubs, and source-aware reference sections."
 };
 
 const games = [
@@ -33,7 +33,7 @@ const games = [
 
 export default function DatabasePage() {
   return (
-    <PageShell eyebrow="Player Codex" kicker="A cross-game index for live databases and planned codex modules." title="Game Databases">
+    <PageShell eyebrow="Player Codex" kicker="A cross-game index for live databases, guide hubs, and codex modules." title="Game Guides and Databases">
       <section className="space-y-4">
         {games.map((game) => (
           <article className="rounded-md border border-green-950/10 bg-white/80 px-4 py-4 sm:px-5" key={game.name}>

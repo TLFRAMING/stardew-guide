@@ -33,10 +33,13 @@ const games = [
 
 const liveTools = [
   { label: "Stardew / Database", href: "/stardew/database" },
+  { label: "Stardew / Guides", href: "/stardew/guides" },
   { label: "Stardew / Villagers", href: "/stardew/villagers" },
   { label: "Stardew / Crops", href: "/stardew/crops" },
   { label: "Stardew / Fish", href: "/stardew/fish" },
-  { label: "Stardew / Community Center", href: "/stardew/community-center" }
+  { label: "Stardew / Community Center", href: "/stardew/community-center" },
+  { label: "Rogue Command / Guides", href: "/rogue-command" },
+  { label: "Nova Roma / Guides", href: "/nova-roma/guides" }
 ];
 
 export default function HomePage() {
@@ -91,6 +94,25 @@ export default function HomePage() {
                 {tool.label}
               </Link>
             ))}
+          </div>
+        </section>
+
+        <section className="rounded-md border border-green-950/10 bg-white/80 px-4 py-4 sm:px-5">
+          <p className="text-xs font-black uppercase tracking-[0.16em] text-green-950/46">Site Trust</p>
+          <h2 className="mt-1 text-lg font-black text-green-950">How Player Codex keeps guides useful</h2>
+          <p className="mt-2 max-w-3xl text-sm font-semibold leading-6 text-green-950/66">
+            The site separates each game section, keeps source notes and patch-sensitive claims visible where they matter, and avoids official artwork, copied guide structures, and unsupported best-route claims.
+          </p>
+          <div className="mt-4 flex flex-wrap gap-2">
+            <Link className="rounded-sm bg-green-950/[0.05] px-3 py-2 text-sm font-black text-green-950/72 transition hover:bg-green-950/[0.08] hover:text-green-950" href="/editorial-policy">
+              Editorial Policy
+            </Link>
+            <Link className="rounded-sm bg-green-950/[0.05] px-3 py-2 text-sm font-black text-green-950/72 transition hover:bg-green-950/[0.08] hover:text-green-950" href="/about">
+              About
+            </Link>
+            <Link className="rounded-sm bg-green-950/[0.05] px-3 py-2 text-sm font-black text-green-950/72 transition hover:bg-green-950/[0.08] hover:text-green-950" href="/contact">
+              Contact
+            </Link>
           </div>
         </section>
       </div>
