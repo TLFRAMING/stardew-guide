@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { DataCard, SourceLine } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
 import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
+import { StardewDetailUseGuide } from "@/components/StardewDetailUseGuide";
 import { StardewRouteClusterLinks, type StardewRouteCluster } from "@/components/StardewRouteClusterLinks";
 import { getAllAnimalProducts, getAllAnimals, getAllArtisanGoods, getArtisanGoodBySlug } from "@/lib/stardew/data";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
@@ -68,6 +69,21 @@ export default async function ArtisanGoodDetailPage({ params }: { params: Promis
           </dl>
           <SourceLine lastChecked={good.lastChecked} sourceUrls={good.sourceUrls} />
         </DataCard>
+
+        <StardewDetailUseGuide
+          title={`Decide when ${good.name} is worth processing`}
+          problem="Artisan pages should help you compare raw inputs, machine time, output value, and farm routine pressure instead of assuming every item should always be processed."
+          steps={[
+            `Start with the machine requirement: ${good.name} uses ${good.machine}, so capacity matters as much as item value.`,
+            `Check processing time before filling every machine. ${good.processingTime} affects whether this fits your current daily loop.`,
+            "Compare the input rows against your current animal-product supply, not against a perfect late-game farm.",
+            good.bundleUsage.length > 0 ? "Save any required bundle item before treating the output as pure profit." : "If no bundle use is listed, decide based on cash timing, machine availability, and input scarcity."
+          ]}
+          links={[
+            { href: "/stardew/artisan-goods", label: "All artisan goods" },
+            { href: "/stardew/guides/animals-first-barn-or-coop", label: "Animal planning guide" }
+          ]}
+        />
 
         <DataCard>
           <h2 className="text-lg font-black text-green-950">Input and value reference</h2>

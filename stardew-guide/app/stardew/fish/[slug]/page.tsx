@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { DataCard, SourceLine, TagList } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
 import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
+import { StardewDetailUseGuide } from "@/components/StardewDetailUseGuide";
 import { StardewRouteClusterLinks, type StardewRouteCluster } from "@/components/StardewRouteClusterLinks";
 import { getAllFish, getFishBySlug } from "@/lib/stardew/data";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
@@ -74,6 +75,21 @@ export default async function FishDetailPage({ params }: { params: Promise<{ slu
           <p className="mt-3 text-sm leading-6 text-green-950/72">{buildHowToCatch(item)}</p>
           <TagList label="Weather" values={item.weather} />
         </DataCard>
+
+        <StardewDetailUseGuide
+          title={`Plan a ${item.name} catch without wasting the season`}
+          problem="Fish pages are most useful when you turn the season, weather, time, and location fields into a short fishing plan before the day starts."
+          steps={[
+            `Check the season first: ${item.name} is only useful to chase when ${item.seasons.join(" / ")} is active.`,
+            `Match the time window before traveling. If the window is narrow, finish watering, animals, or mining plans before committing to the fishing trip.`,
+            `Use the location and weather fields together. A correct location on the wrong weather day is still a failed trip.`,
+            formatBundleUsage(item.bundleUsage) === "Yes" ? "If you need this for a bundle, catch and store one before selling extras." : "If there is no bundle pressure, compare the sell price against your current money route before spending a full day on it."
+          ]}
+          links={[
+            { href: "/stardew/guides/fishing-season-weather-planning", label: "Fishing planning guide" },
+            { href: "/stardew/fish", label: "All fish" }
+          ]}
+        />
 
         <StardewRouteClusterLinks clusters={routeClusters} title="Continue this fish route" />
 

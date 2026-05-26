@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { DataCard, TagList } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
+import { StardewDetailUseGuide } from "@/components/StardewDetailUseGuide";
 import { getAllForage, getForageBySlug } from "@/lib/stardew/data";
 
 export const dynamicParams = false;
@@ -53,6 +54,21 @@ export default async function ForageDetailPage({ params }: { params: Promise<{ s
           <TagList label="Locations" values={item.locations} />
           <SourceBlock lastChecked={item.lastChecked} sourceUrls={item.sourceUrls} />
         </DataCard>
+
+        <StardewDetailUseGuide
+          title={`Decide whether to save or sell ${item.name}`}
+          problem="Forage items can look like small cash, but the better choice depends on season pressure, bundle use, gifting, and how hard the item is to replace."
+          steps={[
+            `Start with the season field. If ${item.name} is seasonal, save one before the season ends unless you are sure it has no bundle or crafting pressure.`,
+            item.bundleUsage.length > 0 ? "Because this item appears in bundle usage, store one copy before selling extras." : "If no bundle use is listed, compare the sell price with your current backpack and cash needs.",
+            "Use the location field to build a low-effort pickup route instead of turning the whole day into random wandering.",
+            "If the item is easy to find again, sell extras; if it is awkward or seasonal, keep a small reserve."
+          ]}
+          links={[
+            { href: "/stardew/forage", label: "All forage" },
+            { href: "/stardew/community-center", label: "Community Center" }
+          ]}
+        />
       </div>
     </PageShell>
   );

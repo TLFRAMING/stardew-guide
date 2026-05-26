@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { DataCard, TagList } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
 import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
+import { StardewDetailUseGuide } from "@/components/StardewDetailUseGuide";
 import { getAllMinerals, getMineralBySlug } from "@/lib/stardew/data";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 import type { Mineral } from "@/lib/stardew/types";
@@ -62,6 +63,21 @@ export default async function MineralDetailPage({ params }: { params: Promise<{ 
           <TagList label="Locations" values={item.locations} />
           <SourceBlock lastChecked={item.lastChecked} sourceUrls={item.sourceUrls} />
         </DataCard>
+
+        <StardewDetailUseGuide
+          title={`Use ${item.name} without losing museum progress`}
+          problem="Mineral pages are most useful when they separate first-donation decisions from sell, gift, crafting, or fish pond choices."
+          steps={[
+            item.museumDonation ? "Donate the first copy before treating later copies as flexible resources." : "Because this item is not marked as a museum donation here, check its listed uses before selling extras.",
+            "If the item came from a geode, decide whether your next mining day needs more geodes, ore, or ladder progress before spending more money at the Blacksmith.",
+            "Use the locations field to choose the lowest-friction source instead of chasing every possible source at once.",
+            "When a use is marked in the data, keep one spare until the related goal is complete."
+          ]}
+          links={[
+            { href: "/stardew/guides/first-museum-donations", label: "Museum donation guide" },
+            { href: "/stardew/minerals", label: "All minerals" }
+          ]}
+        />
 
         <RelatedStardewGuides articles={relatedGuides} title="Guides for museum donations, geodes, and early mining choices" />
       </div>

@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { DataCard, SourceLine, TagList } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
 import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
+import { StardewDetailUseGuide } from "@/components/StardewDetailUseGuide";
 import { StardewRouteClusterLinks, type StardewRouteCluster } from "@/components/StardewRouteClusterLinks";
 import { getAllVillagers, getVillagerBySlug } from "@/lib/stardew/data";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
@@ -76,6 +77,21 @@ export default async function VillagerDetailPage({ params }: { params: Promise<{
           <SourceLine lastChecked={villager.lastChecked} sourceUrls={villager.sourceUrls} />
           <p className="mt-4 text-sm font-semibold text-green-950/58">Data may require verification.</p>
         </DataCard>
+
+        <StardewDetailUseGuide
+          title={`Use ${villager.name}'s gifts as a weekly friendship plan`}
+          problem="A gift page is strongest when it helps you avoid low-value gifts, missed birthdays, and schedule mistakes instead of only listing items."
+          steps={[
+            `Save one loved gift before ${villager.name}'s birthday on ${villager.birthday}; a birthday gift is the easiest time to turn item knowledge into friendship progress.`,
+            "Keep a backup liked gift for weeks when loved gifts are expensive, seasonal, or not available yet.",
+            "Check schedule notes before traveling so you do not spend a day carrying the right gift to the wrong place.",
+            "Use disliked and hated gifts as a safety filter when you are clearing inventory or preparing festival gifts."
+          ]}
+          links={[
+            { href: "/stardew/guides/friendship-and-gifts-basics", label: "Gift planning guide" },
+            { href: "/stardew/villagers", label: "All villagers" }
+          ]}
+        />
 
         <StardewRouteClusterLinks clusters={routeClusters} title="Continue this friendship route" />
 

@@ -4,7 +4,11 @@ import { PageShell } from "@/components/PageShell";
 
 export const metadata: Metadata = {
   title: "Recommended Gaming Tools | Player Codex",
-  description: "Useful gaming accessories and planning tools for reading guides, tracking goals, and playing strategy or cozy games more comfortably."
+  description: "Useful gaming accessories and planning tools for reading guides, tracking goals, and playing strategy or cozy games more comfortably.",
+  robots: {
+    follow: false,
+    index: false
+  }
 };
 
 const amazonTag = "playercodex-20";

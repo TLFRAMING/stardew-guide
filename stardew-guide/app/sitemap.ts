@@ -29,7 +29,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/stardew/community-center",
     "/stardew/money",
     "/stardew/guides",
-    "/recommended-tools",
+    "/editorial-policy",
     "/about",
     "/privacy"
   ];

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { DataCard, TagList } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
+import { StardewDetailUseGuide } from "@/components/StardewDetailUseGuide";
 import { getAllFruitTrees, getFruitTreeBySlug } from "@/lib/stardew/data";
 
 export const dynamicParams = false;
@@ -53,6 +54,21 @@ export default async function FruitTreeDetailPage({ params }: { params: Promise<
           <TagList label="Harvest season" values={tree.seasons} />
           <SourceBlock lastChecked={tree.lastChecked} sourceUrls={tree.sourceUrls} />
         </DataCard>
+
+        <StardewDetailUseGuide
+          title={`Plan ${tree.name} before spending sapling money`}
+          problem="Fruit trees are expensive timing decisions. This page should help you avoid planting too late, blocking future layouts, or buying a tree before the harvest season matters."
+          steps={[
+            `Check the harvest season first: ${tree.fruitName} is tied to ${tree.seasons.join(" / ")} in this database.`,
+            `Plan around the growth time. ${tree.name} needs ${formatDays(tree.growthDays)}, so a late sapling may not pay off until a later season or year.`,
+            "Place the tree where it will not block future sprinklers, buildings, or pathing.",
+            "If sapling price is still under review, treat the page as a planning reference and verify price in-game before buying."
+          ]}
+          links={[
+            { href: "/stardew/fruit-trees", label: "All fruit trees" },
+            { href: "/stardew/guides/year-one-fall-preparation", label: "Season planning guide" }
+          ]}
+        />
       </div>
     </PageShell>
   );

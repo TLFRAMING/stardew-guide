@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { DataCard, SourceLine, TagList } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
 import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
+import { StardewDetailUseGuide } from "@/components/StardewDetailUseGuide";
 import { StardewRouteClusterLinks, type StardewRouteCluster } from "@/components/StardewRouteClusterLinks";
 import { getAllAnimalProducts, getAllAnimals, getAnimalBySlug, getArtisanGoodsForInput } from "@/lib/stardew/data";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
@@ -65,6 +66,21 @@ export default async function AnimalDetailPage({ params }: { params: Promise<{ s
           <TagList label="Care notes" values={animal.careNotes} />
           <SourceLine lastChecked={animal.lastChecked} sourceUrls={animal.sourceUrls} />
         </DataCard>
+
+        <StardewDetailUseGuide
+          title={`Decide whether ${animal.name} fits your farm routine`}
+          problem="Animal pages are strongest when they help you compare unlock timing, daily care, products, and processing pressure before buying another animal."
+          steps={[
+            `Check the building first: ${animal.name} belongs to the ${animal.building} path, so the real cost includes the building tier and daily routine.`,
+            "Confirm you can feed and check animals consistently before expanding the herd or coop.",
+            `Look at the product list before buying. ${animal.products.join(", ")} should connect to a bundle, processing route, money plan, or collection goal.`,
+            "If your mornings are already crowded, add automation or delay expansion instead of buying animals that create more daily work."
+          ]}
+          links={[
+            { href: "/stardew/guides/animals-first-barn-or-coop", label: "Animal expansion guide" },
+            { href: "/stardew/animals", label: "All animals" }
+          ]}
+        />
 
         {productLinks.length > 0 ? (
           <DataCard>

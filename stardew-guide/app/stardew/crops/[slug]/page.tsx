@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { DataCard, SourceLine } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
 import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
+import { StardewDetailUseGuide } from "@/components/StardewDetailUseGuide";
 import { StardewRouteClusterLinks, type StardewRouteCluster } from "@/components/StardewRouteClusterLinks";
 import { getAllCrops, getCropBySlug } from "@/lib/stardew/data";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
@@ -73,6 +74,21 @@ export default async function CropDetailPage({ params }: { params: Promise<{ slu
           <h2 className="text-xl font-bold text-green-950">Beginner Recommendation</h2>
           <p className="mt-3 text-sm leading-6 text-green-950/72">{buildBeginnerRecommendation(crop)}</p>
         </DataCard>
+
+        <StardewDetailUseGuide
+          title={`Decide whether ${crop.name} fits this season`}
+          problem="A crop page should help you avoid buying seeds that miss the harvest window, overload your watering time, or distract from bundles and tool upgrades."
+          steps={[
+            `Count the remaining days before planting. ${crop.name} needs ${formatDays(crop.growthDays)}, so late-season purchases need extra caution.`,
+            "Check whether regrowth matters. Regrowing crops reward early planting, while one-time crops are easier to fit into short windows.",
+            "Compare seed cost, sell price, and best uses against your current goal: cash, bundles, cooking, gifting, or processing.",
+            "Before scaling the crop, confirm scarecrow coverage and sprinkler capacity so the field does not become an energy trap."
+          ]}
+          links={[
+            { href: "/stardew/guides/sprinklers-and-farm-scaling", label: "Farm scaling guide" },
+            { href: "/stardew/crops", label: "All crops" }
+          ]}
+        />
 
         <StardewRouteClusterLinks clusters={routeClusters} title="Continue this crop route" />
 

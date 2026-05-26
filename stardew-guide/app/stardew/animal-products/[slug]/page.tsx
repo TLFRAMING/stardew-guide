@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { DataCard, SourceLine } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
 import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
+import { StardewDetailUseGuide } from "@/components/StardewDetailUseGuide";
 import { StardewRouteClusterLinks, type StardewRouteCluster } from "@/components/StardewRouteClusterLinks";
 import { getAllAnimalProducts, getAllAnimals, getAnimalProductBySlug, getArtisanGoodsForInput } from "@/lib/stardew/data";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
@@ -65,6 +66,21 @@ export default async function AnimalProductDetailPage({ params }: { params: Prom
           </dl>
           <SourceLine lastChecked={product.lastChecked} sourceUrls={product.sourceUrls} />
         </DataCard>
+
+        <StardewDetailUseGuide
+          title={`Choose whether to sell, save, or process ${product.name}`}
+          problem="Animal product decisions depend on the source animal, bundle pressure, processing machine, and whether the raw item has a better short-term use."
+          steps={[
+            `Trace the source first: ${product.name} comes from ${product.producedBy.join(", ")}, so production depends on that animal routine staying stable.`,
+            product.bundleUsage.length > 0 ? "Store one copy for bundle planning before processing or selling extras." : "If no bundle use is listed, compare raw sale value with any processing output.",
+            product.processingUses.length > 0 ? `Check the processing path: ${product.processingUses.join(", ")} can change whether the item is better kept or sold.` : "If there is no processing path listed, treat the raw value as the main decision point.",
+            "If machine time is limited, process the item only when it supports your current money or collection goal."
+          ]}
+          links={[
+            { href: "/stardew/animal-products", label: "All animal products" },
+            { href: "/stardew/artisan-goods", label: "Artisan goods" }
+          ]}
+        />
 
         {animalLinks.length > 0 ? (
           <DataCard>
