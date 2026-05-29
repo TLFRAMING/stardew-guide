@@ -53,7 +53,3 @@ If a trip goes badly, leave before the loss gets worse. Keep the ore and mineral
 - Upgrading tools without enough ore left for the next priority.
 - Ignoring crop watering because mining feels more exciting.
 - Treating every rainy day as a mine day even when fishing or errands matter more.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for the mines, mining, energy, and tools. It does not claim a fixed mine-clear pace or exact resource route. Confidence is medium because mine structure is stable, while daily progress depends on luck, combat comfort, and farm size.

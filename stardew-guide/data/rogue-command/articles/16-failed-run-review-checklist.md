@@ -67,7 +67,3 @@ A review is useful only when it creates a cleaner next attempt.
 Some runs end in situations you have not seen enough times to explain confidently. In those cases, the best review is still narrow: note what looked unfamiliar, keep the lesson provisional, and do not invent exact balance conclusions from one attempt.
 
 This article also does not claim a universal progression route, exact archive order, or definitive answer for every failed run.
-
-## Source Boundary and Confidence Note
-
-Official store material supports the broad run-based structure, long-term growth framing, and repeated-attempt loop behind this article. The checklist here is an editorial review tool built from that framework. It intentionally avoids achievement guidance, exact progression routes, and patch-specific balance claims.

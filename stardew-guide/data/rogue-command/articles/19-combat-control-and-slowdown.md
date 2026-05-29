@@ -74,7 +74,3 @@ After a messy fight, ask:
 5. Did the fight protect the economy, or distract from it?
 
 If the answer is unclear, the next run improvement is not more speed. It is a cleaner reason for fighting.
-
-## Source Boundary and Confidence Note
-
-Official store material supports the broad real-time loop of controlling units, building a base, harvesting resources, exploring, defending, and planning attacks. This article translates that loop into combat-control habits. It intentionally avoids exact micro timings, unit-specific damage claims, ability rankings, and current-version matchup conclusions.

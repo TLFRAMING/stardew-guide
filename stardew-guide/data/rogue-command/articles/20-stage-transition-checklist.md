@@ -83,7 +83,3 @@ The fourth question matters. Many runs fail because every transition adds a new 
 The first mistake is taking a flashy reward after a stage that showed a basic weakness. The second is changing the whole plan because one fight went badly. The third is refusing to change anything after several stages expose the same problem. The fourth is adding a new system when the run needs safer economy, clearer combat roles, or better Engineer positioning.
 
 Good transitions are not dramatic. They are honest. They make the next map easier to read.
-
-## Source Boundary and Confidence Note
-
-Official store material supports the broad run loop of controlling units, building a base, harvesting resources, exploring the map, defending, attacking, and shaping a roguelite build through repeated decisions. This article turns that loop into a transition checklist. It intentionally excludes exact reward valuations, stage-specific route scripts, current-version build rankings, and fixed progression formulas.

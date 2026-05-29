@@ -68,7 +68,3 @@ If you sold or missed an item, identify the next real window. Some items return 
 - Forgetting animal and artisan items take setup time.
 - Treating the Vault like it must be paid before basic collection habits are stable.
 - Trying to finish every room at once instead of protecting active windows.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for the Community Center, bundles, calendar behavior, crops, and fish. It does not promise Year 1 completion or a fixed room order. Confidence is medium because bundle structure is documented, while completion timing depends on route, luck, remixed settings, and player priorities.

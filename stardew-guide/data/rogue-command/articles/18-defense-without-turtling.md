@@ -78,7 +78,3 @@ Use this loop when the map feels unstable:
 5. Move the Engineer after the army controls the new space.
 
 This loop keeps defense connected to progress. It also prevents the opposite mistake: attacking so far forward that the base becomes undefended.
-
-## Source Boundary and Confidence Note
-
-Official store material supports the broad Rogue Command loop of base building, harvesting resources, defending, exploring, controlling units, and planning attacks. This article is a defense framework based on those mechanics. It intentionally excludes fixed turret layouts, exact defense counts, enemy wave formulas, map-specific choke points, and current-version defensive rankings.

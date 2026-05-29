@@ -55,7 +55,3 @@ If you sold a useful duplicate, keep the next one and move on. If your chests ar
 - Opening geodes when inventory is already crowded.
 - Chasing museum progress while crops, tools, or cash are unstable.
 - Treating minerals, artifacts, and bundle items as the same category.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for the Museum, artifacts, minerals, geodes, the Blacksmith, and Fish Pond context. It does not publish a complete donation list or claim every duplicate use. Confidence is medium because museum systems are stable, while item value depends on current progress and later plans.

@@ -17,7 +17,7 @@ sourceUrls:
   - "https://wiki.hoodedhorse.com/Nova_Roma/Nova_Roma_Official_Wiki"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Water_Supply"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Infrastructure"
-summary: "A source-bounded Nova Roma water planning guide for deciding city direction early, protecting future water routes, and keeping growth readable instead of patching water problems too late."
+summary: "A practical Nova Roma water planning guide for deciding city direction early, protecting future water routes, and keeping growth readable instead of patching water problems too late."
 relatedDataLinks:
   - label: "Nova Roma Home"
     href: "/nova-roma"
@@ -100,7 +100,7 @@ This correction fails when you keep adding new districts while the water plan is
 - Reserve future water corridors before every useful tile is occupied.
 - Keep the network readable enough to scan quickly during a shortage.
 - Slow district growth if water support is becoming harder to extend cleanly.
-- Treat terrain and weather as patch-sensitive planning variables.
+- Plan around terrain and weather before adding more density.
 - Repair the main route first before expanding around it again.
 
 ## Common Beginner Mistakes
@@ -110,13 +110,3 @@ This correction fails when you keep adding new districts while the water plan is
 - Letting short-term convenience block later network expansion.
 - Growing housing or production faster than water support can follow.
 - Trying to fix a confused water plan while still adding new density.
-
-## What Not To Over-Optimize Yet
-
-Do not chase a single rigid layout for every map or city shape. Early Access coverage is more useful when it teaches you how to protect flow, storage, and growth options than when it pretends one network solves every terrain problem.
-
-The better target is a city that can expand, recover, and stay legible under changing conditions.
-
-## Source And Patch Boundary
-
-This guide uses the Steam store page and registered Hooded Horse official wiki pages for high-level water and infrastructure framing. It does not publish exact height rules, exact pressure behavior, tile-perfect layouts, or fixed disaster timings. Treat environmental details and later-network behavior as patch-sensitive until stronger verification exists.

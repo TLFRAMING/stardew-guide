@@ -81,7 +81,3 @@ This is where many runs quietly lose tempo. The army won a fight, but the base d
 The first mistake is floating resources while waiting for a perfect plan. The second is spending on several partial plans at once. The third is adding a new production branch before the current army can protect it. The fourth is treating defense as a separate task instead of a way to preserve conversion.
 
 When these mistakes happen, the run feels behind even with resources available. That usually means the base is not turning income into timely pressure.
-
-## Source Boundary and Confidence Note
-
-Official and wiki-backed sources support the broad economy, base-building, and build-crafting structure behind this article. This page intentionally stays at tempo and conversion logic. It avoids exact economy routes, collector timings, production math, current-version optimization claims, and universal build orders.

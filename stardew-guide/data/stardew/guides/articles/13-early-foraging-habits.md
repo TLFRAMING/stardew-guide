@@ -56,7 +56,3 @@ If you sold a seasonal forage item, check whether it still appears this season o
 - Spending all day walking for low-value pickups.
 - Planting wild seeds without checking watering capacity.
 - Forgetting forage can help energy planning when food is scarce.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for foraging, wild seeds, and Spring context. It does not claim exact spawn routes or daily income. Confidence is medium because forage systems are stable, while availability and usefulness depend on map movement and current goals.

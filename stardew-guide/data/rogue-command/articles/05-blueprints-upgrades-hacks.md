@@ -68,7 +68,3 @@ This order does not create a universal best pick. It keeps the run coherent. Coh
 Branch when the current army cannot answer a real problem. Refine when the current army already works but needs to survive pressure better. Delay when both choices require resources or triggers the run does not have.
 
 This is the main build-crafting discipline: do not confuse variety with strength. A run becomes stronger when new pieces support each other under pressure.
-
-## Source Boundary and Confidence Note
-
-Official store material supports the broad build-crafting frame and the existence of Blueprints, Upgrades, Hacks, and roguelite run variety. This overview explains how to think about reward types. It intentionally excludes reward rankings, current balance claims, Specialist-specific build prescriptions, detailed interaction tables, and player-review conclusions.

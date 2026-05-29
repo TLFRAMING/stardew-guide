@@ -19,7 +19,7 @@ sourceUrls:
   - "https://wiki.hoodedhorse.com/Nova_Roma/Resources"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Water_Supply"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Infrastructure"
-summary: "A source-bounded Nova Roma guide for checking whether population growth is outpacing water, food, jobs, storage, and city support before a stable settlement turns fragile."
+summary: "A practical Nova Roma guide for checking whether population growth is outpacing water, food, jobs, storage, and city support before a stable settlement turns fragile."
 relatedDataLinks:
   - label: "Nova Roma Home"
     href: "/nova-roma"
@@ -116,13 +116,3 @@ Growth is worth more after the city can support it than before.
 If the city feels unstable after a growth push, stop adding residents and restore the systems that make the settlement legible again. Strengthen the support that keeps daily function predictable, then decide whether more homes still make sense.
 
 This recovery works best when the correction is narrow. If you try to fix labor, housing, services, and expansion all at once, you can lose track of which system was actually holding the city back.
-
-## What Not To Over-Optimize Yet
-
-Do not trust rigid population formulas in Early Access coverage. The safer approach is to look for stable growth conditions: readable supply, extendable water support, sensible labor allocation, and storage that still helps the city recover instead of slowing it down.
-
-That framework gives you a city you can keep scaling without pretending one threshold or one rhythm is permanently correct.
-
-## Source And Patch Boundary
-
-This guide uses the Steam store page and registered Hooded Horse official wiki pages for high-level framing around resources, water systems, infrastructure, and city management pressure. It does not publish exact population thresholds, fixed stability formulas, service radii, or ranked law, tax, or god choices. Treat detailed stability behavior as patch-sensitive until stronger verification exists.

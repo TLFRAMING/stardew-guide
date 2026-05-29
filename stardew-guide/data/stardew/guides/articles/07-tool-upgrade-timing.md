@@ -53,7 +53,3 @@ If you upgraded at a bad time, reduce the damage instead of forcing the original
 - Forgetting that losing a tool changes tomorrow's plan.
 - Treating every rainy day as a watering-can upgrade day.
 - Starting multiple progression projects with the same resource pile.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for tools, the Blacksmith, weather, and calendar context. It does not claim one upgrade order for every save. Confidence is medium because upgrade rules are stable, while safe timing depends on crops, weather, and resource pressure.

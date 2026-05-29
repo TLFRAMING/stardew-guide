@@ -55,7 +55,3 @@ If the farm is already too large, stop planting more until harvest catches up. W
 - Selling every crop or forage item before checking bundle needs.
 - Leaving town errands until shops are closed.
 - Treating the first week like a fixed route instead of a control phase.
-
-## Source Boundary / Confidence Note
-
-This guide uses Stardew Valley Wiki pages for calendar behavior, days, crops, and mine access context. It does not claim a perfect first-week route, exact earnings, or full bundle completion. Confidence is medium because the mechanics are stable, while the right daily priority depends on weather, player skill, and how much land you planted.

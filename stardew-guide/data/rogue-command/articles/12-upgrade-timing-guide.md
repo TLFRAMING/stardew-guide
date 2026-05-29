@@ -61,7 +61,3 @@ The deepest mistake is confusing stronger numbers with a stronger run. A better 
 Sometimes an Upgrade is the correct early pivot because the current roster is already close to supporting it. If the target is about to become central and the next map gives you the room to use it, taking the Upgrade first can be justified.
 
 What this article does not do is rank specific upgrades, compare exact values, or declare a universal timing breakpoint. Those conclusions need direct testing and would be more patch-sensitive than the current source support allows.
-
-## Source Boundary and Confidence Note
-
-Official store material supports the game's broad reward structure and the link between combat, building, and adaptation. This article stays at that level. It intentionally avoids Upgrade tiers, exact scaling values, unit stat comparisons, and patch-balance conclusions.

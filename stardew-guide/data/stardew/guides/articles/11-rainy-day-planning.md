@@ -55,7 +55,3 @@ If the rainy day is already half gone, choose the highest-value remaining action
 - Going mining with a full backpack.
 - Fishing without checking season, weather, time, and location.
 - Spending the whole day sorting chests when a rare window is open.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for weather, tools, mines, and fishing. It does not claim a single correct rainy-day route. Confidence is medium because rain effects are stable, while the strongest use of a rainy day depends on farm size, season, and current bottleneck.

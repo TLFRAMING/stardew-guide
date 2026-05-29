@@ -19,7 +19,7 @@ sourceUrls:
   - "https://wiki.hoodedhorse.com/Nova_Roma/Resources"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Infrastructure"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Water_Supply"
-summary: "A source-bounded Nova Roma guide for diagnosing early shortage pressure, slowing expansion, and checking the chain from producer to storage to consumer before the city stalls."
+summary: "A practical Nova Roma guide for diagnosing early shortage pressure, slowing expansion, and checking the chain from producer to storage to consumer before the city stalls."
 relatedDataLinks:
   - label: "Nova Roma Home"
     href: "/nova-roma"
@@ -118,13 +118,3 @@ This approach fails when you keep chasing every symptom together. If you try to 
 - Adding more consumers before confirming the chain behind them.
 - Ignoring storage distance because production looks fine on paper.
 - Opening several new systems in one burst and calling the collapse bad luck.
-
-## What Not To Over-Optimize Yet
-
-Do not treat an early shortage as a puzzle with one perfect answer. At this stage, the better goal is a safer planning habit: slower expansion, clearer routing, and fewer overlapping demand spikes.
-
-If you are still in Early Access uncertainty, the practical win is not a rigid formula. It is a city that tells you what is wrong quickly enough that you can recover.
-
-## Source And Patch Boundary
-
-This guide uses the Steam store page and registered Hooded Horse official wiki pages for broad system framing around resources, infrastructure, and water pressure. It does not claim a fixed build order, a guaranteed economy route, or exact throughput numbers. Treat specific shortage behavior as patch-sensitive and verify exact in-game details if later updates change how fast a city can scale.

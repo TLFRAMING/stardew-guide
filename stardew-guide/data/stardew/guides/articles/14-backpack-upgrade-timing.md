@@ -54,7 +54,3 @@ If you bought too early, shrink spending for the next few days and use the bigge
 - Carrying unneeded tools into fishing or mining trips.
 - Spending crop money on space the day before a planting window.
 - Treating more slots as a fix for poor chest organization.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for inventory, Pierre's shop context, and tools. It does not claim a universal purchase day or exact payback time. Confidence is medium because inventory rules are stable, while timing depends on cash, route style, and season pressure.

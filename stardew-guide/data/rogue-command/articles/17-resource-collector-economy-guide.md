@@ -73,7 +73,3 @@ When income breaks, do not immediately expand farther. Shorten the problem first
 Start by protecting the route that still works. Then rebuild the collector or income piece that restores production fastest. Delay rewards, units, or structures that require a new branch until the economy can support the current plan again. If you lost map space, take back a close position before chasing a distant one.
 
 Recovery is successful when the next fight is funded by a working route, not by the last bit of saved resource.
-
-## Source Boundary and Confidence Note
-
-Official store material supports the broad loop of harvesting resources, building a base, controlling units, defending, exploring, and planning attacks. This article turns that loop into an economy framework. It intentionally avoids exact income numbers, collector timings, resource names beyond broad usage, build orders, and current-version economy rankings.

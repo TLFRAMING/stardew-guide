@@ -94,7 +94,3 @@ Good answers are concrete:
 - I fought without a retreat path.
 
 Fix only one of those next run. Rogue Command rewards repeated attempts, but improvement comes from making the next attempt easier to understand.
-
-## Source Boundary and Confidence Note
-
-Official store material supports the broad RTS and roguelite framing: building, harvesting, exploring, defending, attacking, and build crafting. This first-run guide turns that verified frame into a beginner safety routine. It intentionally excludes universal starts, precise stage timings, Specialist rankings, and player-review claims.

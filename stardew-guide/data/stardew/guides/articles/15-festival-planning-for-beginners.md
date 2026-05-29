@@ -52,7 +52,3 @@ If you missed a festival, do not let it derail the whole season. Most festival o
 - Carrying no cash or item when the event rewards preparation.
 - Scheduling a tool upgrade without checking event timing.
 - Treating a missed festival as unrecoverable.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for festivals, calendar behavior, and days of the week. It does not list every event reward or claim a required festival route. Confidence is medium because festival dates are stable, while importance depends on current farm goals.

@@ -17,7 +17,7 @@ sourceUrls:
   - "https://wiki.hoodedhorse.com/Nova_Roma/Nova_Roma_Official_Wiki"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Resources"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Infrastructure"
-summary: "A source-bounded Nova Roma guide for diagnosing production chains, spotting whether the bottleneck is input, labor, storage, or demand, and deciding whether to expand, simplify, or pause."
+summary: "A practical Nova Roma guide for diagnosing production chains, spotting whether the bottleneck is input, labor, storage, or demand, and deciding whether to expand, simplify, or pause."
 relatedDataLinks:
   - label: "Nova Roma Home"
     href: "/nova-roma"
@@ -116,13 +116,3 @@ This is not about building slowly forever. It is about keeping the city repairab
 When a chain starts failing, simplify first. Pause fresh demand, identify the slowest link, and restore a stable path before layering new growth on top.
 
 If the city becomes easier to read after one correction, that is usually a better sign than a dramatic build burst. A readable chain recovers faster because the next decision is easier to trust.
-
-## What Not To Over-Optimize Yet
-
-Do not search for one universal chain formula while the game is still in Early Access. The safer target is a system you can diagnose quickly, repair without panic, and expand one layer at a time.
-
-If your chain works because you understand it, that is stronger than forcing a rigid setup you cannot troubleshoot once the city changes.
-
-## Source And Patch Boundary
-
-This guide uses the Steam store page and registered Hooded Horse official wiki pages for broad resource, infrastructure, and systems framing. It does not publish rigid formulas, fixed build orders, guaranteed travel behavior, or solved chain layouts. Treat specific production timing and efficiency details as patch-sensitive until stronger verification exists.

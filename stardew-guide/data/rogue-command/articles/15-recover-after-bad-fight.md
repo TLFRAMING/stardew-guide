@@ -61,7 +61,3 @@ Recoveries fail when the player tries to resume the old plan before the run is s
 Some fights do enough damage that the safest play still loses later. If the run is already on the edge, a risky counterplay may be the only remaining chance. That does not invalidate the framework. It just means the recovery window was already missed or too expensive to buy back.
 
 This article also does not claim a guaranteed rebuild order, exact replacement sequence, or patch-specific comeback formula.
-
-## Source Boundary and Confidence Note
-
-Official store material supports the broad loop of controlling units, building a base, harvesting resources, defending positions, and adapting the run through rewards. This guide turns those broad mechanics into a recovery framework and intentionally excludes exact rebuild scripts, fixed route prescriptions, and balance-specific comeback claims.

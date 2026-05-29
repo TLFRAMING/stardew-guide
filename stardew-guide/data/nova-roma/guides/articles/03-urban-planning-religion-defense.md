@@ -2,7 +2,7 @@
 slug: "urban-planning-religion-defense"
 title: "Nova Roma City Planning Guide: Water, Religion, Defense, and Growth"
 category: "city-planning"
-summary: "A source-bounded Nova Roma planning guide for players who want cleaner district growth without creating later problems in water access, temple support, or defense."
+summary: "A practical Nova Roma planning guide for players who want cleaner district growth without creating later problems in water access, temple support, or defense."
 lastChecked: "2026-05-25"
 confidence: "medium"
 patchSensitivity: "medium"
@@ -103,7 +103,3 @@ The goal is not to make the city beautiful immediately. The goal is to make it r
 - Waiting too long to reserve central space for civic or religious support.
 - Building defenses after threats arrive instead of shaping a defendable city earlier.
 - Trying to fix an oversized city by adding even more disconnected systems.
-
-## Source Boundary / Confidence Note
-
-This guide uses the Steam store page and Hooded Horse official wiki pages for water infrastructure, temples, infrastructure, and combat framing. It avoids unverified tile-perfect layouts, fixed temple priority orders, exact offering plans, exact raid behavior, and ideal population thresholds. Confidence is medium because the article is a planning framework rather than a tested city blueprint.

@@ -52,7 +52,3 @@ If crops disappear, first separate crow loss from missed watering or season-end 
 - Placing protection for a future layout while current crops are exposed.
 - Expanding crop count before energy, sprinklers, and protection are ready.
 - Ignoring crop loss because it is only one plant.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for Scarecrow, crops, and farming context. It does not provide pixel-perfect layout diagrams or exact field designs. Confidence is medium because crop protection rules are stable, while placement depends on each farm layout.

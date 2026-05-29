@@ -83,7 +83,3 @@ Army strength is not just the sum of units. It is whether the army can protect t
 Experiment when the fundamentals are stable. If Crystal is flowing, the Engineer is safe, and production is active, trying a new Specialist interaction or unusual composition can teach you something useful. If those basics are unstable, experimentation often hides the real problem.
 
 Use failed runs as tests. If an offbeat idea fails, identify whether the idea was unsupported or whether the command layer collapsed before the idea had a fair chance.
-
-## Source Boundary and Confidence Note
-
-Official store material supports the broad RTS and build-crafting frame. Wiki-backed material supports roster and Specialist structure, so this article keeps mechanics patch-sensitive. It intentionally excludes unit rankings, Specialist rankings, precise current-version counters, and player-review balance conclusions.

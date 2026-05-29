@@ -17,7 +17,7 @@ sourceUrls:
   - "https://wiki.hoodedhorse.com/Nova_Roma/Nova_Roma_Official_Wiki"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Resources"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Infrastructure"
-summary: "A source-bounded Nova Roma food supply guide for checking whether growth is outpacing input, storage, labor, and demand before a shortage becomes a city-wide stability problem."
+summary: "A practical Nova Roma food supply guide for checking whether growth is outpacing input, storage, labor, and demand before a shortage becomes a city-wide stability problem."
 relatedDataLinks:
   - label: "Nova Roma Home"
     href: "/nova-roma"
@@ -105,13 +105,3 @@ This recovery pattern is conservative, but that is the point. When food is unsta
 - Expanding several production chains and food support at the same time.
 - Ignoring labor after building the right structures.
 - Assuming storage is passive instead of part of distribution.
-
-## What Not To Over-Optimize Yet
-
-Do not turn this guide into a fixed food route or a precise population formula. Current public sources support system framing and resource categories, but they do not justify exact production math or one opening order for every city.
-
-For now, use food as an early warning signal. If food becomes hard to read, the city is probably growing faster than its support systems can explain.
-
-## Source And Patch Boundary
-
-This guide uses the Steam page for the broad city-building frame and the official wiki source registry for resource and infrastructure categories. It does not publish exact production ratios, fixed district layouts, or live-version stability formulas. Treat detailed food planning as patch-sensitive until verified with stronger source coverage or recorded testing.

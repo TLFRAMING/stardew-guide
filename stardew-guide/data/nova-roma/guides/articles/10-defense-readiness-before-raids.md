@@ -17,7 +17,7 @@ sourceUrls:
   - "https://wiki.hoodedhorse.com/Nova_Roma/Nova_Roma_Official_Wiki"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Infrastructure"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Combat"
-summary: "A source-bounded Nova Roma defense guide for checking whether the city can protect water, storage, supply routes, and workers before a raid turns expansion mistakes into collapse."
+summary: "A practical Nova Roma defense guide for checking whether the city can protect water, storage, supply routes, and workers before a raid turns expansion mistakes into collapse."
 relatedDataLinks:
   - label: "Nova Roma Home"
     href: "/nova-roma"
@@ -110,13 +110,3 @@ If the expansion creates several unclear risks at once, it is not ready.
 - Protecting the visible problem but not the route that caused it.
 - Rebuilding immediately after pressure without checking supply chains.
 - Making the city edge wider than the player can actually monitor.
-
-## What Not To Over-Optimize Yet
-
-Do not turn this guide into a fixed fortification pattern, tower placement rule, or raid schedule. Current source coverage supports broad defense concepts, not precise timing or solved city shapes.
-
-The safe rule is to protect recovery capacity first. If the city can recover, it can keep learning. If the recovery systems are exposed, one bad event can become several unrelated-looking failures.
-
-## Source And Patch Boundary
-
-This guide uses Steam and official wiki combat/infrastructure sources for broad defense framing. It does not claim exact raid timing, enemy behavior, defensive ranges, or fixed fortification layouts. Treat detailed combat and defense placement as patch-sensitive until supported by stronger source coverage or recorded testing.

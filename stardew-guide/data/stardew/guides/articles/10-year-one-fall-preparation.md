@@ -58,7 +58,3 @@ If Fall starts with low cash, plant a smaller field instead of overextending. Us
 - Selling seasonal bundle items because they look like normal cash.
 - Starting an animal building without feed and daily routine space.
 - Ignoring Summer-only fish or crops until the final days.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for Summer, Fall, crops, calendar timing, and bundles. It does not provide a fixed Fall crop route or exact return calculation. Confidence is medium because seasonal systems are stable, while the right investment depends on each farm's cash, tools, and goals.

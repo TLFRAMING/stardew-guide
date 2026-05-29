@@ -57,7 +57,3 @@ If you gave a bad gift, stop guessing. Return to safe interactions, check the vi
 - Trying to manage every villager before the farm routine is stable.
 - Missing birthdays because the calendar was ignored.
 - Memorizing huge tables instead of using the gift finder for decisions.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for friendship, gift lists, calendar behavior, and villager context. It does not publish unverified gift claims or a complete gift table. Confidence is medium because gift mechanics are documented, while the right social routine depends on route, available items, and player goals.

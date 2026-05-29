@@ -61,7 +61,3 @@ If Winter starts weak, choose one stabilizing path. Mine for ore and stone, fish
 - Buying animals without feed planning.
 - Ignoring Winter fish or forage windows.
 - Starting every backlog project at once.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for Winter, Winter Seeds, mines, and fishing. It does not promise complete winter recovery or exact money output. Confidence is medium because seasonal behavior is stable, while Winter value depends on what the farm neglected earlier.

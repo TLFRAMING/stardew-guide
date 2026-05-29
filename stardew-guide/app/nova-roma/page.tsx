@@ -58,6 +58,12 @@ const sourceTypeLabels: Record<string, string> = {
   wiki: "Wiki"
 };
 
+const guideConfidenceLabels: Record<string, string> = {
+  high: "Verified sources",
+  medium: "Source checked",
+  "needs verification": "Review needed"
+};
+
 export default function NovaRomaPage() {
   const sources = getAllNovaRomaSources();
   const guideArticles = getAllNovaRomaGuideArticles();
@@ -179,7 +185,7 @@ export default function NovaRomaPage() {
                     {source.publisher} / {sourceTypeLabels[source.sourceType] ?? source.sourceType}
                   </span>
                   <span className="mt-1 block text-xs font-black uppercase tracking-[0.12em] text-green-950/42">
-                    {source.confidence} confidence / checked {source.lastChecked}
+                    Checked {source.lastChecked}
                   </span>
                 </a>
               ))}
@@ -227,7 +233,7 @@ function GuideCard({ article }: { article: NovaRomaGuideArticle }) {
     <Link className="group rounded-sm border border-green-950/10 bg-green-950/[0.025] p-4 transition hover:-translate-y-0.5 hover:border-green-950/20 hover:bg-green-950/[0.045]" href={`/nova-roma/guides/${article.slug}`}>
       <div className="flex flex-wrap gap-2">
         <span className="rounded-sm bg-green-950/[0.06] px-2 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/50">{article.category}</span>
-        <span className="rounded-sm bg-white/60 px-2 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/45">{article.confidence}</span>
+        <span className="rounded-sm bg-white/60 px-2 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/45">{guideConfidenceLabels[article.confidence] ?? article.confidence}</span>
       </div>
       <h2 className="mt-3 text-base font-black leading-snug text-green-950 group-hover:text-meadow">{article.title}</h2>
       <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">{article.summary}</p>

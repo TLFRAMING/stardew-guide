@@ -55,7 +55,3 @@ If you sold useful fish, check whether the fish returns later in the same season
 - Ignoring seasonal or rainy fish until the last day.
 - Treating fishing income as a reason to skip long-term farm setup.
 - Carrying too little inventory space for a full fishing session.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for fishing, fish availability, energy, and calendar context. It avoids exact daily profit promises and does not rank fishing against every other money method. Confidence is medium because fishing rules are stable, while results vary by skill, location, weather, and time spent.

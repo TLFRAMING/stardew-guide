@@ -61,7 +61,3 @@ These mistakes are worst when the player is already ahead on paper but behind on
 Some runs really do need a new job immediately. If the next map clearly punishes your current army and the Blueprint is the only visible answer, taking the risk can be correct. A stable but incomplete build can still lose if it refuses every pivot.
 
 The boundary is evidence. This article can help you judge when a new line is supportable, but it does not claim a universal Blueprint order, patch-level priority list, or exact production math for every run.
-
-## Source Boundary and Confidence Note
-
-Official store material supports the broad reward-drafting frame, base building, resource harvesting, and army adaptation that this article relies on. The advice here is a decision framework, not a ranking page, and it intentionally excludes Blueprint rankings, precise production math, and patch-specific value claims.

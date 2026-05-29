@@ -77,7 +77,3 @@ If you cannot answer all five, the next move should be scouting, stabilizing, or
 The first mistake is moving the Engineer into unknown space because the player wants to build faster. The second is taking a resource area without planning the route that protects it. The third is placing defenses in the middle of the base instead of on the pressure path. The fourth is sending the whole army forward while the economy line stays exposed.
 
 These are not just micro mistakes. They are map ownership mistakes. The run breaks because the base grows beyond the area the army can control.
-
-## Source Boundary and Confidence Note
-
-Official store material supports the broad loop of exploration, resource harvesting, base building, defending, and attack planning. This article turns that into a map-awareness framework. It intentionally excludes exact map routes, hidden reward locations, terrain-specific exploits, and unverified environmental mechanics.

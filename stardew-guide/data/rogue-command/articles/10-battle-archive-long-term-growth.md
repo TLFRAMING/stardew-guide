@@ -79,7 +79,3 @@ This keeps growth connected to play. You are not just accumulating options. You 
 ## What Not to Claim Yet
 
 Without recorded current-version testing, do not publish a universal long-term route, precise farming path, or one-size-fits-all progression order. Different players lose for different reasons, and the value of growth depends on the run identity and current skill gaps.
-
-## Source Boundary and Confidence Note
-
-Official store material supports the broad repeated-run, RTS, and roguelite build-crafting frame behind this article. This page intentionally avoids unsupported named progression-system details, precise token routes, upgrade orders, farming paths, current balance claims, and completion walkthroughs until stronger sources or own testing are available.

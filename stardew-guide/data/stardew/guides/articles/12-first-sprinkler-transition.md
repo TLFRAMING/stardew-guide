@@ -55,7 +55,3 @@ If your first sprinkler setup is awkward, do not rebuild the whole farm immediat
 - Spending ore needed for tools without noticing the tradeoff.
 - Expanding immediately after automation without checking seed money and harvest time.
 - Ignoring rainy days as chances to gather sprinkler materials.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for sprinkler items, farming context, and mining-related resource pressure. It does not prescribe an exact layout or upgrade day. Confidence is medium because automation rules are stable, while timing depends on each save.

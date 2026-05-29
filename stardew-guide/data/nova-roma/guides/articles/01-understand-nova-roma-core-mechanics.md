@@ -85,7 +85,3 @@ You do not need an advanced military plan in the first minutes. You do need to l
 - Ignoring temple planning until religion becomes a crisis.
 - Placing vital storage and water infrastructure in exposed or awkward locations.
 - Growing so quickly that the city becomes hard to read.
-
-## Source Boundary / Confidence Note
-
-This guide uses the Nova Roma Steam store page and the Hooded Horse official wiki for broad system framing. It avoids current review percentages, community map seed rankings, exact god-effect claims, exact recovery-cycle claims, and fixed route claims because those details either change over time or require stronger source coverage. Confidence is medium because the advice is a beginner decision framework, not a tested build order.

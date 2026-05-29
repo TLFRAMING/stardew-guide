@@ -59,5 +59,3 @@ Melee positioning is about choosing the fight's edge. Enter from the side when p
 ## Reward Drafting for Mantis
 
 Draft rewards that support the current Mantis plan. If Mantis is becoming the frontline, look for survival and control. If consumption is central, look for ways to make sacrifice less costly or more meaningful. If the army lacks range, economy, or defensive coverage, repair that before deepening the gimmick.
-
-Source boundary: this guide does not claim a universal Mantis build, precise stat breakpoints, or current patch dominance. Mantis-specific details need direct testing before they become high-confidence recommendations.

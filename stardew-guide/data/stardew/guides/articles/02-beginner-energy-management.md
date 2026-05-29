@@ -57,7 +57,3 @@ If you are low before noon, stop spending energy on low-value actions. Switch to
 - Starting a mine trip after exhausting yourself on the farm.
 - Forgetting that walking, shopping, gifting, and planning do not need much energy.
 - Treating an empty energy bar as normal every day.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for energy, tools, fishing, and mine context. It gives a decision framework rather than exact stamina math or a fixed daily schedule. Confidence is medium because energy costs and systems are stable, while food access and player comfort vary by save.

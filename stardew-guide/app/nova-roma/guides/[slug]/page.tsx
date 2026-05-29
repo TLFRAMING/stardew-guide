@@ -8,15 +8,15 @@ import type { NovaRomaGuideArticle, NovaRomaGuideArticleBlock } from "@/lib/nova
 export const dynamicParams = false;
 
 const confidenceLabels: Record<string, string> = {
-  high: "High confidence",
-  medium: "Medium confidence",
-  "needs verification": "Needs verification"
+  high: "Verified sources",
+  medium: "Source checked",
+  "needs verification": "Review needed"
 };
 
 const patchSensitivityLabels: Record<string, string> = {
-  high: "High patch sensitivity",
-  low: "Low patch sensitivity",
-  medium: "Medium patch sensitivity"
+  high: "Patch-sensitive",
+  low: "Stable topic",
+  medium: "Early Access"
 };
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
@@ -104,7 +104,7 @@ export default async function NovaRomaGuideDetailPage({ params }: { params: Prom
             </span>
           </div>
           <p className="mt-3 text-sm font-semibold leading-6 text-green-950/62">
-            Nova Roma is still in Early Access. This guide is written as source-bounded planning help and should not be read as a solved layout, exact economy route, or live-balance verdict.
+            Nova Roma is still in Early Access. This guide focuses on practical planning decisions and avoids presenting one fixed route as the answer for every city.
           </p>
         </section>
 

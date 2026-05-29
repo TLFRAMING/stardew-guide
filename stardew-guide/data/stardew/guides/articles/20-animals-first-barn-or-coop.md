@@ -65,7 +65,3 @@ If you expanded too early, stop adding animals. Stabilize feed, use products car
 - Selling the first product without checking bundle use.
 - Choosing Barn or Coop because it sounds stronger, not because it fits current goals.
 - Adding more animals before the first routine is stable.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for animals, Coop, Barn, Carpenter's Shop, Marnie's Ranch, and bundles. It does not rank animal profits or prescribe a universal first building. Confidence is medium because building and animal systems are stable, while good timing depends on cash, season, feed, and goals.

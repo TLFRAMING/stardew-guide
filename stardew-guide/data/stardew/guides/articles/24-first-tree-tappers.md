@@ -54,7 +54,3 @@ If you cleared too many trees, protect remaining common trees and replant where 
 - Selling the first products without checking future needs.
 - Expecting Tappers to solve immediate money pressure.
 - Ignoring tree products until a machine or bundle blocks progress.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for Tappers, bundles, and Keg context. It does not claim exact production planning for every machine chain or a universal tree layout. Confidence is medium because tapper behavior is stable, while timing depends on farm clearing, crafting goals, and collection habits.

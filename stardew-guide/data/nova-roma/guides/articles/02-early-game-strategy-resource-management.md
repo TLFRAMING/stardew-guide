@@ -102,7 +102,3 @@ Fix one weak link at a time. If you try to solve labor, water, storage, and expa
 - Adding prestige systems before survival systems are reliable.
 - Forgetting that transport distance can create a shortage even when production exists.
 - Fixing the visible shortage without checking the chain behind it.
-
-## Source Boundary / Confidence Note
-
-This guide uses the Steam store page plus the Hooded Horse official wiki pages already registered in the Nova Roma source set for resource framing, infrastructure pressure, and broad system context. It does not publish exact production ratios, fixed build orders, tax percentages, or guaranteed early routes. Confidence is medium because the article is a practical framework built from verified system categories rather than current-version testing.

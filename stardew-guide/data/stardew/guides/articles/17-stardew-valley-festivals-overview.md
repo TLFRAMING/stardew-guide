@@ -60,7 +60,3 @@ If you miss an event or attend unprepared, record what mattered and move on. Mos
 ## Festival Planning By Season
 
 Spring festivals are most dangerous for new farms because seed money, first crop plans, and early relationship expectations are still unstable. Summer festivals often compete with fishing, crop expansion, and midseason cash goals. Fall festivals arrive when the farm may be busiest with harvests, bundles, and prep for Winter. Winter festivals are easier to attend, but they still compete with mining, fishing, tool upgrades, and animal routines.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for festivals, calendar behavior, and friendship context. It is a planning overview, not a full reward table or event walkthrough. Confidence is medium because festival dates are stable, while the value of each event depends on season goals and player progress.

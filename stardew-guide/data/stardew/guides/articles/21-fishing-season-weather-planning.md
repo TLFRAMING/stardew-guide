@@ -60,7 +60,3 @@ If you missed a target, check the next valid window. If it is gone for the year,
 - Selling bundle fish before checking the tracker.
 - Treating every rainy day as a fishing day without comparing other needs.
 - Memorizing lists instead of checking conditions before each trip.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for fish, fishing, weather, seasons, and bundles. It does not provide a complete fish table or exact catch-rate claims. Confidence is medium because fish conditions are documented, while daily results depend on skill, time, weather, and chosen location.

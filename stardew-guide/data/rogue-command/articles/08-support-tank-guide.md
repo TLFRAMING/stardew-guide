@@ -60,5 +60,3 @@ Avoid building a route that only prevents death but cannot end fights. A protect
 ## When Support Tank Is Not the Right Lesson Yet
 
 If your production is always idle or your Engineer keeps dying ahead of the army, Support Tank will not fix the core issue. Stabilize basic RTS habits first. Once you can build and move a coherent army, Support Tank becomes a strong teacher of target priority and loss reduction.
-
-Source boundary: this guide uses official and wiki-backed role framing. It avoids strength ranking, exact buff values, and current-version balance claims.

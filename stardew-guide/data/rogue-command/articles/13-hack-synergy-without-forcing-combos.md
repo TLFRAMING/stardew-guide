@@ -61,7 +61,3 @@ When the build starts serving the reward instead of the reward serving the build
 There are runs where the correct line is a deliberate pivot into a new mechanic. If the map is stable, the support is close, and the payoff solves a real problem, taking a partly enabled Hack can be correct. The point is not to avoid risk completely. The point is to recognize whether the risk is funded.
 
 This article does not claim a patch-level Hack order, a universal combo package, or a current patch ranking. Those would overstate what the source support and current testing allow.
-
-## Source Boundary and Confidence Note
-
-Official store material supports the broad reward-drafting and build-crafting frame behind this article. The guidance here is intentionally limited to trigger discipline and run coherence. It excludes Hack rankings, meta combo claims, exact interaction tables, and patch-balance verdicts.

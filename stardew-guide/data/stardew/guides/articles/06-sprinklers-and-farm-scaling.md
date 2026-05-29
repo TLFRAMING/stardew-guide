@@ -53,7 +53,3 @@ If your field is too large, do not keep planting at the same size next cycle. Le
 - Placing sprinklers randomly and creating awkward harvest routes.
 - Assuming automation removes the need for crop planning.
 - Forgetting that larger fields still need seeds, harvest time, and storage.
-
-## Source Boundary / Confidence Note
-
-This guide uses Wiki references for sprinklers, crops, mining, and farming context. It does not prescribe an exact layout, crop count, or upgrade day. Confidence is medium because sprinkler mechanics are stable, while good timing depends on farm size and player priorities.

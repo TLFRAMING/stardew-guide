@@ -83,7 +83,3 @@ At the start of each map, use this routine:
 5. Fight for a purpose, then draft from the result.
 
 This routine is deliberately plain. Its job is to make the run readable. Once the loop is stable, more advanced specialist and reward decisions become easier to judge.
-
-## Source Boundary and Confidence Note
-
-Official store material supports Rogue Command's broad loop of real-time unit control, base building, resource harvesting, exploration, defense, attack planning, and roguelite build crafting. This article explains that loop as a beginner framework. It avoids fixed build orders, current patch meta claims, exact route promises, and player-review conclusions.

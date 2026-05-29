@@ -69,7 +69,3 @@ Stepping back is not failure. It is how you rebuild a readable baseline. Once th
 This is not a balance-ranking guide. It does not rank Specialists, list build winners, prescribe precise difficulty routes, or claim that one composition solves progression. Those topics need current-version testing evidence.
 
 The value here is a testing method: stabilize the baseline, raise pressure with one question in mind, then use the result to choose the next correction.
-
-## Source Boundary and Confidence Note
-
-Official sources support Rogue Command's broad run-based structure, build crafting, long-term progression, and 1.0 context. This article turns that into an advanced pressure-testing framework. It intentionally excludes player-review conclusions, external review claims, precise Heat routing, current balance judgments, and completion walkthroughs.

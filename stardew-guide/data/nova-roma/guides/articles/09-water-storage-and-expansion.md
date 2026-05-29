@@ -17,7 +17,7 @@ sourceUrls:
   - "https://wiki.hoodedhorse.com/Nova_Roma/Nova_Roma_Official_Wiki"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Water_Supply"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Infrastructure"
-summary: "A source-bounded Nova Roma guide for treating water storage and distribution as expansion planning, not a late repair job after districts already become hard to serve."
+summary: "A practical Nova Roma guide for treating water storage and distribution as expansion planning, not a late repair job after districts already become hard to serve."
 relatedDataLinks:
   - label: "Nova Roma Home"
     href: "/nova-roma"
@@ -96,13 +96,3 @@ For a wider repair sequence after a bad expansion, use the [city planning guide]
 - Treating water storage as a late upgrade instead of a growth gate.
 - Extending water in several directions without checking whether the current path is readable.
 - Rebuilding too much at once when one district-level correction would be safer.
-
-## What Not To Over-Optimize Yet
-
-Do not publish or follow fixed water layouts from this guide. Current sources support water infrastructure concepts, not a solved city blueprint. Terrain, patch changes, and city shape all matter.
-
-The practical rule is simpler: water should be planned early enough that expansion remains readable.
-
-## Source And Patch Boundary
-
-This guide uses the Steam page and official wiki water/infrastructure sources for system framing. It does not claim exact service ranges, pressure formulas, storage capacities, or perfect aqueduct layouts. Treat specific water engineering conclusions as patch-sensitive until verified in-game or supported by stronger official documentation.

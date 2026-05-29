@@ -60,5 +60,3 @@ This is more useful than chasing a roster verdict. A setup that teaches you your
 ## When to Experiment
 
 Experiment after you can explain your losses. If every run ends because the Engineer dies, changing Specialist will not fix the main problem. If production is always idle, the economy plan needs attention. Once the fundamentals are stable, playing the same Specialist across several runs is a good way to learn how reward drafting changes its identity.
-
-Source boundary: Specialist role notes are wiki-backed and patch-sensitive. This guide does not name a universal starter winner, rank the roster, or provide a current-version opener prescription.
