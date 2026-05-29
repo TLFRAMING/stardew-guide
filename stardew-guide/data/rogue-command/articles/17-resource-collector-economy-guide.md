@@ -6,6 +6,11 @@ patchVersion: "1.0"
 lastVerified: "2026-05-28"
 confidence: official
 patchSensitivity: medium
+summary: "Manage Rogue Command resource collectors as part of a safe economy route, not a background number, so expansion and production stay connected."
+relatedSlugs:
+  - economy-base-tempo
+  - engineer-safety-map-control
+  - defense-without-turtling
 sourceIds:
   - steam-store
 ---

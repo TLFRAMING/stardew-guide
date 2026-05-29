@@ -17,6 +17,8 @@ export type RogueCommandArticleMeta = {
   lastVerified: string;
   confidence: "official" | "wiki" | "mixed" | "needs verification";
   patchSensitivity: "low" | "medium" | "high";
+  summary: string;
+  relatedSlugs: string[];
   sourceIds: string[];
 };
 

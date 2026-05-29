@@ -6,16 +6,16 @@ import { getAllRogueCommandArticles, getRogueCommandArticlesByCategory } from "@
 import type { RogueCommandArticle } from "@/lib/rogue-command/types";
 
 export const metadata: Metadata = {
-  title: "Rogue Command | Player Codex",
+  title: "Rogue Command Guides: Beginner RTS, Economy, Specialists, and Progression | Player Codex",
   description:
-    "Source-reviewed Rogue Command beginner guides, systems primers, Specialist notes, and progression advice with patch-sensitive metadata.",
+    "Rogue Command guides for first runs, economy, Blueprints, Upgrades, Hacks, Specialists, map control, combat recovery, and long-term progression.",
   alternates: {
     canonical: "https://playercodex.app/rogue-command"
   },
   openGraph: {
-    title: "Rogue Command | Player Codex",
+    title: "Rogue Command Guides: Beginner RTS, Economy, Specialists, and Progression | Player Codex",
     description:
-      "Source-reviewed Rogue Command beginner guides, systems primers, Specialist notes, and progression advice with patch-sensitive metadata.",
+      "Rogue Command guides for first runs, economy, Blueprints, Upgrades, Hacks, Specialists, map control, combat recovery, and long-term progression.",
     url: "https://playercodex.app/rogue-command",
     siteName: "Player Codex",
     type: "website"
@@ -78,7 +78,7 @@ const readingPaths: Array<{ category: string; title: string; note: string }> = [
   {
     category: "progression",
     title: "Improve long-term runs",
-    note: "Use Ascension and Battle Archive advice to review losses and reduce expensive mistakes."
+    note: "Use progression, transition, and failed-run review guides to reduce expensive mistakes."
   }
 ];
 
@@ -99,10 +99,10 @@ export default function RogueCommandPage() {
               Guide layer live
             </span>
             <p className="text-sm font-semibold leading-6 text-green-950/72">
-              This Rogue Command section now publishes the first English guide batch: beginner onboarding, core systems, starter choice, economy tempo, reward drafting, Specialist identity, and long-term progression.
+              This Rogue Command section publishes {articles.length} source-aware guides covering first runs, core systems, starter choice, economy tempo, reward drafting, Specialist identity, combat recovery, and long-term progression.
             </p>
             <p className="text-sm font-semibold leading-6 text-green-950/62">
-              The articles are written as practical player guidance, but they do not publish current-version tier lists, best-build rankings, or unverified optimal routes.
+              The articles are written as practical player guidance, but they do not publish current-version rankings, build winners, or unverified universal routes.
             </p>
             <div className="flex flex-wrap gap-2 pt-1">
               {firstArticle ? (
@@ -160,7 +160,7 @@ export default function RogueCommandPage() {
           <div className="rounded-md border border-green-950/10 bg-white/80 px-4 py-5 sm:px-5">
             <h2 className="text-base font-black text-green-950">Published guide set</h2>
             <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">
-              Ten English articles are live as source-aware guide pages. Metadata is preserved on each page for version, confidence, and patch sensitivity.
+              {articles.length} English articles are live as source-aware guide pages. Metadata is preserved on each page for version, confidence, and patch sensitivity.
             </p>
             <div className="mt-4 grid gap-2">
               {categoryEntries.map(([category, articles]) => (
@@ -245,7 +245,7 @@ export default function RogueCommandPage() {
 
         <section className="rounded-md border border-green-950/10 bg-green-950/[0.035] px-4 py-4 sm:px-5">
           <p className="text-sm font-semibold leading-6 text-green-950/62">
-            Player Codex is fan-made and is not affiliated with feneq or Rogue Command.
+            Player Codex is fan-made and is not connected with feneq or Rogue Command.
           </p>
         </section>
 

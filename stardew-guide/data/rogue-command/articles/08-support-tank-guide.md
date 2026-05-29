@@ -6,6 +6,11 @@ patchVersion: "1.0"
 lastVerified: "2026-05-20"
 confidence: wiki
 patchSensitivity: high
+summary: "Play Support Tank as a preservation tool: protect the units that decide fights, reduce replacement costs, and convert fewer losses into tempo."
+relatedSlugs:
+  - specialist-overview
+  - mantis-mech-guide
+  - recover-after-bad-fight
 sourceIds:
   - steam-store
   - wiki-gg

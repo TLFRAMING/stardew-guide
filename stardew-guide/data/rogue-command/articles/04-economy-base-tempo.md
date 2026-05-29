@@ -6,6 +6,11 @@ patchVersion: "1.0"
 lastVerified: "2026-05-29"
 confidence: official
 patchSensitivity: medium
+summary: "Keep Rogue Command base tempo clean by turning Crystal into useful units, structures, defenses, and pressure before overbuilding slows the run."
+relatedSlugs:
+  - resource-collector-economy-guide
+  - defense-without-turtling
+  - blueprint-drafting-mistakes
 sourceIds:
   - steam-store
   - wiki-gg

@@ -6,6 +6,11 @@ patchVersion: "1.0"
 lastVerified: "2026-05-24"
 confidence: wiki
 patchSensitivity: high
+summary: "Read Rogue Command Specialists through army jobs, role coverage, and patch-sensitive decision making instead of current-version rankings."
+relatedSlugs:
+  - starter-choice
+  - mantis-mech-guide
+  - support-tank-guide
 sourceIds:
   - steam-store
   - wiki-gg
@@ -13,7 +18,7 @@ sourceIds:
 
 # Rogue Command Unit Roles and Specialist Guide: Build Armies Around Jobs, Not Rankings
 
-This guide helps players think about army composition and Specialists without turning the roster into a tier list. The practical answer is to build around jobs: something holds space, something deals damage, something protects the economy, and something lets the army recover or reposition when the fight goes wrong.
+This guide helps players think about army composition and Specialists without turning the roster into a ranking page. The practical answer is to build around jobs: something holds space, something deals damage, something protects the economy, and something lets the army recover or reposition when the fight goes wrong.
 
 Rogue Command's Specialists and unit options are patch-sensitive. That means this page describes roles, failure modes, and drafting logic. It does not claim that one Specialist, unit, or composition is the best current-version answer.
 
@@ -81,4 +86,4 @@ Use failed runs as tests. If an offbeat idea fails, identify whether the idea wa
 
 ## Source Boundary and Confidence Note
 
-Official store material supports the broad RTS and build-crafting frame. Wiki-backed material supports roster and Specialist structure, so this article keeps mechanics patch-sensitive. It intentionally excludes unit rankings, Specialist tier lists, exact current-version counters, and player-review balance conclusions.
+Official store material supports the broad RTS and build-crafting frame. Wiki-backed material supports roster and Specialist structure, so this article keeps mechanics patch-sensitive. It intentionally excludes unit rankings, Specialist rankings, precise current-version counters, and player-review balance conclusions.

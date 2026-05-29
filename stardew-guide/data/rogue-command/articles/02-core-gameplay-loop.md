@@ -6,6 +6,11 @@ patchVersion: "1.0"
 lastVerified: "2026-05-29"
 confidence: official
 patchSensitivity: low
+summary: "Understand Rogue Command's core loop: scout the map, build safely, turn resources into army power, fight for control, then draft the next reward."
+relatedSlugs:
+  - beginner-first-run
+  - resource-collector-economy-guide
+  - stage-transition-checklist
 sourceIds:
   - steam-store
 ---

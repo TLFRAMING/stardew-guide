@@ -6,6 +6,11 @@ patchVersion: "1.0"
 lastVerified: "2026-05-20"
 confidence: wiki
 patchSensitivity: high
+summary: "Use Mantis Mech's consumption decisions carefully by choosing replaceable targets, preserving the army, and respecting patch-sensitive mechanics."
+relatedSlugs:
+  - specialist-overview
+  - support-tank-guide
+  - failed-run-review-checklist
 sourceIds:
   - wiki-gg
 ---
@@ -55,4 +60,4 @@ Melee positioning is about choosing the fight's edge. Enter from the side when p
 
 Draft rewards that support the current Mantis plan. If Mantis is becoming the frontline, look for survival and control. If consumption is central, look for ways to make sacrifice less costly or more meaningful. If the army lacks range, economy, or defensive coverage, repair that before deepening the gimmick.
 
-Source boundary: this guide does not claim an optimal Mantis build, exact stat breakpoints, or current patch dominance. Mantis-specific details need direct testing before they become high-confidence recommendations.
+Source boundary: this guide does not claim a universal Mantis build, precise stat breakpoints, or current patch dominance. Mantis-specific details need direct testing before they become high-confidence recommendations.

@@ -6,6 +6,11 @@ patchVersion: "1.0"
 lastVerified: "2026-05-24"
 confidence: official
 patchSensitivity: medium
+summary: "Avoid Blueprint drafting mistakes by checking whether a new tool solves a real army job and whether the run can support it soon."
+relatedSlugs:
+  - blueprints-upgrades-hacks
+  - upgrade-timing-guide
+  - economy-base-tempo
 sourceIds:
   - steam-store
 ---

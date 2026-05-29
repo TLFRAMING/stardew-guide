@@ -6,6 +6,11 @@ patchVersion: "1.0"
 lastVerified: "2026-05-28"
 confidence: official
 patchSensitivity: medium
+summary: "Use Rogue Command slowdown, focus, retreats, and role protection to keep fights readable before pressure turns into a full collapse."
+relatedSlugs:
+  - beginner-first-run
+  - recover-after-bad-fight
+  - defense-without-turtling
 sourceIds:
   - steam-store
 ---

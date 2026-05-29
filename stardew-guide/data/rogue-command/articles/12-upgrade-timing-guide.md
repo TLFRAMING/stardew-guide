@@ -6,6 +6,11 @@ patchVersion: "1.0"
 lastVerified: "2026-05-24"
 confidence: official
 patchSensitivity: medium
+summary: "Draft Rogue Command Upgrades when they strengthen a unit, structure, or behavior the run already depends on instead of a future idea."
+relatedSlugs:
+  - blueprints-upgrades-hacks
+  - blueprint-drafting-mistakes
+  - hack-synergy-without-forcing-combos
 sourceIds:
   - steam-store
 ---

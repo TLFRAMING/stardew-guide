@@ -117,7 +117,7 @@ export default async function RogueCommandArticlePage({ params }: { params: Prom
             </span>
           </div>
           <p className="mt-3 text-sm font-semibold leading-6 text-green-950/62">
-            This guide is player-facing strategy content with source metadata preserved. Patch-sensitive wiki-backed mechanics should be rechecked before turning them into tier lists, best-build claims, or exact-stat references.
+            This guide is player-facing strategy content with source metadata preserved. Patch-sensitive wiki-backed mechanics should be rechecked before turning them into rankings, build prescriptions, or precise stat references.
           </p>
         </section>
 

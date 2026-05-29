@@ -6,6 +6,11 @@ patchVersion: "1.0"
 lastVerified: "2026-05-24"
 confidence: official
 patchSensitivity: medium
+summary: "Use a failed-run review checklist to find the first expensive mistake and turn a Rogue Command loss into one clear next-run plan."
+relatedSlugs:
+  - recover-after-bad-fight
+  - battle-archive-long-term-growth
+  - stage-transition-checklist
 sourceIds:
   - steam-store
 ---

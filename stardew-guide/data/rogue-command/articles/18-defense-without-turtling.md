@@ -6,6 +6,11 @@ patchVersion: "1.0"
 lastVerified: "2026-05-28"
 confidence: official
 patchSensitivity: medium
+summary: "Hold Rogue Command map space without full turtling by defending economy routes, using scouting, and turning stable defense into controlled action."
+relatedSlugs:
+  - resource-collector-economy-guide
+  - engineer-safety-map-control
+  - combat-control-and-slowdown
 sourceIds:
   - steam-store
 ---

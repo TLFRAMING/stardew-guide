@@ -6,6 +6,11 @@ patchVersion: "1.0"
 lastVerified: "2026-05-20"
 confidence: wiki
 patchSensitivity: medium
+summary: "Use a starter choice framework that balances Engineer safety, economy tempo, and Specialist identity without turning the opening into a ranking."
+relatedSlugs:
+  - beginner-first-run
+  - specialist-overview
+  - economy-base-tempo
 sourceIds:
   - steam-store
   - wiki-gg

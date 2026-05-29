@@ -6,6 +6,11 @@ patchVersion: "1.0"
 lastVerified: "2026-05-28"
 confidence: official
 patchSensitivity: medium
+summary: "Review each Rogue Command stage before the next map by checking economy, Engineer safety, army roles, and reward direction."
+relatedSlugs:
+  - failed-run-review-checklist
+  - ascension-progression
+  - core-gameplay-loop
 sourceIds:
   - steam-store
 ---

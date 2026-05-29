@@ -6,6 +6,11 @@ patchVersion: "1.0"
 lastVerified: "2026-05-29"
 confidence: official
 patchSensitivity: medium
+summary: "Turn repeated Rogue Command runs into better decisions by tracking the first failure, choosing one next-run habit, and keeping progression source-safe."
+relatedSlugs:
+  - ascension-progression
+  - failed-run-review-checklist
+  - stage-transition-checklist
 sourceIds:
   - steam-store
 ---

@@ -6,6 +6,11 @@ patchVersion: "1.0"
 lastVerified: "2026-05-29"
 confidence: official
 patchSensitivity: medium
+summary: "Learn a safe first-run routine for Rogue Command: scout with units, protect the Engineer, build from controlled space, and draft rewards from the last problem."
+relatedSlugs:
+  - core-gameplay-loop
+  - engineer-safety-map-control
+  - combat-control-and-slowdown
 sourceIds:
   - steam-store
 ---

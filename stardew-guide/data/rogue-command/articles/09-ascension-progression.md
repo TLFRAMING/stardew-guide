@@ -6,6 +6,11 @@ patchVersion: "1.0"
 lastVerified: "2026-05-29"
 confidence: official
 patchSensitivity: medium
+summary: "Decide when to raise Rogue Command pressure by testing one stable habit at a time instead of using progression to hide unclear mistakes."
+relatedSlugs:
+  - battle-archive-long-term-growth
+  - failed-run-review-checklist
+  - stage-transition-checklist
 sourceIds:
   - steam-store
   - steam-community-1-0-announcement

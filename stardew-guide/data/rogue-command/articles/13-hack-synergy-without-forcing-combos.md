@@ -6,6 +6,11 @@ patchVersion: "1.0"
 lastVerified: "2026-05-24"
 confidence: official
 patchSensitivity: medium
+summary: "Build Rogue Command Hack synergy around triggers the run can already create, and avoid drafting combos that stay inactive for too long."
+relatedSlugs:
+  - blueprints-upgrades-hacks
+  - upgrade-timing-guide
+  - stage-transition-checklist
 sourceIds:
   - steam-store
 ---

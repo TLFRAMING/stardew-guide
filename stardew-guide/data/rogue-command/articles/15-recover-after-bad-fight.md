@@ -6,6 +6,11 @@ patchVersion: "1.0"
 lastVerified: "2026-05-24"
 confidence: official
 patchSensitivity: medium
+summary: "Recover after a bad Rogue Command fight by securing the Engineer, restoring economy, replacing lost army roles, and drafting around the damage."
+relatedSlugs:
+  - combat-control-and-slowdown
+  - failed-run-review-checklist
+  - stage-transition-checklist
 sourceIds:
   - steam-store
 ---

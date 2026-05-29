@@ -50,9 +50,26 @@ export function getRogueCommandArticlesByCategory() {
 }
 
 export function getRelatedRogueCommandArticles(article: RogueCommandArticle, limit = 3): RogueCommandArticle[] {
-  return getAllRogueCommandArticles()
-    .filter((candidate) => candidate.slug !== article.slug && candidate.category === article.category)
-    .slice(0, limit);
+  const allArticles = getAllRogueCommandArticles();
+  const relatedBySlug = article.relatedSlugs
+    .map((relatedSlug) => allArticles.find((candidate) => candidate.slug === relatedSlug))
+    .filter((candidate): candidate is RogueCommandArticle => {
+      if (!candidate) {
+        return false;
+      }
+
+      return candidate.slug !== article.slug;
+    });
+
+  if (relatedBySlug.length >= limit) {
+    return relatedBySlug.slice(0, limit);
+  }
+
+  const fallbackArticles = allArticles.filter(
+    (candidate) => candidate.slug !== article.slug && candidate.category === article.category && !relatedBySlug.some((relatedArticle) => relatedArticle.slug === candidate.slug)
+  );
+
+  return [...relatedBySlug, ...fallbackArticles].slice(0, limit);
 }
 
 function parseArticle(fileName: string, sourcesById: Map<string, RogueCommandSource>): RogueCommandArticle | undefined {
@@ -66,7 +83,8 @@ function parseArticle(fileName: string, sourcesById: Map<string, RogueCommandSou
 
   const meta = parseFrontmatter(match[1]);
   const blocks = parseMarkdownBlocks(match[2]);
-  const summary = blocks.find((block): block is Extract<RogueCommandArticleBlock, { type: "paragraph" }> => block.type === "paragraph")?.text ?? "";
+  const fallbackSummary = blocks.find((block): block is Extract<RogueCommandArticleBlock, { type: "paragraph" }> => block.type === "paragraph")?.text ?? "";
+  const summary = meta.summary || fallbackSummary;
   const sources = meta.sourceIds.map((sourceId) => sourcesById.get(sourceId)).filter((source): source is RogueCommandSource => Boolean(source));
   const readingTimeMinutes = estimateReadingTime(match[2]);
 
@@ -117,6 +135,8 @@ function parseFrontmatter(frontmatter: string): RogueCommandArticleMeta {
     lastVerified: stringValue(meta.lastVerified),
     confidence: stringValue(meta.confidence) as RogueCommandArticleMeta["confidence"],
     patchSensitivity: stringValue(meta.patchSensitivity) as RogueCommandArticleMeta["patchSensitivity"],
+    summary: stringValue(meta.summary),
+    relatedSlugs: Array.isArray(meta.relatedSlugs) ? meta.relatedSlugs : [],
     sourceIds: Array.isArray(meta.sourceIds) ? meta.sourceIds : []
   };
 }
