@@ -5,14 +5,14 @@ import { getAllNovaRomaGuideArticles } from "@/lib/nova-roma/data";
 import type { NovaRomaGuideArticle } from "@/lib/nova-roma/types";
 
 export const metadata: Metadata = {
-  title: "Nova Roma Guides | Player Codex",
-  description: "Source-bounded Nova Roma guide hub for Early Access city-building coverage, beginner planning, and system notes.",
+  title: "Nova Roma Guides: Resources, Water, Production Chains, and Stability | Player Codex",
+  description: "Nova Roma guide hub for Early Access city-building help: resource shortages, water planning, production chains, population stability, religion, defense, and beginner growth.",
   alternates: {
     canonical: "https://playercodex.app/nova-roma/guides"
   },
   openGraph: {
-    title: "Nova Roma Guides | Player Codex",
-    description: "Source-bounded Nova Roma guide hub for Early Access city-building coverage, beginner planning, and system notes.",
+    title: "Nova Roma Guides: Resources, Water, Production Chains, and Stability | Player Codex",
+    description: "Nova Roma guide hub for Early Access city-building help: resource shortages, water planning, production chains, population stability, religion, defense, and beginner growth.",
     url: "https://playercodex.app/nova-roma/guides",
     siteName: "Player Codex",
     type: "website"
@@ -33,12 +33,15 @@ const patchSensitivityLabels: Record<string, string> = {
 
 export default function NovaRomaGuidesPage() {
   const articles = getAllNovaRomaGuideArticles();
+  const startingGuide = articles.find((article) => article.slug === "understand-nova-roma-core-mechanics");
+  const shortageGuide = articles.find((article) => article.slug === "early-resource-shortage-guide");
+  const waterGuide = articles.find((article) => article.slug === "water-planning-basics");
 
   return (
     <PageShell
       eyebrow="Nova Roma Guides"
-      kicker="Early Access city-building guide coverage with source-bounded claims and no solved layouts or exact economy routes."
-      title="Nova Roma Guide Hub"
+      kicker="Early Access city-building guides for resource pressure, water planning, production-chain bottlenecks, population stability, and safer expansion."
+      title="Nova Roma Guides"
     >
       <div className="space-y-5">
         <section className="rounded-md border border-green-950/10 bg-white/85 px-4 py-5 sm:px-5">
@@ -47,12 +50,50 @@ export default function NovaRomaGuidesPage() {
               Early Access coverage
             </span>
             <p className="text-sm font-semibold leading-6 text-green-950/72">
-              Nova Roma is still in Early Access. These guides are written as source-bounded planning help, not as solved layouts, exact economy routes, or live-balance verdicts.
+              Nova Roma is still in Early Access. These guides are written as source-bounded planning help for players who need to understand why a city stalls, where shortages begin, and how to slow growth before the support systems break.
             </p>
             <p className="text-sm font-semibold leading-6 text-green-950/62">
               Use this hub to move from beginner mechanics into resource pressure, water planning, production chains, population stability, and later city-planning decisions while the source set remains conservative.
             </p>
+            <div className="flex flex-wrap gap-2 pt-1">
+              {startingGuide ? (
+                <Link className="rounded-sm border border-green-950/14 bg-green-950/[0.06] px-3 py-2 text-sm font-black text-green-950 transition hover:bg-green-950/[0.1]" href={`/nova-roma/guides/${startingGuide.slug}`}>
+                  Start with core mechanics
+                </Link>
+              ) : null}
+              {shortageGuide ? (
+                <Link className="rounded-sm border border-green-950/14 bg-white/70 px-3 py-2 text-sm font-black text-green-950 transition hover:bg-white" href={`/nova-roma/guides/${shortageGuide.slug}`}>
+                  Fix resource shortages
+                </Link>
+              ) : null}
+              {waterGuide ? (
+                <Link className="rounded-sm border border-green-950/14 bg-white/70 px-3 py-2 text-sm font-black text-green-950 transition hover:bg-white" href={`/nova-roma/guides/${waterGuide.slug}`}>
+                  Plan water first
+                </Link>
+              ) : null}
+            </div>
           </div>
+        </section>
+
+        <section className="grid gap-3 md:grid-cols-3">
+          <PathCard
+            href="/nova-roma/guides/early-resource-shortage-guide"
+            label="Resource pressure"
+            title="If the city is already stalling"
+            text="Start by checking whether the problem is input, storage, labor, water access, or new demand."
+          />
+          <PathCard
+            href="/nova-roma/guides/water-planning-basics"
+            label="Water planning"
+            title="If expansion feels hard to service"
+            text="Use the water guide before density makes the city expensive to repair."
+          />
+          <PathCard
+            href="/nova-roma/guides/population-needs-and-stability"
+            label="Population stability"
+            title="If new housing creates new pressure"
+            text="Check water, food, jobs, storage, and support before adding more residents."
+          />
         </section>
 
         <section className="rounded-md border border-green-950/10 bg-white/80 px-4 py-5 sm:px-5">
@@ -81,6 +122,16 @@ export default function NovaRomaGuidesPage() {
         </div>
       </div>
     </PageShell>
+  );
+}
+
+function PathCard({ href, label, text, title }: { href: string; label: string; text: string; title: string }) {
+  return (
+    <Link className="group rounded-md border border-green-950/10 bg-white/80 px-4 py-4 transition hover:-translate-y-0.5 hover:border-green-950/20 hover:bg-white" href={href}>
+      <p className="text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/45">{label}</p>
+      <h2 className="mt-2 text-base font-black leading-snug text-green-950 group-hover:text-meadow">{title}</h2>
+      <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">{text}</p>
+    </Link>
   );
 }
 

@@ -6,16 +6,16 @@ import { getAllNovaRomaGuideArticles, getAllNovaRomaSources } from "@/lib/nova-r
 import type { NovaRomaGuideArticle } from "@/lib/nova-roma/types";
 
 export const metadata: Metadata = {
-  title: "Nova Roma Guide | Player Codex",
+  title: "Nova Roma Guide: Beginner City Building, Resources, Water, and Stability | Player Codex",
   description:
-    "Source-backed Nova Roma guide hub for beginner city-building notes, Early Access status, and future strategy coverage without unverified layouts or live-strategy claims.",
+    "Nova Roma beginner guides for Early Access city planning, resource shortages, water supply, production chains, population stability, religion, and defense.",
   alternates: {
     canonical: "https://playercodex.app/nova-roma"
   },
   openGraph: {
-    title: "Nova Roma Guide | Player Codex",
+    title: "Nova Roma Guide: Beginner City Building, Resources, Water, and Stability | Player Codex",
     description:
-      "Source-backed Nova Roma guide hub for beginner city-building notes, Early Access status, and future strategy coverage without unverified layouts or live-strategy claims.",
+      "Nova Roma beginner guides for Early Access city planning, resource shortages, water supply, production chains, population stability, religion, and defense.",
     url: "https://playercodex.app/nova-roma",
     siteName: "Player Codex",
     type: "website"
@@ -33,6 +33,8 @@ const identityFacts = [
 const futureCoverage = [
   "Beginner city-building planning",
   "Resource flow basics",
+  "Water supply planning",
+  "Production chain diagnosis",
   "Citizen stability",
   "Expansion risk",
   "Source-backed system primers"
@@ -40,7 +42,7 @@ const futureCoverage = [
 
 const boundaries = [
   "No layout rankings or ideal city blueprints yet.",
-  "No optimal economy route claims or precise tax plans.",
+  "No fixed economy route claims or precise tax plans.",
   "No tiered power rankings or live-version strategy verdicts.",
   "No exact production-chain ratios.",
   "No achievement walkthroughs.",
@@ -63,8 +65,8 @@ export default function NovaRomaPage() {
   return (
     <PageShell
       eyebrow="Player Codex"
-      kicker="Source-backed Nova Roma status, beginner-safe framing, and clear boundaries while the game is still in Early Access."
-      title="Nova Roma"
+      kicker="Beginner-safe Nova Roma guide coverage for city growth, resource pressure, water planning, production chains, and stability checks."
+      title="Nova Roma Guide"
     >
       <div className="space-y-5">
         <section className="rounded-md border border-green-950/10 bg-white/85 px-4 py-5 sm:px-5">
@@ -73,11 +75,19 @@ export default function NovaRomaPage() {
               Intro page live
             </span>
             <p className="text-sm font-semibold leading-6 text-green-950/72">
-              This page helps new players understand what Nova Roma is, what the official Steam listing currently confirms, and where Player Codex can expand later without publishing unsupported strategy claims.
+              This page helps new players start Nova Roma without treating Early Access strategy as already solved. Use it as the entry point for city planning, resource shortage diagnosis, water supply, production chains, population stability, religion, and defense.
             </p>
             <p className="text-sm font-semibold leading-6 text-green-950/62">
-              The current source set supports a Roman city-building overview, release status, and system framing. It does not support optimization guidance, ranking content, or community-derived conclusions.
+              The current source set supports beginner-safe planning and system framing. It does not support exact layouts, fixed economy routes, ranking content, or community-derived conclusions.
             </p>
+            <div className="flex flex-wrap gap-2 pt-1">
+              <Link className="rounded-sm border border-green-950/14 bg-green-950/[0.06] px-3 py-2 text-sm font-black text-green-950 transition hover:bg-green-950/[0.1]" href="/nova-roma/guides">
+                Browse Nova Roma guides
+              </Link>
+              <Link className="rounded-sm border border-green-950/14 bg-white/70 px-3 py-2 text-sm font-black text-green-950 transition hover:bg-white" href="/nova-roma/guides/early-resource-shortage-guide">
+                Start with resource shortages
+              </Link>
+            </div>
           </div>
         </section>
 
@@ -86,10 +96,10 @@ export default function NovaRomaPage() {
             <h2 className="text-base font-black text-green-950">Source-backed overview</h2>
             <div className="mt-3 space-y-3 text-sm font-semibold leading-6 text-green-950/68">
               <p>
-                Nova Roma is presented on Steam as a Roman city-building game with broad management pressure rather than a solved build order. The official page supports discussing citizens&apos; needs, laws, gods and temples, supply chains, taxation, technology, and water and weather simulation as the main system pillars.
+                Nova Roma is presented on Steam as a Roman city-building game with broad management pressure rather than a solved build order. The current guide layer focuses on practical beginner questions: why cities stall, how water and storage affect growth, how production chains break, and when expansion should pause.
               </p>
               <p>
-                For a new player, the useful takeaway is simple: expect city growth decisions to interact with stability, logistics, and civic systems at the same time. That is enough to frame future beginner guides, but not enough to publish exact routes or rankings while the game is still in Early Access.
+                For a new player, the useful takeaway is simple: expect city growth decisions to interact with stability, logistics, and civic systems at the same time. That is enough to write useful beginner guides, but not enough to publish exact routes or rankings while the game is still in Early Access.
               </p>
             </div>
           </DataCard>
@@ -142,10 +152,10 @@ export default function NovaRomaPage() {
             <h2 className="text-base font-black text-green-950">Why this page exists now</h2>
             <div className="mt-3 space-y-3 text-sm font-semibold leading-6 text-green-950/68">
               <p>
-                A single intro page is enough to tell search users that Nova Roma coverage exists here, that the game has already entered Early Access, and that future guidance will stay source-backed instead of chasing unverified shortcuts.
+                Nova Roma already has a small guide layer on Player Codex, so this hub now works as the front door for search users who need beginner help with city pressure instead of a thin announcement page.
               </p>
               <p>
-                That keeps the section useful today without opening empty route trees such as guides, database pages, or optimization hubs before the evidence is ready.
+                The section stays useful today without opening empty database pages, layout pages, or optimization hubs before the evidence is ready.
               </p>
             </div>
           </DataCard>
@@ -198,7 +208,7 @@ export default function NovaRomaPage() {
 
         <section className="rounded-md border border-green-950/10 bg-green-950/[0.035] px-4 py-4 sm:px-5">
           <p className="text-sm font-semibold leading-6 text-green-950/62">
-            Player Codex is fan-made and is not affiliated with Lion Shield, Hooded Horse, or Steam.
+            Player Codex is fan-made and is not connected with Lion Shield, Hooded Horse, or Steam.
           </p>
         </section>
 
