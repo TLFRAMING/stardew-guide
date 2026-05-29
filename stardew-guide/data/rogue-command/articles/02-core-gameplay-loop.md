@@ -1,60 +1,84 @@
 ---
 slug: core-gameplay-loop
-title: "Rogue Command Core Loop: Turn Fights Into a Build Without Forcing One"
+title: "Rogue Command Core Gameplay Loop: Scout, Build, Fight, Draft, Repeat"
 category: getting-started
 patchVersion: "1.0"
-lastVerified: "2026-05-20"
+lastVerified: "2026-05-29"
 confidence: official
 patchSensitivity: low
 sourceIds:
   - steam-store
 ---
 
-# Rogue Command Core Loop: Turn Fights Into a Build Without Forcing One
+# Rogue Command Core Gameplay Loop: Scout, Build, Fight, Draft, Repeat
 
-This guide helps players understand how a Rogue Command run becomes a build. The answer is not a fixed order. A run grows from map control, army preservation, resource tempo, and reward choices that respond to what is actually happening.
+This guide explains the basic loop that holds a Rogue Command run together. The short version is: scout the map, build from safe space, turn resources into army power, fight for control, then draft a reward that improves the next loop.
 
-The official description frames the game as RTS combat reinforced by roguelite build crafting. That order matters. You fight the map first, then draft tools that change how the next fight works. A strong run is not a script; it is a loop that keeps answering the current map.
+Rogue Command is not a fixed build-order puzzle. The roguelite layer changes the tools you receive, but the map still asks the same sequence of RTS questions. Where is safe? What can you afford? Which fight matters next? What did the last fight prove?
 
-## Map Control Comes Before Build Fantasy
+## The Loop Starts With Information
 
-Map control is not just exploration. It decides where Crystal can be harvested, where the base can safely grow, and how early you see enemy pressure. A player who sees threats sooner gets to choose the fight. A player who expands blindly is reacting late.
+Scouting is the first step because every later decision depends on what the map is doing. If you build before you know the route, the Engineer and economy become the scout. That is too expensive.
 
-Before pushing, ask whether your army can retreat, whether the Engineer can build safely, and whether the Harvester route is protected. If those answers are weak, clear closer threats before chasing new rewards or distant resources.
+Use units to reveal nearby pressure, resource paths, and attack angles. You do not need perfect map knowledge before acting. You need enough information to place the next build step without turning it into an emergency.
 
-## Preserve the Army So Rewards Have a Platform
+## Resources Must Become a Plan
 
-Roguelite rewards become stronger when your army survives long enough to use them. If every fight leaves you rebuilding from nothing, your reward choices are not compounding. They are just patching holes.
+Income is useful only when it becomes something the next fight can use. If resources are collected but production is idle, the run is not getting stronger. If production is active but the army cannot protect the resource route, the income is temporary.
 
-Preservation does not mean never losing units. It means protecting the units that define your current plan. If your army relies on a small group of damage dealers, keep them behind durable bodies. If your route depends on summons or disposable units, know which losses are acceptable and which losses break the next fight.
+Read resources as part of the loop:
 
-## Draft Rewards Around the Last Problem and the Next Map
+- collect enough to act
+- spend toward a role the army needs
+- protect the route that keeps spending possible
+- stop expanding when the route becomes harder to defend than the reward is worth
 
-After each battle, do not ask which reward is generically powerful. Ask two questions. What problem did the last map reveal? What will the next map punish if I ignore that problem?
+This keeps economy decisions connected to fights instead of treating them as a separate background task.
 
-Blueprints add options to build. Upgrades improve something you already have. Hacks bend rules and can turn a mechanic into a run identity. The correct pick is the one that makes your next fight more controllable. If a reward needs several missing pieces, treat it as a risk, not a plan.
+## Fights Create the Next Draft Question
 
-## Use This Map-Start Checklist
+Every fight should change what you know about the run. Maybe the army can hold space but cannot end fights quickly. Maybe it can attack but cannot defend expansion. Maybe the reward plan looks promising but lacks a reliable trigger.
 
-Before moving deep into a new map, make four quick decisions:
+After a fight, ask one question before drafting: what did that fight expose? The best reward is usually the one that fixes or strengthens that answer soon. Blueprints, Upgrades, and Hacks all matter, but they matter in different parts of the loop.
 
-- Where can the Engineer stand without becoming the first target?
-- Which route keeps the Harvester or economy line protected?
-- Which unit group is allowed to make first contact?
-- What is the retreat path if the fight starts badly?
+## Drafting Should Feed Back Into the Map
 
-This checklist matters because rewards only help if the army gets to use them. If the opening move loses position, the rest of the map becomes recovery instead of build development.
+Do not choose rewards as if they live outside the current map. A Blueprint needs build space and protection. An Upgrade needs a unit or structure that already matters. A Hack needs a trigger the run can actually create.
 
-## Long-Term Progression Changes the Next Attempt
+The reward is good when it changes the next loop:
 
-Win or lose, Rogue Command uses long-term unlocks and the Battle Archive to shape future runs. That means run review is part of progression. A failed run that teaches you which decision collapsed is still useful.
+- scouting becomes safer
+- expansion becomes easier to hold
+- the army preserves key units
+- production turns into pressure faster
+- the next fight becomes easier to read
 
-Good reviews are concrete. "I had no answer to fast pressure." "I spent too much Crystal before securing harvesting." "My Hack did nothing because the trigger was missing." Each statement gives your next run a focus.
+If a reward only becomes useful after several missing pieces, treat it as a long-term risk rather than immediate power.
 
-## A Practical Loop to Follow
+## The Loop Breaks in Predictable Places
 
-Start each map by stabilizing economy and production. Scout with units, not the Engineer. Take fights with a retreat path. Draft rewards that solve visible problems. After the run ends, identify the first point of instability.
+Most unstable runs break at one of five points:
 
-That loop will not produce the same build every run, and that is the point. Rogue Command rewards adaptation. The stronger player is not the one memorizing a route; it is the one who turns the current run's constraints into a coherent plan.
+1. scouting is skipped
+2. the Engineer moves before space is controlled
+3. resources stop becoming production
+4. fights destroy the roles the army depends on
+5. rewards point away from the actual problem
 
-Source boundary: this article relies on official high-level mechanics. It avoids fixed build orders, current patch meta claims, and exact route promises.
+When the run feels chaotic, locate the first broken point. Fixing that point matters more than inventing a new build identity.
+
+## A Simple Map Routine
+
+At the start of each map, use this routine:
+
+1. Send units first.
+2. Identify the closest useful resource or pressure point.
+3. Place the Engineer only where retreat is possible.
+4. Keep production active before pushing deeper.
+5. Fight for a purpose, then draft from the result.
+
+This routine is deliberately plain. Its job is to make the run readable. Once the loop is stable, more advanced specialist and reward decisions become easier to judge.
+
+## Source Boundary and Confidence Note
+
+Official store material supports Rogue Command's broad loop of real-time unit control, base building, resource harvesting, exploration, defense, attack planning, and roguelite build crafting. This article explains that loop as a beginner framework. It avoids fixed build orders, current patch meta claims, exact route promises, and player-review conclusions.

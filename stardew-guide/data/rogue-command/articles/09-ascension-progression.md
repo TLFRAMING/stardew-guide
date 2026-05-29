@@ -1,9 +1,9 @@
 ---
 slug: ascension-progression
-title: "Rogue Command Advanced Progression Guide: Use Pressure, Losses, and Heat as Training Tools"
+title: "Rogue Command Advanced Progression Guide: When to Raise Pressure and What to Test"
 category: progression
 patchVersion: "1.0"
-lastVerified: "2026-05-24"
+lastVerified: "2026-05-29"
 confidence: official
 patchSensitivity: medium
 sourceIds:
@@ -11,91 +11,60 @@ sourceIds:
   - steam-community-1-0-announcement
 ---
 
-# Rogue Command Advanced Progression Guide: Use Pressure, Losses, and Heat as Training Tools
+# Rogue Command Advanced Progression Guide: When to Raise Pressure and What to Test
 
-This guide helps players move beyond early survival without turning progression into a fixed route. The practical answer is to treat higher pressure as a diagnostic tool: it shows which habit breaks first, then gives your next run a specific thing to improve.
+This guide helps players decide when they are ready for higher pressure without turning progression into a fixed route. The answer is to raise difficulty only when the basic loop is stable enough that the next failure teaches something specific.
 
-Rogue Command's long-term progression, repeated runs, and escalating pressure work best when you review mistakes clearly. Do not chase a universal advanced build. Build a process that tells you why a run failed and what to test next.
+Rogue Command's repeated-run structure rewards adaptation. Higher pressure is useful when it tests a habit you understand. It is not useful when the run is already collapsing for several unclear reasons at once.
 
-## Make Progression Expand Options, Not Excuses
+## Raise Pressure After the Baseline Is Readable
 
-Long-term upgrades and unlocks can make runs more flexible, but they should not hide weak command habits. If the Engineer is unsafe, production is idle, or rewards do not connect to the army, progression will only delay the collapse.
+Before pushing harder, check whether ordinary runs produce clear lessons. You should be able to name what failed first: Engineer safety, economy route, army roles, reward direction, or map control.
 
-Use progression to widen what you can test. Then review whether the new option actually solved a problem. A new unlock is useful when it improves the next few fights, not just when it looks like a future strategy.
+If every loss feels like everything went wrong at once, higher pressure is premature. Simplify the plan until the first failure becomes visible. Then raise pressure to test whether that correction holds.
 
-## Raise Pressure Only After the Basics Are Stable
+## Use Higher Pressure as a Stress Test
 
-Before increasing difficulty or pressure, confirm that your baseline runs are failing for clearer reasons:
+The purpose of higher pressure is not to prove that one build is universally strong. It is to stress one part of your play:
 
-- The Engineer usually stays behind controlled space.
-- Crystal routes are protected before deep expansion.
-- Production stays active after fights.
-- Rewards support the army you are actually building.
-- You can identify the first expensive mistake after a loss.
+- Can the Engineer stay safe while the map moves faster?
+- Can the economy route keep working under interruption?
+- Can the army preserve key roles after rough fights?
+- Can reward choices stay connected to the current run?
+- Can production recover before the next engagement?
 
-If these habits are inconsistent, higher pressure will not teach much. It will only make old mistakes happen faster.
+Pick one question before the run. If you test every habit at once, the result becomes hard to interpret.
 
-## Use Losses as Categories
+## Do Not Use Progression to Hide Weak Habits
 
-Advanced improvement starts with sorting losses into useful categories. Use five:
+Long-term unlocks and permanent growth can widen what a run can do, but they should not replace basic RTS discipline. If the Engineer keeps moving ahead of units, more options will not fix the core problem. If production is often idle, new reward paths may only create more things you cannot use.
 
-1. Engineer safety
-2. Economy and harvesting
-3. Army preservation
-4. Reward direction
-5. Map control
+Use progression to support cleaner play. The best sign of improvement is not just a stronger run. It is a run where the same old mistake appears later, less often, or in a form you can correct.
 
-Pick the category that started the collapse, not the one that appeared at the end. A final base breach may have started as an unsafe expansion three minutes earlier. A bad reward screen may have started as an army with no clear job.
+## Choose One Advanced Focus Per Run
 
-## Review Reward Clutter as a Decision Problem
+Advanced players often lose clarity by improving too many things at once. Pick one focus:
 
-As the run offers more possibilities, the danger is not only weak rewards. It is taking rewards that do not belong to the current plan.
+- safer forward building
+- cleaner economy recovery
+- better reward discipline
+- more controlled pressure after winning fights
+- stronger preservation of key units
 
-When the reward pool feels noisy, narrow the decision:
+Then judge the run by that focus. Even a failed run can be useful if it answers the question you chose at the start.
 
-- What did the last fight expose?
-- Which reward affects the next map soonest?
-- Which reward improves a unit, structure, or mechanic already in use?
-- Which reward needs a missing trigger?
+## When to Step Back
 
-This converts clutter into a practical filter. It does not require a tier list. It requires knowing what the run can actually use.
+Lower pressure or simplify the plan when the run stops teaching. Signs include constant panic defense, rewards that never become active, repeated Engineer exposure, or losses where you cannot identify the first mistake.
 
-## Break the Deathball Habit
-
-Many RTS players naturally drift toward one large army that waits until it can win everything at once. That can work sometimes, but it can also let enemy pressure grow while your base becomes harder to defend.
-
-Use controlled pressure instead. Send units to scout, clear nearby threats, and reduce future attack angles while the base remains defended. If the army cannot leave without exposing the Engineer or economy, the problem is not that you need a bigger attack. The problem is that the base footprint is not stable enough yet.
-
-## Treat Heat and Higher Pressure as Stress Tests
-
-Higher pressure should test a plan you understand. If a run has no clear answer to early economy, army preservation, reward direction, and map control, pressure will expose all of those at once.
-
-Use higher pressure to ask one question at a time:
-
-- Does my opening keep the Engineer safe?
-- Does my economy survive expansion?
-- Does my main army preserve its key units?
-- Does my reward plan still work when fights become less forgiving?
-
-If the same answer fails repeatedly, lower the pressure or simplify the plan until the failure becomes fixable.
-
-## Advanced Run Review Checklist
-
-After a hard loss, write one short review:
-
-1. The first expensive mistake was...
-2. It damaged safety, economy, army, rewards, or map control.
-3. The later collapse happened because...
-4. Next run I will test one rule: ...
-
-Keep the rule small. "Scout before moving the Engineer." "Skip Hacks without triggers." "Stop adding Blueprints while production is idle." "Secure the Harvester route before attacking." A small rule produces clearer learning than a vague promise to play better.
+Stepping back is not failure. It is how you rebuild a readable baseline. Once the same decision becomes stable at lower pressure, test it again under harder conditions.
 
 ## What This Guide Does Not Claim
 
-This is not a current-meta guide. It does not rank Specialists, list best builds, prescribe exact difficulty routes, or claim that one composition solves progression. Those topics need current-version testing evidence.
+This is not a balance-ranking guide. It does not rank Specialists, list build winners, prescribe precise difficulty routes, or claim that one composition solves progression. Those topics need current-version testing evidence.
 
-The value here is a progression method: raise pressure when the basics are stable, diagnose the first failure, and use the next run to test one correction.
+The value here is a testing method: stabilize the baseline, raise pressure with one question in mind, then use the result to choose the next correction.
 
 ## Source Boundary and Confidence Note
 
-Official sources support Rogue Command's broad run-based structure, build crafting, long-term progression, and 1.0 context. This article turns that into an advanced review framework. It intentionally excludes player-review conclusions, multiplayer complaints, external review claims, exact Heat routing, current balance judgments, and achievement walkthroughs.
+Official sources support Rogue Command's broad run-based structure, build crafting, long-term progression, and 1.0 context. This article turns that into an advanced pressure-testing framework. It intentionally excludes player-review conclusions, external review claims, precise Heat routing, current balance judgments, and completion walkthroughs.

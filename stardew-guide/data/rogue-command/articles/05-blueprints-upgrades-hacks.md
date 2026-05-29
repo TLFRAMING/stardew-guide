@@ -1,88 +1,69 @@
 ---
 slug: blueprints-upgrades-hacks
-title: "Rogue Command Build Crafting Guide: Blueprints, Upgrades, Hacks, and Synergy"
+title: "Rogue Command Build Crafting Overview: How Blueprints, Upgrades, and Hacks Fit Together"
 category: systems
 patchVersion: "1.0"
-lastVerified: "2026-05-24"
+lastVerified: "2026-05-29"
 confidence: official
 patchSensitivity: medium
 sourceIds:
   - steam-store
 ---
 
-# Rogue Command Build Crafting Guide: Blueprints, Upgrades, Hacks, and Synergy
+# Rogue Command Build Crafting Overview: How Blueprints, Upgrades, and Hacks Fit Together
 
-This guide helps players draft Rogue Command rewards without forcing a fragile combo. The useful rule is this: Blueprints add jobs, Upgrades deepen jobs you already use, and Hacks change rules only when the run can trigger them.
+This guide gives a safe overview of Rogue Command build crafting without trying to rank rewards. The practical answer is simple: Blueprints add new jobs, Upgrades improve jobs already in use, and Hacks change rules when the run can trigger them reliably.
 
-The build-crafting layer is what makes runs feel different, but it also creates one of the easiest ways to lose tempo. A reward can be interesting and still be wrong if it asks for a unit, structure, resource flow, or trigger your current run does not have.
+Use this page as the hub concept for reward drafting. More specific pages can handle Blueprint mistakes, Upgrade timing, and Hack triggers in detail. Here, the goal is to understand how the reward types work together inside one run.
 
-## Start With the Job the Army Is Missing
+## Start With the Run's Current Job List
 
-Before picking a reward, name the missing job. Does the army need frontline durability, safer map control, better structure defense, more pressure, recovery, or a way to protect the Engineer?
+Before choosing any reward, list what the run already does and what it still lacks. A clear army usually needs some mix of space holding, damage, scouting, economy protection, recovery, and Engineer safety.
 
-If the reward does not answer a current or near-future problem, treat it as optional. Rogue Command rewards adaptation, not collecting every appealing tool.
+The reward screen becomes easier when you ask which job is missing. A reward that answers a missing job is useful sooner. A reward that starts a separate idea may be powerful later, but it also asks the current run to support another branch.
 
-## Blueprints Add New Tools, But Also New Burdens
+## Blueprints Add New Jobs
 
-A Blueprint is strongest when it gives the run a job the current army cannot perform. It is weakest when it adds a production branch you cannot afford or protect.
+A Blueprint is a new tool or line the run can build around. That makes it exciting, but also expensive in attention. It can ask for resources, production space, Engineer movement, protection, and time before it affects the map.
 
-Before taking a Blueprint, ask:
+Take a Blueprint when it gives the army a job it cannot currently perform and when you can support that job soon. Be careful when the Blueprint only creates a future plan. If the next map will punish the current weakness before the new line is ready, the Blueprint may be too slow.
 
-- Can I build this soon enough to matter?
-- Does it solve a problem my current army cannot solve?
-- Will it split Crystal away from units or structures I already need?
-- Can the Engineer place the structure safely?
+## Upgrades Deepen Commitment
 
-If the answer is no, the Blueprint may make the run more complicated without making the next fight safer.
+An Upgrade is usually most useful when it improves something the run already uses. It can make a frontline sturdier, a damage plan cleaner, a defensive tool more reliable, or a production choice more important.
 
-## Upgrades Reward Commitment
+Do not take an Upgrade only because it looks valuable in isolation. Ask what it improves right now. If the target is not being produced, protected, or used in the next fights, the Upgrade may be inactive value.
 
-An Upgrade is usually best when it improves a unit, structure, or mechanic that is already carrying the run. It is not just a stat bump. It is a statement that you intend to keep using that part of the army.
+## Hacks Need Triggers
 
-Before taking an Upgrade, name the target and the job:
+A Hack can change how a run behaves, but it still needs a trigger. That trigger might be a unit behavior, a status effect, a repeated fight pattern, or another system the run already creates.
 
-- "This keeps my frontline alive."
-- "This helps my main damage source end fights faster."
-- "This protects the route my economy depends on."
+Before drafting a Hack, ask:
 
-If you cannot name the target, delay the Upgrade or take a broader answer. An Upgrade for a plan you are not actually producing is often a dead reward.
+1. What has to happen for this Hack to matter?
+2. Does the current run already make that happen?
+3. Can I enable it immediately if not?
+4. Does it solve the next fight or only complete a future idea?
 
-## Hacks Need Reliable Triggers
+If the trigger is missing, count that as a cost. A powerful rule change is not useful until the run can activate it.
 
-Hacks are tempting because they can reshape how the run works. That also makes them dangerous. A Hack tied to a status effect, movement tool, death trigger, or support mechanic needs that trigger to happen often enough.
+## A Safe Drafting Order
 
-Use this test before taking a Hack:
+When several rewards look good, use this order:
 
-1. What exactly triggers it?
-2. Do I already have the trigger?
-3. If not, can I add the trigger immediately?
-4. Does this Hack solve the next fight or only promise a future combo?
+1. Fix the next likely loss.
+2. Improve the role that already carries the run.
+3. Add a missing job you can support soon.
+4. Take a trigger-based reward only when the trigger is live or easy to enable.
 
-If the Hack requires two missing pieces, it is a gamble. Sometimes that gamble is worth taking, but it should not replace a reward that prevents the next likely loss.
+This order does not create a universal best pick. It keeps the run coherent. Coherence matters more than collecting impressive pieces that never meet on the battlefield.
 
-## Build Synergy From Existing Pressure
+## When to Branch and When to Refine
 
-Strong synergy usually starts from something already happening. If the run is already holding space well, deepen the defense or add pressure that works from that position. If the run is mobile, draft tools that help it choose fights and escape bad ones. If the army is fragile, look for preservation before adding another damage idea.
+Branch when the current army cannot answer a real problem. Refine when the current army already works but needs to survive pressure better. Delay when both choices require resources or triggers the run does not have.
 
-Avoid building around a fantasy endpoint. A run that needs three future rewards before it becomes stable is weaker than a run that solves the next map and leaves room to grow.
-
-## Drafting Decision Order
-
-When the reward screen offers several attractive choices, use this order:
-
-1. Does one reward prevent the next obvious loss?
-2. Does one reward improve the army or structure I already rely on?
-3. Does one reward add a missing job I can afford now?
-4. Does one reward need a trigger I do not have yet?
-
-Pick from the first three whenever possible. The fourth can become powerful, but it is also where unsupported combos begin.
-
-## Common Build-Crafting Mistakes
-
-The first mistake is taking a reward because it sounds like a complete build name. The second is adding too many new Blueprints before the economy can support them. The third is taking Hacks with no trigger. The fourth is refusing practical defensive or economy-supporting choices because they look less exciting.
-
-These mistakes create clutter inside the run. The army has options, but none of them arrive in time or work together under pressure.
+This is the main build-crafting discipline: do not confuse variety with strength. A run becomes stronger when new pieces support each other under pressure.
 
 ## Source Boundary and Confidence Note
 
-Official store material supports the broad build-crafting frame and the existence of Blueprints, Upgrades, Hacks, and roguelite run variety. This article is a decision framework. It intentionally excludes exact reward rankings, current patch meta claims, Specialist-specific optimal builds, and unverified player-review conclusions.
+Official store material supports the broad build-crafting frame and the existence of Blueprints, Upgrades, Hacks, and roguelite run variety. This overview explains how to think about reward types. It intentionally excludes reward rankings, current balance claims, Specialist-specific build prescriptions, detailed interaction tables, and player-review conclusions.

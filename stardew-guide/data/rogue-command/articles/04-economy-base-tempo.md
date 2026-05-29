@@ -1,9 +1,9 @@
 ---
 slug: economy-base-tempo
-title: "Rogue Command Economy and Base Tempo: Keep Crystal, Production, and Safety Aligned"
+title: "Rogue Command Base Tempo Guide: Turn Crystal Into Pressure Without Overbuilding"
 category: systems
 patchVersion: "1.0"
-lastVerified: "2026-05-20"
+lastVerified: "2026-05-29"
 confidence: official
 patchSensitivity: medium
 sourceIds:
@@ -11,51 +11,72 @@ sourceIds:
   - wiki-gg
 ---
 
-# Rogue Command Economy and Base Tempo: Keep Crystal, Production, and Safety Aligned
+# Rogue Command Base Tempo Guide: Turn Crystal Into Pressure Without Overbuilding
 
-This guide helps players diagnose economy losses in Rogue Command. Most economy problems are not just "not enough Crystal." They are timing problems between harvesting, production, map control, and base safety.
+This guide focuses on base tempo: how quickly resources become useful units, structures, defense, and map pressure. It is not a collector route guide. The practical question is whether your base is converting income into the next thing the run needs before pressure catches up.
 
-The practical goal is to keep resources moving through a chain: Crystal becomes production, production becomes army presence, army presence protects more map, and more map supports the next economy step. When that chain breaks, pause the push and repair the earliest weak link.
+Rogue Command rewards fast adaptation, but fast does not mean building everything. Overbuilding can make the base wider, slower, and harder to defend. Good tempo keeps production active while avoiding branches the army cannot protect or use.
 
-## Crystal Is Only Useful When It Becomes Action
+## Tempo Is Conversion Speed
 
-Crystal sitting in reserve is potential, not pressure. If you have resources but your army is thin, queue units or build production. If production is idle because Crystal is missing, stop adding new plans and secure harvesting.
+Crystal by itself is stored potential. Tempo is the process of turning that potential into something active:
 
-Use post-fight downtime for a quick audit. What is being harvested? What is being produced? What area is now safe because you won the fight? If you cannot answer all three, the next push is probably premature.
+- units that hold space
+- structures that create more options
+- defenses that preserve the economy
+- production that supports the current reward plan
 
-## Expand When the Army Can Hold the Space
+If Crystal is sitting while production is idle, tempo is leaking. If production is busy but the new pieces do not help the next fight, tempo is scattered. The goal is not simply to spend. The goal is to spend into the run's next pressure point.
 
-Expansion is not a reward for feeling ahead. It is a trade: you gain access to resources or positioning, but you create more ground to defend. Expand after you have enough units to cover the new route or after you have removed the threat that made the route dangerous.
+## Build What the Next Fight Can Use
 
-If the Harvester path crosses unknown ground, clear the path first. If the base entrance is exposed, leave a minimum defense before sending everything forward. If the Engineer must move to build, slow time and escort it rather than treating the build command as safe by default.
+Before adding a structure or production line, name how it helps the next fight or the next safe expansion. If the answer is vague, wait.
 
-## Defend When the Economy Is About to Break
+Good base tempo often looks restrained:
 
-Greedy pushes fail when they ignore the next wave, the exposed Harvester, or an idle production chain. Defending is not passive if it preserves the resources that fund your next attack.
+- reinforce the role that is already carrying fights
+- add production only when the economy can support it
+- build defense where it keeps income working
+- delay a new branch until the Engineer can place it safely
 
-Choose defense when Crystal flow is fragile, when the base has multiple entrances, when a weather or map condition weakens your current army, or when your Engineer is needed near production. A stable defended economy often creates a stronger attack one minute later.
+This keeps the base focused. A focused base may look smaller, but it reaches useful strength faster.
 
-## Production Must Match the Build You Are Actually Playing
+## Do Not Let Blueprints Create Dead Branches
 
-Adding a new Blueprint is not the same as adding a working unit line. You need resources, build space, and time to make it matter. If you keep adding options while older production sits idle, your base is becoming complicated without becoming stronger.
+A new Blueprint can be the right answer when the army lacks a job. It can also create a dead branch: a line that needs Crystal, build space, Engineer time, and protection before it changes anything.
 
-When a reward changes the plan, decide what production line it replaces or supports. If nothing changes, keep producing the army that already wins fights.
+After taking a Blueprint, decide whether it replaces, supports, or delays an existing plan. If it does none of those, the reward may be creating clutter. The base becomes harder to manage without making the next map safer.
 
-## Do This After Each Fight
+## Defense Is Part of Tempo
 
-Treat downtime as part of combat, not as a break:
+Defense can feel like a pause, but it is part of tempo when it keeps production and income online. Losing a resource route, production structure, or Engineer position often costs more than delaying a push.
 
-- Recheck the Harvester route before sending the Engineer forward.
-- Queue the next units or structures before scouting farther.
-- Move damaged or important units out of unnecessary danger.
-- Decide whether the next reward should fix defense, damage, economy, or control.
+Choose defense when:
 
-If the next attack begins while production is idle and the Engineer is exposed, the economy mistake already happened before enemies arrived.
+- the next fight can reach production
+- the resource route is exposed
+- the Engineer must build near danger
+- the army needs time to convert resources into units
 
-## Review Economy Collapse by First Failure
+Do not defend forever. Defend long enough for the base to turn income into a stronger next action.
 
-After a loss, do not begin with the final fight. Look for the first economy failure. Was the Harvester exposed? Did Crystal stop? Did factories idle? Did you build too many structures before protecting them? Did the Engineer die while expanding?
+## Use Post-Fight Downtime Correctly
 
-Fix one failure in the next run. Cleaner economy tempo comes from removing repeated leaks, not from memorizing a precise route.
+After a fight, the map gives a short decision window. Use it before moving deeper:
 
-Source boundary: this article uses official RTS/economy framing and wiki-backed system structure. It avoids exact economy routes and current-version optimization claims.
+1. Check whether production is idle.
+2. Check whether the economy route still works.
+3. Check whether the next structure has safe space.
+4. Spend toward the role the last fight exposed.
+
+This is where many runs quietly lose tempo. The army won a fight, but the base did not convert the win into anything useful.
+
+## Common Base Tempo Mistakes
+
+The first mistake is floating resources while waiting for a perfect plan. The second is spending on several partial plans at once. The third is adding a new production branch before the current army can protect it. The fourth is treating defense as a separate task instead of a way to preserve conversion.
+
+When these mistakes happen, the run feels behind even with resources available. That usually means the base is not turning income into timely pressure.
+
+## Source Boundary and Confidence Note
+
+Official and wiki-backed sources support the broad economy, base-building, and build-crafting structure behind this article. This page intentionally stays at tempo and conversion logic. It avoids exact economy routes, collector timings, production math, current-version optimization claims, and universal build orders.
