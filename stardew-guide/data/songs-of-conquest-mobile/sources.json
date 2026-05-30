@@ -1,0 +1,52 @@
+[
+  {
+    "id": "app-store",
+    "title": "Songs of Conquest Mobile App Store Page",
+    "url": "https://apps.apple.com/us/app/songs-of-conquest-mobile/id6740487579",
+    "publisher": "Apple App Store",
+    "sourceType": "store",
+    "lastChecked": "2026-05-30",
+    "confidence": "high",
+    "notes": "Primary mobile source for iOS availability, publisher listing, category, device requirements, App Store description, and mobile-facing feature claims. Use player reviews only as neutral pain-point discovery, not as production fact, ratings evidence, or quoted guide material."
+  },
+  {
+    "id": "google-play",
+    "title": "Songs of Conquest Mobile Google Play Page",
+    "url": "https://play.google.com/store/apps/details?id=com.coffeestain.songsofconquestmobile",
+    "publisher": "Google Play",
+    "sourceType": "store",
+    "lastChecked": "2026-05-30",
+    "confidence": "high",
+    "notes": "Primary mobile source for Android availability, Coffee Stain Publishing listing, update date, store tags, and mobile-facing feature claims. Use reviews only to identify guide questions such as touch targeting, large-map sessions, or onboarding friction; do not publish review sentiment or consensus."
+  },
+  {
+    "id": "official-site",
+    "title": "Songs of Conquest Official Website",
+    "url": "https://www.songsofconquest.com/",
+    "publisher": "Lavapotion",
+    "sourceType": "official-site",
+    "lastChecked": "2026-05-30",
+    "confidence": "high",
+    "notes": "Official game site. Use for broad game identity, Wielders, adventure strategy framing, empire building, resource management, combat concepts, faction names, platform availability links, and official feature descriptions. Do not use official images, screenshots, logos, or press assets in production UI unless rights are separately cleared."
+  },
+  {
+    "id": "steam-store",
+    "title": "Songs of Conquest Steam Store Page",
+    "url": "https://store.steampowered.com/app/867210/Songs_of_Conquest/",
+    "publisher": "Steam",
+    "sourceType": "store",
+    "lastChecked": "2026-05-30",
+    "confidence": "medium",
+    "notes": "Use only as a PC/desktop baseline source for broad genre, developer/publisher, and high-level feature framing. Do not use Steam-only content, DLC state, PC controls, workshop, multiplayer, balance, or patch assumptions as mobile production facts without mobile verification."
+  },
+  {
+    "id": "lavapotion",
+    "title": "Lavapotion Official Website",
+    "url": "https://www.lavapotion.com/",
+    "publisher": "Lavapotion",
+    "sourceType": "official-site",
+    "lastChecked": "2026-05-30",
+    "confidence": "high",
+    "notes": "Official developer site. Use for developer identity and confirmation that Songs of Conquest is Lavapotion's first title and is available on major platforms. Do not use this source for mechanics, mobile-specific functionality, or guide conclusions."
+  }
+]
