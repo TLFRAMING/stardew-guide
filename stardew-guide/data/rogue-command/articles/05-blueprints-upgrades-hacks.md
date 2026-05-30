@@ -8,9 +8,9 @@ confidence: official
 patchSensitivity: medium
 summary: "Learn how Blueprints, Upgrades, and Hacks fit together in Rogue Command so reward choices support the current run instead of creating clutter."
 relatedSlugs:
+  - reward-choice-after-stage
   - blueprint-drafting-mistakes
   - upgrade-timing-guide
-  - hack-synergy-without-forcing-combos
 sourceIds:
   - steam-store
 ---

@@ -8,9 +8,9 @@ confidence: official
 patchSensitivity: medium
 summary: "Review each Rogue Command stage before the next map by checking economy, Engineer safety, army roles, and reward direction."
 relatedSlugs:
+  - reward-choice-after-stage
   - failed-run-review-checklist
   - ascension-progression
-  - core-gameplay-loop
 sourceIds:
   - steam-store
 ---

@@ -8,9 +8,9 @@ confidence: official
 patchSensitivity: medium
 summary: "Keep the Engineer alive by scouting first, expanding from controlled space, and treating new resource zones as map-control commitments."
 relatedSlugs:
+  - map-scouting-hidden-rewards
   - beginner-first-run
   - defense-without-turtling
-  - resource-collector-economy-guide
 sourceIds:
   - steam-store
 ---
