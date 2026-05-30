@@ -1,0 +1,221 @@
+[
+  {
+    "id": "beginner-first-campaign",
+    "slug": "beginner-first-campaign",
+    "title": "Songs of Conquest Mobile Beginner Guide: First Campaign Decisions That Matter",
+    "category": "getting-started",
+    "status": "clean-candidate",
+    "confidence": "medium",
+    "patchSensitivity": "medium",
+    "sourceIds": ["app-store", "google-play", "official-site"],
+    "sourceUrls": [
+      "https://apps.apple.com/us/app/songs-of-conquest-mobile/id6740487579",
+      "https://play.google.com/store/apps/details?id=com.coffeestain.songsofconquestmobile",
+      "https://www.songsofconquest.com/"
+    ],
+    "guidePromise": "Helps new mobile players understand the first campaign as a sequence of map, economy, Wielder, and combat decisions instead of rushing every objective.",
+    "allowedClaims": [
+      "Songs of Conquest Mobile is a mobile strategy game with Wielders, armies, resources, towns, and tactical battles.",
+      "A beginner guide can focus on reading objectives, preserving troops, using Wielders deliberately, and keeping the economy understandable.",
+      "Mobile play benefits from clear session goals because strategy maps can involve exploration, town checks, and tactical fights."
+    ],
+    "blockedClaims": [
+      "exact campaign walkthrough",
+      "best first faction",
+      "fixed build order",
+      "mission-by-mission solution",
+      "PC campaign assumptions as mobile fact"
+    ],
+    "playerPainPoints": [
+      {
+        "guideQuestion": "What should a new player focus on during the first mobile campaign session?",
+        "safeUse": "Turn into a first-screen decision guide about objectives, Wielder safety, economy checks, and fight selection.",
+        "blockedUse": "Do not claim a perfect opening route or exact campaign sequence."
+      }
+    ],
+    "notes": "Recommended as SOCM-5 article 1. It can be broad and useful without ranking or formula claims."
+  },
+  {
+    "id": "faction-choice-framework",
+    "slug": "faction-choice-framework",
+    "title": "Songs of Conquest Mobile Faction Choice Guide: How To Pick A Learning Path",
+    "category": "factions",
+    "status": "clean-candidate",
+    "confidence": "medium",
+    "patchSensitivity": "medium",
+    "sourceIds": ["app-store", "google-play", "official-site", "steam-store"],
+    "sourceUrls": [
+      "https://apps.apple.com/us/app/songs-of-conquest-mobile/id6740487579",
+      "https://play.google.com/store/apps/details?id=com.coffeestain.songsofconquestmobile",
+      "https://www.songsofconquest.com/",
+      "https://store.steampowered.com/app/867210/Songs_of_Conquest/"
+    ],
+    "guidePromise": "Helps players choose a faction by learning curve, army identity, resource pressure, and tactical comfort rather than by rankings.",
+    "allowedClaims": [
+      "The game has factions and armies that can support different play patterns.",
+      "A safe faction article can teach comparison criteria without publishing a power ranking.",
+      "Mobile players may benefit from choosing a faction whose army and Wielder decisions are easy to read in shorter sessions."
+    ],
+    "blockedClaims": [
+      "best faction",
+      "tier list",
+      "strongest faction",
+      "current multiplayer meta",
+      "exact faction balance conclusions",
+      "DLC faction availability without mobile verification"
+    ],
+    "playerPainPoints": [
+      {
+        "guideQuestion": "How should a new player choose a faction if rankings are not reliable yet?",
+        "safeUse": "Use as a framework for comparing learning curve, unit readability, resource pressure, and tactical style.",
+        "blockedUse": "Do not publish faction order or competitive verdicts."
+      }
+    ],
+    "notes": "Recommended as SOCM-5 article 2, but must avoid ranking language in public body."
+  },
+  {
+    "id": "combat-positioning-basics",
+    "slug": "combat-positioning-basics",
+    "title": "Songs of Conquest Mobile Combat Guide: Positioning, Threats, and Army Preservation",
+    "category": "combat",
+    "status": "clean-candidate",
+    "confidence": "medium",
+    "patchSensitivity": "medium",
+    "sourceIds": ["app-store", "google-play", "official-site"],
+    "sourceUrls": [
+      "https://apps.apple.com/us/app/songs-of-conquest-mobile/id6740487579",
+      "https://play.google.com/store/apps/details?id=com.coffeestain.songsofconquestmobile",
+      "https://www.songsofconquest.com/"
+    ],
+    "guidePromise": "Helps mobile players treat tactical battles as army-preservation puzzles instead of trading units carelessly.",
+    "allowedClaims": [
+      "Songs of Conquest includes tactical battles with armies and Wielders.",
+      "Beginner combat advice can focus on preserving important troops, reading threats, avoiding unnecessary trades, and entering fights with a clear purpose.",
+      "Mobile combat guides should prioritize readable decisions over exact damage math until mobile-specific evidence is stronger."
+    ],
+    "blockedClaims": [
+      "exact damage formulas",
+      "unit tier list",
+      "best army composition",
+      "guaranteed win tactics",
+      "specific PC-only control assumptions"
+    ],
+    "playerPainPoints": [
+      {
+        "guideQuestion": "How do you avoid losing too many troops in early battles?",
+        "safeUse": "Turn into a guide about fight selection, protecting key stacks, checking threat range, and leaving fights that do not advance the objective.",
+        "blockedUse": "Do not provide exact matchup formulas or solved army compositions."
+      }
+    ],
+    "notes": "Recommended as SOCM-5 article 3. Good search potential and easy to keep mobile-safe."
+  },
+  {
+    "id": "resource-town-building-basics",
+    "slug": "resource-town-building-basics",
+    "title": "Songs of Conquest Mobile Resource Guide: Town Building Without Losing Map Tempo",
+    "category": "economy",
+    "status": "clean-candidate",
+    "confidence": "medium",
+    "patchSensitivity": "medium",
+    "sourceIds": ["app-store", "google-play", "official-site"],
+    "sourceUrls": [
+      "https://apps.apple.com/us/app/songs-of-conquest-mobile/id6740487579",
+      "https://play.google.com/store/apps/details?id=com.coffeestain.songsofconquestmobile",
+      "https://www.songsofconquest.com/"
+    ],
+    "guidePromise": "Helps players connect town upgrades, resource pressure, and map movement without publishing a fixed build order.",
+    "allowedClaims": [
+      "The game includes resource and town or empire-building pressure.",
+      "A beginner economy guide can teach players to check what the town needs, what the map can provide, and whether the Wielder can keep exploring safely.",
+      "Resource planning should be framed as tradeoffs, not exact formulas."
+    ],
+    "blockedClaims": [
+      "fixed town build order",
+      "exact resource formula",
+      "best building sequence",
+      "optimal economy route",
+      "PC-only economy assumptions as mobile fact"
+    ],
+    "playerPainPoints": [
+      {
+        "guideQuestion": "How do you build a town without falling behind on the map?",
+        "safeUse": "Use as a decision guide about balancing exploration, resource pickups, and town spending.",
+        "blockedUse": "Do not claim exact opening build orders."
+      }
+    ],
+    "notes": "Good SOCM-5 or SOCM-6 article once the first three are live."
+  },
+  {
+    "id": "wielder-magic-basics",
+    "slug": "wielder-magic-basics",
+    "title": "Songs of Conquest Mobile Wielder Guide: Roles, Magic, and Army Support",
+    "category": "systems",
+    "status": "clean-candidate",
+    "confidence": "medium",
+    "patchSensitivity": "medium",
+    "sourceIds": ["app-store", "google-play", "official-site", "steam-store"],
+    "sourceUrls": [
+      "https://apps.apple.com/us/app/songs-of-conquest-mobile/id6740487579",
+      "https://play.google.com/store/apps/details?id=com.coffeestain.songsofconquestmobile",
+      "https://www.songsofconquest.com/",
+      "https://store.steampowered.com/app/867210/Songs_of_Conquest/"
+    ],
+    "guidePromise": "Helps players understand Wielders as army and magic support pieces, not just map units.",
+    "allowedClaims": [
+      "Wielders are a core named system in Songs of Conquest.",
+      "A beginner guide can explain role identity, army support, spell timing, and why Wielder development should match the army plan.",
+      "Exact builds and strongest Wielder claims need stronger mobile-specific evidence."
+    ],
+    "blockedClaims": [
+      "best Wielder",
+      "Wielder tier list",
+      "exact skill build",
+      "strongest spell path",
+      "PC-only balance assumptions"
+    ],
+    "playerPainPoints": [
+      {
+        "guideQuestion": "How should a beginner think about Wielder development?",
+        "safeUse": "Use as a role and decision framework tied to army support and map goals.",
+        "blockedUse": "Do not publish build rankings or exact skill trees."
+      }
+    ],
+    "notes": "Useful systems article, but needs careful writing to avoid build-ranking drift."
+  },
+  {
+    "id": "mobile-session-planning",
+    "slug": "mobile-session-planning",
+    "title": "Songs of Conquest Mobile Session Guide: Plan Turns, Towns, and Battles On A Phone",
+    "category": "mobile",
+    "status": "clean-candidate",
+    "confidence": "medium",
+    "patchSensitivity": "low",
+    "sourceIds": ["app-store", "google-play", "official-site"],
+    "sourceUrls": [
+      "https://apps.apple.com/us/app/songs-of-conquest-mobile/id6740487579",
+      "https://play.google.com/store/apps/details?id=com.coffeestain.songsofconquestmobile",
+      "https://www.songsofconquest.com/"
+    ],
+    "guidePromise": "Helps mobile players split strategy play into readable sessions: map checks, town decisions, army movement, and tactical battles.",
+    "allowedClaims": [
+      "The mobile version is available through mobile store pages.",
+      "A mobile session guide can focus on how to organize play decisions without assuming a specific control scheme beyond mobile play context.",
+      "Short-session planning is a player-facing usability guide, not a balance claim."
+    ],
+    "blockedClaims": [
+      "specific control shortcuts not verified on mobile",
+      "device performance claims",
+      "battery or hardware advice",
+      "PC control assumptions",
+      "store review complaints as fact"
+    ],
+    "playerPainPoints": [
+      {
+        "guideQuestion": "How do you keep a strategy map readable during shorter mobile play sessions?",
+        "safeUse": "Use as a mobile-first planning guide for ending sessions at stable decision points.",
+        "blockedUse": "Do not copy review complaints or claim universal mobile control problems."
+      }
+    ],
+    "notes": "Useful differentiator for a mobile-focused site because it is not just a PC guide rewritten for phones."
+  }
+]
