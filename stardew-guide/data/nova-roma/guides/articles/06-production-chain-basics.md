@@ -17,7 +17,7 @@ sourceUrls:
   - "https://wiki.hoodedhorse.com/Nova_Roma/Nova_Roma_Official_Wiki"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Resources"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Infrastructure"
-summary: "A practical Nova Roma guide for diagnosing production chains, spotting whether the bottleneck is input, labor, storage, or demand, and deciding whether to expand, simplify, or pause."
+summary: "A practical Nova Roma production chain guide for checking input, labor, storage, and demand before adding more buildings to a weak chain."
 relatedDataLinks:
   - label: "Nova Roma Home"
     href: "/nova-roma"
@@ -33,9 +33,9 @@ relatedDataLinks:
 
 # Nova Roma Production Chain Guide: How to Read Inputs, Outputs, and Bottlenecks
 
-If one building in Nova Roma looks empty or slow, do not assume the city simply needs more of that resource. In a production-chain game, the safer diagnosis is to check whether the problem starts at the input source, the workers, the storage path, or the consumer pressure pulling faster than the chain can recover. If the whole city is already stalling, begin with the [resource shortage guide](/nova-roma/guides/early-resource-shortage-guide).
+If one building in Nova Roma looks empty or slow, do not assume the city simply needs more of that resource. Check the full chain first: input source, labor, storage path, and consumer demand. The visible empty building is often only the last place where the weakness appears.
 
-The useful beginner habit is to read a chain as a connected system from raw input to storage to consumer. When that system stays readable, it is easier to fix, easier to scale, and less likely to fail all at once.
+If the whole city is already stalling, begin with the [resource shortage guide](/nova-roma/guides/early-resource-shortage-guide). If the chain started breaking after new residents arrived, compare it with the [population stability guide](/nova-roma/guides/population-needs-and-stability).
 
 ## Why One Empty Building Does Not Explain The Whole Problem
 

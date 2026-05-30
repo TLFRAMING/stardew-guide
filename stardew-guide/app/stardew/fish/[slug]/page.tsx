@@ -76,6 +76,14 @@ export default async function FishDetailPage({ params }: { params: Promise<{ slu
           <TagList label="Weather" values={item.weather} />
         </DataCard>
 
+        <DataCard>
+          <h2 className="text-xl font-bold text-green-950">When to chase {item.name}</h2>
+          <div className="mt-3 space-y-3 text-sm leading-6 text-green-950/72">
+            <p>{buildFishChaseAdvice(item)}</p>
+            <p>{buildFishSkipAdvice(item)}</p>
+          </div>
+        </DataCard>
+
         <StardewDetailUseGuide
           title={`Plan a ${item.name} catch without wasting the season`}
           problem="Fish pages are most useful when you turn the season, weather, time, and location fields into a short fishing plan before the day starts."
@@ -163,6 +171,7 @@ function buildFishMetaTitle(item: Fish) {
   const focusedTitles: Record<string, string> = {
     bream: "Bream Stardew Valley: Location, Time, Season, Weather, and Uses",
     bullhead: "Bullhead Stardew Valley: Location, Season, Time, Difficulty, and Uses",
+    goby: "Goby Stardew Valley: Waterfall Location, Season, Time, and Uses",
     halibut: "Halibut Stardew Valley: Where to Catch, Season, Time, and Uses",
     "radioactive-carp": "Radioactive Carp Stardew Valley: Location, Season, Time, and Uses",
     "spook-fish": "Spook Fish Stardew Valley: Location, Season, Time, and Uses",
@@ -171,6 +180,27 @@ function buildFishMetaTitle(item: Fish) {
   };
 
   return focusedTitles[item.slug] ?? `${item.name} Stardew Valley: Location, Time, Season, Weather, and Uses`;
+}
+
+function buildFishChaseAdvice(item: Fish) {
+  const bundle = formatBundleUsage(item.bundleUsage);
+  const weatherText = item.weather.some((weather) => weather.toLowerCase() !== "any")
+    ? `wait for ${item.weather.join(", ")} weather before making the trip`
+    : "you do not need to wait for special weather";
+  const bundleText = bundle === "Yes" ? "catch and store one before selling extras" : "treat it as a collection or selling target rather than a bundle emergency";
+
+  return `Chase ${item.name} when ${item.seasons.join(" / ")} is active, the ${item.time} time window fits your day, and ${weatherText}. For planning, ${bundleText}.`;
+}
+
+function buildFishSkipAdvice(item: Fish) {
+  const locationText = item.locations.length > 1 ? "locations are" : "location is";
+  const bundle = formatBundleUsage(item.bundleUsage);
+
+  if (bundle === "Yes") {
+    return `Skip the trip when the season or weather is wrong, but make a plan to return before the bundle window closes. The ${locationText} ${item.locations.join(", ")}, so combine the fishing trip with nearby errands when possible.`;
+  }
+
+  return `Skip the trip when you need the day for crops, mining, tool upgrades, or a higher-priority bundle fish. The ${locationText} ${item.locations.join(", ")}, so it is best chased when travel time will not interrupt a stronger plan.`;
 }
 
 function getRelatedFishGuideSlugs(item: Fish) {

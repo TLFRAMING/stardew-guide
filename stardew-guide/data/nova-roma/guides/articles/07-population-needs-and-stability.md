@@ -19,7 +19,7 @@ sourceUrls:
   - "https://wiki.hoodedhorse.com/Nova_Roma/Resources"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Water_Supply"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Infrastructure"
-summary: "A practical Nova Roma guide for checking whether population growth is outpacing water, food, jobs, storage, and city support before a stable settlement turns fragile."
+summary: "A practical Nova Roma population guide for checking water, food, jobs, storage, and support before new housing turns stable growth fragile."
 relatedDataLinks:
   - label: "Nova Roma Home"
     href: "/nova-roma"
@@ -35,9 +35,9 @@ relatedDataLinks:
 
 # Nova Roma Population Stability Guide: Needs, Growth, and City Pressure
 
-Population growth in Nova Roma is not a free upgrade. Every new home and new resident can make the city richer in labor over time, but it can also increase pressure on water, food, storage, jobs, and the support systems that were already carrying the last stage of growth. If those support systems are unclear, review the [production chain guide](/nova-roma/guides/production-chain-basics) before adding more housing.
+Population growth in Nova Roma is useful only when the city can support the new demand it creates. Before adding more homes, check water access, food flow, useful jobs, storage, and whether the current production chains are still readable.
 
-The safer framework is to treat population as a multiplier. When the city is healthy, more people can strengthen it. When the city is already stretched, more people can expose every weak link at once.
+The safer framework is to treat population as a multiplier. When the city is healthy, more people can strengthen it. When the city is already stretched, more people can expose every weak link at once. If those support systems are unclear, review the [production chain guide](/nova-roma/guides/production-chain-basics) and [water planning guide](/nova-roma/guides/water-planning-basics) before expanding housing again.
 
 ## Why Growth Creates Pressure Instead Of Pure Value
 

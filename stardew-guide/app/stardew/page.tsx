@@ -47,17 +47,24 @@ const features = [
 ];
 
 const popularLookups = [
+  { href: "/stardew/guides/friendship-and-gifts-basics", label: "Gift basics guide" },
   { href: "/stardew/villagers/george", label: "George gifts" },
   { href: "/stardew/villagers/gus", label: "Gus gifts" },
   { href: "/stardew/villagers/vincent", label: "Vincent gifts" },
   { href: "/stardew/villagers/wizard", label: "Wizard gifts" },
+  { href: "/stardew/villagers/evelyn", label: "Evelyn gifts" },
+  { href: "/stardew/villagers/haley", label: "Haley gifts" },
+  { href: "/stardew/villagers/penny", label: "Penny gifts" },
   { href: "/stardew/fish/bream", label: "Bream location" },
   { href: "/stardew/fish/radioactive-carp", label: "Radioactive Carp" },
   { href: "/stardew/fish/tiger-trout", label: "Tiger Trout" },
+  { href: "/stardew/fish/goby", label: "Goby location" },
   { href: "/stardew/fish/sturgeon", label: "Sturgeon" },
   { href: "/stardew/crops/cranberries", label: "Cranberries" },
+  { href: "/stardew/crops/wheat", label: "Wheat" },
   { href: "/stardew/crops/red-cabbage", label: "Red Cabbage" },
   { href: "/stardew/crops/starfruit", label: "Starfruit" },
+  { href: "/stardew/crops/blue-jazz", label: "Blue Jazz" },
   { href: "/stardew/minerals/basalt", label: "Basalt" }
 ];
 

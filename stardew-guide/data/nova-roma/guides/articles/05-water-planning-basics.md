@@ -17,7 +17,7 @@ sourceUrls:
   - "https://wiki.hoodedhorse.com/Nova_Roma/Nova_Roma_Official_Wiki"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Water_Supply"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Infrastructure"
-summary: "A practical Nova Roma water planning guide for deciding city direction early, protecting future water routes, and keeping growth readable instead of patching water problems too late."
+summary: "A practical Nova Roma water guide for choosing city direction early, protecting water routes, and avoiding expensive late repairs after growth spreads."
 relatedDataLinks:
   - label: "Nova Roma Home"
     href: "/nova-roma"
@@ -33,9 +33,9 @@ relatedDataLinks:
 
 # Nova Roma Water Planning Guide: Build Around Flow, Storage, and Growth
 
-Water in Nova Roma is not a late convenience layer. It is one of the early systems that decides whether the city can grow cleanly or whether every later district becomes expensive to repair. If water trouble is already showing up as an economy problem, pair this with the [resource shortage guide](/nova-roma/guides/early-resource-shortage-guide).
+Water in Nova Roma should shape the city before dense housing and production make routes hard to fix. The practical first step is to choose where water can enter, where growth is likely to move, and which spaces should stay open for future support routes.
 
-The safe planning habit is to build around water flow before the center fills up. If you wait until the city already sprawls, water stops being infrastructure and turns into emergency correction work.
+If water trouble is already showing up as an economy problem, pair this page with the [resource shortage guide](/nova-roma/guides/early-resource-shortage-guide). If the city keeps growing faster than support routes can follow, read the [population stability guide](/nova-roma/guides/population-needs-and-stability) before placing more homes.
 
 ## Why Water Becomes Part Of The City Skeleton
 

@@ -36,6 +36,8 @@ export default function NovaRomaGuidesPage() {
   const startingGuide = articles.find((article) => article.slug === "understand-nova-roma-core-mechanics");
   const shortageGuide = articles.find((article) => article.slug === "early-resource-shortage-guide");
   const waterGuide = articles.find((article) => article.slug === "water-planning-basics");
+  const chainGuide = articles.find((article) => article.slug === "production-chain-basics");
+  const populationGuide = articles.find((article) => article.slug === "population-needs-and-stability");
 
   return (
     <PageShell
@@ -50,10 +52,10 @@ export default function NovaRomaGuidesPage() {
               Early Access coverage
             </span>
             <p className="text-sm font-semibold leading-6 text-green-950/72">
-              Nova Roma is still in Early Access. These guides help players understand why a city stalls, where shortages begin, and how to slow growth before the support systems break.
+              Start here if your Nova Roma city is running out of food, water, workers, storage space, or stable growth room. The guide set is organized around the problems that make an early city stall: shortage diagnosis, water planning, production chains, population pressure, defense readiness, and safer expansion.
             </p>
             <p className="text-sm font-semibold leading-6 text-green-950/62">
-              Use this hub to move from beginner mechanics into resource pressure, water planning, production chains, population stability, and later city-planning decisions while the source set remains conservative.
+              Use the first row as a troubleshooting path. Check shortages first, then water, then production chains, then population stability before adding more housing or new districts.
             </p>
             <div className="flex flex-wrap gap-2 pt-1">
               {startingGuide ? (
@@ -71,27 +73,43 @@ export default function NovaRomaGuidesPage() {
                   Plan water first
                 </Link>
               ) : null}
+              {chainGuide ? (
+                <Link className="rounded-sm border border-green-950/14 bg-white/70 px-3 py-2 text-sm font-black text-green-950 transition hover:bg-white" href={`/nova-roma/guides/${chainGuide.slug}`}>
+                  Diagnose production chains
+                </Link>
+              ) : null}
+              {populationGuide ? (
+                <Link className="rounded-sm border border-green-950/14 bg-white/70 px-3 py-2 text-sm font-black text-green-950 transition hover:bg-white" href={`/nova-roma/guides/${populationGuide.slug}`}>
+                  Stabilize population growth
+                </Link>
+              ) : null}
             </div>
           </div>
         </section>
 
-        <section className="grid gap-3 md:grid-cols-3">
+        <section className="grid gap-3 md:grid-cols-2 xl:grid-cols-4">
           <PathCard
             href="/nova-roma/guides/early-resource-shortage-guide"
             label="Resource pressure"
-            title="If the city is already stalling"
+            title="City already stalling?"
             text="Start by checking whether the problem is input, storage, labor, water access, or new demand."
           />
           <PathCard
             href="/nova-roma/guides/water-planning-basics"
             label="Water planning"
-            title="If expansion feels hard to service"
+            title="Water hard to extend?"
             text="Use the water guide before density makes the city expensive to repair."
+          />
+          <PathCard
+            href="/nova-roma/guides/production-chain-basics"
+            label="Production chains"
+            title="Buildings empty or slow?"
+            text="Trace input, labor, storage, and consumer demand before adding more structures."
           />
           <PathCard
             href="/nova-roma/guides/population-needs-and-stability"
             label="Population stability"
-            title="If new housing creates new pressure"
+            title="Housing creating pressure?"
             text="Check water, food, jobs, storage, and support before adding more residents."
           />
         </section>
@@ -101,7 +119,7 @@ export default function NovaRomaGuidesPage() {
             <div>
               <h2 className="text-base font-black text-green-950">Guide set</h2>
               <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">
-                These live guides follow a beginner-safe reading path. Each one keeps source and Early Access status visible so the hub stays useful without pretending Early Access strategy is already solved.
+                These live guides follow a beginner-safe reading path. Each page answers one city-building decision first, then links to the next related problem so players can keep troubleshooting instead of returning to search.
               </p>
             </div>
             <span className="w-fit rounded-sm bg-green-950/[0.06] px-2.5 py-1 text-xs font-black uppercase tracking-[0.14em] text-green-950/50">

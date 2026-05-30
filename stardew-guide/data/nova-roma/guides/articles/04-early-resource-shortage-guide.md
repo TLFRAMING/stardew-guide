@@ -19,7 +19,7 @@ sourceUrls:
   - "https://wiki.hoodedhorse.com/Nova_Roma/Resources"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Infrastructure"
   - "https://wiki.hoodedhorse.com/Nova_Roma/Water_Supply"
-summary: "A practical Nova Roma guide for diagnosing early shortage pressure, slowing expansion, and checking the chain from producer to storage to consumer before the city stalls."
+summary: "A practical Nova Roma shortage guide for deciding whether the real problem is input, storage, labor, water, or new demand before the city stalls."
 relatedDataLinks:
   - label: "Nova Roma Home"
     href: "/nova-roma"
@@ -35,9 +35,9 @@ relatedDataLinks:
 
 # Nova Roma Resource Shortage Guide: How to Avoid Early Economy Pressure
 
-If your Nova Roma city suddenly feels poor, starved, or stuck, the safest first response is not to add more buildings. Shortage pressure in a city-builder like this usually means your expansion pace, labor routing, storage placement, water access, and production timing have stopped supporting each other. If the unclear part is the chain itself, use the [production chain guide](/nova-roma/guides/production-chain-basics) next.
+If your Nova Roma city suddenly feels poor, starved, or stuck, the safest first response is to pause expansion and find the first broken support link. Shortage pressure usually comes from one of five places: weak input, awkward storage, stretched labor, unreliable water, or new demand that grew faster than the old city could support.
 
-Treat a shortage as a planning signal, not as random punishment. The city is telling you that one part of the chain grew faster than the support behind it.
+Treat a shortage as a planning signal, not as random punishment. If the unclear part is the chain itself, use the [production chain guide](/nova-roma/guides/production-chain-basics). If the shortage appears after new homes, use the [population stability guide](/nova-roma/guides/population-needs-and-stability).
 
 ## Why Shortages Feel Sudden
 
