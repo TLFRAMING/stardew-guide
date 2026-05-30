@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { PageShell } from "@/components/PageShell";
+import { StardewRouteClusterLinks } from "@/components/StardewRouteClusterLinks";
 
 export const metadata: Metadata = {
   title: "Stardew Valley Database | Stardew Guide | Player Codex",
-  description: "Browse Stardew Valley villagers, crops, fish, community center tools, money guides, and planned database categories."
+  description: "Browse Stardew Valley villagers, gifts, crops, fish, forage, minerals, animals, artisan goods, Community Center tools, and beginner guides."
 };
 
 type HubItem = {
@@ -78,10 +79,45 @@ export default function DatabasePage() {
   return (
     <PageShell
       eyebrow="Database Hub"
-      kicker="A shelf for live Stardew tools now, with planned reference categories staged behind them."
+      kicker="Start with the lookup you need: gifts, fish windows, crop timing, forage seasons, minerals, animals, artisan goods, bundles, or beginner guide routes."
       title="Stardew Valley Database"
     >
       <section className="space-y-4">
+        <StardewRouteClusterLinks
+          clusters={[
+            {
+              title: "Popular lookups",
+              description: "Jump into pages that often answer a single search question quickly.",
+              links: [
+                { href: "/stardew/villagers/george", label: "George gifts" },
+                { href: "/stardew/villagers/wizard", label: "Wizard gifts" },
+                { href: "/stardew/fish/bream", label: "Bream" },
+                { href: "/stardew/crops/cranberries", label: "Cranberries" }
+              ]
+            },
+            {
+              title: "Main database paths",
+              description: "Use these categories when you are comparing several items before making an in-game decision.",
+              links: [
+                { href: "/stardew/fish", label: "Fish calendar" },
+                { href: "/stardew/crops", label: "Crops" },
+                { href: "/stardew/forage", label: "Forage" },
+                { href: "/stardew/minerals", label: "Minerals" }
+              ]
+            },
+            {
+              title: "Decision guides",
+              description: "Open guide pages when a raw data page does not explain the next step.",
+              links: [
+                { href: "/stardew/guides/fishing-season-weather-planning", label: "Fishing conditions" },
+                { href: "/stardew/guides/first-museum-donations", label: "Museum donations" },
+                { href: "/stardew/guides/friendship-and-gifts-basics", label: "Gift basics" },
+                { href: "/stardew/community-center", label: "Community Center" }
+              ]
+            }
+          ]}
+          title="Start with these Stardew lookups"
+        />
         {groups.map((group) => (
           <section className={`rounded-md border px-4 py-4 sm:px-5 ${group.tone}`} key={group.name}>
             <div className="mb-3 flex items-center justify-between gap-3 border-b border-green-950/10 pb-3">

@@ -3,7 +3,9 @@ import { notFound } from "next/navigation";
 import { DataCard, TagList } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
 import { StardewDetailUseGuide } from "@/components/StardewDetailUseGuide";
+import { StardewRouteClusterLinks, type StardewRouteCluster } from "@/components/StardewRouteClusterLinks";
 import { getAllForage, getForageBySlug } from "@/lib/stardew/data";
+import type { ForageItem } from "@/lib/stardew/types";
 
 export const dynamicParams = false;
 
@@ -19,8 +21,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   return {
-    title: `${item.name} | Stardew Guide | Player Codex`,
-    description: item.beginnerNote ?? `Forage details for ${item.name}.`
+    title: buildForageMetaTitle(item),
+    description: buildForageMetaDescription(item)
   };
 }
 
@@ -36,9 +38,16 @@ export default async function ForageDetailPage({ params }: { params: Promise<{ s
     notFound();
   }
 
+  const routeClusters = getForageRouteClusters(item);
+
   return (
     <PageShell eyebrow="Forage" title={item.name}>
       <div className="space-y-4">
+        <DataCard>
+          <h2 className="text-xl font-black text-green-950">{item.name} quick answer</h2>
+          <p className="mt-3 text-sm leading-6 text-green-950/72">{buildForageQuickAnswer(item)}</p>
+        </DataCard>
+
         <DataCard>
           <p className="text-sm leading-6 text-green-950/72">{item.beginnerNote}</p>
         </DataCard>
@@ -70,6 +79,8 @@ export default async function ForageDetailPage({ params }: { params: Promise<{ s
           ]}
         />
 
+        <StardewRouteClusterLinks clusters={routeClusters} title="Continue this forage route" />
+
         <DataCard>
           <h2 className="text-lg font-black text-green-950">Player decision notes for {item.name}</h2>
           <div className="mt-3 space-y-3 text-sm font-semibold leading-6 text-green-950/68">
@@ -100,12 +111,12 @@ function Fact({ label, value, highlight = false }: { label: string; value: strin
 
 function SourceBlock({ lastChecked, sourceUrls }: { lastChecked: string; sourceUrls: string[] }) {
   if (sourceUrls.length === 0) {
-    return <p className="mt-5 text-xs leading-5 text-green-950/52">Last checked: {lastChecked} · Sources are being verified.</p>;
+    return <p className="mt-5 text-xs leading-5 text-green-950/52">Last checked: {lastChecked} | Sources are being verified.</p>;
   }
 
   return (
     <p className="mt-5 text-xs leading-5 text-green-950/52">
-      Last checked: {lastChecked} · Source:{" "}
+      Last checked: {lastChecked} | Source:{" "}
       <a className="font-semibold text-pond hover:underline" href={sourceUrls[0]} rel="noreferrer" target="_blank">
         Stardew Valley Wiki
       </a>
@@ -119,4 +130,57 @@ function formatGold(value: number | "needs verification") {
 
 function formatBundleUsage(value: string[]) {
   return value.length > 0 ? value.join(", ") : "None";
+}
+
+function buildForageMetaTitle(item: ForageItem) {
+  const focusedTitles: Record<string, string> = {
+    blackberry: "Blackberry Stardew Valley: Season, Location, Sell Price, and Uses",
+    common_mushroom: "Common Mushroom Stardew Valley: Where to Find It, Season, and Uses",
+    fiddlehead_fern: "Fiddlehead Fern Stardew Valley: Where to Find It, Bundle Use, and Season",
+    magma_cap: "Magma Cap Stardew Valley: Location, Season, Sell Price, and Uses"
+  };
+
+  return focusedTitles[item.slug] ?? `${item.name} Stardew Valley: Season, Location, Sell Price, and Uses`;
+}
+
+function buildForageMetaDescription(item: ForageItem) {
+  return `${item.name} Stardew Valley forage guide: seasons ${item.seasons.join(" / ")}, locations ${item.locations.join(" / ")}, sell price ${formatGold(item.sellPrice)}, and bundle use ${formatBundleUsage(item.bundleUsage)}.`;
+}
+
+function buildForageQuickAnswer(item: ForageItem) {
+  const bundleText = item.bundleUsage.length > 0 ? ` It is used for ${formatBundleUsage(item.bundleUsage)}, so save one before selling extras.` : " No Community Center bundle use is listed here, so extras are usually more flexible.";
+  return `${item.name} appears in ${item.seasons.join(" / ")} and can be found at ${item.locations.join(" / ")}. It sells for ${formatGold(item.sellPrice)}.${bundleText}`;
+}
+
+function getForageRouteClusters(item: ForageItem): StardewRouteCluster[] {
+  const comparisonLinks: Record<string, { href: string; label: string }[]> = {
+    blackberry: [
+      { href: "/stardew/forage/salmonberry", label: "Salmonberry" },
+      { href: "/stardew/guides/year-one-fall-preparation", label: "Fall prep" }
+    ],
+    common_mushroom: [
+      { href: "/stardew/forage/chanterelle", label: "Chanterelle" },
+      { href: "/stardew/forage/morel", label: "Morel" }
+    ],
+    fiddlehead_fern: [
+      { href: "/stardew/community-center", label: "Community Center" },
+      { href: "/stardew/guides/early-foraging-habits", label: "Foraging habits" }
+    ],
+    magma_cap: [
+      { href: "/stardew/forage/common_mushroom", label: "Common Mushroom" },
+      { href: "/stardew/guides/first-winter-preparation", label: "Winter prep" }
+    ]
+  };
+
+  return [
+    {
+      title: `${item.name} planning links`,
+      description: "Use these links to compare nearby forage items, bundle pressure, and seasonal save-or-sell decisions.",
+      links: [
+        { href: "/stardew/forage", label: "All forage" },
+        { href: "/stardew/community-center", label: "Community Center" },
+        ...(comparisonLinks[item.slug] ?? [])
+      ]
+    }
+  ];
 }

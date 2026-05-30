@@ -16,6 +16,12 @@ sourceUrls:
 relatedDataLinks:
   - label: "Minerals Database"
     href: "/stardew/minerals"
+  - label: "Basalt"
+    href: "/stardew/minerals/basalt"
+  - label: "Diamond"
+    href: "/stardew/minerals/diamond"
+  - label: "Earth Crystal"
+    href: "/stardew/minerals/earth-crystal"
   - label: "Stardew Database"
     href: "/stardew/database"
 ---
@@ -43,6 +49,7 @@ If you sold a useful duplicate, keep the next one and move on. If your chests ar
 ## Practical Checklist
 
 - Check [Minerals](/stardew/minerals) before selling uncertain stones.
+- Check common searched minerals such as [Basalt](/stardew/minerals/basalt), [Diamond](/stardew/minerals/diamond), and [Earth Crystal](/stardew/minerals/earth-crystal) before treating duplicates as simple cash.
 - Use the [Stardew Database](/stardew/database) for item context.
 - Donate clear first copies, but review duplicates by use.
 - Keep enough cash for seed, tool, or food needs before opening large geode batches.
