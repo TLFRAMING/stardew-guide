@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getAllNovaRomaGuideSlugs } from "@/lib/nova-roma/data";
 import { getAllRogueCommandArticles } from "@/lib/rogue-command/data";
+import { getAllSongsOfConquestMobileGuideSlugs } from "@/lib/songs-of-conquest-mobile/data";
 import { getAllAnimalProducts, getAllAnimals, getAllArtisanGoods, getAllCrops, getAllFish, getAllForage, getAllFruitTrees, getAllMinerals, getAllMoneyGuides, getAllVillagers } from "@/lib/stardew/data";
 import { getAllStardewGuideArticles } from "@/lib/stardew/guides";
 
@@ -16,6 +17,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/nova-roma/guides",
     "/rogue-command",
     "/songs-of-conquest-mobile",
+    "/songs-of-conquest-mobile/guides",
     "/stardew",
     "/stardew/database",
     "/stardew/villagers",
@@ -48,9 +50,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const moneyRoutes = getAllMoneyGuides().map((guide) => `/stardew/money/${guide.slug}`);
   const novaRomaGuideRoutes = getAllNovaRomaGuideSlugs().map((slug) => `/nova-roma/guides/${slug}`);
   const rogueCommandRoutes = getAllRogueCommandArticles().map((article) => `/rogue-command/${article.slug}`);
+  const songsOfConquestMobileGuideRoutes = getAllSongsOfConquestMobileGuideSlugs().map((slug) => `/songs-of-conquest-mobile/guides/${slug}`);
   const stardewGuideRoutes = getAllStardewGuideArticles().map((article) => `/stardew/guides/${article.slug}`);
 
-  return [...staticRoutes, ...novaRomaGuideRoutes, ...rogueCommandRoutes, ...villagerRoutes, ...cropRoutes, ...fruitTreeRoutes, ...animalRoutes, ...animalProductRoutes, ...artisanGoodRoutes, ...forageRoutes, ...mineralRoutes, ...fishRoutes, ...moneyRoutes, ...stardewGuideRoutes].map((route) => ({
+  return [...staticRoutes, ...novaRomaGuideRoutes, ...rogueCommandRoutes, ...songsOfConquestMobileGuideRoutes, ...villagerRoutes, ...cropRoutes, ...fruitTreeRoutes, ...animalRoutes, ...animalProductRoutes, ...artisanGoodRoutes, ...forageRoutes, ...mineralRoutes, ...fishRoutes, ...moneyRoutes, ...stardewGuideRoutes].map((route) => ({
     url: `${siteUrl}${route}`,
     lastModified: new Date()
   }));
