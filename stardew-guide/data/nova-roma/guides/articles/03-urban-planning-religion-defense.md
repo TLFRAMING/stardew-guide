@@ -23,6 +23,10 @@ relatedDataLinks:
     href: "/nova-roma/guides/population-needs-and-stability"
   - label: "Production Chains"
     href: "/nova-roma/guides/production-chain-basics"
+  - label: "Temple Planning"
+    href: "/nova-roma/guides/temple-religion-planning"
+  - label: "Storage Logistics"
+    href: "/nova-roma/guides/storage-logistics-bottlenecks"
 ---
 
 # Nova Roma City Planning Guide: Water, Religion, Defense, and Growth
@@ -30,6 +34,8 @@ relatedDataLinks:
 If your city grows fast but starts feeling awkward to service or defend, this guide is for you. Once your Nova Roma settlement survives the opening, the next challenge is shape: a city that grows without corridors, water logic, temple planning, and defensive space can look successful while becoming expensive to repair. If water is the part that feels hardest to reserve, start with the [water planning guide](/nova-roma/guides/water-planning-basics).
 
 The safer planning habit is to choose anchors before sprawl: where water enters, where citizens live, where resources move, where temples support civic pressure, and where threats should be stopped.
+
+For narrower planning problems, use the [temple planning guide](/nova-roma/guides/temple-religion-planning) for religious districts and the [storage logistics guide](/nova-roma/guides/storage-logistics-bottlenecks) when roads, supply, or storage are the real limit.
 
 ## Player Problem
 

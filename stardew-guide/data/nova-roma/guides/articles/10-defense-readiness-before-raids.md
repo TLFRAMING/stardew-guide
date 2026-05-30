@@ -29,6 +29,8 @@ relatedDataLinks:
     href: "/nova-roma/guides/early-resource-shortage-guide"
   - label: "Water Storage Guide"
     href: "/nova-roma/guides/water-storage-and-expansion"
+  - label: "Temple Planning Guide"
+    href: "/nova-roma/guides/temple-religion-planning"
 ---
 
 # Nova Roma Defense Readiness Guide: Prepare Before Raids Expose The City
@@ -36,6 +38,8 @@ relatedDataLinks:
 Defense in Nova Roma should not begin when danger is already inside the city. The safer beginner habit is to ask whether the city can protect the support systems that keep it alive: water, storage, supply routes, workers, and the districts that would be hardest to repair under pressure.
 
 This guide does not provide a solved defense layout or raid timer. It gives you a readiness check for expansion decisions. If your city shape itself is the problem, read this beside the [city planning guide](/nova-roma/guides/urban-planning-religion-defense).
+
+If the exposed district is built around religious infrastructure, use the [temple planning guide](/nova-roma/guides/temple-religion-planning) to check whether placement is creating repair, access, or defense pressure.
 
 ## Why Defense Is A City Planning Problem
 

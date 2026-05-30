@@ -29,6 +29,8 @@ relatedDataLinks:
     href: "/nova-roma/guides/early-game-strategy-resource-management"
   - label: "Population Stability"
     href: "/nova-roma/guides/population-needs-and-stability"
+  - label: "Storage Logistics"
+    href: "/nova-roma/guides/storage-logistics-bottlenecks"
 ---
 
 # Nova Roma Production Chain Guide: How to Read Inputs, Outputs, and Bottlenecks
@@ -36,6 +38,8 @@ relatedDataLinks:
 If one building in Nova Roma looks empty or slow, do not assume the city simply needs more of that resource. Check the full chain first: input source, labor, storage path, and consumer demand. The visible empty building is often only the last place where the weakness appears.
 
 If the whole city is already stalling, begin with the [resource shortage guide](/nova-roma/guides/early-resource-shortage-guide). If the chain started breaking after new residents arrived, compare it with the [population stability guide](/nova-roma/guides/population-needs-and-stability).
+
+If the city produces enough on paper but the final building still fails, use the [storage logistics guide](/nova-roma/guides/storage-logistics-bottlenecks) before adding more producers.
 
 ## Why One Empty Building Does Not Explain The Whole Problem
 

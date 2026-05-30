@@ -31,6 +31,10 @@ relatedDataLinks:
     href: "/nova-roma/guides/water-planning-basics"
   - label: "City Planning Guide"
     href: "/nova-roma/guides/urban-planning-religion-defense"
+  - label: "Storage Logistics"
+    href: "/nova-roma/guides/storage-logistics-bottlenecks"
+  - label: "Temple Planning"
+    href: "/nova-roma/guides/temple-religion-planning"
 ---
 
 # Nova Roma Population Stability Guide: Needs, Growth, and City Pressure
@@ -38,6 +42,8 @@ relatedDataLinks:
 Population growth in Nova Roma is useful only when the city can support the new demand it creates. Before adding more homes, check water access, food flow, useful jobs, storage, and whether the current production chains are still readable.
 
 The safer framework is to treat population as a multiplier. When the city is healthy, more people can strengthen it. When the city is already stretched, more people can expose every weak link at once. If those support systems are unclear, review the [production chain guide](/nova-roma/guides/production-chain-basics) and [water planning guide](/nova-roma/guides/water-planning-basics) before expanding housing again.
+
+If support exists but does not reach new demand, check [storage logistics](/nova-roma/guides/storage-logistics-bottlenecks). If a new district needs religious support, use the [temple planning guide](/nova-roma/guides/temple-religion-planning) before adding another city obligation.
 
 ## Why Growth Creates Pressure Instead Of Pure Value
 
