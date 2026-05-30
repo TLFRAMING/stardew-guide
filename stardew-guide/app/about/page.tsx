@@ -19,11 +19,11 @@ export default function AboutPage() {
           <div className="max-w-3xl space-y-4 text-sm leading-6 text-green-950/72">
             <p>
               Player Codex is a fan-made multi-game guide site built for players who want clear reference pages,
-              practical beginner guidance, and source-aware notes without digging through scattered tabs.
+              practical beginner guidance, and focused player notes without digging through scattered tabs.
             </p>
             <p>
-              The site currently covers Stardew Valley, Rogue Command, and Nova Roma. Each game area is kept separate
-              so databases, guides, and patch-sensitive strategy notes can grow without mixing claims between games.
+              The site currently covers Stardew Valley, Rogue Command, Nova Roma, and Songs of Conquest Mobile. Each game area is kept separate
+              so databases, guides, and player notes can grow without mixing advice between games.
             </p>
             <p>
               Player Codex is not affiliated with, endorsed by, or sponsored by any game publisher or developer.
@@ -35,11 +35,11 @@ export default function AboutPage() {
           <div className="max-w-3xl space-y-4 text-sm leading-6 text-green-950/72">
             <h2 className="text-lg font-black text-green-950">Who maintains the site</h2>
             <p>
-              Player Codex is maintained as an editorial guide project. New pages are reviewed for source boundaries,
-              duplicate topics, patch-sensitive claims, and whether the page helps a player make a practical in-game decision.
+              Player Codex is maintained as an editorial guide project. New pages are reviewed for duplicate topics,
+              clear player value, and whether the page helps a player make a practical in-game decision.
             </p>
             <p>
-              The site avoids official game artwork, wiki image hotlinking, copied guide structures, and unsupported claims such as current-meta rankings or guaranteed best routes.
+              The site avoids official game artwork, wiki image hotlinking, copied guide structures, and unsupported shortcut promises.
             </p>
           </div>
         </section>
@@ -49,7 +49,7 @@ export default function AboutPage() {
             <p className="text-xs font-black uppercase tracking-[0.16em] text-green-950/46">Live Codexes</p>
             <h2 className="mt-1 text-lg font-black text-green-950">What the site covers now</h2>
           </div>
-          <div className="grid gap-3 md:grid-cols-3">
+          <div className="grid gap-3 md:grid-cols-2 xl:grid-cols-4">
             <Link className="rounded-md border border-green-950/10 bg-green-950/[0.025] p-4 transition hover:-translate-y-0.5 hover:bg-white" href="/stardew">
               <p className="text-xs font-black uppercase tracking-[0.14em] text-meadow">Stardew Valley</p>
               <h3 className="mt-2 text-lg font-black text-green-950">Stardew Guide</h3>
@@ -71,6 +71,13 @@ export default function AboutPage() {
                 Early Access coverage for first-city planning, resource pressure, water systems, religion, defense, and expansion risks.
               </p>
             </Link>
+            <Link className="rounded-md border border-green-950/10 bg-green-950/[0.025] p-4 transition hover:-translate-y-0.5 hover:bg-white" href="/songs-of-conquest-mobile">
+              <p className="text-xs font-black uppercase tracking-[0.14em] text-meadow">Songs of Conquest Mobile</p>
+              <h3 className="mt-2 text-lg font-black text-green-950">Mobile Strategy Guides</h3>
+              <p className="mt-2 text-sm font-semibold leading-6 text-green-950/66">
+                First campaign decisions, faction learning paths, combat positioning, and mobile play routines.
+              </p>
+            </Link>
           </div>
         </section>
 
@@ -79,9 +86,8 @@ export default function AboutPage() {
             <h2 className="text-lg font-black text-green-950">Editorial approach</h2>
             <p>
               Guides are written to help players make better decisions in-game. For established games, Player Codex
-              connects guide pages to structured database entries where possible. For newer or Early Access games, the
-              site keeps claims cautious, marks source boundaries, and avoids unverified tier lists, current-meta claims,
-              exact ratios, or copied community conclusions.
+              connects guide pages to structured database entries where possible. For newer games, the site starts with
+              beginner decisions, common failure points, and practical checklists before moving into deeper systems.
             </p>
             <p>
               The goal is not to mirror a wiki. Player Codex uses verified facts as a base, then turns them into
@@ -100,6 +106,9 @@ export default function AboutPage() {
             </Link>
             <Link className="rounded-sm border border-green-950/14 bg-green-950/[0.04] px-3 py-2 text-sm font-black text-green-950 transition hover:bg-green-950/[0.08]" href="/nova-roma">
               Nova Roma
+            </Link>
+            <Link className="rounded-sm border border-green-950/14 bg-green-950/[0.04] px-3 py-2 text-sm font-black text-green-950 transition hover:bg-green-950/[0.08]" href="/songs-of-conquest-mobile/guides">
+              Songs Mobile Guides
             </Link>
             <Link className="rounded-sm border border-green-950/14 bg-green-950/[0.04] px-3 py-2 text-sm font-black text-green-950 transition hover:bg-green-950/[0.08]" href="/contact">
               Contact

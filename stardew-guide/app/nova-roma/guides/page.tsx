@@ -19,18 +19,6 @@ export const metadata: Metadata = {
   }
 };
 
-const confidenceLabels: Record<string, string> = {
-  high: "Verified sources",
-  medium: "Source checked",
-  "needs verification": "Review needed"
-};
-
-const patchSensitivityLabels: Record<string, string> = {
-  high: "Patch-sensitive",
-  low: "Stable topic",
-  medium: "Early Access"
-};
-
 export default function NovaRomaGuidesPage() {
   const articles = getAllNovaRomaGuideArticles();
   const startingGuide = articles.find((article) => article.slug === "understand-nova-roma-core-mechanics");
@@ -159,10 +147,7 @@ function GuideCard({ article }: { article: NovaRomaGuideArticle }) {
       <div className="flex flex-wrap gap-2">
         <span className="rounded-sm bg-green-950/[0.06] px-2 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/50">{article.category}</span>
         <span className="rounded-sm bg-white/60 px-2 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/45">
-          {confidenceLabels[article.confidence] ?? article.confidence}
-        </span>
-        <span className="rounded-sm bg-white/60 px-2 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/45">
-          {patchSensitivityLabels[article.patchSensitivity] ?? article.patchSensitivity}
+          {article.readingTimeMinutes} min read
         </span>
       </div>
       <h2 className="mt-3 text-base font-black leading-snug text-green-950 group-hover:text-meadow">{article.title}</h2>

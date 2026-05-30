@@ -7,18 +7,6 @@ import type { NovaRomaGuideArticle, NovaRomaGuideArticleBlock } from "@/lib/nova
 
 export const dynamicParams = false;
 
-const confidenceLabels: Record<string, string> = {
-  high: "Verified sources",
-  medium: "Source checked",
-  "needs verification": "Review needed"
-};
-
-const patchSensitivityLabels: Record<string, string> = {
-  high: "Patch-sensitive",
-  low: "Stable topic",
-  medium: "Early Access"
-};
-
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
   const article = getNovaRomaGuideArticleBySlug(slug);
@@ -92,19 +80,13 @@ export default async function NovaRomaGuideDetailPage({ params }: { params: Prom
         <section className="rounded-md border border-green-950/10 bg-white/85 px-4 py-4 sm:px-5">
           <div className="flex flex-wrap gap-2">
             <span className="rounded-sm bg-green-950/[0.06] px-2.5 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/55">{article.category}</span>
-            <span className="rounded-sm bg-green-950/[0.06] px-2.5 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/55">Checked {article.lastChecked}</span>
-            <span className="rounded-sm bg-green-950/[0.06] px-2.5 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/55">
-              {confidenceLabels[article.confidence] ?? article.confidence}
-            </span>
-            <span className="rounded-sm bg-green-950/[0.06] px-2.5 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/55">
-              {patchSensitivityLabels[article.patchSensitivity] ?? article.patchSensitivity}
-            </span>
+            <span className="rounded-sm bg-green-950/[0.06] px-2.5 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/55">Updated {article.lastChecked}</span>
             <span className="rounded-sm bg-green-950/[0.06] px-2.5 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/55">
               {article.readingTimeMinutes} min read
             </span>
           </div>
           <p className="mt-3 text-sm font-semibold leading-6 text-green-950/62">
-            Nova Roma is still in Early Access. This guide focuses on practical planning decisions and avoids presenting one fixed route as the answer for every city.
+            Nova Roma is still in Early Access. Use this guide to make steadier city-planning decisions while the game continues to evolve.
           </p>
         </section>
 
@@ -131,7 +113,7 @@ export default async function NovaRomaGuideDetailPage({ params }: { params: Prom
 
         <section className="grid gap-5 lg:grid-cols-[1.05fr_0.95fr]">
           <section className="rounded-md border border-green-950/10 bg-white/80 px-4 py-5 sm:px-5">
-            <h2 className="text-base font-black text-green-950">Sources</h2>
+            <h2 className="text-base font-black text-green-950">References</h2>
             <div className="mt-4 grid gap-2">
               {article.sourceUrls.map((sourceUrl) => (
                 <a

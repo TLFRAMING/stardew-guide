@@ -4,7 +4,7 @@ import { PageShell } from "@/components/PageShell";
 
 export const metadata: Metadata = {
   title: "Editorial Policy | Player Codex",
-  description: "How Player Codex writes original, source-aware game guides, handles patch-sensitive claims, and keeps fan-made game coverage separate from publishers."
+  description: "How Player Codex writes original game guides, checks sources, and keeps fan-made game coverage separate from publishers."
 };
 
 const standards = [
@@ -13,12 +13,12 @@ const standards = [
     text: "Player Codex does not republish wiki pages or copy public guide structures. Database facts are used as a foundation, then rewritten into player-facing decisions, planning notes, checklists, and failure-recovery advice."
   },
   {
-    title: "Source boundaries",
-    text: "Established game facts are checked against stable references where possible. For Early Access games, claims stay cautious and avoid unsupported current-meta conclusions, exact ratios, rankings, or solved routes."
+    title: "Checked sources",
+    text: "Established game facts are checked against stable references where possible. Newer game pages start with practical decisions and avoid unsupported rankings, rigid formulas, or solved routes."
   },
   {
-    title: "Patch-sensitive coverage",
-    text: "Strategy pages mark confidence and patch sensitivity when the underlying game may still change. A guide can explain how to think through a system without pretending that every number or best route has been verified."
+    title: "Changing games",
+    text: "When a game may still change, guides focus on decision frameworks, warning signs, and recovery habits instead of pretending that every number or route is permanent."
   },
   {
     title: "Fan-made independence",
@@ -26,11 +26,11 @@ const standards = [
   },
   {
     title: "AI-assisted editing boundary",
-    text: "Drafting and research workflows may use AI assistance, but pages are edited for original structure, player utility, source boundaries, and duplicate-topic risk before publication."
+    text: "Drafting and research workflows may use AI assistance, but pages are edited for original structure, player utility, clear sourcing, and duplicate-topic risk before publication."
   },
   {
     title: "Community pain points",
-    text: "Player comments and reviews may be used to identify common questions, but they are not treated as proof of mechanics, balance, popularity, or the best current strategy."
+    text: "Player comments and reviews may be used to identify common questions, but they are not treated as proof of mechanics, balance, popularity, or winning strategy."
   }
 ];
 
@@ -48,7 +48,7 @@ export default function EditorialPolicyPage() {
               Player Codex is built around practical game help: searchable database pages, beginner decisions, route planning, and source-aware guide articles. The site is designed to answer what a player should check next, not just repeat a raw data table.
             </p>
             <p>
-              Coverage is separated by game so Stardew Valley, Rogue Command, and Nova Roma can each keep their own sources, patch notes, and content boundaries.
+              Coverage is separated by game so Stardew Valley, Rogue Command, Nova Roma, and Songs of Conquest Mobile can each keep their own sources, route structure, and guide focus.
             </p>
           </div>
         </section>
@@ -76,6 +76,9 @@ export default function EditorialPolicyPage() {
             </Link>
             <Link className="rounded-sm bg-green-950/[0.05] px-3 py-2 text-sm font-black text-green-950/72 transition hover:bg-green-950/[0.08] hover:text-green-950" href="/nova-roma/guides">
               Nova Roma Guides
+            </Link>
+            <Link className="rounded-sm bg-green-950/[0.05] px-3 py-2 text-sm font-black text-green-950/72 transition hover:bg-green-950/[0.08] hover:text-green-950" href="/songs-of-conquest-mobile/guides">
+              Songs Mobile Guides
             </Link>
           </div>
         </section>

@@ -37,31 +37,16 @@ const futureCoverage = [
   "Production chain diagnosis",
   "Citizen stability",
   "Expansion risk",
-  "Source-backed system primers"
-];
-
-const boundaries = [
-  "No layout rankings or ideal city blueprints yet.",
-  "No fixed economy route claims or precise tax plans.",
-  "No tiered power rankings or live-version strategy verdicts.",
-  "No exact production-chain ratios.",
-  "No achievement walkthroughs.",
-  "No community verdicts from reviews, forums, or creator videos."
+  "Defense and recovery planning"
 ];
 
 const sourceTypeLabels: Record<string, string> = {
   announcement: "Announcement",
   database: "Database",
   "official-site": "Official site",
-  other: "Source",
+  other: "Reference",
   store: "Store",
   wiki: "Wiki"
-};
-
-const guideConfidenceLabels: Record<string, string> = {
-  high: "Verified sources",
-  medium: "Source checked",
-  "needs verification": "Review needed"
 };
 
 export default function NovaRomaPage() {
@@ -81,10 +66,10 @@ export default function NovaRomaPage() {
               Intro page live
             </span>
             <p className="text-sm font-semibold leading-6 text-green-950/72">
-              This page helps new players start Nova Roma without treating Early Access strategy as already solved. Use it as the entry point for city planning, resource shortage diagnosis, water supply, production chains, population stability, religion, and defense.
+              This page helps new players find the right Nova Roma guide quickly. Start with city planning, resource shortage diagnosis, water supply, production chains, population stability, religion, and defense.
             </p>
             <p className="text-sm font-semibold leading-6 text-green-950/62">
-              The current source set supports beginner-safe planning and system framing. It does not support exact layouts, fixed economy routes, ranking content, or community-derived conclusions.
+              If your city is stalling, use the guide hub as a troubleshooting path: check resources first, then water, then production chains, then population pressure.
             </p>
             <div className="flex flex-wrap gap-2 pt-1">
               <Link className="rounded-sm border border-green-950/14 bg-green-950/[0.06] px-3 py-2 text-sm font-black text-green-950 transition hover:bg-green-950/[0.1]" href="/nova-roma/guides">
@@ -99,13 +84,13 @@ export default function NovaRomaPage() {
 
         <section className="grid gap-5 lg:grid-cols-[1.15fr_0.85fr]">
           <DataCard>
-            <h2 className="text-base font-black text-green-950">Source-backed overview</h2>
+            <h2 className="text-base font-black text-green-950">Start here</h2>
             <div className="mt-3 space-y-3 text-sm font-semibold leading-6 text-green-950/68">
               <p>
-                Nova Roma is presented on Steam as a Roman city-building game with broad management pressure rather than a solved build order. The current guide layer focuses on practical beginner questions: why cities stall, how water and storage affect growth, how production chains break, and when expansion should pause.
+                Nova Roma is a Roman city-building game where growth decisions interact with water, storage, logistics, civic systems, and stability. The current guide layer focuses on the early questions that cause most city plans to break down.
               </p>
               <p>
-                For a new player, the useful takeaway is simple: expect city growth decisions to interact with stability, logistics, and civic systems at the same time. That is enough to write useful beginner guides, but not enough to publish exact routes or rankings while the game is still in Early Access.
+                Use these guides when you need to decide whether to expand, pause construction, repair a chain, improve water access, or stabilize population growth before adding another district.
               </p>
             </div>
           </DataCard>
@@ -127,7 +112,7 @@ export default function NovaRomaPage() {
           <DataCard>
             <h2 className="text-base font-black text-green-950">What Player Codex can cover next</h2>
             <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">
-              These are safe directions for future Nova Roma coverage once additional official sources or structured review candidates are approved.
+              These are the next guide areas that fit the current Nova Roma section.
             </p>
             <ul className="mt-4 grid gap-2">
               {futureCoverage.map((item) => (
@@ -139,12 +124,18 @@ export default function NovaRomaPage() {
           </DataCard>
 
           <DataCard>
-            <h2 className="text-base font-black text-green-950">What is intentionally not covered yet</h2>
+            <h2 className="text-base font-black text-green-950">Recommended path</h2>
             <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">
-              This intro page is deliberately narrow. It keeps Player Codex indexable without pretending that one Steam listing is enough to settle live strategy questions.
+              If you are new, follow this order before jumping into advanced city planning.
             </p>
             <ul className="mt-4 space-y-2">
-              {boundaries.map((item) => (
+              {[
+                "Read the core mechanics guide to understand the main pressure points.",
+                "Use the resource shortage guide when food, storage, labor, or demand starts to slip.",
+                "Check the water planning guide before expanding dense districts.",
+                "Use production-chain and population guides when growth begins creating new bottlenecks.",
+                "Move to city planning, religion, and defense once the basic support systems are readable."
+              ].map((item) => (
                 <li key={item} className="rounded-sm border border-green-950/10 bg-white p-3 text-sm font-semibold leading-6 text-green-950/72">
                   {item}
                 </li>
@@ -167,9 +158,9 @@ export default function NovaRomaPage() {
           </DataCard>
 
           <DataCard>
-            <h2 className="text-base font-black text-green-950">Verified source</h2>
+            <h2 className="text-base font-black text-green-950">References</h2>
             <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">
-              Public facts on this page are drawn from the approved production source registry.
+              Reference pages used for the Nova Roma section.
             </p>
             <div className="mt-4 grid gap-3">
               {sources.map((source) => (
@@ -198,7 +189,7 @@ export default function NovaRomaPage() {
             <div>
               <h2 className="text-base font-black text-green-950">Guides</h2>
               <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">
-                These first guide pages stay inside the current source boundary. They focus on beginner planning, resource pressure, water, religion, and defense without pretending the game already has a solved route map.
+                These guides focus on beginner planning, resource pressure, water, religion, defense, production chains, and stable growth.
               </p>
             </div>
             <Link className="w-fit rounded-sm border border-green-950/14 bg-green-950/[0.04] px-3 py-2 text-sm font-black text-green-950 transition hover:bg-green-950/[0.08]" href="/nova-roma/guides">
@@ -233,7 +224,7 @@ function GuideCard({ article }: { article: NovaRomaGuideArticle }) {
     <Link className="group rounded-sm border border-green-950/10 bg-green-950/[0.025] p-4 transition hover:-translate-y-0.5 hover:border-green-950/20 hover:bg-green-950/[0.045]" href={`/nova-roma/guides/${article.slug}`}>
       <div className="flex flex-wrap gap-2">
         <span className="rounded-sm bg-green-950/[0.06] px-2 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/50">{article.category}</span>
-        <span className="rounded-sm bg-white/60 px-2 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/45">{guideConfidenceLabels[article.confidence] ?? article.confidence}</span>
+        <span className="rounded-sm bg-white/60 px-2 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/45">{article.readingTimeMinutes} min read</span>
       </div>
       <h2 className="mt-3 text-base font-black leading-snug text-green-950 group-hover:text-meadow">{article.title}</h2>
       <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">{article.summary}</p>
