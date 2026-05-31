@@ -2,6 +2,7 @@
 
 import { useMemo, useState } from "react";
 import Link from "next/link";
+import { displayTags, displayText } from "@/lib/stardew/display";
 import type { Villager } from "@/lib/stardew/types";
 
 type MarriageFilter = "all" | "candidates" | "non-candidates";
@@ -106,7 +107,7 @@ export function VillagerDirectory({ villagers }: { villagers: Villager[] }) {
 
                 <div className="space-y-3">
                   <p className="min-w-0 break-words text-sm font-semibold leading-6 text-green-950/72">
-                    <span className="font-black text-green-950/85">Location:</span> {villager.location ?? "needs verification"}
+                    <span className="font-black text-green-950/85">Location:</span> {displayText(villager.location, "Check schedule")}
                   </p>
                   <GiftRow label="Loved" values={villager.lovedGifts} tone="meadow" />
                   <GiftRow label="Liked" values={villager.likedGifts} tone="pond" />
@@ -133,31 +134,26 @@ function GiftRow({
   tone: "meadow" | "pond";
   values: string[];
 }) {
-  const visibleValues = values.slice(0, 3);
+  const safeValues = displayTags(values);
+  const visibleValues = safeValues.slice(0, 3);
   const extraCount = Math.max(values.length - visibleValues.length, 0);
 
   return (
     <div className="space-y-2">
       <p className="text-[11px] font-black uppercase tracking-[0.16em] text-green-950/50">{label} gifts</p>
       <div className="flex min-w-0 flex-wrap gap-2">
-        {visibleValues.length > 0 ? (
-          visibleValues.map((value) => (
-            <span
-              className={`rounded-sm border px-2.5 py-1 text-[11px] font-bold uppercase tracking-[0.08em] ${
-                tone === "meadow"
-                  ? "border-meadow/20 bg-meadow/10 text-green-950/80"
-                  : "border-pond/20 bg-pond/10 text-green-950/80"
-              }`}
-              key={value}
-            >
-              {value}
-            </span>
-          ))
-        ) : (
-          <span className="rounded-sm border border-green-950/12 bg-green-950/6 px-2.5 py-1 text-[11px] font-bold uppercase tracking-[0.08em] text-green-950/58">
-            needs verification
+        {visibleValues.map((value) => (
+          <span
+            className={`rounded-sm border px-2.5 py-1 text-[11px] font-bold uppercase tracking-[0.08em] ${
+              tone === "meadow"
+                ? "border-meadow/20 bg-meadow/10 text-green-950/80"
+                : "border-pond/20 bg-pond/10 text-green-950/80"
+            }`}
+            key={value}
+          >
+            {value}
           </span>
-        )}
+        ))}
         {extraCount > 0 ? (
           <span className="rounded-sm border border-green-950/12 bg-white px-2.5 py-1 text-[11px] font-black uppercase tracking-[0.08em] text-green-950/58">
             +{extraCount}

@@ -6,6 +6,7 @@ import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
 import { StardewDetailUseGuide } from "@/components/StardewDetailUseGuide";
 import { StardewRouteClusterLinks, type StardewRouteCluster } from "@/components/StardewRouteClusterLinks";
 import { getAllFish, getFishBySlug } from "@/lib/stardew/data";
+import { displayGold, displayList, displayText, isReviewValue } from "@/lib/stardew/display";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 import type { Fish } from "@/lib/stardew/types";
 
@@ -52,7 +53,7 @@ export default async function FishDetailPage({ params }: { params: Promise<{ slu
         </DataCard>
 
         <DataCard>
-          <p className="text-sm leading-6 text-green-950/72">{item.description ?? item.beginnerNote ?? "needs verification"}</p>
+          <p className="text-sm leading-6 text-green-950/72">{displayText(item.description ?? item.beginnerNote, "Use the conditions below to decide whether this fish fits today's plan.")}</p>
         </DataCard>
 
         <DataCard>
@@ -117,7 +118,7 @@ function Fact({ label, value }: { label: string; value: string }) {
 }
 
 function formatGold(value: number | "needs verification" | undefined) {
-  return typeof value === "number" ? `${value}g` : value ?? "needs verification";
+  return displayGold(value, "Check source");
 }
 
 function formatValueList(value: string[] | string | "needs verification" | undefined) {
@@ -126,21 +127,21 @@ function formatValueList(value: string[] | string | "needs verification" | undef
   }
 
   if (Array.isArray(value) && value.length > 0) {
-    return value.join(", ");
+    return displayList(value, "Check source");
   }
 
-  if (typeof value === "string" && value.trim().length > 0) {
+  if (typeof value === "string" && value.trim().length > 0 && !isReviewValue(value)) {
     return value;
   }
 
-  return "needs verification";
+  return "Check source";
 }
 
 function formatBundleUsage(value: string[] | string | "needs verification" | undefined) {
   const usage = formatValueList(value);
 
-  if (usage === "needs verification") {
-    return "needs verification";
+  if (usage === "Check source") {
+    return "Check source";
   }
 
   return usage.toLowerCase() === "none" ? "No" : "Yes";
@@ -162,7 +163,12 @@ function buildFishMetaDescription(item: Fish) {
 
 function buildFishQuickAnswer(item: Fish) {
   const bundle = formatBundleUsage(item.bundleUsage);
-  const bundleText = bundle === "Yes" ? " It is used for a Community Center bundle, so check the guide links before the season changes." : " It is not listed for a standard Community Center bundle in this database.";
+  const bundleText =
+    bundle === "Yes"
+      ? " It is used for a Community Center bundle, so check the guide links before the season changes."
+      : bundle === "No"
+        ? " It is not listed for a standard Community Center bundle in this database."
+        : " Check the Community Center links before selling your first catch.";
 
   return `${item.name} is caught at ${item.locations.join(", ")} during ${item.seasons.join(" / ")}. Time window: ${item.time}. Weather: ${item.weather.join(", ")}. Difficulty: ${item.difficulty}. Base sell price: ${formatGold(item.sellPrice)}.${bundleText}`;
 }

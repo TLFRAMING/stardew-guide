@@ -45,7 +45,7 @@ export default function EditorialPolicyPage() {
         <section className="rounded-md border border-green-950/10 bg-white/85 px-4 py-5 sm:px-5">
           <div className="max-w-3xl space-y-4 text-sm font-semibold leading-6 text-green-950/70">
             <p>
-              Player Codex is built around practical game help: searchable database pages, beginner decisions, route planning, and source-aware guide articles. The site is designed to answer what a player should check next, not just repeat a raw data table.
+              Player Codex is built around practical game help: searchable database pages, beginner decisions, route planning, and player-facing guide articles. The site is designed to answer what a player should check next, not just repeat a raw data table.
             </p>
             <p>
               Coverage is separated by game so Stardew Valley, Rogue Command, Nova Roma, and Songs of Conquest Mobile can each keep their own sources, route structure, and guide focus.

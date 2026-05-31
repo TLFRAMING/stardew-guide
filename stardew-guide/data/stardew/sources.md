@@ -1,8 +1,8 @@
 # Stardew Data Sources
 
-Last checked: 2026-05-17
+Last checked: 2026-05-30
 
-This folder contains starter structured data for Stardew Guide. The records are intentionally scoped for data-layer preparation. Fields that still need item-by-item confirmation are marked with `needs verification`.
+This folder contains structured data for Stardew Guide. The current production JSON files have been normalized with the local Stardew reference database first, then kept conservative where a future schema is needed for conditional schedules, exchange costs, or processing assumptions.
 
 ## Primary Sources
 
@@ -88,7 +88,7 @@ This folder contains starter structured data for Stardew Guide. The records are 
 
 ## Data Notes
 
-- Gift lists are starter records. Loved gifts are populated for the first pass; liked, disliked, and hated gift lists still contain `needs verification` where they have not been fully normalized.
+- Gift lists use explicit item rows only. Category rules such as universal likes or exceptions are not stored as direct gift arrays.
 - Villager `scheduleNotes` are intentionally high-level because full schedules are conditional and should be modeled separately.
 - Crop `profitNotes` avoid exact min-max claims until quality, fertilizer, profession, seed source, multi-harvest yield, and processing assumptions are modeled.
 - Fish `sellPrice` values are base prices only; quality, profession, and smoker effects are not modeled.

@@ -16,7 +16,6 @@ export function MoneyGuideDetail({ guide }: { guide: MoneyGuide }) {
           <Fact label="Labor" value={formatLabel(guide.laborCost)} />
           <Fact label="Automation" value={formatLabel(guide.automation)} />
           <Fact label="Version risk" value={formatLabel(guide.versionRisk)} />
-          <Fact label="Confidence" value={formatConfidence(guide.confidence)} />
         </dl>
       </section>
 
@@ -30,7 +29,7 @@ export function MoneyGuideDetail({ guide }: { guide: MoneyGuide }) {
             <article className="rounded-lg border border-green-950/10 p-4" key={estimate.label}>
               <div className="flex flex-col gap-2 sm:flex-row sm:items-start sm:justify-between">
                 <h3 className="font-bold text-green-950">{estimate.label}</h3>
-                <span className="w-fit rounded-md bg-amber-100 px-2.5 py-1 text-xs font-bold text-amber-800">{formatConfidence(estimate.confidence)}</span>
+                <span className="w-fit rounded-md bg-amber-100 px-2.5 py-1 text-xs font-bold text-amber-800">Estimate</span>
               </div>
               <p className="mt-3 text-sm font-bold text-green-950">{estimate.value}</p>
               <p className="mt-2 text-sm leading-6 text-green-950/68">{estimate.assumption}</p>
@@ -99,16 +98,12 @@ function NumberedList({ title, values }: { title: string; values: string[] }) {
   );
 }
 
-function formatConfidence(value: string) {
-  return value === "needs verification" ? "Under review" : formatLabel(value);
-}
-
 function getReviewNotice(guide: MoneyGuide) {
   const hasUnderReviewEstimate = guide.profitEstimates.some((estimate) => estimate.confidence === "needs verification");
 
   if (hasUnderReviewEstimate) {
-    return "Source-reviewed strategy data. Some profit estimates remain under review.";
+    return "Strategy notes are written for planning and should be checked against your current save conditions.";
   }
 
-  return "Source-reviewed strategy data. Profit estimates are derived from verified mechanics.";
+  return "Strategy notes are written for planning and should be checked against your current save conditions.";
 }

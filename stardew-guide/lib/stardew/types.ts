@@ -34,7 +34,7 @@ export type Crop = StardewDataSource & {
   season?: Season[];
   seasons: Season[];
   seedSource?: string | string[] | VerificationValue;
-  seedPrice: number | VerificationValue;
+  seedPrice: number | string | VerificationValue;
   sellPrice: number | VerificationValue;
   growthDays: number | VerificationValue;
   /** Migration compatibility: some rows still use regrowDays. */
@@ -65,7 +65,7 @@ export type FruitTree = StardewDataSource & {
   slug: string;
   name: string;
   seasons: Season[];
-  saplingPrice: number | VerificationValue;
+  saplingPrice: number | string | VerificationValue;
   growthDays: number | VerificationValue;
   fruitName: string;
   fruitSellPrice: number | VerificationValue;

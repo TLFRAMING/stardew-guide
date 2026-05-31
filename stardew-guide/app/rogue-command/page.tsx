@@ -39,13 +39,6 @@ const sourceTypeLabels: Record<string, string> = {
   other: "Source"
 };
 
-const confidenceLabels: Record<string, string> = {
-  official: "Official-source base",
-  wiki: "Wiki-backed",
-  mixed: "Mixed sources",
-  "needs verification": "Needs verification"
-};
-
 const categoryLabels: Record<string, string> = {
   "getting-started": "Getting started",
   progression: "Progression",
@@ -73,7 +66,7 @@ const readingPaths: Array<{ category: string; title: string; note: string }> = [
   {
     category: "specialists",
     title: "Read Specialist notes",
-    note: "Treat wiki-backed Specialist details as patch-sensitive until rechecked."
+    note: "Use Specialist notes as decision help, not as a current-version ranking."
   },
   {
     category: "progression",
@@ -91,7 +84,7 @@ export default function RogueCommandPage() {
     .filter(([, groupArticles]) => groupArticles.length > 0);
 
   return (
-    <PageShell eyebrow="Player Codex" kicker="Source-backed beginner guides and patch-sensitive strategy notes for Rogue Command." title="Rogue Command">
+    <PageShell eyebrow="Player Codex" kicker="Beginner guides and practical strategy notes for Rogue Command." title="Rogue Command">
       <div className="space-y-5">
         <section className="rounded-md border border-green-950/10 bg-white/85 px-4 py-5 sm:px-5">
           <div className="max-w-3xl space-y-3">
@@ -99,7 +92,7 @@ export default function RogueCommandPage() {
               Guide layer live
             </span>
             <p className="text-sm font-semibold leading-6 text-green-950/72">
-              This Rogue Command section publishes {articles.length} source-aware guides covering first runs, core systems, starter choice, economy tempo, reward drafting, Specialist identity, combat recovery, and long-term progression.
+              This Rogue Command section publishes {articles.length} practical guides covering first runs, core systems, starter choice, economy tempo, reward drafting, Specialist identity, combat recovery, and long-term progression.
             </p>
             <p className="text-sm font-semibold leading-6 text-green-950/62">
               The articles are written as practical player guidance, but they do not publish current-version rankings, build winners, or unverified universal routes.
@@ -125,7 +118,7 @@ export default function RogueCommandPage() {
                 Rogue Command is a single-player RTS with roguelite build crafting. Its official Steam description frames play around controlling units, building a base, harvesting resources, exploring the map, defending positions, and planning attacks.
               </p>
               <p className="text-sm font-semibold leading-6 text-green-950/62">
-                Steam and official announcement sources support describing the game as a 1.0 release that has left Early Access. Wiki-backed Specialist and system content remains marked as patch-sensitive.
+                Steam and official announcement sources support describing the game as a 1.0 release that has left Early Access. Specialist and system pages are written as practical guidance rather than current-version rankings.
               </p>
             </div>
             <div className="rounded-md border border-green-950/10 bg-green-950/[0.035] p-4">
@@ -146,7 +139,7 @@ export default function RogueCommandPage() {
           <div className="rounded-md border border-green-950/10 bg-white/80 px-4 py-5 sm:px-5">
             <h2 className="text-base font-black text-green-950">Systems Under Review</h2>
             <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">
-              These system names are source-backed, but Player Codex has not published detailed RC data yet.
+              These system names are included as the current guide vocabulary. Detailed RC data pages are not published yet.
             </p>
             <ul className="mt-4 grid grid-cols-2 gap-2">
               {systemsUnderReview.map((system) => (
@@ -160,7 +153,7 @@ export default function RogueCommandPage() {
           <div className="rounded-md border border-green-950/10 bg-white/80 px-4 py-5 sm:px-5">
             <h2 className="text-base font-black text-green-950">Published guide set</h2>
             <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">
-              {articles.length} English articles are live as source-aware guide pages. Metadata is preserved on each page for version, confidence, and patch sensitivity.
+              {articles.length} English articles are live as guide pages, organized by the decisions a player usually meets during a run.
             </p>
             <div className="mt-4 grid gap-2">
               {categoryEntries.map(([category, articles]) => (
@@ -234,9 +227,6 @@ export default function RogueCommandPage() {
                   <span className="mt-1 block text-[0.68rem] uppercase tracking-[0.12em] text-green-950/48">
                     {source.publisher} / {sourceTypeLabels[source.sourceType] ?? source.sourceType}
                   </span>
-                  <span className="mt-1 block text-[0.68rem] uppercase tracking-[0.12em] text-green-950/42">
-                    {source.confidence} confidence / checked {source.lastChecked}
-                  </span>
                 </Link>
               ))}
             </div>
@@ -268,9 +258,6 @@ function GuideCard({ article }: { article: RogueCommandArticle }) {
       <div className="flex flex-wrap items-center gap-2">
         <span className="rounded-sm bg-green-950/[0.06] px-2 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/50">
           {categoryLabels[article.category] ?? article.category}
-        </span>
-        <span className="rounded-sm bg-green-950/[0.045] px-2 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/45">
-          {confidenceLabels[article.confidence] ?? article.confidence}
         </span>
         <span className="rounded-sm bg-green-950/[0.045] px-2 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/45">
           {article.readingTimeMinutes} min

@@ -2,6 +2,7 @@
 
 import { useMemo, useState } from "react";
 import Link from "next/link";
+import { isReviewValue } from "@/lib/stardew/display";
 import type { Fish, Season } from "@/lib/stardew/types";
 
 type SeasonFilter = "All" | "Spring" | "Summer" | "Fall" | "Winter" | "Special";
@@ -154,8 +155,12 @@ function formatBundleUsageSummary(value: string[] | string | "needs verification
   }
 
   if (typeof value === "string" && value.trim().length > 0) {
+    if (isReviewValue(value)) {
+      return "Check";
+    }
+
     return value.toLowerCase() === "none" ? "No" : value;
   }
 
-  return "needs verification";
+  return "Check";
 }

@@ -4,6 +4,7 @@ import { DataCard, TagList } from "@/components/DataCard";
 import { PageShell } from "@/components/PageShell";
 import { StardewDetailUseGuide } from "@/components/StardewDetailUseGuide";
 import { getAllFruitTrees, getFruitTreeBySlug } from "@/lib/stardew/data";
+import { displayDays, displayGold, isReviewValue } from "@/lib/stardew/display";
 
 export const dynamicParams = false;
 
@@ -47,9 +48,9 @@ export default async function FruitTreeDetailPage({ params }: { params: Promise<
           <dl className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
             <Fact label="Name" value={tree.name} />
             <Fact label="Fruit" value={tree.fruitName} />
-            <Fact label="Sapling price" value={formatGoldOrReview(tree.saplingPrice)} highlight={tree.saplingPrice === "needs verification"} />
+            <Fact label="Sapling price" value={displayGold(tree.saplingPrice, "Check source")} highlight={isReviewValue(tree.saplingPrice)} />
             <Fact label="Growth" value={formatDays(tree.growthDays)} />
-            <Fact label="Fruit sell price" value={formatGoldOrReview(tree.fruitSellPrice)} />
+            <Fact label="Fruit sell price" value={displayGold(tree.fruitSellPrice, "Check source")} />
           </dl>
           <TagList label="Harvest season" values={tree.seasons} />
           <SourceBlock lastChecked={tree.lastChecked} sourceUrls={tree.sourceUrls} />
@@ -62,7 +63,7 @@ export default async function FruitTreeDetailPage({ params }: { params: Promise<
             `Check the harvest season first: ${tree.fruitName} is tied to ${tree.seasons.join(" / ")} in this database.`,
             `Plan around the growth time. ${tree.name} needs ${formatDays(tree.growthDays)}, so a late sapling may not pay off until a later season or year.`,
             "Place the tree where it will not block future sprinklers, buildings, or pathing.",
-            "If sapling price is still under review, treat the page as a planning reference and verify price in-game before buying."
+            "Before buying, compare the sapling cost with your current tool, animal, sprinkler, and building plans."
           ]}
           links={[
             { href: "/stardew/fruit-trees", label: "All fruit trees" },
@@ -113,10 +114,6 @@ function SourceBlock({ lastChecked, sourceUrls }: { lastChecked: string; sourceU
   );
 }
 
-function formatGoldOrReview(value: number | "needs verification") {
-  return typeof value === "number" ? `${value}g` : "Under review";
-}
-
 function formatDays(value: number | "needs verification") {
-  return typeof value === "number" ? `${value} days` : value;
+  return displayDays(value);
 }

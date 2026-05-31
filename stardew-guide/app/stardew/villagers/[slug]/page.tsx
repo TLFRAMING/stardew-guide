@@ -6,6 +6,7 @@ import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
 import { StardewDetailUseGuide } from "@/components/StardewDetailUseGuide";
 import { StardewRouteClusterLinks, type StardewRouteCluster } from "@/components/StardewRouteClusterLinks";
 import { getAllVillagers, getVillagerBySlug } from "@/lib/stardew/data";
+import { displayTags, displayText, isReviewValue } from "@/lib/stardew/display";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 
 export const dynamicParams = false;
@@ -58,7 +59,7 @@ export default async function VillagerDetailPage({ params }: { params: Promise<{
           <dl className="grid gap-3 sm:grid-cols-2">
             <Fact label="Name" value={villager.name} />
             <Fact label="Birthday" value={villager.birthday} />
-            <Fact label="Location" value={villager.location ?? "needs verification"} />
+            <Fact label="Location" value={displayText(villager.location, "Check schedule")} />
             <Fact label="Marriage candidate" value={formatMarriageCandidate(villager.marriageCandidate)} />
           </dl>
           <TagList label="Loved gifts" values={villager.lovedGifts} />
@@ -75,7 +76,6 @@ export default async function VillagerDetailPage({ params }: { params: Promise<{
           </section>
           <p className="mt-5 rounded-md bg-green-950/6 p-4 text-sm leading-6 text-green-950/72">{villager.beginnerNote}</p>
           <SourceLine lastChecked={villager.lastChecked} sourceUrls={villager.sourceUrls} />
-          <p className="mt-4 text-sm font-semibold text-green-950/58">Data may require verification.</p>
         </DataCard>
 
         <StardewDetailUseGuide
@@ -111,7 +111,7 @@ function Fact({ label, value }: { label: string; value: string }) {
 }
 
 function withFallback(values: string[] | undefined) {
-  return values && values.length > 0 ? values : ["needs verification"];
+  return displayTags(values);
 }
 
 function formatMarriageCandidate(value: boolean | "needs verification" | undefined) {
@@ -123,7 +123,7 @@ function formatMarriageCandidate(value: boolean | "needs verification" | undefin
     return "No";
   }
 
-  return "needs verification";
+  return "Check profile";
 }
 
 function formatScheduleNotes(value: string[] | string | "needs verification" | undefined) {
@@ -135,7 +135,7 @@ function formatScheduleNotes(value: string[] | string | "needs verification" | u
     return [value];
   }
 
-  return ["needs verification"];
+  return ["Check schedule before planning a gift route."];
 }
 
 function buildVillagerMetaDescription(villager: {
@@ -149,7 +149,7 @@ function buildVillagerMetaDescription(villager: {
   description?: string;
 }) {
   const giftText = [...villager.lovedGifts.slice(0, 2), ...villager.likedGifts.slice(0, 1)].filter(Boolean).join(", ");
-  const locationText = villager.location && villager.location !== "needs verification" ? ` Location: ${villager.location}.` : "";
+  const locationText = villager.location && !isReviewValue(villager.location) ? ` Location: ${villager.location}.` : "";
 
   return `${villager.name} Stardew Valley guide: loved gifts, liked gifts, birthday (${villager.birthday}), schedule notes, location, and friendship planning tips.${giftText ? ` Gift ideas include ${giftText}.` : ""}${locationText}`;
 }
@@ -163,7 +163,7 @@ function buildVillagerQuickAnswer(villager: {
 }) {
   const loved = withFallback(villager.lovedGifts).slice(0, 3).join(", ");
   const liked = withFallback(villager.likedGifts).slice(0, 2).join(", ");
-  const location = villager.location && villager.location !== "needs verification" ? ` They are associated with ${villager.location}.` : "";
+  const location = villager.location && !isReviewValue(villager.location) ? ` They are associated with ${villager.location}.` : "";
 
   return `${villager.name}'s birthday is ${villager.birthday}. Start with confirmed loved gifts such as ${loved}; if those are not available, use liked gifts such as ${liked}.${location} Check the schedule notes before planning a birthday or weekly gift route.`;
 }

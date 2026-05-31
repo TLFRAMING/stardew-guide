@@ -18,7 +18,7 @@ const terms = [
   },
   {
     title: "Original editorial work",
-    text: "Player Codex aims to publish original, player-facing explanations rather than copied wiki pages, copied guide structures, or unverified community conclusions. Source links and confidence notes are used where a page depends on external facts."
+    text: "Player Codex aims to publish original, player-facing explanations rather than copied wiki pages, copied guide structures, or unverified community conclusions. External references are used where a page depends on public game facts."
   },
   {
     title: "External links",
@@ -32,7 +32,7 @@ const terms = [
 
 export default function TermsPage() {
   return (
-    <PageShell eyebrow="Player Codex" kicker="Site terms, fan-site boundaries, and source-aware guide use." title="Terms of Use">
+    <PageShell eyebrow="Player Codex" kicker="Site terms, fan-site boundaries, and guide use." title="Terms of Use">
       <div className="space-y-4">
         <section className="rounded-md border border-green-950/10 bg-white/85 px-4 py-5 sm:px-5">
           <div className="max-w-3xl space-y-4 text-sm font-semibold leading-6 text-green-950/70">

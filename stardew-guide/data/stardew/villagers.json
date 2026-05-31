@@ -32,11 +32,14 @@
       "Clay",
       "Holly"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Abigail"
+      "https://stardewvalleywiki.com/Abigail",
+      "https://wiki.stardewvalley.net/Abigail",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A Pelican Town villager who lives at Pierre's General Store and is available as a marriage candidate."
   },
   {
@@ -84,11 +87,14 @@
       "Omelet",
       "Piña Colada"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Sebastian"
+      "https://stardewvalleywiki.com/Sebastian",
+      "https://wiki.stardewvalley.net/Sebastian",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A villager who lives in the Carpenter's Shop basement and is available as a marriage candidate."
   },
   {
@@ -144,11 +150,14 @@
       "Pizza",
       "Void Egg"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Leah"
+      "https://stardewvalleywiki.com/Leah",
+      "https://wiki.stardewvalley.net/Leah",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "An artist who lives in a cottage south of the farm and is available as a marriage candidate."
   },
   {
@@ -195,11 +204,14 @@
       "Rabbit's Foot",
       "Wine"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, tutoring days, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Penny"
+      "https://stardewvalleywiki.com/Penny",
+      "https://wiki.stardewvalley.net/Penny",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A Pelican Town villager who lives in the trailer and is available as a marriage candidate."
   },
   {
@@ -240,11 +252,14 @@
       "Prismatic Shard",
       "Wild Horseradish"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Haley"
+      "https://stardewvalleywiki.com/Haley",
+      "https://wiki.stardewvalley.net/Haley",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A Pelican Town villager who lives at 2 Willow Lane and is available as a marriage candidate."
   },
   {
@@ -298,11 +313,14 @@
       "Pickles",
       "Refined Quartz"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, work days, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Sam"
+      "https://stardewvalleywiki.com/Sam",
+      "https://wiki.stardewvalley.net/Sam",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A Pelican Town villager who lives at 1 Willow Lane and is available as a marriage candidate."
   },
   {
@@ -342,11 +360,14 @@
       "Salmon Dinner",
       "Sashimi"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, work shifts, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Emily"
+      "https://stardewvalleywiki.com/Emily",
+      "https://wiki.stardewvalley.net/Emily",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A Pelican Town villager who lives at 2 Willow Lane and is available as a marriage candidate."
   },
   {
@@ -363,9 +384,7 @@
       "Pepper Poppers",
       "Pizza"
     ],
-    "likedGifts": [
-      "needs verification"
-    ],
+    "likedGifts": [],
     "dislikedGifts": [
       "Chanterelle",
       "Common Mushroom",
@@ -387,11 +406,14 @@
       "Pickles",
       "Quartz"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, JojaMart work status, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Shane"
+      "https://stardewvalleywiki.com/Shane",
+      "https://wiki.stardewvalley.net/Shane",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A villager who lives at Marnie's Ranch and is available as a marriage candidate."
   },
   {
@@ -456,11 +478,14 @@
       "Salmonberry",
       "Spice Berry"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, clinic hours, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Harvey"
+      "https://stardewvalleywiki.com/Harvey",
+      "https://wiki.stardewvalley.net/Harvey",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "The town doctor who runs Harvey's Clinic and is available as a marriage candidate."
   },
   {
@@ -510,11 +535,14 @@
       "Snow Yam",
       "Truffle"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, clinic work shifts, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Maru"
+      "https://stardewvalleywiki.com/Maru",
+      "https://wiki.stardewvalley.net/Maru",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A villager who lives at the Carpenter's Shop, works at the clinic, and is available as a marriage candidate."
   },
   {
@@ -543,9 +571,12 @@
       "Holly",
       "Quartz"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Alex"
+      "https://stardewvalleywiki.com/Alex",
+      "https://wiki.stardewvalley.net/Alex",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at 1 River Road, Pelican Town and is available as a marriage candidate."
@@ -594,9 +625,12 @@
       "Sea Cucumber",
       "Super Cucumber"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Elliott"
+      "https://stardewvalleywiki.com/Elliott",
+      "https://wiki.stardewvalley.net/Elliott",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at Elliott's Cabin, The Beach and is available as a marriage candidate."
@@ -641,9 +675,12 @@
       "Quartz",
       "Salmonberry"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Caroline"
+      "https://stardewvalleywiki.com/Caroline",
+      "https://wiki.stardewvalley.net/Caroline",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at Pierre's General Store, Pelican Town."
@@ -682,9 +719,12 @@
     "hatedGifts": [
       "Holly"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Clint"
+      "https://stardewvalleywiki.com/Clint",
+      "https://wiki.stardewvalley.net/Clint",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at Blacksmith, Pelican Town."
@@ -713,9 +753,12 @@
     "hatedGifts": [
       "Holly"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Demetrius"
+      "https://stardewvalleywiki.com/Demetrius",
+      "https://wiki.stardewvalley.net/Demetrius",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at 24 Mountain Road, The Mountain."
@@ -760,12 +803,13 @@
       "Wild Horseradish",
       "Winter Root"
     ],
-    "hatedGifts": [
-      "needs verification"
-    ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "hatedGifts": [],
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Dwarf"
+      "https://stardewvalleywiki.com/Dwarf",
+      "https://wiki.stardewvalley.net/Dwarf",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at Eastern Cave, The Mines."
@@ -814,9 +858,12 @@
       "Spicy Eel",
       "Trout Soup"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Evelyn"
+      "https://stardewvalleywiki.com/Evelyn",
+      "https://wiki.stardewvalley.net/Evelyn",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at 1 River Road, Pelican Town."
@@ -846,9 +893,12 @@
       "Holly",
       "Quartz"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/George"
+      "https://stardewvalleywiki.com/George",
+      "https://wiki.stardewvalley.net/George",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at 1 River Road, Pelican Town."
@@ -881,9 +931,12 @@
       "Holly",
       "Quartz"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Gus"
+      "https://stardewvalleywiki.com/Gus",
+      "https://wiki.stardewvalley.net/Gus",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at The Stardrop Saloon, Pelican Town."
@@ -930,9 +983,12 @@
       "Triple Shot Espresso",
       "Wild Horseradish"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Jas"
+      "https://stardewvalleywiki.com/Jas",
+      "https://wiki.stardewvalley.net/Jas",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at Marnie's Ranch, Cindersap Forest."
@@ -956,7 +1012,15 @@
       "Vegetable Medley"
     ],
     "likedGifts": [
-      "needs verification"
+      "Garlic",
+      "Ginger",
+      "Hazelnut",
+      "Holly",
+      "Leek",
+      "Quartz",
+      "Snow Yam",
+      "Wild Horseradish",
+      "Winter Root"
     ],
     "dislikedGifts": [
       "Chanterelle",
@@ -979,9 +1043,12 @@
       "Dandelion",
       "Spice Berry"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Jodi"
+      "https://stardewvalleywiki.com/Jodi",
+      "https://wiki.stardewvalley.net/Jodi",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at 1 Willow Lane, Pelican Town."
@@ -1013,9 +1080,12 @@
       "Sashimi",
       "Tortilla"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Kent"
+      "https://stardewvalleywiki.com/Kent",
+      "https://wiki.stardewvalley.net/Kent",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at 1 Willow Lane, Pelican Town."
@@ -1061,12 +1131,13 @@
       "Snow Yam",
       "Winter Root"
     ],
-    "hatedGifts": [
-      "needs verification"
-    ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "hatedGifts": [],
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Krobus"
+      "https://stardewvalleywiki.com/Krobus",
+      "https://wiki.stardewvalley.net/Krobus",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at Krobus' Shop, The Sewers."
@@ -1124,9 +1195,12 @@
       "Unmilled Rice",
       "Wine"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Leo"
+      "https://stardewvalleywiki.com/Leo",
+      "https://wiki.stardewvalley.net/Leo",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at Hut (<6 ) Treehouse (≥6 ), Ginger Island."
@@ -1159,9 +1233,12 @@
       "Holly",
       "Quartz"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Lewis"
+      "https://stardewvalleywiki.com/Lewis",
+      "https://wiki.stardewvalley.net/Lewis",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at Mayor's Manor, Pelican Town."
@@ -1202,12 +1279,13 @@
     "dislikedGifts": [
       "Treasure Chest"
     ],
-    "hatedGifts": [
-      "needs verification"
-    ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "hatedGifts": [],
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Linus"
+      "https://stardewvalleywiki.com/Linus",
+      "https://wiki.stardewvalley.net/Linus",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at Tent, The Mountain."
@@ -1239,9 +1317,12 @@
       "Clay",
       "Holly"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Marnie"
+      "https://stardewvalleywiki.com/Marnie",
+      "https://wiki.stardewvalley.net/Marnie",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at Marnie's Ranch, Cindersap Forest."
@@ -1276,9 +1357,12 @@
       "Octopus",
       "Squid"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Pam"
+      "https://stardewvalleywiki.com/Pam",
+      "https://wiki.stardewvalley.net/Pam",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at Trailer, Pelican Town."
@@ -1320,9 +1404,12 @@
       "Parsnip Soup",
       "Tortilla"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Pierre"
+      "https://stardewvalleywiki.com/Pierre",
+      "https://wiki.stardewvalley.net/Pierre",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at Pierre's General Store, Pelican Town."
@@ -1352,9 +1439,12 @@
     "hatedGifts": [
       "Holly"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Robin"
+      "https://stardewvalleywiki.com/Robin",
+      "https://wiki.stardewvalley.net/Robin",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at 24 Mountain Road, The Mountain."
@@ -1379,15 +1469,16 @@
       "Quartz",
       "Wool"
     ],
-    "dislikedGifts": [
-      "needs verification"
-    ],
+    "dislikedGifts": [],
     "hatedGifts": [
       "Holly"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Sandy"
+      "https://stardewvalleywiki.com/Sandy",
+      "https://wiki.stardewvalley.net/Sandy",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at Oasis, The Desert."
@@ -1433,9 +1524,12 @@
       "Triple Shot Espresso",
       "Wild Horseradish"
     ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Vincent"
+      "https://stardewvalleywiki.com/Vincent",
+      "https://wiki.stardewvalley.net/Vincent",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at 1 Willow Lane, Pelican Town."
@@ -1499,12 +1593,13 @@
       "Wild Horseradish",
       "Winter Root"
     ],
-    "hatedGifts": [
-      "needs verification"
-    ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "hatedGifts": [],
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Willy"
+      "https://stardewvalleywiki.com/Willy",
+      "https://wiki.stardewvalley.net/Willy",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at Fish Shop, The Beach."
@@ -1545,12 +1640,13 @@
       "Wild Horseradish",
       "Winter Root"
     ],
-    "hatedGifts": [
-      "needs verification"
-    ],
-    "scheduleNotes": "Schedule varies by season, weekday, weather, and heart events; needs verification before production use.",
+    "hatedGifts": [],
+    "scheduleNotes": "Daily location changes by season, weekday, weather, story progress, and heart events; check the daily schedule before planning a gift route.",
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Wizard"
+      "https://stardewvalleywiki.com/Wizard",
+      "https://wiki.stardewvalley.net/Wizard",
+      "https://wiki.stardewvalley.net/List_of_All_Gifts",
+      "https://wiki.stardewvalley.net/Villagers"
     ],
     "lastChecked": "2026-05-18",
     "beginnerNote": "A Stardew Valley villager who lives at Wizard's Tower, Cindersap Forest."

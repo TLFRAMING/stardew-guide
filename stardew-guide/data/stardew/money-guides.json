@@ -67,7 +67,7 @@
     ],
     "confidence": "medium",
     "lastChecked": "2026-05-20",
-    "notes": "Wiki/database source tier. Core mechanics and the 1.6 sell-price context are source-backed; batch value is derived from the listed sale value and should stay framed as a planning estimate rather than guaranteed net profit."
+    "notes": "Core mechanics and the 1.6 sell-price context are documented in the listed references; batch value is a planning estimate rather than guaranteed net profit."
   },
   {
     "slug": "strawberry-spring-year-one",
@@ -137,7 +137,7 @@
     ],
     "confidence": "medium",
     "lastChecked": "2026-05-20",
-    "notes": "Wiki/database source tier. Seed timing, crop timing, and base value are source-backed; exact Spring return remains route-dependent because watering, planting time, quality, and player priorities vary."
+    "notes": "Seed timing, crop timing, and base value are documented in the listed references; exact Spring return remains route-dependent because watering, planting time, quality, and player priorities vary."
   },
   {
     "slug": "blueberry-summer-cashflow",
@@ -207,7 +207,7 @@
     ],
     "confidence": "medium",
     "lastChecked": "2026-05-20",
-    "notes": "Wiki/database source tier. Crop mechanics are source-backed; route advice is original decision guidance based on watering capacity, cashflow timing, and processing bottlenecks."
+    "notes": "Crop mechanics are documented in the listed references; route advice is original decision guidance based on watering capacity, cashflow timing, and processing bottlenecks."
   },
   {
     "slug": "cranberry-fall-scaling",
@@ -277,7 +277,7 @@
     ],
     "confidence": "medium",
     "lastChecked": "2026-05-20",
-    "notes": "Wiki/database source tier. Crop and processing mechanics are source-backed; profitability remains conditional because field size, quality, harvest timing, and machine count vary by save."
+    "notes": "Crop and processing mechanics are documented in the listed references; profitability remains conditional because field size, quality, harvest timing, and machine count vary by save."
   },
   {
     "slug": "keg-ancient-fruit-wine",
@@ -349,7 +349,7 @@
     ],
     "confidence": "medium",
     "lastChecked": "2026-05-20",
-    "notes": "Wiki/database source tier. Crop and wine mechanics are source-backed; route strength remains derived because keg count, profession choice, seed expansion speed, permanent space, and player routine vary by farm."
+    "notes": "Crop and wine mechanics are documented in the listed references; route strength remains derived because keg count, profession choice, seed expansion speed, permanent space, and player routine vary by farm."
   },
   {
     "slug": "starfruit-wine-burst-profit",
@@ -420,7 +420,7 @@
     ],
     "confidence": "medium",
     "lastChecked": "2026-05-20",
-    "notes": "Wiki/database source tier. Item and processing mechanics are source-backed; route value is conditional on seed access, profession choice, replanting labor, field capacity, and keg count."
+    "notes": "Item and processing mechanics are documented in the listed references; route value is conditional on seed access, profession choice, replanting labor, field capacity, and keg count."
   },
   {
     "slug": "pig-truffle-oil-economy",
@@ -492,7 +492,7 @@
     ],
     "confidence": "medium",
     "lastChecked": "2026-05-20",
-    "notes": "Wiki/database source tier. Pig, Truffle, and processing mechanics are source-backed; yearly output and processing advantage remain farm-specific and should stay framed as estimates."
+    "notes": "Pig, Truffle, and processing mechanics are documented in the listed references; yearly output and processing advantage remain farm-specific and should stay framed as estimates."
   },
   {
     "slug": "fairy-rose-honey-island",
@@ -563,7 +563,7 @@
     ],
     "confidence": "medium",
     "lastChecked": "2026-05-20",
-    "notes": "Wiki/database source tier. Honey mechanics and Ginger Island relevance are source-backed; exact layouts, annual totals, and diagram-level claims remain derived and should be tested before publishing as fixed plans."
+    "notes": "Honey mechanics and Ginger Island relevance are documented in the listed references; exact layouts, annual totals, and diagram-level claims remain derived and should be tested before publishing as fixed plans."
   },
   {
     "slug": "fish-smoker-profit-route",
@@ -635,7 +635,7 @@
     ],
     "confidence": "medium",
     "lastChecked": "2026-05-20",
-    "notes": "Wiki/database source tier. Fish Smoker mechanics are source-backed; daily route profit requires own testing because catch count, fish quality, weather, bait, tackle, and player skill vary heavily."
+    "notes": "Fish Smoker mechanics are documented in the listed references; daily route profit requires own testing because catch count, fish quality, weather, bait, tackle, and player skill vary heavily."
   },
   {
     "slug": "preserve-jars-vs-kegs",
@@ -706,6 +706,6 @@
     ],
     "confidence": "medium",
     "lastChecked": "2026-05-20",
-    "notes": "Wiki/database source tier. Machine formulas are source-backed; final recommendations are original decision guidance and should stay conditional by crop, machine count, material cost, and cash timing."
+    "notes": "Machine formulas are documented in the listed references; final recommendations are original decision guidance and should stay conditional by crop, machine count, material cost, and cash timing."
   }
 ]

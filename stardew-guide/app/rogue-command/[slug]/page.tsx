@@ -7,19 +7,6 @@ import type { RogueCommandArticle, RogueCommandArticleBlock } from "@/lib/rogue-
 
 export const dynamicParams = false;
 
-const confidenceLabels: Record<string, string> = {
-  official: "Official-source base",
-  wiki: "Wiki-backed",
-  mixed: "Mixed sources",
-  "needs verification": "Needs verification"
-};
-
-const patchSensitivityLabels: Record<string, string> = {
-  high: "High patch sensitivity",
-  low: "Low patch sensitivity",
-  medium: "Medium patch sensitivity"
-};
-
 const categoryLabels: Record<string, string> = {
   "getting-started": "Getting started",
   progression: "Progression",
@@ -107,25 +94,19 @@ export default async function RogueCommandArticlePage({ params }: { params: Prom
               Verified {article.lastVerified}
             </span>
             <span className="rounded-sm bg-green-950/[0.06] px-2.5 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/55">
-              {confidenceLabels[article.confidence] ?? article.confidence}
-            </span>
-            <span className="rounded-sm bg-green-950/[0.06] px-2.5 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/55">
-              {patchSensitivityLabels[article.patchSensitivity] ?? article.patchSensitivity}
-            </span>
-            <span className="rounded-sm bg-green-950/[0.06] px-2.5 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/55">
               {article.readingTimeMinutes} min read
             </span>
           </div>
           <p className="mt-3 text-sm font-semibold leading-6 text-green-950/62">
-            This guide is player-facing strategy content with source metadata preserved. Patch-sensitive wiki-backed mechanics should be rechecked before turning them into rankings, build prescriptions, or precise stat references.
+            This guide focuses on practical run decisions and avoids current-version rankings, fixed build prescriptions, or precise stat claims.
           </p>
         </section>
 
         {article.patchSensitivity === "high" ? (
           <section className="rounded-md border border-amber-600/25 bg-amber-100/70 px-4 py-4 sm:px-5">
-            <h2 className="text-sm font-black uppercase tracking-[0.12em] text-amber-800">Patch-sensitive guide</h2>
+            <h2 className="text-sm font-black uppercase tracking-[0.12em] text-amber-800">Specialist notes</h2>
             <p className="mt-2 text-sm font-semibold leading-6 text-green-950/66">
-              This page relies on wiki-backed Specialist or system structure. Treat it as decision guidance, not current-version ranking or exact balance data.
+              Specialist behavior can change as the game is updated. Use this page for decision guidance, not as a ranking or exact balance table.
             </p>
           </section>
         ) : null}
@@ -155,9 +136,7 @@ export default async function RogueCommandArticlePage({ params }: { params: Prom
           <div className="grid gap-5 lg:grid-cols-[0.85fr_1.15fr]">
             <div>
               <h2 className="text-base font-black text-green-950">Sources</h2>
-              <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">
-                Source IDs are resolved against the Rogue Command source registry. Internal notes are not shown on public pages.
-              </p>
+              <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">References used for this guide.</p>
             </div>
             <div className="grid gap-2">
               {article.sources.map((source) => (
@@ -169,9 +148,6 @@ export default async function RogueCommandArticlePage({ params }: { params: Prom
                   <span className="block">{source.title}</span>
                   <span className="mt-1 block text-[0.68rem] uppercase tracking-[0.12em] text-green-950/48">
                     {source.publisher} / {source.sourceType}
-                  </span>
-                  <span className="mt-1 block text-[0.68rem] uppercase tracking-[0.12em] text-green-950/42">
-                    {source.confidence} confidence / checked {source.lastChecked}
                   </span>
                 </Link>
               ))}

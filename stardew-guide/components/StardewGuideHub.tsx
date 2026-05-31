@@ -84,12 +84,12 @@ function ArticleCard({ article }: { article: StardewGuideArticle }) {
       href={`/stardew/guides/${article.slug}`}
     >
       <div className="flex flex-wrap items-center gap-2">
-        <Chip>{formatConfidence(article.confidence)}</Chip>
-        <Chip>{formatPatchSensitivity(article.patchSensitivity)}</Chip>
+        <Chip>{categoryLabels[article.category] ?? formatLabel(article.category)}</Chip>
+        <Chip>{article.readingTimeMinutes} min read</Chip>
       </div>
       <h3 className="mt-3 break-words text-xl font-black leading-tight text-green-950 group-hover:text-amber-700">{article.title}</h3>
       <p className="mt-3 text-sm font-semibold leading-6 text-green-950/68">{article.summary}</p>
-      <p className="mt-4 text-xs font-black uppercase tracking-[0.14em] text-green-950/42">{article.readingTimeMinutes} min read</p>
+      <p className="mt-4 text-xs font-black uppercase tracking-[0.14em] text-green-950/42">Open guide</p>
     </Link>
   );
 }
@@ -104,14 +104,6 @@ function RelatedLink({ href, title }: { href: string; title: string }) {
       {title}
     </Link>
   );
-}
-
-function formatConfidence(value: string) {
-  return value === "needs verification" ? "Needs verification" : `${formatLabel(value)} confidence`;
-}
-
-function formatPatchSensitivity(value: string) {
-  return `${formatLabel(value)} patch sensitivity`;
 }
 
 function formatLabel(value: string) {

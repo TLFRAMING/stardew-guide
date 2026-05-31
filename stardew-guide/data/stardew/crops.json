@@ -14,7 +14,7 @@
     "sellPrice": 35,
     "growthDays": 4,
     "regrowthDays": 0,
-    "profitNotes": "Low-cost starter crop with quick growth; exact profit by quality and profession needs verification.",
+    "profitNotes": "Cheap 4-day spring crop for early cash flow; profit depends mainly on quality and whether you need one for the Spring Crops Bundle.",
     "bestUses": [
       "Early spring cash flow",
       "Spring Crops Bundle",
@@ -22,9 +22,10 @@
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Parsnip",
-      "https://stardewvalleywiki.com/Parsnip_Seeds"
+      "https://stardewvalleywiki.com/Parsnip_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A basic spring vegetable grown from Parsnip Seeds.",
     "seasons": [
       "Spring"
@@ -45,17 +46,18 @@
     "sellPrice": 80,
     "growthDays": 6,
     "regrowthDays": 0,
-    "profitNotes": "Extra-yield chance affects profit; exact expected value needs verification.",
+    "profitNotes": "Spring crop with an extra-yield chance, so returns vary by harvest roll and field size.",
     "bestUses": [
       "Spring income",
       "Spring Crops Bundle",
-      "Cooking recipes need verification"
+      "Cooking ingredient"
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Potato",
-      "https://stardewvalleywiki.com/Potato_Seeds"
+      "https://stardewvalleywiki.com/Potato_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A spring vegetable crop grown from Potato Seeds, with a chance to yield extra potatoes.",
     "seasons": [
       "Spring"
@@ -76,7 +78,7 @@
     "sellPrice": 175,
     "growthDays": 12,
     "regrowthDays": 0,
-    "profitNotes": "High single-harvest value for spring; giant crop and quality profit details need verification.",
+    "profitNotes": "High single-harvest value for spring; also supports Giant Crop planning and cooking use.",
     "bestUses": [
       "Spring Crops Bundle",
       "High-value spring harvest",
@@ -84,9 +86,10 @@
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Cauliflower",
-      "https://stardewvalleywiki.com/Cauliflower_Seeds"
+      "https://stardewvalleywiki.com/Cauliflower_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A spring vegetable crop grown from Cauliflower Seeds.",
     "seasons": [
       "Spring"
@@ -115,9 +118,10 @@
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Green_Bean",
-      "https://stardewvalleywiki.com/Bean_Starter"
+      "https://stardewvalleywiki.com/Bean_Starter",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A spring trellis crop grown from Bean Starter that continues producing after maturity.",
     "seasons": [
       "Spring"
@@ -144,9 +148,10 @@
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Strawberry",
-      "https://stardewvalleywiki.com/Strawberry_Seeds"
+      "https://stardewvalleywiki.com/Strawberry_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A spring fruit crop grown from Strawberry Seeds and sold at the Egg Festival.",
     "seasons": [
       "Spring"
@@ -167,17 +172,18 @@
     "sellPrice": 60,
     "growthDays": 11,
     "regrowthDays": 4,
-    "profitNotes": "Regrows through summer; exact profit by quality and processing needs verification.",
+    "profitNotes": "Summer regrowth crop that is useful for repeated harvests and cooking; processing value depends on machine access.",
     "bestUses": [
       "Summer Crops Bundle",
       "Repeated summer harvests",
-      "Cooking recipes need verification"
+      "Cooking ingredient"
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Tomato",
-      "https://stardewvalleywiki.com/Tomato_Seeds"
+      "https://stardewvalleywiki.com/Tomato_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A summer vegetable crop grown from Tomato Seeds that continues producing after maturity.",
     "seasons": [
       "Summer"
@@ -198,7 +204,7 @@
     "sellPrice": 40,
     "growthDays": 5,
     "regrowthDays": 3,
-    "profitNotes": "Fast first harvest and frequent regrowth; exact profit by quality and processing needs verification.",
+    "profitNotes": "Fast summer regrowth crop with frequent harvests; strongest early value is bundle, gifting, and steady small cash flow.",
     "bestUses": [
       "Summer Crops Bundle",
       "Shane loved gift",
@@ -206,9 +212,10 @@
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Hot_Pepper",
-      "https://stardewvalleywiki.com/Pepper_Seeds"
+      "https://stardewvalleywiki.com/Pepper_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A summer fruit crop grown from Pepper Seeds that continues producing after maturity.",
     "seasons": [
       "Summer"
@@ -229,17 +236,18 @@
     "sellPrice": 50,
     "growthDays": 13,
     "regrowthDays": 4,
-    "profitNotes": "Multiple berries per harvest make profit calculations depend on yield assumptions; needs verification.",
+    "profitNotes": "Multi-berry summer crop with strong repeated harvest value when planted early and protected by sprinklers.",
     "bestUses": [
       "Summer Crops Bundle",
       "Summer profit",
-      "Keg or preserves processing needs verification"
+      "Preserves Jar or Keg processing"
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Blueberry",
-      "https://stardewvalleywiki.com/Blueberry_Seeds"
+      "https://stardewvalleywiki.com/Blueberry_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A summer fruit crop grown from Blueberry Seeds that produces multiple berries and regrows.",
     "seasons": [
       "Summer"
@@ -260,7 +268,7 @@
     "sellPrice": 250,
     "growthDays": 12,
     "regrowthDays": 0,
-    "profitNotes": "High single-harvest value for summer; giant crop and quality profit details need verification.",
+    "profitNotes": "High single-harvest value for summer; also supports Giant Crop planning and cooking use.",
     "bestUses": [
       "Summer Crops Bundle",
       "Quality Crops Bundle",
@@ -268,9 +276,10 @@
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Melon",
-      "https://stardewvalleywiki.com/Melon_Seeds"
+      "https://stardewvalleywiki.com/Melon_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A summer fruit crop grown from Melon Seeds.",
     "seasons": [
       "Summer"
@@ -291,17 +300,18 @@
     "sellPrice": 50,
     "growthDays": 14,
     "regrowthDays": 4,
-    "profitNotes": "Can produce across two seasons if planted in summer; exact season-spanning profit needs verification.",
+    "profitNotes": "Two-season crop that can keep producing from summer into fall; value improves when planted early enough to use both seasons.",
     "bestUses": [
       "Fall Crops Bundle",
       "Quality Crops Bundle",
-      "Oil Maker processing needs verification"
+      "Oil Maker processing"
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Corn",
-      "https://stardewvalleywiki.com/Corn_Seeds"
+      "https://stardewvalleywiki.com/Corn_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A multi-season crop grown from Corn Seeds that produces through summer and fall.",
     "seasons": [
       "Summer",
@@ -322,17 +332,18 @@
     "sellPrice": 750,
     "growthDays": 13,
     "regrowthDays": 0,
-    "profitNotes": "High base value makes it strong for keg processing; exact profit by quality, profession, and processing needs verification.",
+    "profitNotes": "High-value summer crop commonly used for wine once Kegs are available; direct sale is still strong before processing is ready.",
     "bestUses": [
       "Wine production",
       "High-value summer crop",
-      "Junimo Hut quest item needs verification"
+      "Junimo Hut quest item"
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Starfruit",
-      "https://stardewvalleywiki.com/Starfruit_Seeds"
+      "https://stardewvalleywiki.com/Starfruit_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A high-value summer fruit crop grown from Starfruit Seeds.",
     "seasons": [
       "Summer"
@@ -353,17 +364,18 @@
     "sellPrice": 75,
     "growthDays": 7,
     "regrowthDays": 5,
-    "profitNotes": "Multiple berries per harvest make profit calculations depend on yield assumptions; needs verification.",
+    "profitNotes": "Multi-berry fall regrowth crop that rewards early planting and large sprinkler-supported fields.",
     "bestUses": [
       "Fall profit",
       "Repeated fall harvests",
-      "Preserves or keg processing needs verification"
+      "Preserves Jar or Keg processing"
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Cranberries",
-      "https://stardewvalleywiki.com/Cranberry_Seeds"
+      "https://stardewvalleywiki.com/Cranberry_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A fall fruit crop grown from Cranberry Seeds that produces multiple berries and regrows.",
     "seasons": [
       "Fall"
@@ -384,7 +396,7 @@
     "sellPrice": 320,
     "growthDays": 13,
     "regrowthDays": 0,
-    "profitNotes": "High single-harvest value for fall; giant crop and quality profit details need verification.",
+    "profitNotes": "High single-harvest value for fall; also supports Giant Crop planning and cooking use.",
     "bestUses": [
       "Fall Crops Bundle",
       "Quality Crops Bundle",
@@ -392,9 +404,10 @@
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Pumpkin",
-      "https://stardewvalleywiki.com/Pumpkin_Seeds"
+      "https://stardewvalleywiki.com/Pumpkin_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A high-value fall vegetable crop grown from Pumpkin Seeds.",
     "seasons": [
       "Fall"
@@ -415,17 +428,18 @@
     "sellPrice": 160,
     "growthDays": 10,
     "regrowthDays": 0,
-    "profitNotes": "Moderate fall crop; exact profit by quality and processing needs verification.",
+    "profitNotes": "Moderate fall crop with bundle and gifting value; better as a targeted crop than a full-field money plan.",
     "bestUses": [
       "Fall Crops Bundle",
       "Linus loved gift",
-      "Cooking recipes need verification"
+      "Cooking ingredient"
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Yam",
-      "https://stardewvalleywiki.com/Yam_Seeds"
+      "https://stardewvalleywiki.com/Yam_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A fall vegetable crop grown from Yam Seeds.",
     "seasons": [
       "Fall"
@@ -446,17 +460,18 @@
     "sellPrice": 60,
     "growthDays": 5,
     "regrowthDays": 5,
-    "profitNotes": "Low seed cost and regrowth make it accessible in fall; exact profit by quality needs verification.",
+    "profitNotes": "Low-cost fall regrowth crop that is easy to maintain, useful for bundle coverage and cooking support.",
     "bestUses": [
       "Fall Crops Bundle",
       "Repeated fall harvests",
-      "Cooking recipes need verification"
+      "Cooking ingredient"
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Eggplant",
-      "https://stardewvalleywiki.com/Eggplant_Seeds"
+      "https://stardewvalleywiki.com/Eggplant_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A fall vegetable crop grown from Eggplant Seeds that continues producing after maturity.",
     "seasons": [
       "Fall"
@@ -472,11 +487,11 @@
       "Seed Maker",
       "Traveling Cart"
     ],
-    "seedPrice": "needs verification",
+    "seedPrice": "Crafted after Museum Ancient Seed donation; Traveling Cart price varies",
     "sellPrice": 550,
     "growthDays": 28,
     "regrowthDays": 7,
-    "profitNotes": "Long initial growth and repeated harvests make it valuable over long seasons; exact acquisition cost and processing profit need verification.",
+    "profitNotes": "Long initial growth and repeated harvests make it valuable over long seasons, especially in greenhouse or Ginger Island planning.",
     "bestUses": [
       "Greenhouse planting",
       "Wine production",
@@ -484,9 +499,10 @@
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Ancient_Fruit",
-      "https://stardewvalleywiki.com/Ancient_Seeds"
+      "https://stardewvalleywiki.com/Ancient_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A rare fruit crop grown from Ancient Seeds that produces through spring, summer, and fall.",
     "seasons": [
       "Spring",
@@ -504,20 +520,21 @@
       "Traveling Cart",
       "Seed Maker"
     ],
-    "seedPrice": "needs verification",
+    "seedPrice": "Traveling Cart 2,500g; also drops from Dust Sprites",
     "sellPrice": 15,
     "growthDays": 10,
     "regrowthDays": 2,
-    "profitNotes": "Frequent harvests support coffee production; acquisition cost and profit by processing need verification.",
+    "profitNotes": "Frequent spring and summer harvests support Coffee and Triple Shot Espresso planning more than direct bean sales.",
     "bestUses": [
       "Coffee production",
       "Spring and summer repeated harvests",
       "Speed-focused food planning"
     ],
     "sourceUrls": [
-      "https://stardewvalleywiki.com/Coffee_Bean"
+      "https://stardewvalleywiki.com/Coffee_Bean",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A spring and summer crop that grows from Coffee Bean and produces more coffee beans.",
     "seasons": [
       "Spring",
@@ -539,17 +556,18 @@
     "sellPrice": 260,
     "growthDays": 9,
     "regrowthDays": 0,
-    "profitNotes": "Seed availability timing can affect year-one planning; exact availability details need verification.",
+    "profitNotes": "Year-one availability depends on the Traveling Cart, so treat Red Cabbage as a bundle-planning crop unless the seed is available.",
     "bestUses": [
       "Dye Bundle",
-      "Cooking recipes need verification",
+      "Cooking ingredient",
       "Summer crop planning"
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Red_Cabbage",
-      "https://stardewvalleywiki.com/Red_Cabbage_Seeds"
+      "https://stardewvalleywiki.com/Red_Cabbage_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A summer vegetable crop grown from Red Cabbage Seeds.",
     "seasons": [
       "Summer"
@@ -570,7 +588,7 @@
     "sellPrice": 25,
     "growthDays": 4,
     "regrowthDays": 0,
-    "profitNotes": "Low-cost fast crop; beer, flour, and hay-related value need verification.",
+    "profitNotes": "Low-cost fast crop that supports Fodder Bundle planning, Beer, Wheat Flour, and hay-related farm planning.",
     "bestUses": [
       "Fodder Bundle",
       "Beer production",
@@ -578,9 +596,10 @@
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Wheat",
-      "https://stardewvalleywiki.com/Wheat_Seeds"
+      "https://stardewvalleywiki.com/Wheat_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A summer and fall grain crop grown from Wheat Seeds.",
     "seasons": [
       "Summer",
@@ -602,17 +621,18 @@
     "sellPrice": 150,
     "growthDays": 7,
     "regrowthDays": 0,
-    "profitNotes": "Moderate fall crop; exact profit by quality and mill-related use needs verification.",
+    "profitNotes": "Fall crop with Fodder Bundle and Marnie request value; plant for specific goals rather than raw profit.",
     "bestUses": [
       "Fodder Bundle",
-      "Marnie request item needs verification",
+      "Marnie request item",
       "Fall crop planning"
     ],
     "sourceUrls": [
       "https://stardewvalleywiki.com/Amaranth",
-      "https://stardewvalleywiki.com/Amaranth_Seeds"
+      "https://stardewvalleywiki.com/Amaranth_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
-    "lastChecked": "2026-05-17",
+    "lastChecked": "2026-05-18",
     "beginnerNote": "A fall grain crop grown from Amaranth Seeds.",
     "seasons": [
       "Fall"
@@ -631,10 +651,12 @@
     "beginnerNote": "Spring flower grown from Jazz Seeds.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Blue_Jazz",
-      "https://stardewvalleywiki.com/Jazz_Seeds"
+      "https://stardewvalleywiki.com/Jazz_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "bestUses": []
   },
   {
     "id": "crop-carrot",
@@ -644,15 +666,22 @@
       "Spring"
     ],
     "growthDays": 3,
-    "seedPrice": "needs verification",
+    "seedPrice": "Not sold for gold; Raccoon Wife trade costs 1 Maple Seed",
     "sellPrice": 35,
     "beginnerNote": "Spring crop grown from Carrot Seeds; seed acquisition is not sold in regular stores.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Carrot",
-      "https://stardewvalleywiki.com/Carrot_Seeds"
+      "https://stardewvalleywiki.com/Carrot_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "profitNotes": "Fast spring crop for short planting windows, light food support, and simple processing once machines are available.",
+    "bestUses": [
+      "Short spring crop window",
+      "Horse speed snack",
+      "Juice or Pickles processing"
+    ]
   },
   {
     "id": "crop-garlic",
@@ -667,10 +696,12 @@
     "beginnerNote": "Spring crop grown from Garlic Seeds; Year 2 purchase path is the normal store source.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Garlic",
-      "https://stardewvalleywiki.com/Garlic_Seeds"
+      "https://stardewvalleywiki.com/Garlic_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "bestUses": []
   },
   {
     "id": "crop-kale",
@@ -685,10 +716,12 @@
     "beginnerNote": "Spring crop grown from Kale Seeds.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Kale",
-      "https://stardewvalleywiki.com/Kale_Seeds"
+      "https://stardewvalleywiki.com/Kale_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "bestUses": []
   },
   {
     "id": "crop-rhubarb",
@@ -703,10 +736,12 @@
     "beginnerNote": "Spring crop grown from Rhubarb Seeds; Oasis is the normal gold purchase source.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Rhubarb",
-      "https://stardewvalleywiki.com/Rhubarb_Seeds"
+      "https://stardewvalleywiki.com/Rhubarb_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "bestUses": []
   },
   {
     "id": "crop-tulip",
@@ -721,10 +756,12 @@
     "beginnerNote": "Spring flower grown from Tulip Bulb.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Tulip",
-      "https://stardewvalleywiki.com/Tulip_Bulb"
+      "https://stardewvalleywiki.com/Tulip_Bulb",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "bestUses": []
   },
   {
     "id": "crop-unmilled-rice",
@@ -739,10 +776,12 @@
     "beginnerNote": "Spring crop grown from Rice Shoot.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Unmilled_Rice",
-      "https://stardewvalleywiki.com/Rice_Shoot"
+      "https://stardewvalleywiki.com/Rice_Shoot",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "bestUses": []
   },
   {
     "id": "crop-hops",
@@ -757,10 +796,12 @@
     "beginnerNote": "Summer crop grown from Hops Starter; regrows daily after maturity.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Hops",
-      "https://stardewvalleywiki.com/Hops_Starter"
+      "https://stardewvalleywiki.com/Hops_Starter",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 1
+    "regrowthDays": 1,
+    "bestUses": []
   },
   {
     "id": "crop-poppy",
@@ -775,10 +816,12 @@
     "beginnerNote": "Summer flower grown from Poppy Seeds.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Poppy",
-      "https://stardewvalleywiki.com/Poppy_Seeds"
+      "https://stardewvalleywiki.com/Poppy_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "bestUses": []
   },
   {
     "id": "crop-radish",
@@ -793,10 +836,12 @@
     "beginnerNote": "Summer crop grown from Radish Seeds.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Radish",
-      "https://stardewvalleywiki.com/Radish_Seeds"
+      "https://stardewvalleywiki.com/Radish_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "bestUses": []
   },
   {
     "id": "crop-summer-spangle",
@@ -811,10 +856,12 @@
     "beginnerNote": "Summer flower grown from Spangle Seeds.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Summer_Spangle",
-      "https://stardewvalleywiki.com/Spangle_Seeds"
+      "https://stardewvalleywiki.com/Spangle_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "bestUses": []
   },
   {
     "id": "crop-summer-squash",
@@ -824,15 +871,22 @@
       "Summer"
     ],
     "growthDays": 6,
-    "seedPrice": "needs verification",
+    "seedPrice": "Not sold for gold; Raccoon Wife trade costs 15 Sap",
     "sellPrice": 45,
     "beginnerNote": "Summer crop grown from Summer Squash Seeds; regrows every 3 days.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Summer_Squash",
-      "https://stardewvalleywiki.com/Summer_Squash_Seeds"
+      "https://stardewvalleywiki.com/Summer_Squash_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 3
+    "regrowthDays": 3,
+    "profitNotes": "Summer regrowth crop that works as a filler once seeds are obtained through non-shop sources.",
+    "bestUses": [
+      "Summer regrowth filler",
+      "Pickles processing",
+      "Juice processing"
+    ]
   },
   {
     "id": "crop-sunflower",
@@ -848,10 +902,12 @@
     "beginnerNote": "Summer and fall crop grown from Sunflower Seeds.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Sunflower",
-      "https://stardewvalleywiki.com/Sunflower_Seeds"
+      "https://stardewvalleywiki.com/Sunflower_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "bestUses": []
   },
   {
     "id": "crop-artichoke",
@@ -866,10 +922,12 @@
     "beginnerNote": "Fall crop grown from Artichoke Seeds.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Artichoke",
-      "https://stardewvalleywiki.com/Artichoke_Seeds"
+      "https://stardewvalleywiki.com/Artichoke_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "bestUses": []
   },
   {
     "id": "crop-beet",
@@ -884,10 +942,12 @@
     "beginnerNote": "Fall crop grown from Beet Seeds.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Beet",
-      "https://stardewvalleywiki.com/Beet_Seeds"
+      "https://stardewvalleywiki.com/Beet_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "bestUses": []
   },
   {
     "id": "crop-bok-choy",
@@ -902,10 +962,12 @@
     "beginnerNote": "Fall crop grown from Bok Choy Seeds.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Bok_Choy",
-      "https://stardewvalleywiki.com/Bok_Choy_Seeds"
+      "https://stardewvalleywiki.com/Bok_Choy_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "bestUses": []
   },
   {
     "id": "crop-broccoli",
@@ -915,15 +977,22 @@
       "Fall"
     ],
     "growthDays": 8,
-    "seedPrice": "needs verification",
+    "seedPrice": "Not sold for gold; Raccoon Wife trade costs 5 Moss",
     "sellPrice": 70,
     "beginnerNote": "Fall crop grown from Broccoli Seeds; seed price is not sold in regular stores.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Broccoli",
-      "https://stardewvalleywiki.com/Broccoli_Seeds"
+      "https://stardewvalleywiki.com/Broccoli_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "profitNotes": "Fall regrowth crop from non-shop seeds; useful when it does not displace higher-priority fall crops.",
+    "bestUses": [
+      "Fall regrowth filler",
+      "Pickles or Juice processing",
+      "Late-game seed route"
+    ]
   },
   {
     "id": "crop-fairy-rose",
@@ -938,10 +1007,12 @@
     "beginnerNote": "Fall flower grown from Fairy Seeds.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Fairy_Rose",
-      "https://stardewvalleywiki.com/Fairy_Seeds"
+      "https://stardewvalleywiki.com/Fairy_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "bestUses": []
   },
   {
     "id": "crop-grape",
@@ -956,10 +1027,12 @@
     "beginnerNote": "Fall crop grown from Grape Starter; the summer forage version is excluded from the crop candidate.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Grape",
-      "https://stardewvalleywiki.com/Grape_Starter"
+      "https://stardewvalleywiki.com/Grape_Starter",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 3
+    "regrowthDays": 3,
+    "bestUses": []
   },
   {
     "id": "crop-powdermelon",
@@ -969,15 +1042,22 @@
       "Winter"
     ],
     "growthDays": 7,
-    "seedPrice": "needs verification",
+    "seedPrice": "Not sold for gold; Raccoon Wife trade costs 2 Pine Cones",
     "sellPrice": 60,
     "beginnerNote": "Winter crop grown from Powdermelon Seeds.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Powdermelon",
-      "https://stardewvalleywiki.com/Powdermelon_Seeds"
+      "https://stardewvalleywiki.com/Powdermelon_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "profitNotes": "Winter crop that adds outdoor farming activity when normal crop options are limited.",
+    "bestUses": [
+      "Winter crop planning",
+      "Giant crop chance",
+      "Jam or Wine processing"
+    ]
   },
   {
     "id": "crop-cactus-fruit",
@@ -992,10 +1072,12 @@
     "beginnerNote": "Special crop grown from Cactus Seeds; Cactus Seeds are sold at the Oasis.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Cactus_Fruit",
-      "https://stardewvalleywiki.com/Cactus_Seeds"
+      "https://stardewvalleywiki.com/Cactus_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 3
+    "regrowthDays": 3,
+    "bestUses": []
   },
   {
     "id": "crop-pineapple",
@@ -1005,15 +1087,22 @@
       "Special"
     ],
     "growthDays": 14,
-    "seedPrice": "needs verification",
+    "seedPrice": "Ginger Island Trader: 1 Magma Cap",
     "sellPrice": 300,
     "beginnerNote": "Special crop grown from Pineapple Seeds; island acquisition is not a normal gold purchase.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Pineapple",
-      "https://stardewvalleywiki.com/Pineapple_Seeds"
+      "https://stardewvalleywiki.com/Pineapple_Seeds",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 7
+    "regrowthDays": 7,
+    "profitNotes": "Late-game tropical regrowth crop for Ginger Island or greenhouse use, with wine, jam, and dried fruit options.",
+    "bestUses": [
+      "Ginger Island farming",
+      "Greenhouse fruit crop",
+      "Wine or Preserves processing"
+    ]
   },
   {
     "id": "crop-qi-fruit",
@@ -1023,15 +1112,22 @@
       "Special"
     ],
     "growthDays": 4,
-    "seedPrice": "needs verification",
+    "seedPrice": "Qi Bean quest seed; obtained during Qi's Crop challenge",
     "sellPrice": 1,
     "beginnerNote": "Quest-only special crop grown from Qi Beans during Qi's Crop.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Qi_Fruit",
-      "https://stardewvalleywiki.com/Qi_Bean"
+      "https://stardewvalleywiki.com/Qi_Bean",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "profitNotes": "Quest crop for shipping 500 Qi Fruit, not a normal money crop.",
+    "bestUses": [
+      "Qi's Crop quest",
+      "Fast seed multiplication",
+      "Temporary quest farming"
+    ]
   },
   {
     "id": "crop-sweet-gem-berry",
@@ -1046,10 +1142,12 @@
     "beginnerNote": "Fall crop grown from Rare Seed; regular purchase is the Traveling Cart.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Sweet_Gem_Berry",
-      "https://stardewvalleywiki.com/Rare_Seed"
+      "https://stardewvalleywiki.com/Rare_Seed",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "bestUses": []
   },
   {
     "id": "crop-taro-root",
@@ -1059,15 +1157,22 @@
       "Special"
     ],
     "growthDays": 10,
-    "seedPrice": "needs verification",
+    "seedPrice": "Ginger Island Trader: 2 Bone Fragments",
     "sellPrice": 100,
     "beginnerNote": "Special crop grown from Taro Tuber; island acquisition is not a normal gold purchase.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Taro_Root",
-      "https://stardewvalleywiki.com/Taro_Tuber"
+      "https://stardewvalleywiki.com/Taro_Tuber",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 0
+    "regrowthDays": 0,
+    "profitNotes": "Ginger Island crop that matures faster when planted near water; better considered after the island is unlocked.",
+    "bestUses": [
+      "Ginger Island crop",
+      "Poi ingredient",
+      "Juice or Pickles processing"
+    ]
   },
   {
     "id": "crop-tea-leaves",
@@ -1084,9 +1189,11 @@
     "beginnerNote": "Bush crop grown from Tea Sapling; produces Tea Leaves in the last week of Spring, Summer, and Fall.",
     "sourceUrls": [
       "https://stardewvalleywiki.com/Tea_Leaves",
-      "https://stardewvalleywiki.com/Tea_Sapling"
+      "https://stardewvalleywiki.com/Tea_Sapling",
+      "https://stardewvalleywiki.com/Crops"
     ],
     "lastChecked": "2026-05-18",
-    "regrowthDays": 1
+    "regrowthDays": 1,
+    "bestUses": []
   }
 ]

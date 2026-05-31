@@ -6,6 +6,7 @@ import { RelatedStardewGuides } from "@/components/RelatedStardewGuides";
 import { StardewDetailUseGuide } from "@/components/StardewDetailUseGuide";
 import { StardewRouteClusterLinks, type StardewRouteCluster } from "@/components/StardewRouteClusterLinks";
 import { getAllCrops, getCropBySlug } from "@/lib/stardew/data";
+import { displayDays, displayGold, displayList, displayText, isReviewValue } from "@/lib/stardew/display";
 import { getStardewGuideArticlesBySlugs } from "@/lib/stardew/guides";
 import type { Crop } from "@/lib/stardew/types";
 
@@ -52,7 +53,7 @@ export default async function CropDetailPage({ params }: { params: Promise<{ slu
         </DataCard>
 
         <DataCard>
-          <p className="text-sm leading-6 text-green-950/72">{crop.description ?? crop.beginnerNote ?? "needs verification"}</p>
+          <p className="text-sm leading-6 text-green-950/72">{displayText(crop.description ?? crop.beginnerNote, "Use the facts below to decide whether this crop fits your current season plan.")}</p>
         </DataCard>
 
         <DataCard>
@@ -64,7 +65,7 @@ export default async function CropDetailPage({ params }: { params: Promise<{ slu
           <Fact label="Sell price" value={formatGold(crop.sellPrice)} />
           <Fact label="Growth" value={formatDays(crop.growthDays)} />
           <Fact label="Regrowth" value={formatDays(crop.regrowthDays)} />
-          <Fact label="Profit notes" value={crop.profitNotes ?? "needs verification"} />
+          <Fact label="Profit notes" value={displayText(crop.profitNotes, "Depends on setup")} />
           <Fact label="Best uses" value={formatValueList(crop.bestUses)} />
         </dl>
         <SourceLine lastChecked={crop.lastChecked} sourceUrls={crop.sourceUrls} />
@@ -107,29 +108,29 @@ function Fact({ label, value }: { label: string; value: string }) {
   );
 }
 
-function formatGold(value: number | "needs verification") {
-  return typeof value === "number" ? `${value}g` : value;
+function formatGold(value: number | string | "needs verification") {
+  return displayGold(value, "Check source");
 }
 
 function formatDays(value: number | "needs verification") {
-  return typeof value === "number" ? `${value} days` : value;
+  return displayDays(value);
 }
 
 function formatValueList(value: string[] | string | "needs verification" | undefined) {
   if (Array.isArray(value) && value.length > 0) {
-    return value.join(", ");
+    return displayList(value, "Check source");
   }
 
-  if (typeof value === "string" && value.trim().length > 0) {
+  if (typeof value === "string" && value.trim().length > 0 && !isReviewValue(value)) {
     return value;
   }
 
-  return "needs verification";
+  return "Check source";
 }
 
 function buildBeginnerRecommendation(crop: {
   beginnerNote: string;
-  growthDays: number | "needs verification";
+  growthDays: number | string | "needs verification";
   profitNotes?: string | "needs verification";
   bestUses?: string[] | string | "needs verification";
 }) {
@@ -144,7 +145,7 @@ function buildBeginnerRecommendation(crop: {
   }
 
   const bestUses = formatValueList(crop.bestUses);
-  if (bestUses !== "needs verification") {
+  if (bestUses !== "Check source") {
     notes.push(`Best uses: ${bestUses}.`);
   }
 
@@ -161,10 +162,10 @@ function buildCropQuickAnswer(crop: Crop) {
   const regrowth = formatDays(crop.regrowthDays);
   const sellPrice = formatGold(crop.sellPrice);
   const seedSource = formatValueList(crop.seedSource);
-  const regrowthText = regrowth === "needs verification" ? "" : ` Regrowth: ${regrowth}.`;
+  const regrowthText = regrowth === "Check timing" ? "" : ` Regrowth: ${regrowth}.`;
 
   const uses = formatValueList(crop.bestUses);
-  const usesText = uses === "needs verification" ? "" : ` Best uses: ${uses}.`;
+  const usesText = uses === "Check source" ? "" : ` Best uses: ${uses}.`;
 
   return `${crop.name} grows in ${season}. It takes ${growth}, sells for ${sellPrice}, and comes from ${seedSource}.${regrowthText}${usesText} Use the guide links below when deciding whether this crop fits your season plan, scarecrow coverage, or sprinkler transition.`;
 }

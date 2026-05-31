@@ -2,6 +2,7 @@
 
 import { useMemo, useState } from "react";
 import Link from "next/link";
+import { displayDays, displayGold, displayText, isReviewValue } from "@/lib/stardew/display";
 import type { Crop, Season } from "@/lib/stardew/types";
 
 type SeasonFilter = "All" | "Spring" | "Summer" | "Fall" | "Winter" | "Special";
@@ -91,20 +92,20 @@ export function CropDirectory({ crops }: { crops: Crop[] }) {
                     </div>
                   </div>
                   <span className={`w-fit rounded-sm px-2.5 py-1 text-[11px] font-black uppercase tracking-[0.12em] ${getGrowthBadgeClass(crop.growthDays)}`}>
-                    {formatDays(crop.growthDays)}
+                    {displayDays(crop.growthDays)}
                   </span>
                 </div>
 
                 <div className="grid grid-cols-2 gap-2">
-                  <Fact label="Seed price" value={formatGold(crop.seedPrice)} tone={crop.seedPrice === "needs verification" ? "review" : "default"} />
-                  <Fact label="Sell price" value={formatGold(crop.sellPrice)} />
-                  <Fact label="Growth" value={formatDays(crop.growthDays)} />
-                  <Fact label="Regrow" value={formatDays(crop.regrowthDays)} tone={crop.regrowthDays === "needs verification" ? "review" : "default"} />
+                  <Fact label="Seed price" value={displayGold(crop.seedPrice, "Check source")} tone={isReviewValue(crop.seedPrice) ? "review" : "default"} />
+                  <Fact label="Sell price" value={displayGold(crop.sellPrice)} />
+                  <Fact label="Growth" value={displayDays(crop.growthDays)} />
+                  <Fact label="Regrow" value={displayDays(crop.regrowthDays, "No listed regrowth")} tone={isReviewValue(crop.regrowthDays) ? "review" : "default"} />
                 </div>
 
                 <div className="rounded-md border border-green-950/10 bg-[rgba(255,253,244,0.72)] px-3 py-2">
                   <p className="text-[11px] font-black uppercase tracking-[0.14em] text-green-950/48">Planner note</p>
-                  <p className="mt-1 break-words text-sm font-semibold leading-6 text-green-950/72">Profit: {crop.profitNotes ?? "needs verification"}</p>
+                  <p className="mt-1 break-words text-sm font-semibold leading-6 text-green-950/72">Profit: {displayText(crop.profitNotes, "Depends on setup")}</p>
                 </div>
               </div>
             </Link>
@@ -119,14 +120,6 @@ export function CropDirectory({ crops }: { crops: Crop[] }) {
   );
 }
 
-function formatGold(value: number | "needs verification") {
-  return typeof value === "number" ? `${value}g` : value;
-}
-
-function formatDays(value: number | "needs verification") {
-  return typeof value === "number" ? `${value} days` : value;
-}
-
 function Fact({ label, value, tone = "default" }: { label: string; value: string; tone?: "default" | "review" }) {
   return (
     <div className={`codex-list-metric rounded-sm p-2.5 ${tone === "review" ? "bg-amber-50/80" : ""}`}>
@@ -137,7 +130,7 @@ function Fact({ label, value, tone = "default" }: { label: string; value: string
 }
 
 function getGrowthBadgeClass(value: number | "needs verification") {
-  if (value === "needs verification") {
+  if (typeof value !== "number") {
     return "border border-green-950/12 bg-green-950/6 text-green-950/58";
   }
 

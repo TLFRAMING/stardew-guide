@@ -4,7 +4,7 @@ import { PageShell } from "@/components/PageShell";
 
 export const metadata: Metadata = {
   title: "Game Guides and Databases | Player Codex",
-  description: "Browse live Player Codex game databases, guide hubs, and source-aware reference sections."
+  description: "Browse live Player Codex game databases, guide hubs, and practical reference sections."
 };
 
 const games = [
@@ -38,10 +38,10 @@ export default function DatabasePage() {
         <section className="rounded-md border border-green-950/10 bg-white/85 px-4 py-5 sm:px-5">
           <div className="max-w-3xl space-y-3 text-sm font-semibold leading-6 text-green-950/70">
             <p>
-              This page is the cross-game map for Player Codex. Use it to move between structured reference pages, beginner guide hubs, and source-bounded strategy notes without mixing data from different games.
+              This page is the cross-game map for Player Codex. Use it to move between structured reference pages, beginner guide hubs, and practical strategy articles without mixing data from different games.
             </p>
             <p>
-              Stardew Valley has the largest live database because its stable item and villager data supports searchable reference pages. Rogue Command and Nova Roma are guide-first sections, so their entries point to source-aware articles rather than unfinished databases.
+              Stardew Valley has the largest live database because its stable item and villager data supports searchable reference pages. Rogue Command and Nova Roma are guide-first sections, so their entries point to player-facing articles rather than unfinished databases.
             </p>
           </div>
         </section>

@@ -2,6 +2,7 @@
 
 import { useMemo, useState } from "react";
 import Link from "next/link";
+import { displayDays, displayGold, isReviewValue } from "@/lib/stardew/display";
 import type { FruitTree, Season } from "@/lib/stardew/types";
 
 type SeasonFilter = "All" | "Spring" | "Summer" | "Fall" | "Winter" | "Special";
@@ -96,11 +97,11 @@ export function FruitTreeDirectory({ fruitTrees }: { fruitTrees: FruitTree[] }) 
                 <div className="grid grid-cols-2 gap-2">
                   <Fact
                     label="Sapling price"
-                    value={formatGoldOrReview(tree.saplingPrice)}
-                    tone={tree.saplingPrice === "needs verification" ? "review" : "default"}
+                    value={displayGold(tree.saplingPrice, "Check source")}
+                    tone={isReviewValue(tree.saplingPrice) ? "review" : "default"}
                   />
-                  <Fact label="Fruit value" value={formatGoldOrReview(tree.fruitSellPrice)} />
-                  <Fact label="Growth" value={formatDays(tree.growthDays)} />
+                  <Fact label="Fruit value" value={displayGold(tree.fruitSellPrice, "Check source")} />
+                  <Fact label="Growth" value={displayDays(tree.growthDays)} />
                   <Fact label="Fruit" value={tree.fruitName} />
                 </div>
 
@@ -130,10 +131,6 @@ function Fact({ label, value, tone = "default" }: { label: string; value: string
   );
 }
 
-function formatGoldOrReview(value: number | "needs verification") {
-  return typeof value === "number" ? `${value}g` : "Under review";
-}
-
 function formatDays(value: number | "needs verification") {
-  return typeof value === "number" ? `${value} days` : value;
+  return displayDays(value);
 }

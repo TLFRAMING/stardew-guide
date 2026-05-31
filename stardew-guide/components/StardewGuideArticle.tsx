@@ -14,13 +14,11 @@ export function StardewGuideArticle({ article }: { article: StardewGuideArticleT
       <section className="rounded-md border border-green-950/10 bg-white/85 px-4 py-4 sm:px-5">
         <div className="flex flex-wrap gap-2">
           <Chip>{categoryLabels[article.category] ?? formatLabel(article.category)}</Chip>
-          <Chip>Last checked {article.lastChecked}</Chip>
-          <Chip>{formatConfidence(article.confidence)}</Chip>
-          <Chip>{formatPatchSensitivity(article.patchSensitivity)}</Chip>
+          <Chip>Updated {article.lastChecked}</Chip>
           <Chip>{article.readingTimeMinutes} min read</Chip>
         </div>
         <p className="mt-3 text-sm font-semibold leading-6 text-green-950/62">
-          This guide is original player-facing strategy content based on verified game references. It avoids fixed speed routes, exact income promises, and unverified social claims.
+          Use this guide to make a cleaner Stardew Valley decision before spending the day, buying materials, or committing to a seasonal plan.
         </p>
       </section>
 
@@ -61,9 +59,9 @@ export function StardewGuideArticle({ article }: { article: StardewGuideArticleT
       <section className="rounded-md border border-green-950/10 bg-white/80 px-4 py-5 sm:px-5">
         <div className="grid gap-5 lg:grid-cols-[0.85fr_1.15fr]">
           <div>
-            <h2 className="text-base font-black text-green-950">Sources</h2>
+            <h2 className="text-base font-black text-green-950">References</h2>
             <p className="mt-2 text-sm font-semibold leading-6 text-green-950/62">
-              These links verify mechanics and timing references. The guide text is original strategy writing, not copied source text.
+              Reference pages used for the mechanics, timing, or item details discussed in this guide.
             </p>
           </div>
           <div className="grid gap-2">
@@ -117,14 +115,6 @@ export function StardewGuideArticle({ article }: { article: StardewGuideArticleT
 
 function Chip({ children }: { children: React.ReactNode }) {
   return <span className="rounded-sm bg-green-950/[0.06] px-2.5 py-1 text-[0.68rem] font-black uppercase tracking-[0.12em] text-green-950/55">{children}</span>;
-}
-
-function formatConfidence(value: string) {
-  return value === "needs verification" ? "Needs verification" : `${formatLabel(value)} confidence`;
-}
-
-function formatPatchSensitivity(value: string) {
-  return `${formatLabel(value)} patch sensitivity`;
 }
 
 function formatLabel(value: string) {

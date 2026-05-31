@@ -13,7 +13,7 @@ export default function MoneyGuidesPage() {
   const guides = getAllMoneyGuides();
 
   return (
-    <PageShell eyebrow="Stardew Guide" kicker="Strategy data is source-reviewed. Some profit estimates remain under review." title="Money-Making Guides">
+    <PageShell eyebrow="Stardew Guide" kicker="Planning routes for cash, machines, animals, crops, and seasonal timing." title="Money-Making Guides">
       <div className="space-y-5">
         <section className="rounded-md border border-green-950/10 bg-white/85 px-4 py-4 sm:px-5">
           <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">

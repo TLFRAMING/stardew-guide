@@ -4,7 +4,7 @@ import { PageShell } from "@/components/PageShell";
 
 export const metadata: Metadata = {
   title: "About | Player Codex",
-  description: "Learn about Player Codex, a fan-made multi-game guide index for practical guides, databases, and source-aware player tools."
+  description: "Learn about Player Codex, a fan-made multi-game guide index for practical guides, databases, and player tools."
 };
 
 export default function AboutPage() {

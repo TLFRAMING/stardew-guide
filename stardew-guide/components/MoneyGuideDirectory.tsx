@@ -5,7 +5,7 @@ export function MoneyGuideDirectory({ guides }: { guides: MoneyGuide[] }) {
   return (
     <div className="space-y-5">
       <section className="rounded-lg border border-amber-500/20 bg-amber-50/80 p-4">
-        <p className="text-sm font-bold text-amber-900">Strategy data is source-reviewed. Some profit estimates remain under review.</p>
+        <p className="text-sm font-bold text-amber-900">Use these routes as planning guides, then adjust for your farm layout, season, professions, and available machines.</p>
       </section>
 
       <section className="grid gap-4 md:grid-cols-2">
