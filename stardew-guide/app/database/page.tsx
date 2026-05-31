@@ -12,8 +12,8 @@ const games = [
     name: "Stardew Guide",
     href: "/stardew/database",
     status: "Live",
-    description: "Villagers, crops, fish, forage, fruit trees, animals, animal products, artisan goods, minerals, bundles, and money guides.",
-    entries: ["Villagers", "Crops", "Fish", "Fruit Trees", "Forage", "Animals", "Animal Products", "Artisan Goods", "Minerals", "Community Center", "Money Guides"]
+    description: "Villagers, crops, fish, forage, fruit trees, animals, animal products, artisan goods, minerals, artifacts, cooking, crafting, bundles, and money guides.",
+    entries: ["Villagers", "Crops", "Fish", "Animals", "Animal Products", "Artisan Goods", "Minerals", "Artifacts", "Cooking", "Crafting", "Community Center", "Money Guides"]
   },
   {
     name: "Rogue Command",

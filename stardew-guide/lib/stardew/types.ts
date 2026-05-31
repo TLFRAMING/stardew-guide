@@ -94,6 +94,68 @@ export type Mineral = StardewDataSource & {
   beginnerNote: string;
 };
 
+export type Artifact = StardewDataSource & {
+  id: string;
+  slug: string;
+  name: string;
+  category: string;
+  museumDonation: boolean;
+  sellPrice: number | VerificationValue;
+  boneMill: boolean;
+  tailoring: boolean;
+  savePriority: string;
+  beginnerNote: string;
+};
+
+export type CookingIngredient = {
+  name: string;
+  quantity: number;
+  category: string;
+};
+
+export type CookingRecipe = StardewDataSource & {
+  id: string;
+  slug: string;
+  name: string;
+  description: string;
+  group: string;
+  ingredientsText: string;
+  ingredients: CookingIngredient[];
+  energy: number | VerificationValue;
+  health: number | VerificationValue;
+  buff: string;
+  buffDuration: string;
+  recipeSource: string;
+  sourceType: string;
+  sellPrice: number | VerificationValue;
+  beginnerNote: string;
+};
+
+export type CraftingIngredient = {
+  name: string;
+  quantity: number;
+};
+
+export type CraftingRecipe = StardewDataSource & {
+  id: string;
+  slug: string;
+  name: string;
+  productName: string;
+  group: string;
+  outputQuantity: number | VerificationValue;
+  craftType: string;
+  ingredientsText: string;
+  ingredients: CraftingIngredient[];
+  unlockType: string;
+  unlockMethod: string;
+  starterRecipe: boolean;
+  consumable: boolean;
+  introducedIn16: boolean;
+  craftMaster: boolean;
+  effect: string;
+  beginnerNote: string;
+};
+
 export type Animal = StardewDataSource & {
   id: string;
   slug: string;

@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs";
 import path from "node:path";
-import type { Animal, AnimalProduct, ArtisanGood, Bundle, BundleItem, Crop, Fish, ForageItem, FruitTree, Mineral, MoneyGuide, Season, Villager } from "./types";
+import type { Animal, AnimalProduct, Artifact, ArtisanGood, Bundle, BundleItem, CookingRecipe, CraftingRecipe, Crop, Fish, ForageItem, FruitTree, Mineral, MoneyGuide, Season, Villager } from "./types";
 
 type BundleJson = Omit<Bundle, "items" | "name" | "slug"> & {
   slug?: string;
@@ -85,6 +85,30 @@ export function getAllMinerals(): Mineral[] {
 
 export function getMineralBySlug(slug: string): Mineral | undefined {
   return getAllMinerals().find((item) => item.slug === slug);
+}
+
+export function getAllArtifacts(): Artifact[] {
+  return readJsonArray<Artifact>("artifacts.json");
+}
+
+export function getArtifactBySlug(slug: string): Artifact | undefined {
+  return getAllArtifacts().find((item) => item.slug === slug);
+}
+
+export function getAllCookingRecipes(): CookingRecipe[] {
+  return readJsonArray<CookingRecipe>("cooking-recipes.json");
+}
+
+export function getCookingRecipeBySlug(slug: string): CookingRecipe | undefined {
+  return getAllCookingRecipes().find((recipe) => recipe.slug === slug);
+}
+
+export function getAllCraftingRecipes(): CraftingRecipe[] {
+  return readJsonArray<CraftingRecipe>("crafting-recipes.json");
+}
+
+export function getCraftingRecipeBySlug(slug: string): CraftingRecipe | undefined {
+  return getAllCraftingRecipes().find((recipe) => recipe.slug === slug);
 }
 
 export function getAllAnimals(): Animal[] {

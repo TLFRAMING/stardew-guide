@@ -1,0 +1,2875 @@
+[
+  {
+    "id": "cooking-fried-egg",
+    "slug": "fried-egg",
+    "name": "Fried Egg",
+    "description": "Sunny-side up.",
+    "group": "Cooking",
+    "ingredientsText": "Egg x1",
+    "ingredients": [
+      {
+        "name": "Egg",
+        "quantity": 1,
+        "category": "动物产品"
+      }
+    ],
+    "energy": 50,
+    "health": 22,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "初始拥有",
+    "sourceType": "初始",
+    "sellPrice": 35,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Fried_Egg",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-omelet",
+    "slug": "omelet",
+    "name": "Omelet",
+    "description": "It's super fluffy.",
+    "group": "Cooking",
+    "ingredientsText": "Egg x1; Milk x1",
+    "ingredients": [
+      {
+        "name": "Egg",
+        "quantity": 1,
+        "category": "动物产品"
+      },
+      {
+        "name": "Milk",
+        "quantity": 1,
+        "category": "动物产品"
+      }
+    ],
+    "energy": 100,
+    "health": 45,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：奇数年春季28日；星之果实酒吧购买食谱 100g",
+    "sourceType": "电视/商店",
+    "sellPrice": 125,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Omelet",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-salad",
+    "slug": "salad",
+    "name": "Salad",
+    "description": "A healthy garden salad.",
+    "group": "Cooking",
+    "ingredientsText": "Leek x1; Dandelion x1; Vinegar x1",
+    "ingredients": [
+      {
+        "name": "Leek",
+        "quantity": 1,
+        "category": "觅食物"
+      },
+      {
+        "name": "Dandelion",
+        "quantity": 1,
+        "category": "觅食物"
+      },
+      {
+        "name": "Vinegar",
+        "quantity": 1,
+        "category": "商店原料"
+      }
+    ],
+    "energy": 113,
+    "health": 50,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "艾米丽邮件：3心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 110,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Salad",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-cheese-cauliflower",
+    "slug": "cheese-cauliflower",
+    "name": "Cheese Cauliflower",
+    "description": "It smells great!",
+    "group": "Cooking",
+    "ingredientsText": "Cauliflower x1; Cheese x1",
+    "ingredients": [
+      {
+        "name": "Cauliflower",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Cheese",
+        "quantity": 1,
+        "category": "工匠制品"
+      }
+    ],
+    "energy": 138,
+    "health": 62,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "潘姆邮件：3心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 300,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cheese_Cauliflower",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-baked-fish",
+    "slug": "baked-fish",
+    "name": "Baked Fish",
+    "description": "Baked fish on a bed of herbs.",
+    "group": "Cooking",
+    "ingredientsText": "Sunfish x1; Bream x1; Wheat Flour x1",
+    "ingredients": [
+      {
+        "name": "Sunfish",
+        "quantity": 1,
+        "category": "鱼类"
+      },
+      {
+        "name": "Bream",
+        "quantity": 1,
+        "category": "鱼类"
+      },
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      }
+    ],
+    "energy": 75,
+    "health": 33,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：奇数年夏季7日",
+    "sourceType": "电视",
+    "sellPrice": 100,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Baked_Fish",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-parsnip-soup",
+    "slug": "parsnip-soup",
+    "name": "Parsnip Soup",
+    "description": "It's fresh and hearty.",
+    "group": "Cooking",
+    "ingredientsText": "Parsnip x1; Milk x1; Vinegar x1",
+    "ingredients": [
+      {
+        "name": "Parsnip",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Milk",
+        "quantity": 1,
+        "category": "动物产品"
+      },
+      {
+        "name": "Vinegar",
+        "quantity": 1,
+        "category": "商店原料"
+      }
+    ],
+    "energy": 85,
+    "health": 38,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "卡洛琳邮件：3心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 120,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Parsnip_Soup",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-vegetable-medley",
+    "slug": "vegetable-medley",
+    "name": "Vegetable Medley",
+    "description": "This is very nutritious.",
+    "group": "Cooking",
+    "ingredientsText": "Tomato x1; Beet x1",
+    "ingredients": [
+      {
+        "name": "Tomato",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Beet",
+        "quantity": 1,
+        "category": "作物"
+      }
+    ],
+    "energy": 165,
+    "health": 74,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "卡洛琳邮件：7心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 120,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Vegetable_Medley",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-complete-breakfast",
+    "slug": "complete-breakfast",
+    "name": "Complete Breakfast",
+    "description": "You'll feel ready to take on the world!",
+    "group": "Cooking",
+    "ingredientsText": "Fried Egg x1; Milk x1; Hashbrowns x1; Pancakes x1",
+    "ingredients": [
+      {
+        "name": "Fried Egg",
+        "quantity": 1,
+        "category": "原料菜肴"
+      },
+      {
+        "name": "Milk",
+        "quantity": 1,
+        "category": "动物产品"
+      },
+      {
+        "name": "Hashbrowns",
+        "quantity": 1,
+        "category": "原料菜肴"
+      },
+      {
+        "name": "Pancakes",
+        "quantity": 1,
+        "category": "原料菜肴"
+      }
+    ],
+    "energy": 200,
+    "health": 90,
+    "buff": "耕种 +2；体力值上限 +50",
+    "buffDuration": "7分钟",
+    "recipeSource": "酱料女皇：偶数年春季21日",
+    "sourceType": "电视",
+    "sellPrice": 350,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Complete_Breakfast",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-fried-calamari",
+    "slug": "fried-calamari",
+    "name": "Fried Calamari",
+    "description": "It's so chewy.",
+    "group": "Cooking",
+    "ingredientsText": "Squid x1; Wheat Flour x1; Oil x1",
+    "ingredients": [
+      {
+        "name": "Squid",
+        "quantity": 1,
+        "category": "鱼类"
+      },
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Oil",
+        "quantity": 1,
+        "category": "商店/工匠原料"
+      }
+    ],
+    "energy": 80,
+    "health": 36,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "乔迪邮件：3心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 150,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Fried_Calamari",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-strange-bun",
+    "slug": "strange-bun",
+    "name": "Strange Bun",
+    "description": "What's inside?",
+    "group": "Cooking",
+    "ingredientsText": "Wheat Flour x1; Periwinkle x1; Void Mayonnaise x1",
+    "ingredients": [
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Periwinkle",
+        "quantity": 1,
+        "category": "蟹笼"
+      },
+      {
+        "name": "Void Mayonnaise",
+        "quantity": 1,
+        "category": "工匠制品"
+      }
+    ],
+    "energy": 100,
+    "health": 45,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "谢恩邮件：7心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 225,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Strange_Bun",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-lucky-lunch",
+    "slug": "lucky-lunch",
+    "name": "Lucky Lunch",
+    "description": "A special little meal.",
+    "group": "Cooking",
+    "ingredientsText": "Sea Cucumber x1; Tortilla x1; Blue Jazz x1",
+    "ingredients": [
+      {
+        "name": "Sea Cucumber",
+        "quantity": 1,
+        "category": "鱼类"
+      },
+      {
+        "name": "Tortilla",
+        "quantity": 1,
+        "category": "原料菜肴"
+      },
+      {
+        "name": "Blue Jazz",
+        "quantity": 1,
+        "category": "作物"
+      }
+    ],
+    "energy": 100,
+    "health": 45,
+    "buff": "运气 +3",
+    "buffDuration": "11分11秒",
+    "recipeSource": "酱料女皇：偶数年春季28日",
+    "sourceType": "电视",
+    "sellPrice": 250,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Lucky_Lunch",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-fried-mushroom",
+    "slug": "fried-mushroom",
+    "name": "Fried Mushroom",
+    "description": "Earthy and aromatic.",
+    "group": "Cooking",
+    "ingredientsText": "Common Mushroom x1; Morel x1; Oil x1",
+    "ingredients": [
+      {
+        "name": "Common Mushroom",
+        "quantity": 1,
+        "category": "觅食物"
+      },
+      {
+        "name": "Morel",
+        "quantity": 1,
+        "category": "觅食物"
+      },
+      {
+        "name": "Oil",
+        "quantity": 1,
+        "category": "商店/工匠原料"
+      }
+    ],
+    "energy": 135,
+    "health": 60,
+    "buff": "攻击 +2",
+    "buffDuration": "7分钟",
+    "recipeSource": "德米特里厄斯邮件：3心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 200,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Fried_Mushroom",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-pizza",
+    "slug": "pizza",
+    "name": "Pizza",
+    "description": "It's popular for all the right reasons.",
+    "group": "Cooking",
+    "ingredientsText": "Wheat Flour x1; Tomato x1; Cheese x1",
+    "ingredients": [
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Tomato",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Cheese",
+        "quantity": 1,
+        "category": "工匠制品"
+      }
+    ],
+    "energy": 150,
+    "health": 67,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：偶数年春季7日；星之果实酒吧购买食谱 150g",
+    "sourceType": "电视/商店",
+    "sellPrice": 300,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Pizza",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-bean-hotpot",
+    "slug": "bean-hotpot",
+    "name": "Bean Hotpot",
+    "description": "It sure is healthy.",
+    "group": "Cooking",
+    "ingredientsText": "Green Bean x2",
+    "ingredients": [
+      {
+        "name": "Green Bean",
+        "quantity": 2,
+        "category": "作物"
+      }
+    ],
+    "energy": 125,
+    "health": 56,
+    "buff": "体力值上限 +30；磁力 +32",
+    "buffDuration": "7分钟",
+    "recipeSource": "克林特邮件：7心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 100,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bean_Hotpot",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-glazed-yams",
+    "slug": "glazed-yams",
+    "name": "Glazed Yams",
+    "description": "Sweet and satisfying... The sugar gives it a hint of caramel.",
+    "group": "Cooking",
+    "ingredientsText": "Yam x1; Sugar x1",
+    "ingredients": [
+      {
+        "name": "Yam",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      }
+    ],
+    "energy": 200,
+    "health": 90,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：奇数年秋季21日",
+    "sourceType": "电视",
+    "sellPrice": 200,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Glazed_Yams",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-carp-surprise",
+    "slug": "carp-surprise",
+    "name": "Carp Surprise",
+    "description": "It's bland and oily.",
+    "group": "Cooking",
+    "ingredientsText": "Carp x4",
+    "ingredients": [
+      {
+        "name": "Carp",
+        "quantity": 4,
+        "category": "鱼类"
+      }
+    ],
+    "energy": 90,
+    "health": 40,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：偶数年夏季7日",
+    "sourceType": "电视",
+    "sellPrice": 150,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Carp_Surprise",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-hashbrowns",
+    "slug": "hashbrowns",
+    "name": "Hashbrowns",
+    "description": "Crispy and golden-brown!",
+    "group": "Cooking",
+    "ingredientsText": "Potato x1; Oil x1",
+    "ingredients": [
+      {
+        "name": "Potato",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Oil",
+        "quantity": 1,
+        "category": "商店/工匠原料"
+      }
+    ],
+    "energy": 90,
+    "health": 40,
+    "buff": "耕种 +1",
+    "buffDuration": "5分35秒",
+    "recipeSource": "酱料女皇：偶数年春季14日；星之果实酒吧购买食谱 50g",
+    "sourceType": "电视/商店",
+    "sellPrice": 120,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Hashbrowns",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-pancakes",
+    "slug": "pancakes",
+    "name": "Pancakes",
+    "description": "A double stack of fluffy, soft pancakes.",
+    "group": "Cooking",
+    "ingredientsText": "Wheat Flour x1; Egg x1",
+    "ingredients": [
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Egg",
+        "quantity": 1,
+        "category": "动物产品"
+      }
+    ],
+    "energy": 90,
+    "health": 40,
+    "buff": "采集 +2",
+    "buffDuration": "11分11秒",
+    "recipeSource": "酱料女皇：奇数年夏季14日；星之果实酒吧购买食谱 100g",
+    "sourceType": "电视/商店",
+    "sellPrice": 80,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Pancakes",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-salmon-dinner",
+    "slug": "salmon-dinner",
+    "name": "Salmon Dinner",
+    "description": "The lemon spritz makes it special.",
+    "group": "Cooking",
+    "ingredientsText": "Salmon x1; Amaranth x1; Kale x1",
+    "ingredients": [
+      {
+        "name": "Salmon",
+        "quantity": 1,
+        "category": "鱼类"
+      },
+      {
+        "name": "Amaranth",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Kale",
+        "quantity": 1,
+        "category": "作物"
+      }
+    ],
+    "energy": 125,
+    "health": 56,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "格斯邮件：3心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 300,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Salmon_Dinner",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-fish-taco",
+    "slug": "fish-taco",
+    "name": "Fish Taco",
+    "description": "It smells delicious.",
+    "group": "Cooking",
+    "ingredientsText": "Tuna x1; Tortilla x1; Red Cabbage x1; Mayonnaise x1",
+    "ingredients": [
+      {
+        "name": "Tuna",
+        "quantity": 1,
+        "category": "鱼类"
+      },
+      {
+        "name": "Tortilla",
+        "quantity": 1,
+        "category": "原料菜肴"
+      },
+      {
+        "name": "Red Cabbage",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Mayonnaise",
+        "quantity": 1,
+        "category": "工匠制品"
+      }
+    ],
+    "energy": 165,
+    "health": 74,
+    "buff": "钓鱼 +2",
+    "buffDuration": "7分钟",
+    "recipeSource": "莱纳斯邮件：7心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 500,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Fish_Taco",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-crispy-bass",
+    "slug": "crispy-bass",
+    "name": "Crispy Bass",
+    "description": "Wow, the breading is perfect.",
+    "group": "Cooking",
+    "ingredientsText": "Largemouth Bass x1; Wheat Flour x1; Oil x1",
+    "ingredients": [
+      {
+        "name": "Largemouth Bass",
+        "quantity": 1,
+        "category": "鱼类"
+      },
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Oil",
+        "quantity": 1,
+        "category": "商店/工匠原料"
+      }
+    ],
+    "energy": 90,
+    "health": 40,
+    "buff": "磁力 +64",
+    "buffDuration": "7分钟",
+    "recipeSource": "肯特邮件：3心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 150,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Crispy_Bass",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-pepper-poppers",
+    "slug": "pepper-poppers",
+    "name": "Pepper Poppers",
+    "description": "Spicy breaded peppers filled with cheese.",
+    "group": "Cooking",
+    "ingredientsText": "Hot Pepper x1; Cheese x1",
+    "ingredients": [
+      {
+        "name": "Hot Pepper",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Cheese",
+        "quantity": 1,
+        "category": "工匠制品"
+      }
+    ],
+    "energy": 130,
+    "health": 58,
+    "buff": "耕种 +2；速度 +1",
+    "buffDuration": "7分钟",
+    "recipeSource": "谢恩邮件：3心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 200,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Pepper_Poppers",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-bread",
+    "slug": "bread",
+    "name": "Bread",
+    "description": "A crusty baguette.",
+    "group": "Cooking",
+    "ingredientsText": "Wheat Flour x1",
+    "ingredients": [
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      }
+    ],
+    "energy": 50,
+    "health": 22,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：奇数年夏季28日；星之果实酒吧购买食谱 100g",
+    "sourceType": "电视/商店",
+    "sellPrice": 60,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bread",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-tom-kha-soup",
+    "slug": "tom-kha-soup",
+    "name": "Tom Kha Soup",
+    "description": "These flavors are incredible!",
+    "group": "Cooking",
+    "ingredientsText": "Coconut x1; Shrimp x1; Common Mushroom x1",
+    "ingredients": [
+      {
+        "name": "Coconut",
+        "quantity": 1,
+        "category": "觅食物"
+      },
+      {
+        "name": "Shrimp",
+        "quantity": 1,
+        "category": "蟹笼"
+      },
+      {
+        "name": "Common Mushroom",
+        "quantity": 1,
+        "category": "觅食物"
+      }
+    ],
+    "energy": 175,
+    "health": 78,
+    "buff": "耕种 +2；体力值上限 +30",
+    "buffDuration": "7分钟",
+    "recipeSource": "桑迪邮件：7心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 250,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Tom_Kha_Soup",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-trout-soup",
+    "slug": "trout-soup",
+    "name": "Trout Soup",
+    "description": "Pretty salty.",
+    "group": "Cooking",
+    "ingredientsText": "Rainbow Trout x1; Green Algae x1",
+    "ingredients": [
+      {
+        "name": "Rainbow Trout",
+        "quantity": 1,
+        "category": "鱼类"
+      },
+      {
+        "name": "Green Algae",
+        "quantity": 1,
+        "category": "钓鱼杂项"
+      }
+    ],
+    "energy": 100,
+    "health": 45,
+    "buff": "钓鱼 +1",
+    "buffDuration": "4分39秒",
+    "recipeSource": "酱料女皇：奇数年秋季14日",
+    "sourceType": "电视",
+    "sellPrice": 100,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Trout_Soup",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-chocolate-cake",
+    "slug": "chocolate-cake",
+    "name": "Chocolate Cake",
+    "description": "Rich and moist with a thick fudge icing.",
+    "group": "Cooking",
+    "ingredientsText": "Wheat Flour x1; Sugar x1; Egg x1",
+    "ingredients": [
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Egg",
+        "quantity": 1,
+        "category": "动物产品"
+      }
+    ],
+    "energy": 150,
+    "health": 67,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：奇数年冬季14日",
+    "sourceType": "电视",
+    "sellPrice": 200,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Chocolate_Cake",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-pink-cake",
+    "slug": "pink-cake",
+    "name": "Pink Cake",
+    "description": "There's little heart candies on top.",
+    "group": "Cooking",
+    "ingredientsText": "Melon x1; Wheat Flour x1; Sugar x1; Egg x1",
+    "ingredients": [
+      {
+        "name": "Melon",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Egg",
+        "quantity": 1,
+        "category": "动物产品"
+      }
+    ],
+    "energy": 250,
+    "health": 112,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：偶数年夏季21日",
+    "sourceType": "电视",
+    "sellPrice": 480,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Pink_Cake",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-rhubarb-pie",
+    "slug": "rhubarb-pie",
+    "name": "Rhubarb Pie",
+    "description": "Mmm, tangy and sweet!",
+    "group": "Cooking",
+    "ingredientsText": "Rhubarb x1; Wheat Flour x1; Sugar x1",
+    "ingredients": [
+      {
+        "name": "Rhubarb",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      }
+    ],
+    "energy": 215,
+    "health": 96,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "玛妮邮件：7心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 400,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Rhubarb_Pie",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-cookie",
+    "slug": "cookie",
+    "name": "Cookie",
+    "description": "Very chewy.",
+    "group": "Cooking",
+    "ingredientsText": "Wheat Flour x1; Sugar x1; Egg x1",
+    "ingredients": [
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Egg",
+        "quantity": 1,
+        "category": "动物产品"
+      }
+    ],
+    "energy": 90,
+    "health": 40,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "伊芙琳4心事件",
+    "sourceType": "村民事件",
+    "sellPrice": 140,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cookie",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-spaghetti",
+    "slug": "spaghetti",
+    "name": "Spaghetti",
+    "description": "An old favorite.",
+    "group": "Cooking",
+    "ingredientsText": "Wheat Flour x1; Tomato x1",
+    "ingredients": [
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Tomato",
+        "quantity": 1,
+        "category": "作物"
+      }
+    ],
+    "energy": 75,
+    "health": 33,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "刘易斯邮件：3心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 120,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Spaghetti",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-fried-eel",
+    "slug": "fried-eel",
+    "name": "Fried Eel",
+    "description": "Greasy but flavorful.",
+    "group": "Cooking",
+    "ingredientsText": "Eel x1; Oil x1",
+    "ingredients": [
+      {
+        "name": "Eel",
+        "quantity": 1,
+        "category": "鱼类"
+      },
+      {
+        "name": "Oil",
+        "quantity": 1,
+        "category": "商店/工匠原料"
+      }
+    ],
+    "energy": 75,
+    "health": 33,
+    "buff": "运气 +1",
+    "buffDuration": "7分钟",
+    "recipeSource": "乔治邮件：3心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 120,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Fried_Eel",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-spicy-eel",
+    "slug": "spicy-eel",
+    "name": "Spicy Eel",
+    "description": "It's really spicy! Be careful.",
+    "group": "Cooking",
+    "ingredientsText": "Eel x1; Hot Pepper x1",
+    "ingredients": [
+      {
+        "name": "Eel",
+        "quantity": 1,
+        "category": "鱼类"
+      },
+      {
+        "name": "Hot Pepper",
+        "quantity": 1,
+        "category": "作物"
+      }
+    ],
+    "energy": 115,
+    "health": 51,
+    "buff": "运气 +1；速度 +1",
+    "buffDuration": "7分钟",
+    "recipeSource": "乔治邮件：7心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 175,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Spicy_Eel",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-sashimi",
+    "slug": "sashimi",
+    "name": "Sashimi",
+    "description": "Raw fish sliced into thin pieces.",
+    "group": "Cooking",
+    "ingredientsText": "Any Fish x1 (任意鱼类；蟹笼鱼也可计入任意鱼类)",
+    "ingredients": [
+      {
+        "name": "Any Fish",
+        "quantity": 1,
+        "category": "鱼类"
+      }
+    ],
+    "energy": 75,
+    "health": 33,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "莱纳斯邮件：3心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 75,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sashimi",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-maki-roll",
+    "slug": "maki-roll",
+    "name": "Maki Roll",
+    "description": "Fish and rice wrapped in seaweed.",
+    "group": "Cooking",
+    "ingredientsText": "Any Fish x1 (任意鱼类；蟹笼鱼也可计入任意鱼类); Seaweed x1; Rice x1",
+    "ingredients": [
+      {
+        "name": "Any Fish",
+        "quantity": 1,
+        "category": "鱼类"
+      },
+      {
+        "name": "Seaweed",
+        "quantity": 1,
+        "category": "钓鱼杂项"
+      },
+      {
+        "name": "Rice",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      }
+    ],
+    "energy": 100,
+    "health": 45,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：奇数年夏季21日；星之果实酒吧购买食谱 300g",
+    "sourceType": "电视/商店",
+    "sellPrice": 220,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Maki_Roll",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-tortilla",
+    "slug": "tortilla",
+    "name": "Tortilla",
+    "description": "Can be used as a vessel for food or eaten by itself.",
+    "group": "Cooking",
+    "ingredientsText": "Corn x1",
+    "ingredients": [
+      {
+        "name": "Corn",
+        "quantity": 1,
+        "category": "作物"
+      }
+    ],
+    "energy": 50,
+    "health": 22,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：奇数年秋季7日；星之果实酒吧购买食谱 100g",
+    "sourceType": "电视/商店",
+    "sellPrice": 50,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Tortilla",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-red-plate",
+    "slug": "red-plate",
+    "name": "Red Plate",
+    "description": "Full of antioxidants.",
+    "group": "Cooking",
+    "ingredientsText": "Red Cabbage x1; Radish x1",
+    "ingredients": [
+      {
+        "name": "Red Cabbage",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Radish",
+        "quantity": 1,
+        "category": "作物"
+      }
+    ],
+    "energy": 240,
+    "health": 108,
+    "buff": "体力值上限 +50",
+    "buffDuration": "3分30秒",
+    "recipeSource": "艾米丽邮件：7心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 400,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Red_Plate",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-eggplant-parmesan",
+    "slug": "eggplant-parmesan",
+    "name": "Eggplant Parmesan",
+    "description": "Tangy, cheesy, and wonderful.",
+    "group": "Cooking",
+    "ingredientsText": "Eggplant x1; Tomato x1",
+    "ingredients": [
+      {
+        "name": "Eggplant",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Tomato",
+        "quantity": 1,
+        "category": "作物"
+      }
+    ],
+    "energy": 175,
+    "health": 78,
+    "buff": "采矿 +1；防御 +3",
+    "buffDuration": "4分39秒",
+    "recipeSource": "刘易斯邮件：7心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 200,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Eggplant_Parmesan",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-rice-pudding",
+    "slug": "rice-pudding",
+    "name": "Rice Pudding",
+    "description": "It's creamy, sweet, and fun to eat.",
+    "group": "Cooking",
+    "ingredientsText": "Milk x1; Sugar x1; Rice x1",
+    "ingredients": [
+      {
+        "name": "Milk",
+        "quantity": 1,
+        "category": "动物产品"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Rice",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      }
+    ],
+    "energy": 115,
+    "health": 51,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "伊芙琳邮件：7心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 260,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Rice_Pudding",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-ice-cream",
+    "slug": "ice-cream",
+    "name": "Ice Cream",
+    "description": "It's hard to find someone who doesn't like this.",
+    "group": "Cooking",
+    "ingredientsText": "Milk x1; Sugar x1",
+    "ingredients": [
+      {
+        "name": "Milk",
+        "quantity": 1,
+        "category": "动物产品"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      }
+    ],
+    "energy": 100,
+    "health": 45,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "乔迪邮件：7心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 120,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ice_Cream",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-blueberry-tart",
+    "slug": "blueberry-tart",
+    "name": "Blueberry Tart",
+    "description": "It's subtle and refreshing.",
+    "group": "Cooking",
+    "ingredientsText": "Blueberry x1; Wheat Flour x1; Sugar x1; Egg x1",
+    "ingredients": [
+      {
+        "name": "Blueberry",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Egg",
+        "quantity": 1,
+        "category": "动物产品"
+      }
+    ],
+    "energy": 125,
+    "health": 56,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "皮埃尔邮件：3心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 150,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Blueberry_Tart",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-autumn-s-bounty",
+    "slug": "autumn-s-bounty",
+    "name": "Autumn's Bounty",
+    "description": "A taste of the season.",
+    "group": "Cooking",
+    "ingredientsText": "Yam x1; Pumpkin x1",
+    "ingredients": [
+      {
+        "name": "Yam",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Pumpkin",
+        "quantity": 1,
+        "category": "作物"
+      }
+    ],
+    "energy": 220,
+    "health": 99,
+    "buff": "采集 +2；防御 +2",
+    "buffDuration": "7分41秒",
+    "recipeSource": "德米特里厄斯邮件：7心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 350,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Autumn%27s_Bounty",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-pumpkin-soup",
+    "slug": "pumpkin-soup",
+    "name": "Pumpkin Soup",
+    "description": "A seasonal favorite.",
+    "group": "Cooking",
+    "ingredientsText": "Pumpkin x1; Milk x1",
+    "ingredients": [
+      {
+        "name": "Pumpkin",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Milk",
+        "quantity": 1,
+        "category": "动物产品"
+      }
+    ],
+    "energy": 200,
+    "health": 90,
+    "buff": "防御 +2；运气 +2",
+    "buffDuration": "7分41秒",
+    "recipeSource": "罗宾邮件：7心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 300,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Pumpkin_Soup",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-super-meal",
+    "slug": "super-meal",
+    "name": "Super Meal",
+    "description": "It's a really energizing meal.",
+    "group": "Cooking",
+    "ingredientsText": "Bok Choy x1; Cranberries x1; Artichoke x1",
+    "ingredients": [
+      {
+        "name": "Bok Choy",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Cranberries",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Artichoke",
+        "quantity": 1,
+        "category": "作物"
+      }
+    ],
+    "energy": 160,
+    "health": 72,
+    "buff": "体力值上限 +40；速度 +1",
+    "buffDuration": "3分30秒",
+    "recipeSource": "肯特邮件：7心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 220,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Super_Meal",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-cranberry-sauce",
+    "slug": "cranberry-sauce",
+    "name": "Cranberry Sauce",
+    "description": "A festive treat.",
+    "group": "Cooking",
+    "ingredientsText": "Cranberries x1; Sugar x1",
+    "ingredients": [
+      {
+        "name": "Cranberries",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      }
+    ],
+    "energy": 125,
+    "health": 56,
+    "buff": "采矿 +2",
+    "buffDuration": "3分30秒",
+    "recipeSource": "格斯邮件：7心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 120,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cranberry_Sauce",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-stuffing",
+    "slug": "stuffing",
+    "name": "Stuffing",
+    "description": "Ahh... the smell of warm bread and sage.",
+    "group": "Cooking",
+    "ingredientsText": "Bread x1; Cranberries x1; Hazelnut x1",
+    "ingredients": [
+      {
+        "name": "Bread",
+        "quantity": 1,
+        "category": "原料菜肴"
+      },
+      {
+        "name": "Cranberries",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Hazelnut",
+        "quantity": 1,
+        "category": "觅食物"
+      }
+    ],
+    "energy": 170,
+    "health": 76,
+    "buff": "防御 +2",
+    "buffDuration": "5分35秒",
+    "recipeSource": "潘姆邮件：7心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 165,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Stuffing",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-farmer-s-lunch",
+    "slug": "farmer-s-lunch",
+    "name": "Farmer's Lunch",
+    "description": "This'll keep you going.",
+    "group": "Cooking",
+    "ingredientsText": "Omelet x1; Parsnip x1",
+    "ingredients": [
+      {
+        "name": "Omelet",
+        "quantity": 1,
+        "category": "原料菜肴"
+      },
+      {
+        "name": "Parsnip",
+        "quantity": 1,
+        "category": "作物"
+      }
+    ],
+    "energy": 200,
+    "health": 90,
+    "buff": "耕种 +3",
+    "buffDuration": "5分35秒",
+    "recipeSource": "耕种等级 3",
+    "sourceType": "技能等级",
+    "sellPrice": 150,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Farmer%27s_Lunch",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-survival-burger",
+    "slug": "survival-burger",
+    "name": "Survival Burger",
+    "description": "A convenient snack for the explorer.",
+    "group": "Cooking",
+    "ingredientsText": "Bread x1; Cave Carrot x1; Eggplant x1",
+    "ingredients": [
+      {
+        "name": "Bread",
+        "quantity": 1,
+        "category": "原料菜肴"
+      },
+      {
+        "name": "Cave Carrot",
+        "quantity": 1,
+        "category": "觅食物"
+      },
+      {
+        "name": "Eggplant",
+        "quantity": 1,
+        "category": "作物"
+      }
+    ],
+    "energy": 125,
+    "health": 56,
+    "buff": "采集 +3",
+    "buffDuration": "5分35秒",
+    "recipeSource": "采集等级 8",
+    "sourceType": "技能等级",
+    "sellPrice": 180,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Survival_Burger",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-dish-o-the-sea",
+    "slug": "dish-o-the-sea",
+    "name": "Dish O' The Sea",
+    "description": "This'll keep you warm in the cold sea air.",
+    "group": "Cooking",
+    "ingredientsText": "Sardine x2; Hashbrowns x1",
+    "ingredients": [
+      {
+        "name": "Sardine",
+        "quantity": 2,
+        "category": "鱼类"
+      },
+      {
+        "name": "Hashbrowns",
+        "quantity": 1,
+        "category": "原料菜肴"
+      }
+    ],
+    "energy": 150,
+    "health": 67,
+    "buff": "钓鱼 +3",
+    "buffDuration": "5分35秒",
+    "recipeSource": "钓鱼等级 3",
+    "sourceType": "技能等级",
+    "sellPrice": 220,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Dish_O%27_The_Sea",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-miner-s-treat",
+    "slug": "miner-s-treat",
+    "name": "Miner's Treat",
+    "description": "This should keep your energy up.",
+    "group": "Cooking",
+    "ingredientsText": "Cave Carrot x2; Sugar x1; Milk x1",
+    "ingredients": [
+      {
+        "name": "Cave Carrot",
+        "quantity": 2,
+        "category": "觅食物"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Milk",
+        "quantity": 1,
+        "category": "动物产品"
+      }
+    ],
+    "energy": 125,
+    "health": 56,
+    "buff": "采矿 +3；磁力 +32",
+    "buffDuration": "5分35秒",
+    "recipeSource": "采矿等级 3",
+    "sourceType": "技能等级",
+    "sellPrice": 200,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Miner%27s_Treat",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-roots-platter",
+    "slug": "roots-platter",
+    "name": "Roots Platter",
+    "description": "This'll get you digging for more.",
+    "group": "Cooking",
+    "ingredientsText": "Cave Carrot x1; Winter Root x1",
+    "ingredients": [
+      {
+        "name": "Cave Carrot",
+        "quantity": 1,
+        "category": "觅食物"
+      },
+      {
+        "name": "Winter Root",
+        "quantity": 1,
+        "category": "觅食物"
+      }
+    ],
+    "energy": 125,
+    "health": 56,
+    "buff": "攻击 +3",
+    "buffDuration": "5分35秒",
+    "recipeSource": "战斗等级 3",
+    "sourceType": "技能等级",
+    "sellPrice": 100,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Roots_Platter",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-triple-shot-espresso",
+    "slug": "triple-shot-espresso",
+    "name": "Triple Shot Espresso",
+    "description": "It's more potent than regular coffee!",
+    "group": "Cooking",
+    "ingredientsText": "Coffee x3",
+    "ingredients": [
+      {
+        "name": "Coffee",
+        "quantity": 3,
+        "category": "工匠制品/饮品"
+      }
+    ],
+    "energy": 8,
+    "health": 3,
+    "buff": "速度 +1",
+    "buffDuration": "4分12秒",
+    "recipeSource": "星之果实酒吧购买食谱 5,000g",
+    "sourceType": "商店",
+    "sellPrice": 450,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Triple_Shot_Espresso",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-seafoam-pudding",
+    "slug": "seafoam-pudding",
+    "name": "Seafoam Pudding",
+    "description": "This briny pudding will really get you into the maritime mindset!",
+    "group": "Cooking",
+    "ingredientsText": "Flounder x1; Midnight Carp x1; Squid Ink x1",
+    "ingredients": [
+      {
+        "name": "Flounder",
+        "quantity": 1,
+        "category": "鱼类"
+      },
+      {
+        "name": "Midnight Carp",
+        "quantity": 1,
+        "category": "鱼类"
+      },
+      {
+        "name": "Squid Ink",
+        "quantity": 1,
+        "category": "杂项"
+      }
+    ],
+    "energy": 175,
+    "health": 78,
+    "buff": "钓鱼 +4",
+    "buffDuration": "3分30秒",
+    "recipeSource": "钓鱼等级 9",
+    "sourceType": "技能等级",
+    "sellPrice": 300,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Seafoam_Pudding",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-algae-soup",
+    "slug": "algae-soup",
+    "name": "Algae Soup",
+    "description": "It's a little slimy.",
+    "group": "Cooking",
+    "ingredientsText": "Green Algae x4",
+    "ingredients": [
+      {
+        "name": "Green Algae",
+        "quantity": 4,
+        "category": "钓鱼杂项"
+      }
+    ],
+    "energy": 75,
+    "health": 33,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "克林特邮件：3心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 100,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Algae_Soup",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-pale-broth",
+    "slug": "pale-broth",
+    "name": "Pale Broth",
+    "description": "A delicate broth with a hint of sulfur.",
+    "group": "Cooking",
+    "ingredientsText": "White Algae x2",
+    "ingredients": [
+      {
+        "name": "White Algae",
+        "quantity": 2,
+        "category": "钓鱼杂项"
+      }
+    ],
+    "energy": 125,
+    "health": 56,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "玛妮邮件：3心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 150,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Pale_Broth",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-plum-pudding",
+    "slug": "plum-pudding",
+    "name": "Plum Pudding",
+    "description": "A traditional holiday treat.",
+    "group": "Cooking",
+    "ingredientsText": "Wild Plum x2; Wheat Flour x1; Sugar x1",
+    "ingredients": [
+      {
+        "name": "Wild Plum",
+        "quantity": 2,
+        "category": "觅食物"
+      },
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      }
+    ],
+    "energy": 175,
+    "health": 78,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：奇数年冬季7日",
+    "sourceType": "电视",
+    "sellPrice": 260,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Plum_Pudding",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-artichoke-dip",
+    "slug": "artichoke-dip",
+    "name": "Artichoke Dip",
+    "description": "It's cool and refreshing.",
+    "group": "Cooking",
+    "ingredientsText": "Artichoke x1; Milk x1",
+    "ingredients": [
+      {
+        "name": "Artichoke",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Milk",
+        "quantity": 1,
+        "category": "动物产品"
+      }
+    ],
+    "energy": 100,
+    "health": 45,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：奇数年秋季28日",
+    "sourceType": "电视",
+    "sellPrice": 210,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Artichoke_Dip",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-stir-fry",
+    "slug": "stir-fry",
+    "name": "Stir Fry",
+    "description": "Julienned vegetables on a bed of rice.",
+    "group": "Cooking",
+    "ingredientsText": "Cave Carrot x1; Common Mushroom x1; Kale x1; Oil x1",
+    "ingredients": [
+      {
+        "name": "Cave Carrot",
+        "quantity": 1,
+        "category": "觅食物"
+      },
+      {
+        "name": "Common Mushroom",
+        "quantity": 1,
+        "category": "觅食物"
+      },
+      {
+        "name": "Kale",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Oil",
+        "quantity": 1,
+        "category": "商店/工匠原料"
+      }
+    ],
+    "energy": 200,
+    "health": 90,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：奇数年春季7日",
+    "sourceType": "电视",
+    "sellPrice": 335,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Stir_Fry",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-roasted-hazelnuts",
+    "slug": "roasted-hazelnuts",
+    "name": "Roasted Hazelnuts",
+    "description": "The roasting process creates a rich forest flavor.",
+    "group": "Cooking",
+    "ingredientsText": "Hazelnut x3",
+    "ingredients": [
+      {
+        "name": "Hazelnut",
+        "quantity": 3,
+        "category": "觅食物"
+      }
+    ],
+    "energy": 175,
+    "health": 78,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：偶数年夏季28日",
+    "sourceType": "电视",
+    "sellPrice": 270,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Roasted_Hazelnuts",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-pumpkin-pie",
+    "slug": "pumpkin-pie",
+    "name": "Pumpkin Pie",
+    "description": "Silky pumpkin cream in a flaky crust.",
+    "group": "Cooking",
+    "ingredientsText": "Pumpkin x1; Wheat Flour x1; Milk x1; Sugar x1",
+    "ingredients": [
+      {
+        "name": "Pumpkin",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Milk",
+        "quantity": 1,
+        "category": "动物产品"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      }
+    ],
+    "energy": 225,
+    "health": 101,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：奇数年冬季21日",
+    "sourceType": "电视",
+    "sellPrice": 385,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Pumpkin_Pie",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-radish-salad",
+    "slug": "radish-salad",
+    "name": "Radish Salad",
+    "description": "The radishes are so crisp!",
+    "group": "Cooking",
+    "ingredientsText": "Oil x1; Vinegar x1; Radish x1",
+    "ingredients": [
+      {
+        "name": "Oil",
+        "quantity": 1,
+        "category": "商店/工匠原料"
+      },
+      {
+        "name": "Vinegar",
+        "quantity": 1,
+        "category": "商店原料"
+      },
+      {
+        "name": "Radish",
+        "quantity": 1,
+        "category": "作物"
+      }
+    ],
+    "energy": 200,
+    "health": 90,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：奇数年春季21日",
+    "sourceType": "电视",
+    "sellPrice": 300,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Radish_Salad",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-fruit-salad",
+    "slug": "fruit-salad",
+    "name": "Fruit Salad",
+    "description": "A delicious combination of summer fruits.",
+    "group": "Cooking",
+    "ingredientsText": "Blueberry x1; Melon x1; Apricot x1",
+    "ingredients": [
+      {
+        "name": "Blueberry",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Melon",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Apricot",
+        "quantity": 1,
+        "category": "果树果实"
+      }
+    ],
+    "energy": 263,
+    "health": 118,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：偶数年秋季7日",
+    "sourceType": "电视",
+    "sellPrice": 450,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Fruit_Salad",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-blackberry-cobbler",
+    "slug": "blackberry-cobbler",
+    "name": "Blackberry Cobbler",
+    "description": "There's nothing quite like it.",
+    "group": "Cooking",
+    "ingredientsText": "Blackberry x2; Sugar x1; Wheat Flour x1",
+    "ingredients": [
+      {
+        "name": "Blackberry",
+        "quantity": 2,
+        "category": "觅食物"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      }
+    ],
+    "energy": 175,
+    "health": 78,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：偶数年秋季14日",
+    "sourceType": "电视",
+    "sellPrice": 260,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Blackberry_Cobbler",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-cranberry-candy",
+    "slug": "cranberry-candy",
+    "name": "Cranberry Candy",
+    "description": "It's sweet enough to mask the bitter fruit.",
+    "group": "Cooking",
+    "ingredientsText": "Cranberries x1; Apple x1; Sugar x1",
+    "ingredients": [
+      {
+        "name": "Cranberries",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Apple",
+        "quantity": 1,
+        "category": "果树果实"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      }
+    ],
+    "energy": 125,
+    "health": 56,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：奇数年冬季28日",
+    "sourceType": "电视",
+    "sellPrice": 175,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cranberry_Candy",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-bruschetta",
+    "slug": "bruschetta",
+    "name": "Bruschetta",
+    "description": "Roasted tomatoes on a crisp white bread.",
+    "group": "Cooking",
+    "ingredientsText": "Bread x1; Oil x1; Tomato x1",
+    "ingredients": [
+      {
+        "name": "Bread",
+        "quantity": 1,
+        "category": "原料菜肴"
+      },
+      {
+        "name": "Oil",
+        "quantity": 1,
+        "category": "商店/工匠原料"
+      },
+      {
+        "name": "Tomato",
+        "quantity": 1,
+        "category": "作物"
+      }
+    ],
+    "energy": 113,
+    "health": 50,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：偶数年冬季21日",
+    "sourceType": "电视",
+    "sellPrice": 210,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bruschetta",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-coleslaw",
+    "slug": "coleslaw",
+    "name": "Coleslaw",
+    "description": "It's light, fresh and very healthy.",
+    "group": "Cooking",
+    "ingredientsText": "Red Cabbage x1; Vinegar x1; Mayonnaise x1",
+    "ingredients": [
+      {
+        "name": "Red Cabbage",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Vinegar",
+        "quantity": 1,
+        "category": "商店原料"
+      },
+      {
+        "name": "Mayonnaise",
+        "quantity": 1,
+        "category": "工匠制品"
+      }
+    ],
+    "energy": 213,
+    "health": 95,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：奇数年春季14日",
+    "sourceType": "电视",
+    "sellPrice": 345,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Coleslaw",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-fiddlehead-risotto",
+    "slug": "fiddlehead-risotto",
+    "name": "Fiddlehead Risotto",
+    "description": "A creamy rice dish served with sauteed fern heads. It's a little bland.",
+    "group": "Cooking",
+    "ingredientsText": "Oil x1; Fiddlehead Fern x1; Garlic x1",
+    "ingredients": [
+      {
+        "name": "Oil",
+        "quantity": 1,
+        "category": "商店/工匠原料"
+      },
+      {
+        "name": "Fiddlehead Fern",
+        "quantity": 1,
+        "category": "觅食物"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 1,
+        "category": "作物"
+      }
+    ],
+    "energy": 225,
+    "health": 101,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：偶数年秋季28日",
+    "sourceType": "电视",
+    "sellPrice": 350,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Fiddlehead_Risotto",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-poppyseed-muffin",
+    "slug": "poppyseed-muffin",
+    "name": "Poppyseed Muffin",
+    "description": "It has a soothing effect.",
+    "group": "Cooking",
+    "ingredientsText": "Poppy x1; Wheat Flour x1; Sugar x1",
+    "ingredients": [
+      {
+        "name": "Poppy",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      }
+    ],
+    "energy": 150,
+    "health": 67,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "酱料女皇：偶数年冬季7日",
+    "sourceType": "电视",
+    "sellPrice": 250,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Poppyseed_Muffin",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-chowder",
+    "slug": "chowder",
+    "name": "Chowder",
+    "description": "A perfect way to warm yourself after a cold night at sea.",
+    "group": "Cooking",
+    "ingredientsText": "Clam x1; Milk x1",
+    "ingredients": [
+      {
+        "name": "Clam",
+        "quantity": 1,
+        "category": "蟹笼"
+      },
+      {
+        "name": "Milk",
+        "quantity": 1,
+        "category": "动物产品"
+      }
+    ],
+    "energy": 225,
+    "health": 101,
+    "buff": "钓鱼 +1",
+    "buffDuration": "16分47秒",
+    "recipeSource": "威利邮件：3心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 135,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Chowder",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-fish-stew",
+    "slug": "fish-stew",
+    "name": "Fish Stew",
+    "description": "It smells a lot like the sea. Tastes better, though.",
+    "group": "Cooking",
+    "ingredientsText": "Crayfish x1; Mussel x1; Periwinkle x1; Tomato x1",
+    "ingredients": [
+      {
+        "name": "Crayfish",
+        "quantity": 1,
+        "category": "蟹笼"
+      },
+      {
+        "name": "Mussel",
+        "quantity": 1,
+        "category": "蟹笼"
+      },
+      {
+        "name": "Periwinkle",
+        "quantity": 1,
+        "category": "蟹笼"
+      },
+      {
+        "name": "Tomato",
+        "quantity": 1,
+        "category": "作物"
+      }
+    ],
+    "energy": 225,
+    "health": 101,
+    "buff": "钓鱼 +3",
+    "buffDuration": "16分47秒",
+    "recipeSource": "威利邮件：7心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 175,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Fish_Stew",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-escargot",
+    "slug": "escargot",
+    "name": "Escargot",
+    "description": "Butter-soaked snails cooked to perfection.",
+    "group": "Cooking",
+    "ingredientsText": "Snail x1; Garlic x1",
+    "ingredients": [
+      {
+        "name": "Snail",
+        "quantity": 1,
+        "category": "蟹笼"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 1,
+        "category": "作物"
+      }
+    ],
+    "energy": 225,
+    "health": 101,
+    "buff": "钓鱼 +2",
+    "buffDuration": "16分47秒",
+    "recipeSource": "威利邮件：5心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 125,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Escargot",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-lobster-bisque",
+    "slug": "lobster-bisque",
+    "name": "Lobster Bisque",
+    "description": "This delicate soup is a secret family recipe of Willy's.",
+    "group": "Cooking",
+    "ingredientsText": "Lobster x1; Milk x1",
+    "ingredients": [
+      {
+        "name": "Lobster",
+        "quantity": 1,
+        "category": "蟹笼"
+      },
+      {
+        "name": "Milk",
+        "quantity": 1,
+        "category": "动物产品"
+      }
+    ],
+    "energy": 225,
+    "health": 101,
+    "buff": "钓鱼 +3；体力值上限 +50",
+    "buffDuration": "16分47秒",
+    "recipeSource": "酱料女皇：偶数年冬季14日；威利邮件：9心+",
+    "sourceType": "电视/村民邮件",
+    "sellPrice": 205,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Lobster_Bisque",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-maple-bar",
+    "slug": "maple-bar",
+    "name": "Maple Bar",
+    "description": "It's a sweet doughnut topped with a rich maple glaze.",
+    "group": "Cooking",
+    "ingredientsText": "Maple Syrup x1; Sugar x1; Wheat Flour x1",
+    "ingredients": [
+      {
+        "name": "Maple Syrup",
+        "quantity": 1,
+        "category": "树液/杂项"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      }
+    ],
+    "energy": 225,
+    "health": 101,
+    "buff": "耕种 +1；钓鱼 +1；采矿 +1",
+    "buffDuration": "16分47秒",
+    "recipeSource": "酱料女皇：偶数年夏季14日",
+    "sourceType": "电视",
+    "sellPrice": 300,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Maple_Bar",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-crab-cakes",
+    "slug": "crab-cakes",
+    "name": "Crab Cakes",
+    "description": "Crab, bread crumbs, and egg formed into patties then fried to a golden brown.",
+    "group": "Cooking",
+    "ingredientsText": "Crab x1; Wheat Flour x1; Egg x1; Oil x1",
+    "ingredients": [
+      {
+        "name": "Crab",
+        "quantity": 1,
+        "category": "蟹笼"
+      },
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Egg",
+        "quantity": 1,
+        "category": "动物产品"
+      },
+      {
+        "name": "Oil",
+        "quantity": 1,
+        "category": "商店/工匠原料"
+      }
+    ],
+    "energy": 225,
+    "health": 101,
+    "buff": "速度 +1；防御 +1",
+    "buffDuration": "16分47秒",
+    "recipeSource": "酱料女皇：偶数年秋季21日",
+    "sourceType": "电视",
+    "sellPrice": 275,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Crab_Cakes",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-shrimp-cocktail",
+    "slug": "shrimp-cocktail",
+    "name": "Shrimp Cocktail",
+    "description": "A sumptuous appetizer made with freshly-caught shrimp.",
+    "group": "Cooking",
+    "ingredientsText": "Tomato x1; Shrimp x1; Wild Horseradish x1",
+    "ingredients": [
+      {
+        "name": "Tomato",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Shrimp",
+        "quantity": 1,
+        "category": "蟹笼"
+      },
+      {
+        "name": "Wild Horseradish",
+        "quantity": 1,
+        "category": "觅食物"
+      }
+    ],
+    "energy": 225,
+    "health": 101,
+    "buff": "钓鱼 +1；运气 +1",
+    "buffDuration": "10分2秒",
+    "recipeSource": "酱料女皇：偶数年冬季28日",
+    "sourceType": "电视",
+    "sellPrice": 160,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Shrimp_Cocktail",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-ginger-ale",
+    "slug": "ginger-ale",
+    "name": "Ginger Ale",
+    "description": "A zesty soda known for its soothing effect on the stomach.",
+    "group": "Cooking",
+    "ingredientsText": "Ginger x3; Sugar x1",
+    "ingredients": [
+      {
+        "name": "Ginger",
+        "quantity": 3,
+        "category": "觅食物"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      }
+    ],
+    "energy": 63,
+    "health": 28,
+    "buff": "运气 +1",
+    "buffDuration": "5分钟",
+    "recipeSource": "火山地牢矮人商店购买食谱 1,000g",
+    "sourceType": "商店",
+    "sellPrice": 200,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ginger_Ale",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-banana-pudding",
+    "slug": "banana-pudding",
+    "name": "Banana Pudding",
+    "description": "A creamy dessert with a wonderful tropical flavor.",
+    "group": "Cooking",
+    "ingredientsText": "Banana x1; Milk x1 (任意牛奶); Sugar x1",
+    "ingredients": [
+      {
+        "name": "Banana",
+        "quantity": 1,
+        "category": "果树果实"
+      },
+      {
+        "name": "Milk",
+        "quantity": 1,
+        "category": "动物产品"
+      },
+      {
+        "name": "Sugar",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      }
+    ],
+    "energy": 125,
+    "health": 56,
+    "buff": "采矿 +1；运气 +1；防御 +1",
+    "buffDuration": "5分1秒",
+    "recipeSource": "岛屿商人：30 骨头碎片兑换食谱",
+    "sourceType": "姜岛商人",
+    "sellPrice": 260,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Banana_Pudding",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-mango-sticky-rice",
+    "slug": "mango-sticky-rice",
+    "name": "Mango Sticky Rice",
+    "description": "Sweet mango and coconut transforms this rice into something very special.",
+    "group": "Cooking",
+    "ingredientsText": "Mango x1; Coconut x1; Rice x1",
+    "ingredients": [
+      {
+        "name": "Mango",
+        "quantity": 1,
+        "category": "果树果实"
+      },
+      {
+        "name": "Coconut",
+        "quantity": 1,
+        "category": "觅食物"
+      },
+      {
+        "name": "Rice",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      }
+    ],
+    "energy": 113,
+    "health": 50,
+    "buff": "防御 +3",
+    "buffDuration": "5分1秒",
+    "recipeSource": "雷欧邮件：7心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 250,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Mango_Sticky_Rice",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-poi",
+    "slug": "poi",
+    "name": "Poi",
+    "description": "A traditional food with a delicate, sweet flavor when eaten fresh.",
+    "group": "Cooking",
+    "ingredientsText": "Taro Root x4",
+    "ingredients": [
+      {
+        "name": "Taro Root",
+        "quantity": 4,
+        "category": "作物"
+      }
+    ],
+    "energy": 75,
+    "health": 33,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "雷欧邮件：3心+",
+    "sourceType": "村民邮件",
+    "sellPrice": 400,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Poi",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-tropical-curry",
+    "slug": "tropical-curry",
+    "name": "Tropical Curry",
+    "description": "An exotic, fragrant curry served in a pineapple bowl.",
+    "group": "Cooking",
+    "ingredientsText": "Coconut x1; Pineapple x1; Hot Pepper x1",
+    "ingredients": [
+      {
+        "name": "Coconut",
+        "quantity": 1,
+        "category": "觅食物"
+      },
+      {
+        "name": "Pineapple",
+        "quantity": 1,
+        "category": "作物"
+      },
+      {
+        "name": "Hot Pepper",
+        "quantity": 1,
+        "category": "作物"
+      }
+    ],
+    "energy": 150,
+    "health": 67,
+    "buff": "采集 +4",
+    "buffDuration": "5分1秒",
+    "recipeSource": "姜岛度假村格斯处购买食谱 2,000g",
+    "sourceType": "姜岛商店",
+    "sellPrice": 500,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Tropical_Curry",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-squid-ink-ravioli",
+    "slug": "squid-ink-ravioli",
+    "name": "Squid Ink Ravioli",
+    "description": "Temporarily protects from debuffs.",
+    "group": "Cooking",
+    "ingredientsText": "Squid Ink x1; Wheat Flour x1; Tomato x1",
+    "ingredients": [
+      {
+        "name": "Squid Ink",
+        "quantity": 1,
+        "category": "杂项"
+      },
+      {
+        "name": "Wheat Flour",
+        "quantity": 1,
+        "category": "商店/加工原料"
+      },
+      {
+        "name": "Tomato",
+        "quantity": 1,
+        "category": "作物"
+      }
+    ],
+    "energy": 125,
+    "health": 56,
+    "buff": "采矿 +1；墨汁意大利饺增益：临时免疫减益",
+    "buffDuration": "采矿 4分39秒；免疫减益 2分59秒",
+    "recipeSource": "战斗等级 9",
+    "sourceType": "技能等级",
+    "sellPrice": 150,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Squid_Ink_Ravioli",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "cooking-moss-soup",
+    "slug": "moss-soup",
+    "name": "Moss Soup",
+    "description": "It's thick and slimy, but edible.",
+    "group": "Cooking",
+    "ingredientsText": "Moss x20",
+    "ingredients": [
+      {
+        "name": "Moss",
+        "quantity": 20,
+        "category": "觅食物"
+      }
+    ],
+    "energy": 70,
+    "health": 31,
+    "buff": "None",
+    "buffDuration": "None",
+    "recipeSource": "采集等级 3",
+    "sourceType": "技能等级",
+    "sellPrice": 80,
+    "beginnerNote": "Cook this when its ingredients are spare and the energy, health, or buff fits the next day plan. Save rare ingredients until bundles, gifts, or artisan uses are checked.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Moss_Soup",
+      "https://stardewvalleywiki.com/Cooking"
+    ],
+    "lastChecked": "2026-05-18"
+  }
+]

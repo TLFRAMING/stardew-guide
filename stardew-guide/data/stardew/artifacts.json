@@ -1,0 +1,716 @@
+[
+  {
+    "id": "artifact-dwarf-scroll-i",
+    "slug": "dwarf-scroll-i",
+    "name": "Dwarf Scroll I",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 1,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "High",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Dwarf_Scroll_I",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-dwarf-scroll-ii",
+    "slug": "dwarf-scroll-ii",
+    "name": "Dwarf Scroll II",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 1,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "High",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Dwarf_Scroll_II",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-dwarf-scroll-iii",
+    "slug": "dwarf-scroll-iii",
+    "name": "Dwarf Scroll III",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 1,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "High",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Dwarf_Scroll_III",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-dwarf-scroll-iv",
+    "slug": "dwarf-scroll-iv",
+    "name": "Dwarf Scroll IV",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 1,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "High",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Dwarf_Scroll_IV",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-chipped-amphora",
+    "slug": "chipped-amphora",
+    "name": "Chipped Amphora",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 40,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Chipped_Amphora",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-arrowhead",
+    "slug": "arrowhead",
+    "name": "Arrowhead",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 40,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Arrowhead",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-ancient-doll",
+    "slug": "ancient-doll",
+    "name": "Ancient Doll",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 60,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "High",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ancient_Doll",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-elvish-jewelry",
+    "slug": "elvish-jewelry",
+    "name": "Elvish Jewelry",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 200,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Elvish_Jewelry",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-chewing-stick",
+    "slug": "chewing-stick",
+    "name": "Chewing Stick",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 50,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Chewing_Stick",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-ornamental-fan",
+    "slug": "ornamental-fan",
+    "name": "Ornamental Fan",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 300,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ornamental_Fan",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-dinosaur-egg",
+    "slug": "dinosaur-egg",
+    "name": "Dinosaur Egg",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 350,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "High",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Dinosaur_Egg",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-rare-disc",
+    "slug": "rare-disc",
+    "name": "Rare Disc",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 300,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "High",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Rare_Disc",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-ancient-sword",
+    "slug": "ancient-sword",
+    "name": "Ancient Sword",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 100,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ancient_Sword",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-rusty-spoon",
+    "slug": "rusty-spoon",
+    "name": "Rusty Spoon",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 25,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Rusty_Spoon",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-rusty-spur",
+    "slug": "rusty-spur",
+    "name": "Rusty Spur",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 25,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Rusty_Spur",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-rusty-cog",
+    "slug": "rusty-cog",
+    "name": "Rusty Cog",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 25,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Rusty_Cog",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-chicken-statue",
+    "slug": "chicken-statue",
+    "name": "Chicken Statue",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 50,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Chicken_Statue",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-ancient-seed",
+    "slug": "ancient-seed",
+    "name": "Ancient Seed",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 5,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "High",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ancient_Seed",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-prehistoric-tool",
+    "slug": "prehistoric-tool",
+    "name": "Prehistoric Tool",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 50,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Prehistoric_Tool",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-dried-starfish",
+    "slug": "dried-starfish",
+    "name": "Dried Starfish",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 40,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Dried_Starfish",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-anchor",
+    "slug": "anchor",
+    "name": "Anchor",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 100,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Anchor",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-glass-shards",
+    "slug": "glass-shards",
+    "name": "Glass Shards",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 20,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Glass_Shards",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-bone-flute",
+    "slug": "bone-flute",
+    "name": "Bone Flute",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 100,
+    "boneMill": true,
+    "tailoring": true,
+    "savePriority": "High",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bone_Flute",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-prehistoric-handaxe",
+    "slug": "prehistoric-handaxe",
+    "name": "Prehistoric Handaxe",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 50,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Prehistoric_Handaxe",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-dwarvish-helm",
+    "slug": "dwarvish-helm",
+    "name": "Dwarvish Helm",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 100,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Dwarvish_Helm",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-dwarf-gadget",
+    "slug": "dwarf-gadget",
+    "name": "Dwarf Gadget",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 200,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "High",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Dwarf_Gadget",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-ancient-drum",
+    "slug": "ancient-drum",
+    "name": "Ancient Drum",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 100,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ancient_Drum",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-golden-mask",
+    "slug": "golden-mask",
+    "name": "Golden Mask",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 500,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Golden_Mask",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-golden-relic",
+    "slug": "golden-relic",
+    "name": "Golden Relic",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 250,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Golden_Relic",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-strange-doll-green",
+    "slug": "strange-doll-green",
+    "name": "Strange Doll (green)",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 1000,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "High",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Strange_Doll_(green)",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-strange-doll-yellow",
+    "slug": "strange-doll-yellow",
+    "name": "Strange Doll (yellow)",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 1000,
+    "boneMill": false,
+    "tailoring": true,
+    "savePriority": "High",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Strange_Doll_(yellow)",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-prehistoric-scapula",
+    "slug": "prehistoric-scapula",
+    "name": "Prehistoric Scapula",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 100,
+    "boneMill": true,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Prehistoric_Scapula",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-prehistoric-tibia",
+    "slug": "prehistoric-tibia",
+    "name": "Prehistoric Tibia",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 100,
+    "boneMill": true,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Prehistoric_Tibia",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-prehistoric-skull",
+    "slug": "prehistoric-skull",
+    "name": "Prehistoric Skull",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 100,
+    "boneMill": true,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Prehistoric_Skull",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-skeletal-hand",
+    "slug": "skeletal-hand",
+    "name": "Skeletal Hand",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 100,
+    "boneMill": true,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Skeletal_Hand",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-prehistoric-rib",
+    "slug": "prehistoric-rib",
+    "name": "Prehistoric Rib",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 100,
+    "boneMill": true,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Prehistoric_Rib",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-prehistoric-vertebra",
+    "slug": "prehistoric-vertebra",
+    "name": "Prehistoric Vertebra",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 100,
+    "boneMill": true,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Prehistoric_Vertebra",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-skeletal-tail",
+    "slug": "skeletal-tail",
+    "name": "Skeletal Tail",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 100,
+    "boneMill": true,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Skeletal_Tail",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-nautilus-fossil",
+    "slug": "nautilus-fossil",
+    "name": "Nautilus Fossil",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 80,
+    "boneMill": true,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Nautilus_Fossil",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-amphibian-fossil",
+    "slug": "amphibian-fossil",
+    "name": "Amphibian Fossil",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 150,
+    "boneMill": true,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Amphibian_Fossil",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-palm-fossil",
+    "slug": "palm-fossil",
+    "name": "Palm Fossil",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 100,
+    "boneMill": true,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Palm_Fossil",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "artifact-trilobite",
+    "slug": "trilobite",
+    "name": "Trilobite",
+    "category": "Artifact",
+    "museumDonation": true,
+    "sellPrice": 50,
+    "boneMill": true,
+    "tailoring": true,
+    "savePriority": "Medium",
+    "beginnerNote": "Donate the first copy to the Museum before treating duplicates as flexible sell, gift, tailoring, or processing items.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Trilobite",
+      "https://zh.stardewvalleywiki.com/%E5%8F%A4%E7%89%A9"
+    ],
+    "lastChecked": "2026-05-18"
+  }
+]

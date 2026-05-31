@@ -53,15 +53,15 @@ const groups: HubGroup[] = [
     tone: "border-green-950/10 bg-white/75",
     items: [
       { title: "Minerals", href: "/stardew/minerals", note: "Location, value, and museum lookup.", status: "Live" },
-      { title: "Artifacts", note: "Planned artifact index.", status: "Planned" }
+      { title: "Artifacts", href: "/stardew/artifacts", note: "Museum donation, duplicate use, tailoring, and artifact collection lookup.", status: "Live" }
     ]
   },
   {
     name: "Crafting & Cooking",
     tone: "border-gold/25 bg-gold/10",
     items: [
-      { title: "Cooking Recipes", note: "Planned cooking reference.", status: "Planned" },
-      { title: "Crafting Recipes", note: "Planned crafting reference.", status: "Planned" }
+      { title: "Cooking Recipes", href: "/stardew/cooking-recipes", note: "Ingredients, energy, health, buffs, recipe source, and cooking decisions.", status: "Live" },
+      { title: "Crafting Recipes", href: "/stardew/crafting-recipes", note: "Ingredients, unlocks, output quantity, Craft Master flags, and crafting decisions.", status: "Live" }
     ]
   },
   {
@@ -101,8 +101,8 @@ export default function DatabasePage() {
               links: [
                 { href: "/stardew/fish", label: "Fish calendar" },
                 { href: "/stardew/crops", label: "Crops" },
-                { href: "/stardew/forage", label: "Forage" },
-                { href: "/stardew/minerals", label: "Minerals" }
+                { href: "/stardew/artifacts", label: "Artifacts" },
+                { href: "/stardew/crafting-recipes", label: "Crafting" }
               ]
             },
             {

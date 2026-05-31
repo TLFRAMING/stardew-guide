@@ -1,0 +1,5152 @@
+[
+  {
+    "id": "crafting-wood-fence",
+    "slug": "wood-fence",
+    "name": "Wood Fence",
+    "productName": "Wood Fence",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Wood × 2",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 2
+      }
+    ],
+    "unlockType": "起始配方",
+    "unlockMethod": "开局自动掌握",
+    "starterRecipe": true,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于围住动物或阻挡路径；围栏会随时间损坏，金钟可防止损坏。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Wood_Fence",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-stone-fence",
+    "slug": "stone-fence",
+    "name": "Stone Fence",
+    "productName": "Stone Fence",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Stone × 2",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "quantity": 2
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 2",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于围住动物或阻挡路径；围栏会随时间损坏，金钟可防止损坏。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Stone_Fence",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-iron-fence",
+    "slug": "iron-fence",
+    "name": "Iron Fence",
+    "productName": "Iron Fence",
+    "group": "Crafting",
+    "outputQuantity": 10,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Iron Bar × 1",
+    "ingredients": [
+      {
+        "name": "Iron Bar",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 4",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于围住动物或阻挡路径；围栏会随时间损坏，金钟可防止损坏。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Iron_Fence",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-hardwood-fence",
+    "slug": "hardwood-fence",
+    "name": "Hardwood Fence",
+    "productName": "Hardwood Fence",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Hardwood × 1",
+    "ingredients": [
+      {
+        "name": "Hardwood",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 6",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于围住动物或阻挡路径；围栏会随时间损坏，金钟可防止损坏。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Hardwood_Fence",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-grass-starter",
+    "slug": "grass-starter",
+    "name": "Grass Starter",
+    "productName": "Grass Starter",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Fiber × 10",
+    "ingredients": [
+      {
+        "name": "Fiber",
+        "quantity": 10
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "皮埃尔杂货店：购买配方 1,000g",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "种植后获得作物、觅食物或特殊树木/草地。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Grass_Starter",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-blue-grass-starter",
+    "slug": "blue-grass-starter",
+    "name": "Blue Grass Starter",
+    "productName": "Blue Grass Starter",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Fiber × 25；Moss × 10；Mystic Syrup × 1",
+    "ingredients": [
+      {
+        "name": "Fiber",
+        "quantity": 25
+      },
+      {
+        "name": "Moss",
+        "quantity": 10
+      },
+      {
+        "name": "Mystic Syrup",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "齐先生核桃房：40 齐钻购买配方",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "种植后获得作物、觅食物或特殊树木/草地。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Blue_Grass_Starter",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-gate",
+    "slug": "gate",
+    "name": "Gate",
+    "productName": "Gate",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 10",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 10
+      }
+    ],
+    "unlockType": "起始配方",
+    "unlockMethod": "开局自动掌握",
+    "starterRecipe": true,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于围住动物或阻挡路径；围栏会随时间损坏，金钟可防止损坏。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Gate",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-chest",
+    "slug": "chest",
+    "name": "Chest",
+    "productName": "Chest",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 50",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 50
+      }
+    ],
+    "unlockType": "起始配方",
+    "unlockMethod": "开局自动掌握",
+    "starterRecipe": true,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于存放物品，部分拥有更大容量。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Chest",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-big-chest",
+    "slug": "big-chest",
+    "name": "Big Chest",
+    "productName": "Big Chest",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 120；Copper Bar × 2",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 120
+      },
+      {
+        "name": "Copper Bar",
+        "quantity": 2
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "木匠的商店：5,000g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "用于存放物品，部分拥有更大容量。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Big_Chest",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-stone-chest",
+    "slug": "stone-chest",
+    "name": "Stone Chest",
+    "productName": "Stone Chest",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Stone × 50",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "quantity": 50
+      }
+    ],
+    "unlockType": "特别订单",
+    "unlockMethod": "罗宾特别订单奖励",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于存放物品，部分拥有更大容量。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Stone_Chest",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-big-stone-chest",
+    "slug": "big-stone-chest",
+    "name": "Big Stone Chest",
+    "productName": "Big Stone Chest",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Stone × 250",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "quantity": 250
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "矮人商店：5,000g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "用于存放物品，部分拥有更大容量。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Big_Stone_Chest",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-torch",
+    "slug": "torch",
+    "name": "Torch",
+    "productName": "Torch",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Wood × 1；Sap × 2",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 1
+      },
+      {
+        "name": "Sap",
+        "quantity": 2
+      }
+    ],
+    "unlockType": "起始配方",
+    "unlockMethod": "开局自动掌握",
+    "starterRecipe": true,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "放置后提供照明或装饰效果。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Torch",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-scarecrow",
+    "slug": "scarecrow",
+    "name": "Scarecrow",
+    "productName": "Scarecrow",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 50；Coal × 1；Fiber × 20",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 50
+      },
+      {
+        "name": "Coal",
+        "quantity": 1
+      },
+      {
+        "name": "Fiber",
+        "quantity": 20
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 1",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "包含农场辅助、矿洞、弹药、机器、图腾柱、电脑、精通建筑等制作物。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Scarecrow",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-deluxe-scarecrow",
+    "slug": "deluxe-scarecrow",
+    "name": "Deluxe Scarecrow",
+    "productName": "Deluxe Scarecrow",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 50；Iridium Ore × 1；Fiber × 40",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 50
+      },
+      {
+        "name": "Iridium Ore",
+        "quantity": 1
+      },
+      {
+        "name": "Fiber",
+        "quantity": 40
+      }
+    ],
+    "unlockType": "收集/邮件",
+    "unlockMethod": "收集全部稀有稻草人后次日邮件获得",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "包含农场辅助、矿洞、弹药、机器、图腾柱、电脑、精通建筑等制作物。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Deluxe_Scarecrow",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-bee-house",
+    "slug": "bee-house",
+    "name": "Bee House",
+    "productName": "Bee House",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 40；Coal × 8；Iron Bar × 1；Maple Syrup × 1",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 40
+      },
+      {
+        "name": "Coal",
+        "quantity": 8
+      },
+      {
+        "name": "Iron Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Maple Syrup",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 3",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于把作物、动物产品、鱼或其他原料加工为高价值物品。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bee_House",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-keg",
+    "slug": "keg",
+    "name": "Keg",
+    "productName": "Keg",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 30；Copper Bar × 1；Iron Bar × 1；Oak Resin × 1",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 30
+      },
+      {
+        "name": "Copper Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Iron Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Oak Resin",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 8",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于把作物、动物产品、鱼或其他原料加工为高价值物品。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Keg",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-cask",
+    "slug": "cask",
+    "name": "Cask",
+    "productName": "Cask",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 20；Hardwood × 1",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 20
+      },
+      {
+        "name": "Hardwood",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "其他",
+    "unlockMethod": "需通过商店、任务、事件或特殊条件解锁，见 Wiki 页面",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于把作物、动物产品、鱼或其他原料加工为高价值物品。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cask",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-dehydrator",
+    "slug": "dehydrator",
+    "name": "Dehydrator",
+    "productName": "Dehydrator",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 30；Clay × 2；Fire Quartz × 1",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 30
+      },
+      {
+        "name": "Clay",
+        "quantity": 2
+      },
+      {
+        "name": "Fire Quartz",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "皮埃尔杂货店：10,000g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "用于把作物、动物产品、鱼或其他原料加工为高价值物品。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Dehydrator",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-furnace",
+    "slug": "furnace",
+    "name": "Furnace",
+    "productName": "Furnace",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Copper Ore × 20；Stone × 25",
+    "ingredients": [
+      {
+        "name": "Copper Ore",
+        "quantity": 20
+      },
+      {
+        "name": "Stone",
+        "quantity": 25
+      }
+    ],
+    "unlockType": "事件/邮件",
+    "unlockMethod": "收集 1 个铜矿石后的次日早上，克林特给予配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于转换矿石、垃圾、树液、鱼饵、蘑菇、骨头、晶球等资源。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Furnace",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-heavy-furnace",
+    "slug": "heavy-furnace",
+    "name": "Heavy Furnace",
+    "productName": "Heavy Furnace",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Furnace × 2；Iron Bar × 3；Stone × 50",
+    "ingredients": [
+      {
+        "name": "Furnace",
+        "quantity": 2
+      },
+      {
+        "name": "Iron Bar",
+        "quantity": 3
+      },
+      {
+        "name": "Stone",
+        "quantity": 50
+      }
+    ],
+    "unlockType": "精通",
+    "unlockMethod": "采矿精通解锁",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "用于转换矿石、垃圾、树液、鱼饵、蘑菇、骨头、晶球等资源。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Heavy_Furnace",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-anvil",
+    "slug": "anvil",
+    "name": "Anvil",
+    "productName": "Anvil",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Iron Bar × 50",
+    "ingredients": [
+      {
+        "name": "Iron Bar",
+        "quantity": 50
+      }
+    ],
+    "unlockType": "精通",
+    "unlockMethod": "战斗精通解锁",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "包含农场辅助、矿洞、弹药、机器、图腾柱、电脑、精通建筑等制作物。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Anvil",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-mini-forge",
+    "slug": "mini-forge",
+    "name": "Mini-Forge",
+    "productName": "Mini-Forge",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Dragon Tooth × 5；Iron Bar × 10；Gold Bar × 10；Iridium Bar × 5",
+    "ingredients": [
+      {
+        "name": "Dragon Tooth",
+        "quantity": 5
+      },
+      {
+        "name": "Iron Bar",
+        "quantity": 10
+      },
+      {
+        "name": "Gold Bar",
+        "quantity": 10
+      },
+      {
+        "name": "Iridium Bar",
+        "quantity": 5
+      }
+    ],
+    "unlockType": "精通",
+    "unlockMethod": "战斗精通解锁",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "包含农场辅助、矿洞、弹药、机器、图腾柱、电脑、精通建筑等制作物。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Mini-Forge",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-garden-pot",
+    "slug": "garden-pot",
+    "name": "Garden Pot",
+    "productName": "Garden Pot",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Clay × 1；Stone × 10；Refined Quartz × 1",
+    "ingredients": [
+      {
+        "name": "Clay",
+        "quantity": 1
+      },
+      {
+        "name": "Stone",
+        "quantity": 10
+      },
+      {
+        "name": "Refined Quartz",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "剧情/事件",
+    "unlockMethod": "修复温室后触发艾芙琳剧情获得",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "包含农场辅助、矿洞、弹药、机器、图腾柱、电脑、精通建筑等制作物。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Garden_Pot",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-wood-sign",
+    "slug": "wood-sign",
+    "name": "Wood Sign",
+    "productName": "Wood Sign",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 25",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 25
+      }
+    ],
+    "unlockType": "起始配方",
+    "unlockMethod": "开局自动掌握",
+    "starterRecipe": true,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "可展示物品或自定义文字，不消耗展示物。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Wood_Sign",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-stone-sign",
+    "slug": "stone-sign",
+    "name": "Stone Sign",
+    "productName": "Stone Sign",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Stone × 25",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "quantity": 25
+      }
+    ],
+    "unlockType": "起始配方",
+    "unlockMethod": "开局自动掌握",
+    "starterRecipe": true,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "可展示物品或自定义文字，不消耗展示物。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Stone_Sign",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-dark-sign",
+    "slug": "dark-sign",
+    "name": "Dark Sign",
+    "productName": "Dark Sign",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Bat Wing × 5；Bone Fragment × 5",
+    "ingredients": [
+      {
+        "name": "Bat Wing",
+        "quantity": 5
+      },
+      {
+        "name": "Bone Fragment",
+        "quantity": 5
+      }
+    ],
+    "unlockType": "友情/邮件",
+    "unlockMethod": "科罗布斯 3 心邮件获得",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "可展示物品或自定义文字，不消耗展示物。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Dark_Sign",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-text-sign",
+    "slug": "text-sign",
+    "name": "Text Sign",
+    "productName": "Text Sign",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 25",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 25
+      }
+    ],
+    "unlockType": "起始配方",
+    "unlockMethod": "开局自动掌握",
+    "starterRecipe": true,
+    "consumable": false,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "可展示物品或自定义文字，不消耗展示物。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Text_Sign",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-cheese-press",
+    "slug": "cheese-press",
+    "name": "Cheese Press",
+    "productName": "Cheese Press",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 45；Stone × 45；Hardwood × 10；Copper Bar × 1",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 45
+      },
+      {
+        "name": "Stone",
+        "quantity": 45
+      },
+      {
+        "name": "Hardwood",
+        "quantity": 10
+      },
+      {
+        "name": "Copper Bar",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 6",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于把作物、动物产品、鱼或其他原料加工为高价值物品。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cheese_Press",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-mayonnaise-machine",
+    "slug": "mayonnaise-machine",
+    "name": "Mayonnaise Machine",
+    "productName": "Mayonnaise Machine",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 15；Stone × 15；Earth Crystal × 1；Copper Bar × 1",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 15
+      },
+      {
+        "name": "Stone",
+        "quantity": 15
+      },
+      {
+        "name": "Earth Crystal",
+        "quantity": 1
+      },
+      {
+        "name": "Copper Bar",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 2",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于把作物、动物产品、鱼或其他原料加工为高价值物品。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Mayonnaise_Machine",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-seed-maker",
+    "slug": "seed-maker",
+    "name": "Seed Maker",
+    "productName": "Seed Maker",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 25；Coal × 10；Gold Bar × 1",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 25
+      },
+      {
+        "name": "Coal",
+        "quantity": 10
+      },
+      {
+        "name": "Gold Bar",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 9",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于转换矿石、垃圾、树液、鱼饵、蘑菇、骨头、晶球等资源。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Seed_Maker",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-loom",
+    "slug": "loom",
+    "name": "Loom",
+    "productName": "Loom",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 60；Fiber × 30；Pine Tar × 1",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 60
+      },
+      {
+        "name": "Fiber",
+        "quantity": 30
+      },
+      {
+        "name": "Pine Tar",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 7",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于把作物、动物产品、鱼或其他原料加工为高价值物品。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Loom",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-oil-maker",
+    "slug": "oil-maker",
+    "name": "Oil Maker",
+    "productName": "Oil Maker",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Slime × 50；Hardwood × 20；Gold Bar × 1",
+    "ingredients": [
+      {
+        "name": "Slime",
+        "quantity": 50
+      },
+      {
+        "name": "Hardwood",
+        "quantity": 20
+      },
+      {
+        "name": "Gold Bar",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 8",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于把作物、动物产品、鱼或其他原料加工为高价值物品。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Oil_Maker",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-recycling-machine",
+    "slug": "recycling-machine",
+    "name": "Recycling Machine",
+    "productName": "Recycling Machine",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 25；Stone × 25；Iron Bar × 1",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 25
+      },
+      {
+        "name": "Stone",
+        "quantity": 25
+      },
+      {
+        "name": "Iron Bar",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Fishing 等级 4",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于转换矿石、垃圾、树液、鱼饵、蘑菇、骨头、晶球等资源。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Recycling_Machine",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-worm-bin",
+    "slug": "worm-bin",
+    "name": "Worm Bin",
+    "productName": "Worm Bin",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Hardwood × 15；Gold Bar × 1；Iron Bar × 1；Fiber × 50",
+    "ingredients": [
+      {
+        "name": "Hardwood",
+        "quantity": 15
+      },
+      {
+        "name": "Gold Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Iron Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Fiber",
+        "quantity": 50
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Fishing 等级 4",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于转换矿石、垃圾、树液、鱼饵、蘑菇、骨头、晶球等资源。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Worm_Bin",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-deluxe-worm-bin",
+    "slug": "deluxe-worm-bin",
+    "name": "Deluxe Worm Bin",
+    "productName": "Deluxe Worm Bin",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Worm Bin × 1；Moss × 30",
+    "ingredients": [
+      {
+        "name": "Worm Bin",
+        "quantity": 1
+      },
+      {
+        "name": "Moss",
+        "quantity": 30
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Fishing 等级 8",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "用于转换矿石、垃圾、树液、鱼饵、蘑菇、骨头、晶球等资源。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Deluxe_Worm_Bin",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-bait-maker",
+    "slug": "bait-maker",
+    "name": "Bait Maker",
+    "productName": "Bait Maker",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Iron Bar × 3；Coral × 3；Sea Urchin × 1",
+    "ingredients": [
+      {
+        "name": "Iron Bar",
+        "quantity": 3
+      },
+      {
+        "name": "Coral",
+        "quantity": 3
+      },
+      {
+        "name": "Sea Urchin",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Fishing 等级 6",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "用于转换矿石、垃圾、树液、鱼饵、蘑菇、骨头、晶球等资源。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bait_Maker",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-fish-smoker",
+    "slug": "fish-smoker",
+    "name": "Fish Smoker",
+    "productName": "Fish Smoker",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Hardwood × 10；Sea Jelly × 1；River Jelly × 1；Cave Jelly × 1",
+    "ingredients": [
+      {
+        "name": "Hardwood",
+        "quantity": 10
+      },
+      {
+        "name": "Sea Jelly",
+        "quantity": 1
+      },
+      {
+        "name": "River Jelly",
+        "quantity": 1
+      },
+      {
+        "name": "Cave Jelly",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "威利鱼店：10,000g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "用于把作物、动物产品、鱼或其他原料加工为高价值物品。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Fish_Smoker",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-preserves-jar",
+    "slug": "preserves-jar",
+    "name": "Preserves Jar",
+    "productName": "Preserves Jar",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 50；Stone × 40；Coal × 8",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 50
+      },
+      {
+        "name": "Stone",
+        "quantity": 40
+      },
+      {
+        "name": "Coal",
+        "quantity": 8
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 4",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于把作物、动物产品、鱼或其他原料加工为高价值物品。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Preserves_Jar",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-charcoal-kiln",
+    "slug": "charcoal-kiln",
+    "name": "Charcoal Kiln",
+    "productName": "Charcoal Kiln",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 20；Copper Bar × 2",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 20
+      },
+      {
+        "name": "Copper Bar",
+        "quantity": 2
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Foraging 等级 2",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于转换矿石、垃圾、树液、鱼饵、蘑菇、骨头、晶球等资源。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Charcoal_Kiln",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-tapper",
+    "slug": "tapper",
+    "name": "Tapper",
+    "productName": "Tapper",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 40；Copper Bar × 2",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 40
+      },
+      {
+        "name": "Copper Bar",
+        "quantity": 2
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Foraging 等级 4",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于转换矿石、垃圾、树液、鱼饵、蘑菇、骨头、晶球等资源。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Tapper",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-mushroom-log",
+    "slug": "mushroom-log",
+    "name": "Mushroom Log",
+    "productName": "Mushroom Log",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Hardwood × 10；Moss × 10",
+    "ingredients": [
+      {
+        "name": "Hardwood",
+        "quantity": 10
+      },
+      {
+        "name": "Moss",
+        "quantity": 10
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Foraging 等级 4",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "用于转换矿石、垃圾、树液、鱼饵、蘑菇、骨头、晶球等资源。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Mushroom_Log",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-lightning-rod",
+    "slug": "lightning-rod",
+    "name": "Lightning Rod",
+    "productName": "Lightning Rod",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Iron Bar × 1；Refined Quartz × 1；Bat Wing × 5",
+    "ingredients": [
+      {
+        "name": "Iron Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Refined Quartz",
+        "quantity": 1
+      },
+      {
+        "name": "Bat Wing",
+        "quantity": 5
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Foraging 等级 6",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于转换矿石、垃圾、树液、鱼饵、蘑菇、骨头、晶球等资源。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Lightning_Rod",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-slime-incubator",
+    "slug": "slime-incubator",
+    "name": "Slime Incubator",
+    "productName": "Slime Incubator",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Iridium Bar × 2；Slime × 100",
+    "ingredients": [
+      {
+        "name": "Iridium Bar",
+        "quantity": 2
+      },
+      {
+        "name": "Slime",
+        "quantity": 100
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Combat 等级 8",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于转换矿石、垃圾、树液、鱼饵、蘑菇、骨头、晶球等资源。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Slime_Incubator",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-slime-egg-press",
+    "slug": "slime-egg-press",
+    "name": "Slime Egg-Press",
+    "productName": "Slime Egg-Press",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Coal × 25；Fire Quartz × 1；Battery Pack × 1",
+    "ingredients": [
+      {
+        "name": "Coal",
+        "quantity": 25
+      },
+      {
+        "name": "Fire Quartz",
+        "quantity": 1
+      },
+      {
+        "name": "Battery Pack",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Combat 等级 6",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于转换矿石、垃圾、树液、鱼饵、蘑菇、骨头、晶球等资源。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Slime_Egg-Press",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-crystalarium",
+    "slug": "crystalarium",
+    "name": "Crystalarium",
+    "productName": "Crystalarium",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Stone × 99；Gold Bar × 5；Iridium Bar × 2；Battery Pack × 1",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "quantity": 99
+      },
+      {
+        "name": "Gold Bar",
+        "quantity": 5
+      },
+      {
+        "name": "Iridium Bar",
+        "quantity": 2
+      },
+      {
+        "name": "Battery Pack",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Mining 等级 9",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于转换矿石、垃圾、树液、鱼饵、蘑菇、骨头、晶球等资源。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Crystalarium",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-mini-jukebox",
+    "slug": "mini-jukebox",
+    "name": "Mini-Jukebox",
+    "productName": "Mini-Jukebox",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Iron Bar × 2；Battery Pack × 1",
+    "ingredients": [
+      {
+        "name": "Iron Bar",
+        "quantity": 2
+      },
+      {
+        "name": "Battery Pack",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "友情/事件",
+    "unlockMethod": "格斯 5 心事件获得",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "包含农场辅助、矿洞、弹药、机器、图腾柱、电脑、精通建筑等制作物。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Mini-Jukebox",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-sprinkler",
+    "slug": "sprinkler",
+    "name": "Sprinkler",
+    "productName": "Sprinkler",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Copper Bar × 1；Iron Bar × 1",
+    "ingredients": [
+      {
+        "name": "Copper Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Iron Bar",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 2",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "每天早上自动浇水；不可浇宠物水碗，不能用于花盆。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sprinkler",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-quality-sprinkler",
+    "slug": "quality-sprinkler",
+    "name": "Quality Sprinkler",
+    "productName": "Quality Sprinkler",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Iron Bar × 1；Gold Bar × 1；Refined Quartz × 1",
+    "ingredients": [
+      {
+        "name": "Iron Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Gold Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Refined Quartz",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 6",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "每天早上自动浇水；不可浇宠物水碗，不能用于花盆。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Quality_Sprinkler",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-iridium-sprinkler",
+    "slug": "iridium-sprinkler",
+    "name": "Iridium Sprinkler",
+    "productName": "Iridium Sprinkler",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Gold Bar × 1；Iridium Bar × 1；Battery Pack × 1",
+    "ingredients": [
+      {
+        "name": "Gold Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Iridium Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Battery Pack",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 9",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "每天早上自动浇水；不可浇宠物水碗，不能用于花盆。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Iridium_Sprinkler",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-staircase",
+    "slug": "staircase",
+    "name": "Staircase",
+    "productName": "Staircase",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Stone × 99",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "quantity": 99
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Mining 等级 2",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "在矿井/骷髅洞穴中放置后直接下到下一层。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Staircase",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-flute-block",
+    "slug": "flute-block",
+    "name": "Flute Block",
+    "productName": "Flute Block",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 10；Copper Ore × 2；Fiber × 20",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 10
+      },
+      {
+        "name": "Copper Ore",
+        "quantity": 2
+      },
+      {
+        "name": "Fiber",
+        "quantity": 20
+      }
+    ],
+    "unlockType": "友情/事件",
+    "unlockMethod": "罗宾 6 心事件获得",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "可放置的装饰或互动家具。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Flute_Block",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-drum-block",
+    "slug": "drum-block",
+    "name": "Drum Block",
+    "productName": "Drum Block",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Stone × 10；Copper Ore × 2；Fiber × 20",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "quantity": 10
+      },
+      {
+        "name": "Copper Ore",
+        "quantity": 2
+      },
+      {
+        "name": "Fiber",
+        "quantity": 20
+      }
+    ],
+    "unlockType": "友情/事件",
+    "unlockMethod": "罗宾 6 心事件获得",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "可放置的装饰或互动家具。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Drum_Block",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-basic-fertilizer",
+    "slug": "basic-fertilizer",
+    "name": "Basic Fertilizer",
+    "productName": "Basic Fertilizer",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Sap × 2",
+    "ingredients": [
+      {
+        "name": "Sap",
+        "quantity": 2
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 1",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于耕地，提高品质、保水或加速生长；每块耕地通常只能使用一种肥料。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Basic_Fertilizer",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-tree-fertilizer",
+    "slug": "tree-fertilizer",
+    "name": "Tree Fertilizer",
+    "productName": "Tree Fertilizer",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Fiber × 5；Stone × 5",
+    "ingredients": [
+      {
+        "name": "Fiber",
+        "quantity": 5
+      },
+      {
+        "name": "Stone",
+        "quantity": 5
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Foraging 等级 7",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于耕地，提高品质、保水或加速生长；每块耕地通常只能使用一种肥料。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Tree_Fertilizer",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-mystic-tree-seed",
+    "slug": "mystic-tree-seed",
+    "name": "Mystic Tree Seed",
+    "productName": "Mystic Tree Seed",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Acorn × 5；Maple Seed × 5；Pine Cone × 5；Mahogany Seed × 5",
+    "ingredients": [
+      {
+        "name": "Acorn",
+        "quantity": 5
+      },
+      {
+        "name": "Maple Seed",
+        "quantity": 5
+      },
+      {
+        "name": "Pine Cone",
+        "quantity": 5
+      },
+      {
+        "name": "Mahogany Seed",
+        "quantity": 5
+      }
+    ],
+    "unlockType": "精通",
+    "unlockMethod": "采集精通解锁",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "种植后获得作物、觅食物或特殊树木/草地。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Mystic_Tree_Seed",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-quality-fertilizer",
+    "slug": "quality-fertilizer",
+    "name": "Quality Fertilizer",
+    "productName": "Quality Fertilizer",
+    "group": "Crafting",
+    "outputQuantity": 2,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Sap × 4；Any Fish × 1",
+    "ingredients": [
+      {
+        "name": "Sap",
+        "quantity": 4
+      },
+      {
+        "name": "Any Fish",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 9",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于耕地，提高品质、保水或加速生长；每块耕地通常只能使用一种肥料。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Quality_Fertilizer",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-basic-retaining-soil",
+    "slug": "basic-retaining-soil",
+    "name": "Basic Retaining Soil",
+    "productName": "Basic Retaining Soil",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Stone × 2",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "quantity": 2
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 4",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于耕地，提高品质、保水或加速生长；每块耕地通常只能使用一种肥料。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Basic_Retaining_Soil",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-quality-retaining-soil",
+    "slug": "quality-retaining-soil",
+    "name": "Quality Retaining Soil",
+    "productName": "Quality Retaining Soil",
+    "group": "Crafting",
+    "outputQuantity": 2,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Stone × 3；Clay × 1",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "quantity": 3
+      },
+      {
+        "name": "Clay",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 7",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于耕地，提高品质、保水或加速生长；每块耕地通常只能使用一种肥料。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Quality_Retaining_Soil",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-speed-gro",
+    "slug": "speed-gro",
+    "name": "Speed-Gro",
+    "productName": "Speed-Gro",
+    "group": "Crafting",
+    "outputQuantity": 5,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Pine Tar × 1；Moss × 5",
+    "ingredients": [
+      {
+        "name": "Pine Tar",
+        "quantity": 1
+      },
+      {
+        "name": "Moss",
+        "quantity": 5
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 3",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于耕地，提高品质、保水或加速生长；每块耕地通常只能使用一种肥料。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Speed-Gro",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-deluxe-speed-gro",
+    "slug": "deluxe-speed-gro",
+    "name": "Deluxe Speed-Gro",
+    "productName": "Deluxe Speed-Gro",
+    "group": "Crafting",
+    "outputQuantity": 5,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Oak Resin × 1；Bone Fragment × 5",
+    "ingredients": [
+      {
+        "name": "Oak Resin",
+        "quantity": 1
+      },
+      {
+        "name": "Bone Fragment",
+        "quantity": 5
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Farming 等级 8",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于耕地，提高品质、保水或加速生长；每块耕地通常只能使用一种肥料。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Deluxe_Speed-Gro",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-hyper-speed-gro",
+    "slug": "hyper-speed-gro",
+    "name": "Hyper Speed-Gro",
+    "productName": "Hyper Speed-Gro",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Radioactive Ore × 1；Bone Fragment × 3；Solar Essence × 1",
+    "ingredients": [
+      {
+        "name": "Radioactive Ore",
+        "quantity": 1
+      },
+      {
+        "name": "Bone Fragment",
+        "quantity": 3
+      },
+      {
+        "name": "Solar Essence",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "齐先生核桃房：30 齐钻购买配方",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于耕地，提高品质、保水或加速生长；每块耕地通常只能使用一种肥料。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Hyper_Speed-Gro",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-deluxe-fertilizer",
+    "slug": "deluxe-fertilizer",
+    "name": "Deluxe Fertilizer",
+    "productName": "Deluxe Fertilizer",
+    "group": "Crafting",
+    "outputQuantity": 5,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Iridium Bar × 1；Sap × 40",
+    "ingredients": [
+      {
+        "name": "Iridium Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Sap",
+        "quantity": 40
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "齐先生核桃房：20 齐钻购买配方",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于耕地，提高品质、保水或加速生长；每块耕地通常只能使用一种肥料。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Deluxe_Fertilizer",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-deluxe-retaining-soil",
+    "slug": "deluxe-retaining-soil",
+    "name": "Deluxe Retaining Soil",
+    "productName": "Deluxe Retaining Soil",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Stone × 5；Fiber × 3；Clay × 1",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "quantity": 5
+      },
+      {
+        "name": "Fiber",
+        "quantity": 3
+      },
+      {
+        "name": "Clay",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "姜岛商人：50 火山晶石购买配方",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于耕地，提高品质、保水或加速生长；每块耕地通常只能使用一种肥料。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Deluxe_Retaining_Soil",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-cherry-bomb",
+    "slug": "cherry-bomb",
+    "name": "Cherry Bomb",
+    "productName": "Cherry Bomb",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Copper Ore × 4；Coal × 1",
+    "ingredients": [
+      {
+        "name": "Copper Ore",
+        "quantity": 4
+      },
+      {
+        "name": "Coal",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Mining 等级 1",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "小型爆炸物，爆炸半径约 3 格。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cherry_Bomb",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-bomb",
+    "slug": "bomb",
+    "name": "Bomb",
+    "productName": "Bomb",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Iron Ore × 4；Coal × 1",
+    "ingredients": [
+      {
+        "name": "Iron Ore",
+        "quantity": 4
+      },
+      {
+        "name": "Coal",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Mining 等级 6",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "中型爆炸物，爆炸半径约 5 格。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bomb",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-mega-bomb",
+    "slug": "mega-bomb",
+    "name": "Mega Bomb",
+    "productName": "Mega Bomb",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Gold Ore × 4；Solar Essence × 1；Void Essence × 1",
+    "ingredients": [
+      {
+        "name": "Gold Ore",
+        "quantity": 4
+      },
+      {
+        "name": "Solar Essence",
+        "quantity": 1
+      },
+      {
+        "name": "Void Essence",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Mining 等级 8",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "大型爆炸物，爆炸半径约 6-8 格。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Mega_Bomb",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-explosive-ammo",
+    "slug": "explosive-ammo",
+    "name": "Explosive Ammo",
+    "productName": "Explosive Ammo",
+    "group": "Crafting",
+    "outputQuantity": 5,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Iron Bar × 1；Coal × 2",
+    "ingredients": [
+      {
+        "name": "Iron Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Coal",
+        "quantity": 2
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Combat 等级 8",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "装入弹弓发射的爆炸弹药，单次制作产出 5 个。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Explosive_Ammo",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-transmute-fe",
+    "slug": "transmute-fe",
+    "name": "Transmute (Fe)",
+    "productName": "Iron Bar",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Copper Bar × 3",
+    "ingredients": [
+      {
+        "name": "Copper Bar",
+        "quantity": 3
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Mining 等级 4",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "包含农场辅助、矿洞、弹药、机器、图腾柱、电脑、精通建筑等制作物。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Iron_Bar",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-transmute-au",
+    "slug": "transmute-au",
+    "name": "Transmute (Au)",
+    "productName": "Gold Bar",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Iron Bar × 2",
+    "ingredients": [
+      {
+        "name": "Iron Bar",
+        "quantity": 2
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Mining 等级 7",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "包含农场辅助、矿洞、弹药、机器、图腾柱、电脑、精通建筑等制作物。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Gold_Bar",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-ancient-seeds",
+    "slug": "ancient-seeds",
+    "name": "Ancient Seeds",
+    "productName": "Ancient Seeds",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Ancient Seed × 1",
+    "ingredients": [
+      {
+        "name": "Ancient Seed",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "博物馆",
+    "unlockMethod": "向博物馆捐赠远古种子后获得",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "种植后获得作物、觅食物或特殊树木/草地。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ancient_Seeds",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-wild-seeds-sp",
+    "slug": "wild-seeds-sp",
+    "name": "Wild Seeds (Sp)",
+    "productName": "Spring Seeds",
+    "group": "Crafting",
+    "outputQuantity": 10,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Wild Horseradish × 1；Daffodil × 1；Leek × 1；Dandelion × 1",
+    "ingredients": [
+      {
+        "name": "Wild Horseradish",
+        "quantity": 1
+      },
+      {
+        "name": "Daffodil",
+        "quantity": 1
+      },
+      {
+        "name": "Leek",
+        "quantity": 1
+      },
+      {
+        "name": "Dandelion",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Foraging 等级 1",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "种植后获得作物、觅食物或特殊树木/草地。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Spring_Seeds",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-wild-seeds-su",
+    "slug": "wild-seeds-su",
+    "name": "Wild Seeds (Su)",
+    "productName": "Summer Seeds",
+    "group": "Crafting",
+    "outputQuantity": 10,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Spice Berry × 1；Grape × 1；Sweet Pea × 1",
+    "ingredients": [
+      {
+        "name": "Spice Berry",
+        "quantity": 1
+      },
+      {
+        "name": "Grape",
+        "quantity": 1
+      },
+      {
+        "name": "Sweet Pea",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Foraging 等级 4",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "种植后获得作物、觅食物或特殊树木/草地。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Summer_Seeds",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-wild-seeds-fa",
+    "slug": "wild-seeds-fa",
+    "name": "Wild Seeds (Fa)",
+    "productName": "Fall Seeds",
+    "group": "Crafting",
+    "outputQuantity": 10,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Common Mushroom × 1；Wild Plum × 1；Hazelnut × 1；Blackberry × 1",
+    "ingredients": [
+      {
+        "name": "Common Mushroom",
+        "quantity": 1
+      },
+      {
+        "name": "Wild Plum",
+        "quantity": 1
+      },
+      {
+        "name": "Hazelnut",
+        "quantity": 1
+      },
+      {
+        "name": "Blackberry",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Foraging 等级 6",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "种植后获得作物、觅食物或特殊树木/草地。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Fall_Seeds",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-wild-seeds-wi",
+    "slug": "wild-seeds-wi",
+    "name": "Wild Seeds (Wi)",
+    "productName": "Winter Seeds",
+    "group": "Crafting",
+    "outputQuantity": 10,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Winter Root × 1；Crystal Fruit × 1；Snow Yam × 1；Crocus × 1",
+    "ingredients": [
+      {
+        "name": "Winter Root",
+        "quantity": 1
+      },
+      {
+        "name": "Crystal Fruit",
+        "quantity": 1
+      },
+      {
+        "name": "Snow Yam",
+        "quantity": 1
+      },
+      {
+        "name": "Crocus",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Foraging 等级 7",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "种植后获得作物、觅食物或特殊树木/草地。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Winter_Seeds",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-fiber-seeds",
+    "slug": "fiber-seeds",
+    "name": "Fiber Seeds",
+    "productName": "Fiber Seeds",
+    "group": "Crafting",
+    "outputQuantity": 4,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Mixed Seeds × 1；Sap × 5；Clay × 1",
+    "ingredients": [
+      {
+        "name": "Mixed Seeds",
+        "quantity": 1
+      },
+      {
+        "name": "Sap",
+        "quantity": 5
+      },
+      {
+        "name": "Clay",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "特别订单",
+    "unlockMethod": "莱纳斯特别订单奖励",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "种植后获得作物、觅食物或特殊树木/草地。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Fiber_Seeds",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-tea-sapling",
+    "slug": "tea-sapling",
+    "name": "Tea Sapling",
+    "productName": "Tea Sapling",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Wild Seeds (Any) × 2；Fiber × 5；Wood × 5",
+    "ingredients": [
+      {
+        "name": "Wild Seeds (Any)",
+        "quantity": 2
+      },
+      {
+        "name": "Fiber",
+        "quantity": 5
+      },
+      {
+        "name": "Wood",
+        "quantity": 5
+      }
+    ],
+    "unlockType": "友情/邮件",
+    "unlockMethod": "卡洛琳 2 心事件后次日邮件获得",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "种植后获得作物、觅食物或特殊树木/草地。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Tea_Sapling",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-warp-totem-farm",
+    "slug": "warp-totem-farm",
+    "name": "Warp Totem: Farm",
+    "productName": "Warp Totem: Farm",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Hardwood × 1；Honey × 1；Fiber × 20",
+    "ingredients": [
+      {
+        "name": "Hardwood",
+        "quantity": 1
+      },
+      {
+        "name": "Honey",
+        "quantity": 1
+      },
+      {
+        "name": "Fiber",
+        "quantity": 20
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Foraging 等级 8",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "一次性使用的道具，用于传送、改变天气、召唤怪物或加速机器。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Warp_Totem:_Farm",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-warp-totem-mountains",
+    "slug": "warp-totem-mountains",
+    "name": "Warp Totem: Mountains",
+    "productName": "Warp Totem: Mountains",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Hardwood × 1；Iron Bar × 1；Stone × 25",
+    "ingredients": [
+      {
+        "name": "Hardwood",
+        "quantity": 1
+      },
+      {
+        "name": "Iron Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Stone",
+        "quantity": 25
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Foraging 等级 7",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "一次性使用的道具，用于传送、改变天气、召唤怪物或加速机器。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Warp_Totem:_Mountains",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-warp-totem-beach",
+    "slug": "warp-totem-beach",
+    "name": "Warp Totem: Beach",
+    "productName": "Warp Totem: Beach",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Hardwood × 1；Coral × 2；Fiber × 10",
+    "ingredients": [
+      {
+        "name": "Hardwood",
+        "quantity": 1
+      },
+      {
+        "name": "Coral",
+        "quantity": 2
+      },
+      {
+        "name": "Fiber",
+        "quantity": 10
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Foraging 等级 6",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "一次性使用的道具，用于传送、改变天气、召唤怪物或加速机器。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Warp_Totem:_Beach",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-warp-totem-desert",
+    "slug": "warp-totem-desert",
+    "name": "Warp Totem: Desert",
+    "productName": "Warp Totem: Desert",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Hardwood × 2；Coconut × 1；Iridium Ore × 4",
+    "ingredients": [
+      {
+        "name": "Hardwood",
+        "quantity": 2
+      },
+      {
+        "name": "Coconut",
+        "quantity": 1
+      },
+      {
+        "name": "Iridium Ore",
+        "quantity": 4
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "沙漠商人：10 铱锭购买配方",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "一次性使用的道具，用于传送、改变天气、召唤怪物或加速机器。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Warp_Totem:_Desert",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-warp-totem-island",
+    "slug": "warp-totem-island",
+    "name": "Warp Totem: Island",
+    "productName": "Warp Totem: Island",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Hardwood × 5；Dragon Tooth × 1；Ginger × 1",
+    "ingredients": [
+      {
+        "name": "Hardwood",
+        "quantity": 5
+      },
+      {
+        "name": "Dragon Tooth",
+        "quantity": 1
+      },
+      {
+        "name": "Ginger",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "火山矮人商店：10,000g 购买配方",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "一次性使用的道具，用于传送、改变天气、召唤怪物或加速机器。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Warp_Totem:_Island",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-rain-totem",
+    "slug": "rain-totem",
+    "name": "Rain Totem",
+    "productName": "Rain Totem",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Hardwood × 1；Truffle Oil × 1；Pine Tar × 5",
+    "ingredients": [
+      {
+        "name": "Hardwood",
+        "quantity": 1
+      },
+      {
+        "name": "Truffle Oil",
+        "quantity": 1
+      },
+      {
+        "name": "Pine Tar",
+        "quantity": 5
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Foraging 等级 9",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "一次性使用的道具，用于传送、改变天气、召唤怪物或加速机器。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Rain_Totem",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-treasure-totem",
+    "slug": "treasure-totem",
+    "name": "Treasure Totem",
+    "productName": "Treasure Totem",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Hardwood × 5；Mystic Syrup × 1；Moss × 10",
+    "ingredients": [
+      {
+        "name": "Hardwood",
+        "quantity": 5
+      },
+      {
+        "name": "Mystic Syrup",
+        "quantity": 1
+      },
+      {
+        "name": "Moss",
+        "quantity": 10
+      }
+    ],
+    "unlockType": "精通",
+    "unlockMethod": "采集精通解锁",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "一次性使用的道具，用于传送、改变天气、召唤怪物或加速机器。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Treasure_Totem",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-cookout-kit",
+    "slug": "cookout-kit",
+    "name": "Cookout Kit",
+    "productName": "Cookout Kit",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Wood × 15；Fiber × 10；Coal × 3",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 15
+      },
+      {
+        "name": "Fiber",
+        "quantity": 10
+      },
+      {
+        "name": "Coal",
+        "quantity": 3
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Foraging 等级 3",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "包含农场辅助、矿洞、弹药、机器、图腾柱、电脑、精通建筑等制作物。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cookout_Kit",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-tent-kit",
+    "slug": "tent-kit",
+    "name": "Tent Kit",
+    "productName": "Tent Kit",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Hardwood × 10；Fiber × 25；Cloth × 1",
+    "ingredients": [
+      {
+        "name": "Hardwood",
+        "quantity": 10
+      },
+      {
+        "name": "Fiber",
+        "quantity": 25
+      },
+      {
+        "name": "Cloth",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Foraging 等级 8",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "包含农场辅助、矿洞、弹药、机器、图腾柱、电脑、精通建筑等制作物。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Tent_Kit",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-field-snack",
+    "slug": "field-snack",
+    "name": "Field Snack",
+    "productName": "Field Snack",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Acorn × 1；Maple Seed × 1；Pine Cone × 1",
+    "ingredients": [
+      {
+        "name": "Acorn",
+        "quantity": 1
+      },
+      {
+        "name": "Maple Seed",
+        "quantity": 1
+      },
+      {
+        "name": "Pine Cone",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Foraging 等级 1",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "前期采集系零食，恢复 45 体力/18 生命。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Field_Snack",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-statue-of-blessings",
+    "slug": "statue-of-blessings",
+    "name": "Statue Of Blessings",
+    "productName": "Statue Of Blessings",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Stone × 999；Fiber × 999；Sap × 999；Moss × 333",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "quantity": 999
+      },
+      {
+        "name": "Fiber",
+        "quantity": 999
+      },
+      {
+        "name": "Sap",
+        "quantity": 999
+      },
+      {
+        "name": "Moss",
+        "quantity": 333
+      }
+    ],
+    "unlockType": "精通",
+    "unlockMethod": "耕种精通解锁",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "包含农场辅助、矿洞、弹药、机器、图腾柱、电脑、精通建筑等制作物。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Statue_Of_Blessings",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-statue-of-the-dwarf-king",
+    "slug": "statue-of-the-dwarf-king",
+    "name": "Statue Of The Dwarf King",
+    "productName": "Statue Of The Dwarf King",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Iridium Bar × 20",
+    "ingredients": [
+      {
+        "name": "Iridium Bar",
+        "quantity": 20
+      }
+    ],
+    "unlockType": "精通",
+    "unlockMethod": "采矿精通解锁",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "包含农场辅助、矿洞、弹药、机器、图腾柱、电脑、精通建筑等制作物。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Statue_Of_The_Dwarf_King",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-jack-o-lantern",
+    "slug": "jack-o-lantern",
+    "name": "Jack-O-Lantern",
+    "productName": "Jack-O-Lantern",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Pumpkin × 1；Torch × 1",
+    "ingredients": [
+      {
+        "name": "Pumpkin",
+        "quantity": 1
+      },
+      {
+        "name": "Torch",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "节日商店",
+    "unlockMethod": "万灵节皮埃尔摊位：2,000g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "放置后提供照明或装饰效果。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Jack-O-Lantern",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-wood-floor",
+    "slug": "wood-floor",
+    "name": "Wood Floor",
+    "productName": "Wood Floor",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Wood × 1",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "木匠的商店：100g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "铺在地面上装饰并防止杂草、草或树木蔓延；户外路径可略微提升移动速度。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Wood_Floor",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-straw-floor",
+    "slug": "straw-floor",
+    "name": "Straw Floor",
+    "productName": "Straw Floor",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Wood × 1；Fiber × 1",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 1
+      },
+      {
+        "name": "Fiber",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "木匠的商店：200g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "铺在地面上装饰并防止杂草、草或树木蔓延；户外路径可略微提升移动速度。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Straw_Floor",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-weathered-floor",
+    "slug": "weathered-floor",
+    "name": "Weathered Floor",
+    "productName": "Weathered Floor",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Wood × 1",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "矮人商店：500g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "铺在地面上装饰并防止杂草、草或树木蔓延；户外路径可略微提升移动速度。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Weathered_Floor",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-rustic-plank-floor",
+    "slug": "rustic-plank-floor",
+    "name": "Rustic Plank Floor",
+    "productName": "Rustic Plank Floor",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Wood × 1",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "木匠的商店：200g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "铺在地面上装饰并防止杂草、草或树木蔓延；户外路径可略微提升移动速度。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Rustic_Plank_Floor",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-crystal-floor",
+    "slug": "crystal-floor",
+    "name": "Crystal Floor",
+    "productName": "Crystal Floor",
+    "group": "Crafting",
+    "outputQuantity": 5,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Refined Quartz × 1",
+    "ingredients": [
+      {
+        "name": "Refined Quartz",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "科罗布斯商店：500g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "铺在地面上装饰并防止杂草、草或树木蔓延；户外路径可略微提升移动速度。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Crystal_Floor",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-stone-floor",
+    "slug": "stone-floor",
+    "name": "Stone Floor",
+    "productName": "Stone Floor",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Stone × 1",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "木匠的商店：100g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "铺在地面上装饰并防止杂草、草或树木蔓延；户外路径可略微提升移动速度。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Stone_Floor",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-stone-walkway-floor",
+    "slug": "stone-walkway-floor",
+    "name": "Stone Walkway Floor",
+    "productName": "Stone Walkway Floor",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Stone × 1",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "木匠的商店：200g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "铺在地面上装饰并防止杂草、草或树木蔓延；户外路径可略微提升移动速度。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Stone_Walkway_Floor",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-brick-floor",
+    "slug": "brick-floor",
+    "name": "Brick Floor",
+    "productName": "Brick Floor",
+    "group": "Crafting",
+    "outputQuantity": 5,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Clay × 2；Stone × 5",
+    "ingredients": [
+      {
+        "name": "Clay",
+        "quantity": 2
+      },
+      {
+        "name": "Stone",
+        "quantity": 5
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "木匠的商店：500g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "铺在地面上装饰并防止杂草、草或树木蔓延；户外路径可略微提升移动速度。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Brick_Floor",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-wood-path",
+    "slug": "wood-path",
+    "name": "Wood Path",
+    "productName": "Wood Path",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Wood × 1",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "起始配方",
+    "unlockMethod": "开局自动掌握",
+    "starterRecipe": true,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "铺在地面上装饰并防止杂草、草或树木蔓延；户外路径可略微提升移动速度。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Wood_Path",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-gravel-path",
+    "slug": "gravel-path",
+    "name": "Gravel Path",
+    "productName": "Gravel Path",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Stone × 1",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "起始配方",
+    "unlockMethod": "开局自动掌握",
+    "starterRecipe": true,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "铺在地面上装饰并防止杂草、草或树木蔓延；户外路径可略微提升移动速度。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Gravel_Path",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-cobblestone-path",
+    "slug": "cobblestone-path",
+    "name": "Cobblestone Path",
+    "productName": "Cobblestone Path",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Stone × 1",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "起始配方",
+    "unlockMethod": "开局自动掌握",
+    "starterRecipe": true,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "铺在地面上装饰并防止杂草、草或树木蔓延；户外路径可略微提升移动速度。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cobblestone_Path",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-stepping-stone-path",
+    "slug": "stepping-stone-path",
+    "name": "Stepping Stone Path",
+    "productName": "Stepping Stone Path",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Stone × 1",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "木匠的商店：100g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "铺在地面上装饰并防止杂草、草或树木蔓延；户外路径可略微提升移动速度。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Stepping_Stone_Path",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-crystal-path",
+    "slug": "crystal-path",
+    "name": "Crystal Path",
+    "productName": "Crystal Path",
+    "group": "Crafting",
+    "outputQuantity": 5,
+    "craftType": "田地/地面物件",
+    "ingredientsText": "Refined Quartz × 1",
+    "ingredients": [
+      {
+        "name": "Refined Quartz",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "木匠的商店：200g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "铺在地面上装饰并防止杂草、草或树木蔓延；户外路径可略微提升移动速度。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Crystal_Path",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-bait",
+    "slug": "bait",
+    "name": "Bait",
+    "productName": "Bait",
+    "group": "Crafting",
+    "outputQuantity": 5,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Bug Meat × 1",
+    "ingredients": [
+      {
+        "name": "Bug Meat",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Fishing 等级 2",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于提高咬钩速度、鱼条大小、宝箱概率，或制作/使用鱼饵、蟹笼。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bait",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-deluxe-bait",
+    "slug": "deluxe-bait",
+    "name": "Deluxe Bait",
+    "productName": "Deluxe Bait",
+    "group": "Crafting",
+    "outputQuantity": 5,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Bait × 5；Moss × 2",
+    "ingredients": [
+      {
+        "name": "Bait",
+        "quantity": 5
+      },
+      {
+        "name": "Moss",
+        "quantity": 2
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Fishing 等级 4",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "用于提高咬钩速度、鱼条大小、宝箱概率，或制作/使用鱼饵、蟹笼。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Deluxe_Bait",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-wild-bait",
+    "slug": "wild-bait",
+    "name": "Wild Bait",
+    "productName": "Wild Bait",
+    "group": "Crafting",
+    "outputQuantity": 5,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Fiber × 10；Bug Meat × 5；Slime × 5",
+    "ingredients": [
+      {
+        "name": "Fiber",
+        "quantity": 10
+      },
+      {
+        "name": "Bug Meat",
+        "quantity": 5
+      },
+      {
+        "name": "Slime",
+        "quantity": 5
+      }
+    ],
+    "unlockType": "友情/事件",
+    "unlockMethod": "莱纳斯 4 心事件获得",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于提高咬钩速度、鱼条大小、宝箱概率，或制作/使用鱼饵、蟹笼。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Wild_Bait",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-challenge-bait",
+    "slug": "challenge-bait",
+    "name": "Challenge Bait",
+    "productName": "Challenge Bait",
+    "group": "Crafting",
+    "outputQuantity": 5,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Bone Fragment × 5；Moss × 2",
+    "ingredients": [
+      {
+        "name": "Bone Fragment",
+        "quantity": 5
+      },
+      {
+        "name": "Moss",
+        "quantity": 2
+      }
+    ],
+    "unlockType": "精通",
+    "unlockMethod": "钓鱼精通解锁",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "用于提高咬钩速度、鱼条大小、宝箱概率，或制作/使用鱼饵、蟹笼。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Challenge_Bait",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-magnet",
+    "slug": "magnet",
+    "name": "Magnet",
+    "productName": "Magnet",
+    "group": "Crafting",
+    "outputQuantity": 3,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Iron Bar × 1",
+    "ingredients": [
+      {
+        "name": "Iron Bar",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Fishing 等级 9",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于提高咬钩速度、鱼条大小、宝箱概率，或制作/使用鱼饵、蟹笼。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Magnet",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-spinner",
+    "slug": "spinner",
+    "name": "Spinner",
+    "productName": "Spinner",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Iron Bar × 2",
+    "ingredients": [
+      {
+        "name": "Iron Bar",
+        "quantity": 2
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Fishing 等级 6",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于提高咬钩速度、鱼条大小、宝箱概率，或制作/使用鱼饵、蟹笼。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Spinner",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-dressed-spinner",
+    "slug": "dressed-spinner",
+    "name": "Dressed Spinner",
+    "productName": "Dressed Spinner",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Iron Bar × 2；Cloth × 1",
+    "ingredients": [
+      {
+        "name": "Iron Bar",
+        "quantity": 2
+      },
+      {
+        "name": "Cloth",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Fishing 等级 8",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于提高咬钩速度、鱼条大小、宝箱概率，或制作/使用鱼饵、蟹笼。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Dressed_Spinner",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-trap-bobber",
+    "slug": "trap-bobber",
+    "name": "Trap Bobber",
+    "productName": "Trap Bobber",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Copper Bar × 1；Sap × 10",
+    "ingredients": [
+      {
+        "name": "Copper Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Sap",
+        "quantity": 10
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Fishing 等级 6",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于提高咬钩速度、鱼条大小、宝箱概率，或制作/使用鱼饵、蟹笼。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Trap_Bobber",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-sonar-bobber",
+    "slug": "sonar-bobber",
+    "name": "Sonar Bobber",
+    "productName": "Sonar Bobber",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Iron Bar × 1；Refined Quartz × 2",
+    "ingredients": [
+      {
+        "name": "Iron Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Refined Quartz",
+        "quantity": 2
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Fishing 等级 6",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": true,
+    "craftMaster": true,
+    "effect": "用于提高咬钩速度、鱼条大小、宝箱概率，或制作/使用鱼饵、蟹笼。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sonar_Bobber",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-cork-bobber",
+    "slug": "cork-bobber",
+    "name": "Cork Bobber",
+    "productName": "Cork Bobber",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 10；Hardwood × 5；Slime × 10",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 10
+      },
+      {
+        "name": "Hardwood",
+        "quantity": 5
+      },
+      {
+        "name": "Slime",
+        "quantity": 10
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Fishing 等级 7",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于提高咬钩速度、鱼条大小、宝箱概率，或制作/使用鱼饵、蟹笼。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Cork_Bobber",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-treasure-hunter",
+    "slug": "treasure-hunter",
+    "name": "Treasure Hunter",
+    "productName": "Treasure Hunter",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Gold Bar × 2",
+    "ingredients": [
+      {
+        "name": "Gold Bar",
+        "quantity": 2
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Fishing 等级 7",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于提高咬钩速度、鱼条大小、宝箱概率，或制作/使用鱼饵、蟹笼。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Treasure_Hunter",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-barbed-hook",
+    "slug": "barbed-hook",
+    "name": "Barbed Hook",
+    "productName": "Barbed Hook",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Copper Bar × 1；Iron Bar × 1；Gold Bar × 1",
+    "ingredients": [
+      {
+        "name": "Copper Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Iron Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Gold Bar",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Fishing 等级 8",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于提高咬钩速度、鱼条大小、宝箱概率，或制作/使用鱼饵、蟹笼。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Barbed_Hook",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-oil-of-garlic",
+    "slug": "oil-of-garlic",
+    "name": "Oil Of Garlic",
+    "productName": "Oil of Garlic",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Garlic × 10；Oil × 1",
+    "ingredients": [
+      {
+        "name": "Garlic",
+        "quantity": 10
+      },
+      {
+        "name": "Oil",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Combat 等级 6",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "饮用后弱小怪物会避开玩家。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Oil_of_Garlic",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-life-elixir",
+    "slug": "life-elixir",
+    "name": "Life Elixir",
+    "productName": "Life Elixir",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Red Mushroom × 1；Purple Mushroom × 1；Morel × 1；Chanterelle × 1",
+    "ingredients": [
+      {
+        "name": "Red Mushroom",
+        "quantity": 1
+      },
+      {
+        "name": "Purple Mushroom",
+        "quantity": 1
+      },
+      {
+        "name": "Morel",
+        "quantity": 1
+      },
+      {
+        "name": "Chanterelle",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Combat 等级 2",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "恢复生命值至满。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Life_Elixir",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-crab-pot",
+    "slug": "crab-pot",
+    "name": "Crab Pot",
+    "productName": "Crab Pot",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 40；Iron Bar × 3",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 40
+      },
+      {
+        "name": "Iron Bar",
+        "quantity": 3
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Fishing 等级 3",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "放入水中并添加鱼饵，次日收获蟹笼产物；捕蟹者职业可降低制作材料。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Crab_Pot",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-iridium-band",
+    "slug": "iridium-band",
+    "name": "Iridium Band",
+    "productName": "Iridium Band",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Iridium Bar × 5；Solar Essence × 50；Void Essence × 50",
+    "ingredients": [
+      {
+        "name": "Iridium Bar",
+        "quantity": 5
+      },
+      {
+        "name": "Solar Essence",
+        "quantity": 50
+      },
+      {
+        "name": "Void Essence",
+        "quantity": 50
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Combat 等级 9",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "装备后提供战斗、防护、发光、吸物或特殊加成。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Iridium_Band",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-wedding-ring",
+    "slug": "wedding-ring",
+    "name": "Wedding Ring",
+    "productName": "Wedding Ring",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Iridium Bar × 5；Prismatic Shard × 1",
+    "ingredients": [
+      {
+        "name": "Iridium Bar",
+        "quantity": 5
+      },
+      {
+        "name": "Prismatic Shard",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买/多人",
+    "unlockMethod": "旅行货车：500g 购买配方，仅多人模式可用",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": false,
+    "effect": "多人模式用于向另一位玩家求婚；不计入 Craft Master。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Wedding_Ring",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-ring-of-yoba",
+    "slug": "ring-of-yoba",
+    "name": "Ring of Yoba",
+    "productName": "Ring of Yoba",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Gold Bar × 5；Iron Bar × 5；Diamond × 1",
+    "ingredients": [
+      {
+        "name": "Gold Bar",
+        "quantity": 5
+      },
+      {
+        "name": "Iron Bar",
+        "quantity": 5
+      },
+      {
+        "name": "Diamond",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Combat 等级 7",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "装备后提供战斗、防护、发光、吸物或特殊加成。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ring_of_Yoba",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-sturdy-ring",
+    "slug": "sturdy-ring",
+    "name": "Sturdy Ring",
+    "productName": "Sturdy Ring",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Copper Bar × 2；Bug Meat × 25；Slime × 25",
+    "ingredients": [
+      {
+        "name": "Copper Bar",
+        "quantity": 2
+      },
+      {
+        "name": "Bug Meat",
+        "quantity": 25
+      },
+      {
+        "name": "Slime",
+        "quantity": 25
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Combat 等级 1",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "装备后提供战斗、防护、发光、吸物或特殊加成。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Sturdy_Ring",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-warrior-ring",
+    "slug": "warrior-ring",
+    "name": "Warrior Ring",
+    "productName": "Warrior Ring",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Iron Bar × 10；Coal × 25；Frozen Tear × 10",
+    "ingredients": [
+      {
+        "name": "Iron Bar",
+        "quantity": 10
+      },
+      {
+        "name": "Coal",
+        "quantity": 25
+      },
+      {
+        "name": "Frozen Tear",
+        "quantity": 10
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Combat 等级 4",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "装备后提供战斗、防护、发光、吸物或特殊加成。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Warrior_Ring",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-tub-o-flowers",
+    "slug": "tub-o-flowers",
+    "name": "Tub o' Flowers",
+    "productName": "Tub o' Flowers",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 15；Tulip Bulb × 1；Jazz Seeds × 1；Poppy Seeds × 1；Spangle Seeds × 1",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 15
+      },
+      {
+        "name": "Tulip Bulb",
+        "quantity": 1
+      },
+      {
+        "name": "Jazz Seeds",
+        "quantity": 1
+      },
+      {
+        "name": "Poppy Seeds",
+        "quantity": 1
+      },
+      {
+        "name": "Spangle Seeds",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "节日商店",
+    "unlockMethod": "花舞节皮埃尔摊位：2,000g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "可放置的装饰或互动家具。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Tub_o%27_Flowers",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-wooden-brazier",
+    "slug": "wooden-brazier",
+    "name": "Wooden Brazier",
+    "productName": "Wooden Brazier",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 10；Coal × 1；Fiber × 5",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 10
+      },
+      {
+        "name": "Coal",
+        "quantity": 1
+      },
+      {
+        "name": "Fiber",
+        "quantity": 5
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "木匠的商店：250g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "放置后提供照明或装饰效果。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Wooden_Brazier",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-wicked-statue",
+    "slug": "wicked-statue",
+    "name": "Wicked Statue",
+    "productName": "Wicked Statue",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Coal × 5；Stone × 25",
+    "ingredients": [
+      {
+        "name": "Coal",
+        "quantity": 5
+      },
+      {
+        "name": "Stone",
+        "quantity": 25
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "科罗布斯商店：1,000g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "可放置的装饰或互动家具。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Wicked_Statue",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-stone-brazier",
+    "slug": "stone-brazier",
+    "name": "Stone Brazier",
+    "productName": "Stone Brazier",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Stone × 10；Coal × 1；Fiber × 5",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "quantity": 10
+      },
+      {
+        "name": "Coal",
+        "quantity": 1
+      },
+      {
+        "name": "Fiber",
+        "quantity": 5
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "木匠的商店：400g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "放置后提供照明或装饰效果。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Stone_Brazier",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-gold-brazier",
+    "slug": "gold-brazier",
+    "name": "Gold Brazier",
+    "productName": "Gold Brazier",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Gold Bar × 1；Coal × 1；Fiber × 5",
+    "ingredients": [
+      {
+        "name": "Gold Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Coal",
+        "quantity": 1
+      },
+      {
+        "name": "Fiber",
+        "quantity": 5
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "木匠的商店：1,000g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "放置后提供照明或装饰效果。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Gold_Brazier",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-campfire",
+    "slug": "campfire",
+    "name": "Campfire",
+    "productName": "Campfire",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Stone × 10；Wood × 10；Fiber × 10",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "quantity": 10
+      },
+      {
+        "name": "Wood",
+        "quantity": 10
+      },
+      {
+        "name": "Fiber",
+        "quantity": 10
+      }
+    ],
+    "unlockType": "起始配方",
+    "unlockMethod": "开局自动掌握",
+    "starterRecipe": true,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "放置后提供照明或装饰效果。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Campfire",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-stump-brazier",
+    "slug": "stump-brazier",
+    "name": "Stump Brazier",
+    "productName": "Stump Brazier",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Hardwood × 5；Coal × 1",
+    "ingredients": [
+      {
+        "name": "Hardwood",
+        "quantity": 5
+      },
+      {
+        "name": "Coal",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "木匠的商店：800g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "放置后提供照明或装饰效果。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Stump_Brazier",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-carved-brazier",
+    "slug": "carved-brazier",
+    "name": "Carved Brazier",
+    "productName": "Carved Brazier",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Hardwood × 10；Coal × 1",
+    "ingredients": [
+      {
+        "name": "Hardwood",
+        "quantity": 10
+      },
+      {
+        "name": "Coal",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "木匠的商店：2,000g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "放置后提供照明或装饰效果。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Carved_Brazier",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-skull-brazier",
+    "slug": "skull-brazier",
+    "name": "Skull Brazier",
+    "productName": "Skull Brazier",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Bone Fragment × 10",
+    "ingredients": [
+      {
+        "name": "Bone Fragment",
+        "quantity": 10
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "木匠的商店：3,000g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "放置后提供照明或装饰效果。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Skull_Brazier",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-barrel-brazier",
+    "slug": "barrel-brazier",
+    "name": "Barrel Brazier",
+    "productName": "Barrel Brazier",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 50；Solar Essence × 1；Coal × 1",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 50
+      },
+      {
+        "name": "Solar Essence",
+        "quantity": 1
+      },
+      {
+        "name": "Coal",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "木匠的商店：800g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "放置后提供照明或装饰效果。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Barrel_Brazier",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-marble-brazier",
+    "slug": "marble-brazier",
+    "name": "Marble Brazier",
+    "productName": "Marble Brazier",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Marble × 1；Aquamarine × 1；Stone × 100",
+    "ingredients": [
+      {
+        "name": "Marble",
+        "quantity": 1
+      },
+      {
+        "name": "Aquamarine",
+        "quantity": 1
+      },
+      {
+        "name": "Stone",
+        "quantity": 100
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "木匠的商店：5,000g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "放置后提供照明或装饰效果。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Marble_Brazier",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-wood-lamp-post",
+    "slug": "wood-lamp-post",
+    "name": "Wood Lamp-post",
+    "productName": "Wood Lamp-post",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Wood × 50；Battery Pack × 1",
+    "ingredients": [
+      {
+        "name": "Wood",
+        "quantity": 50
+      },
+      {
+        "name": "Battery Pack",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "木匠的商店：500g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "放置后提供照明或装饰效果。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Wood_Lamp-post",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-iron-lamp-post",
+    "slug": "iron-lamp-post",
+    "name": "Iron Lamp-post",
+    "productName": "Iron Lamp-post",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Iron Bar × 1；Battery Pack × 1",
+    "ingredients": [
+      {
+        "name": "Iron Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Battery Pack",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "木匠的商店：1,000g 购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "放置后提供照明或装饰效果。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Iron_Lamp-post",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-fairy-dust",
+    "slug": "fairy-dust",
+    "name": "Fairy Dust",
+    "productName": "Fairy Dust",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Diamond × 1；Fairy Rose × 1",
+    "ingredients": [
+      {
+        "name": "Diamond",
+        "quantity": 1
+      },
+      {
+        "name": "Fairy Rose",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "任务",
+    "unlockMethod": "完成海盗妻子任务获得",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "一次性使用的道具，用于传送、改变天气、召唤怪物或加速机器。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Fairy_Dust",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-bug-steak",
+    "slug": "bug-steak",
+    "name": "Bug Steak",
+    "productName": "Bug Steak",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Bug Meat × 10",
+    "ingredients": [
+      {
+        "name": "Bug Meat",
+        "quantity": 10
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Combat 等级 1",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "虫肉制作的应急食物，恢复 45 体力/30 生命。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bug_Steak",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-quality-bobber",
+    "slug": "quality-bobber",
+    "name": "Quality Bobber",
+    "productName": "Quality Bobber",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Copper Bar × 1；Sap × 20；Solar Essence × 5",
+    "ingredients": [
+      {
+        "name": "Copper Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Sap",
+        "quantity": 20
+      },
+      {
+        "name": "Solar Essence",
+        "quantity": 5
+      }
+    ],
+    "unlockType": "特别订单",
+    "unlockMethod": "威利特别订单奖励",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于提高咬钩速度、鱼条大小、宝箱概率，或制作/使用鱼饵、蟹笼。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Quality_Bobber",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-monster-musk",
+    "slug": "monster-musk",
+    "name": "Monster Musk",
+    "productName": "Monster Musk",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Bat Wing × 30；Slime × 30",
+    "ingredients": [
+      {
+        "name": "Bat Wing",
+        "quantity": 30
+      },
+      {
+        "name": "Slime",
+        "quantity": 30
+      }
+    ],
+    "unlockType": "特别订单",
+    "unlockMethod": "法师特别订单奖励",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "一次性使用的道具，用于传送、改变天气、召唤怪物或加速机器。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Monster_Musk",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-mini-obelisk",
+    "slug": "mini-obelisk",
+    "name": "Mini-Obelisk",
+    "productName": "Mini-Obelisk",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Hardwood × 30；Solar Essence × 20；Gold Bar × 3",
+    "ingredients": [
+      {
+        "name": "Hardwood",
+        "quantity": 30
+      },
+      {
+        "name": "Solar Essence",
+        "quantity": 20
+      },
+      {
+        "name": "Gold Bar",
+        "quantity": 3
+      }
+    ],
+    "unlockType": "特别订单",
+    "unlockMethod": "法师特别订单奖励",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "包含农场辅助、矿洞、弹药、机器、图腾柱、电脑、精通建筑等制作物。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Mini-Obelisk",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-farm-computer",
+    "slug": "farm-computer",
+    "name": "Farm Computer",
+    "productName": "Farm Computer",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Dwarf Gadget × 1；Battery Pack × 1；Refined Quartz × 10",
+    "ingredients": [
+      {
+        "name": "Dwarf Gadget",
+        "quantity": 1
+      },
+      {
+        "name": "Battery Pack",
+        "quantity": 1
+      },
+      {
+        "name": "Refined Quartz",
+        "quantity": 10
+      }
+    ],
+    "unlockType": "特别订单",
+    "unlockMethod": "德米特里厄斯特别订单奖励",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "包含农场辅助、矿洞、弹药、机器、图腾柱、电脑、精通建筑等制作物。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Farm_Computer",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-ostrich-incubator",
+    "slug": "ostrich-incubator",
+    "name": "Ostrich Incubator",
+    "productName": "Ostrich Incubator",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Bone Fragment × 50；Hardwood × 50；Cinder Shard × 20",
+    "ingredients": [
+      {
+        "name": "Bone Fragment",
+        "quantity": 50
+      },
+      {
+        "name": "Hardwood",
+        "quantity": 50
+      },
+      {
+        "name": "Cinder Shard",
+        "quantity": 20
+      }
+    ],
+    "unlockType": "收集/任务",
+    "unlockMethod": "完成姜岛田野调查所收集后获得",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于转换矿石、垃圾、树液、鱼饵、蘑菇、骨头、晶球等资源。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Ostrich_Incubator",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-geode-crusher",
+    "slug": "geode-crusher",
+    "name": "Geode Crusher",
+    "productName": "Geode Crusher",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Gold Bar × 2；Stone × 50；Diamond × 1",
+    "ingredients": [
+      {
+        "name": "Gold Bar",
+        "quantity": 2
+      },
+      {
+        "name": "Stone",
+        "quantity": 50
+      },
+      {
+        "name": "Diamond",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "特别订单",
+    "unlockMethod": "克林特特别订单奖励",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于转换矿石、垃圾、树液、鱼饵、蘑菇、骨头、晶球等资源。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Geode_Crusher",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-solar-panel",
+    "slug": "solar-panel",
+    "name": "Solar Panel",
+    "productName": "Solar Panel",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Refined Quartz × 10；Iron Bar × 5；Gold Bar × 5",
+    "ingredients": [
+      {
+        "name": "Refined Quartz",
+        "quantity": 10
+      },
+      {
+        "name": "Iron Bar",
+        "quantity": 5
+      },
+      {
+        "name": "Gold Bar",
+        "quantity": 5
+      }
+    ],
+    "unlockType": "特别订单",
+    "unlockMethod": "卡洛琳特别订单奖励",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于转换矿石、垃圾、树液、鱼饵、蘑菇、骨头、晶球等资源。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Solar_Panel",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-bone-mill",
+    "slug": "bone-mill",
+    "name": "Bone Mill",
+    "productName": "Bone Mill",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Bone Fragment × 10；Clay × 3；Stone × 20",
+    "ingredients": [
+      {
+        "name": "Bone Fragment",
+        "quantity": 10
+      },
+      {
+        "name": "Clay",
+        "quantity": 3
+      },
+      {
+        "name": "Stone",
+        "quantity": 20
+      }
+    ],
+    "unlockType": "特别订单",
+    "unlockMethod": "冈瑟特别订单奖励",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于转换矿石、垃圾、树液、鱼饵、蘑菇、骨头、晶球等资源。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Bone_Mill",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-thorns-ring",
+    "slug": "thorns-ring",
+    "name": "Thorns Ring",
+    "productName": "Thorns Ring",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Bone Fragment × 50；Stone × 50；Gold Bar × 1",
+    "ingredients": [
+      {
+        "name": "Bone Fragment",
+        "quantity": 50
+      },
+      {
+        "name": "Stone",
+        "quantity": 50
+      },
+      {
+        "name": "Gold Bar",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Combat 等级 7",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "装备后提供战斗、防护、发光、吸物或特殊加成。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Thorns_Ring",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-glowstone-ring",
+    "slug": "glowstone-ring",
+    "name": "Glowstone Ring",
+    "productName": "Glowstone Ring",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Solar Essence × 5；Iron Bar × 5",
+    "ingredients": [
+      {
+        "name": "Solar Essence",
+        "quantity": 5
+      },
+      {
+        "name": "Iron Bar",
+        "quantity": 5
+      }
+    ],
+    "unlockType": "技能等级",
+    "unlockMethod": "Mining 等级 4",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "装备后提供战斗、防护、发光、吸物或特殊加成。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Glowstone_Ring",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-heavy-tapper",
+    "slug": "heavy-tapper",
+    "name": "Heavy Tapper",
+    "productName": "Heavy Tapper",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Hardwood × 30；Radioactive Bar × 1",
+    "ingredients": [
+      {
+        "name": "Hardwood",
+        "quantity": 30
+      },
+      {
+        "name": "Radioactive Bar",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "齐先生核桃房：20 齐钻购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于转换矿石、垃圾、树液、鱼饵、蘑菇、骨头、晶球等资源。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Heavy_Tapper",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-hopper",
+    "slug": "hopper",
+    "name": "Hopper",
+    "productName": "Hopper",
+    "group": "Crafting",
+    "outputQuantity": 1,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Hardwood × 10；Iridium Bar × 1；Radioactive Bar × 1",
+    "ingredients": [
+      {
+        "name": "Hardwood",
+        "quantity": 10
+      },
+      {
+        "name": "Iridium Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Radioactive Bar",
+        "quantity": 1
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "齐先生核桃房：50 齐钻购买配方",
+    "starterRecipe": false,
+    "consumable": false,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "包含农场辅助、矿洞、弹药、机器、图腾柱、电脑、精通建筑等制作物。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Hopper",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  },
+  {
+    "id": "crafting-magic-bait",
+    "slug": "magic-bait",
+    "name": "Magic Bait",
+    "productName": "Magic Bait",
+    "group": "Crafting",
+    "outputQuantity": 5,
+    "craftType": "家园/室内大物件",
+    "ingredientsText": "Radioactive Ore × 1；Bug Meat × 3",
+    "ingredients": [
+      {
+        "name": "Radioactive Ore",
+        "quantity": 1
+      },
+      {
+        "name": "Bug Meat",
+        "quantity": 3
+      }
+    ],
+    "unlockType": "商店购买",
+    "unlockMethod": "齐先生核桃房：20 齐钻购买配方",
+    "starterRecipe": false,
+    "consumable": true,
+    "introducedIn16": false,
+    "craftMaster": true,
+    "effect": "用于提高咬钩速度、鱼条大小、宝箱概率，或制作/使用鱼饵、蟹笼。",
+    "beginnerNote": "Craft this when the item solves a current farm, combat, movement, processing, or collection problem. Protect scarce ingredients until the next goal is clear.",
+    "sourceUrls": [
+      "https://stardewvalleywiki.com/Magic_Bait",
+      "https://stardewvalleywiki.com/Crafting"
+    ],
+    "lastChecked": "2026-05-18"
+  }
+]
