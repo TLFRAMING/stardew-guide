@@ -15,7 +15,12 @@ const preferredGuideOrder = [
   "combat-positioning-basics",
   "essence-spellcasting-basics",
   "wielder-role-and-skill-basics",
-  "mobile-vs-pc-content-differences"
+  "mobile-vs-pc-content-differences",
+  "does-mobile-have-multiplayer",
+  "resource-town-building-basics",
+  "arleon-beginner-guide",
+  "rana-beginner-guide",
+  "mobile-session-planning"
 ] as const;
 const preferredGuideOrderIndex = new Map<string, number>(preferredGuideOrder.map((slug, index) => [slug, index]));
 
